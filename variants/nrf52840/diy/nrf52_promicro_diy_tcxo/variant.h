@@ -190,6 +190,19 @@ settings.
 #define PIN_EINK_RES (32 + 1)
 #define PIN_EINK_BUSY (32 + 6)
 
+// 1. Redefinimos la curva de descarga para nodos solares (0% a 3.4V)
+#undef OCV_ARRAY
+#define OCV_ARRAY 4190, 4050, 3990, 3890, 3800, 3720, 3630, 3530, 3480, 3440, 3400
+
+// 2. Mapeo físico para el comparador: P0.31 corresponde a AIN7
+#define BATTERY_LPCOMP_INPUT NRF_LPCOMP_INPUT_7
+
+// 3. Umbral de despertar (ADAPTADO A DIVISOR 1.73):
+// Usamos referencia 5/8 de VDD (Valor '4').
+// Matemáticas: VDD(~3.3V) * 5/8 = 2.0625V (Umbral en el pin).
+// Batería necesaria: 2.0625V * 1.73 = ~3.57V.
+#define BATTERY_LPCOMP_THRESHOLD (nrf_lpcomp_ref_t)4
+
 #ifdef __cplusplus
 }
 #endif
