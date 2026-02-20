@@ -289,6 +289,27 @@ SO GPIO 39/TXEN MAY NOT BE DEFINED FOR SUCCESSFUL OPERATION OF THE SX1262 - TG
 #define ETH_SPI_PORT SPI1
 #define AQ_SET_PIN 10
 
+// 1. Redefinimos la curva de descarga para nodos solares (0% a 3.4V)
+#undef OCV_ARRAY
+#define OCV_ARRAY 4190, 4050, 3990, 3890, 3800, 3720, 3630, 3530, 3480, 3440, 3400
+
+// 2. Mapeo físico para el comparador: P0.31 corresponde a AIN7
+#define BATTERY_LPCOMP_INPUT NRF_LPCOMP_INPUT_3
+
+// Evaluando las referencias fraccionales del registro nRF52 (asumiendo VDD = 3.3V):
+//
+// [A] Referencia 5/8  de VDD -> V_pin = 2.06V -> VBAT = 2.06V * 1.66 = 3.41V
+//     (Descartado: Demasiado cerca del 0%. El nodo despertaría e inmediatamente volvería a dormir).
+//
+// [B] Referencia 11/16 de VDD -> V_pin = 2.26V -> VBAT = 2.26V * 1.66 = 3.76V
+//     (ÓPTIMO: Deja que el panel cargue un ~30-40% real de la celda antes de arrancar el sistema).
+//
+// [C] Referencia 6/8  de VDD -> V_pin = 2.47V -> VBAT = 2.47V * 1.66 = 4.10V
+//     (Descartado: Umbral excesivamente alto, perderíamos horas de sol esperando el despertar).
+//
+// Por tanto, fijamos el registro de hardware en la referencia 11/16.
+#define BATTERY_LPCOMP_THRESHOLD NRF_LPCOMP_REF_SUPPLY_11_16
+
 #ifdef __cplusplus
 }
 #endif
