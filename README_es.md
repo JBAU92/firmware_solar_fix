@@ -15,7 +15,7 @@ He auditado y modificado el flujo de gestión de energía para corregir este com
 4. El hardware monitoriza el voltaje y lanza un reinicio automático (Wake-up) cuando detecta que la carga solar ha subido la batería a niveles seguros (~3.7V).
 
 ## 📂 Descargas y Hardware
-Puedes encontrar los binarios `.uf2` listos para flashear en la sección de **[Releases](../../releases/latest)**:
+Puedes encontrar los binarios `.uf2` listos para flashear en la sección de **[Releases](https://github.com/JBAU92/firmware_solar_fix/releases/tag/v1.0.0-solar-fix)**:
 * **RAK4631**: Optimizado para WisBlock.
 * **XIAO nRF52840**: Versión estándar y versión I2C.
 * **Pro Micro DIY**: Para implementaciones personalizadas.
