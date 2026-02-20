@@ -1,38 +1,35 @@
+# Meshtastic nRF52 Solar Recovery Fix ☀️🔋
 
-Meshtastic nRF52 Solar Recovery Fix ☀️🔋
-This repository contains modified versions of the Meshtastic firmware specifically optimized for solar repeater nodes based on the nRF52840 architecture.
+This repository contains modified versions of the Meshtastic firmware specifically optimized for solar repeater nodes based on the **nRF52840** architecture.
 
-🚀 The Problem: The Solar "Deep Coma"
+## 🚀 The Problem: The Solar "Deep Coma"
+
 Many users of RAK4631 or XIAO nRF52 nodes suffer from the same issue: after several cloudy days, the node depletes its battery and enters a sleep state from which it never wakes up, even when the sun comes out again and the battery recharges. This forces physical trips to manually reset the device.
 
-🛠️ Implemented Solution
+## 🛠️ Implemented Solution
+
 I have audited and modified the power management flow to fix this behavior:
 
-Smart FSM Management: The "Critical Battery" threshold has been redefined to 3.4V.
+1. **Smart FSM Management**: The "Critical Battery" threshold has been redefined to **3.4V**.
+2. The node now enters deep sleep in a controlled manner before the voltage drops to levels that cause regulator instability.
+3. **Hardware Resurrection (LPCOMP)**: The low-power comparator of the nRF52 chip has been enabled and configured.
+4. The hardware monitors the voltage and triggers an automatic reset (Wake-up) when it detects that the solar charge has raised the battery to safe levels (~3.7V).
 
-The node now enters deep sleep in a controlled manner before the voltage drops to levels that cause regulator instability.
+## 📂 Downloads and Hardware
 
-Hardware Resurrection (LPCOMP): The low-power comparator of the nRF52 chip has been enabled and configured.
+You can find the `.uf2` binaries ready to flash in the **[Releases](https://github.com/JBAU92/firmware_solar_fix/releases)** section:
 
-The hardware monitors the voltage and triggers an automatic reset (Wake-up) when it detects that the solar charge has raised the battery to safe levels (~3.7V).
+* **RAK4631**: Optimized for WisBlock.
+* **XIAO nRF52840**: Standard version and I2C version.
+* **Pro Micro DIY**: For custom implementations.
 
-📂 Downloads and Hardware
-You can find the .uf2 binaries ready to flash in the Releases section:
+## ☕ Support
 
-RAK4631: Optimized for WisBlock.
+This fix is the result of several hours analyzing schematics and the Meshtastic source code to improve the resilience of our networks. If this work has saved you a trip to the roof to reset a node:
 
-XIAO nRF52840: Standard version and I2C version.
-
-Pro Micro DIY: For custom implementations.
-
-☕ Support
-This fix is the result of several hours analyzing schematics and the Meshtastic source code to improve the resilience of our networks.
-If this work has saved you a trip to the roof to reset a node:
-
-👉 [Buy me a coffee  https://buy.stripe.com/4gM00l2Qp7V26Ye0UgbMQ00 ]
+👉 **[Buy me a coffee](https://buy.stripe.com/4gM00l2Qp7V26Ye0UgbMQ00)**
 
 For technical consulting on professional Mesh network deployments or low-power audits, you can contact me privately.
-
 
 
 
