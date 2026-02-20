@@ -266,6 +266,20 @@ static const uint8_t SCL = PIN_WIRE_SCL; // Not sure if this is needed
 #define BUTTON_PIN D5
 #endif
 
+// 1. Redefinimos la curva de descarga para nodos solares (0% a 3.4V)
+#undef OCV_ARRAY
+#define OCV_ARRAY 4190, 4050, 3990, 3890, 3800, 3720, 3630, 3530, 3480, 3440, 3400
+
+
+// Mapeo físico para el comparador: P0.31 corresponde a AIN7
+#define BATTERY_LPCOMP_INPUT NRF_LPCOMP_INPUT_7
+
+// Umbral de despertar:
+// Usamos referencia 3/8 de VDD (Valor '2').
+// Matemáticas: VDD(3.3V) * 3/8 = 1.2375V (Umbral en el pin).
+// Batería necesaria: 1.2375V * ADC_MULTIPLIER(3.0) = 3.71V.
+#define BATTERY_LPCOMP_THRESHOLD (nrf_lpcomp_ref_t)2
+
 #ifdef __cplusplus
 }
 #endif
