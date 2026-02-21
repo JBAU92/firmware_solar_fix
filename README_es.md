@@ -24,7 +24,6 @@ Puedes encontrar los binarios `.uf2` listos para flashear en la sección de **[R
 Este fix es fruto de varias horas analizando esquemáticos y el código fuente de Meshtastic para mejorar la resiliencia de nuestras redes.
 Si este trabajo te ha ahorrado un viaje al tejado para resetear un nodo:
 
-👉 **[Invítame a un café  https://buy.stripe.com/4gM00l2Qp7V26Ye0UgbMQ00 ]**
-
+👉 **[Invítame a un café ](https://buy.stripe.com/4gM00l2Qp7V26Ye0UgbMQ00)**
 
 Para consultorías técnicas sobre despliegue de redes Mesh profesionales o auditorías de bajo consumo, puedes contactarme por privado.
