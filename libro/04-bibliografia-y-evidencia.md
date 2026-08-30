@@ -80,6 +80,46 @@ evaluaciones de desempeño, encuestas de feedback y cientos de páginas de entre
 - **Uso:** cap. 17 — convertidos en lista de conductas practicables sin tener el puesto.
 - Enlace: [Google re:Work](https://rework.withgoogle.com/intl/en/guides/following-the-data-the-research-behind-great-managers)
 
+### A6 🟢 No todo el trabajo cuenta igual
+**Babcock, L., Recalde, M. P., Vesterlund, L. y Weingart, L. (2017).** "Gender Differences in
+Accepting and Receiving Requests for Tasks with Low Promotability". *American Economic Review*,
+107(3), 714–747.
+- **Dato citable:** existen tareas de **baja promocionabilidad** —necesarias para la organización,
+  irrelevantes para tu ascenso—. En experimentos de laboratorio y de campo, las mujeres se
+  ofrecen más y **reciben más peticiones** de este tipo de tarea, y los hombres las rechazan más.
+- **Por qué es imprescindible en este libro:** es el contrapeso del consejo «esfuérzate más».
+  Sin esta cita, el libro corre el riesgo de recomendar exactamente el trabajo que no asciende a
+  nadie, y de hacerlo con más daño a las lectoras.
+- **Uso:** cap. 9 (qué se registra en el diario de impacto y qué no) y cap. 19 (ayudar sin que
+  te vacíen).
+
+### A7 🟢 Qué predice el éxito profesional, en conjunto
+**Ng, T. W. H., Eby, L. T., Sorensen, K. L. y Feldman, D. C. (2005).** "Predictors of Objective
+and Subjective Career Success: A Meta-Analysis". *Personnel Psychology*, 58(2), 367–408.
+- **Dato citable:** separa el éxito **objetivo** (salario, número de promociones) del **subjetivo**
+  (satisfacción con la carrera) y muestra que **no los predicen los mismos factores**. El capital
+  humano y las variables organizativas pesan más en el objetivo; las diferencias individuales, más
+  en el subjetivo.
+- **Uso:** cap. 7 y cap. 23. Es la base científica del argumento «subir no es lo mismo que estar
+  mejor», que es lo que legitima el capítulo 23 y los finales alternativos.
+
+### A8 🟡 Interno frente a externo
+**Bidwell, M. (2011).** "Paying More to Get Less: The Effects of External Hiring versus Internal
+Mobility". *Administrative Science Quarterly*, 56(3), 369–407.
+- **Dato citable:** en su muestra, quienes entraron desde fuera **cobraban más y rendían peor**
+  durante los primeros años que quienes ascendieron internamente al mismo puesto.
+- **Uso:** cap. 7 — el argumento de por qué a la empresa le conviene ascenderte a ti, que es
+  exactamente lo que el lector necesita para pedirlo sin sentirse un pedigüeño.
+- **Cautela:** un solo sector (servicios financieros de inversión). No universalizar.
+
+### A9 🟡 Los encargos difíciles cuentan aparte
+**De Pater, I. E., Van Vianen, A. E. M., Bechtoldt, M. N. y Klehe, U.-C. (2009).** "Employees'
+Challenging Job Experiences and Supervisors' Evaluations of Promotability". *Personnel
+Psychology*, 62(2), 297–325.
+- **Dato citable:** la experiencia en encargos **desafiantes** predice la evaluación de
+  promocionabilidad **por encima y más allá** del desempeño en el puesto actual.
+- **Uso:** cap. 16. Es la evidencia dura que sustituye a las cifras infundadas del 70‑20‑10.
+
 ---
 
 ## B. Red, patrocinio e influencia
@@ -296,6 +336,7 @@ estas ideas circulan en libros de gestión y son tentadoras. Ninguna debe usarse
 | **P.I.E. 10/30/60 (Harvey Coleman)** | Modelo de consultor; **no hay estudio publicado** que respalde esas proporciones | Usar como **metáfora ordenadora** diciendo explícitamente que las cifras son ilustrativas |
 | **"El 93% de la comunicación es no verbal" (Mehrabian)** | Malinterpretación grosera de un experimento sobre mensajes contradictorios de una sola palabra | **No usar** |
 | **"Solo usamos el 10% del cerebro", "hemisferio izquierdo/derecho", estilos de aprendizaje** | Neuromitos | **No usar** |
+| **«Lo peor que puede pasar es que vuelvas a tu puesto»** | **Falso como regla general en España.** Consolidado el ascenso, no hay derecho de retorno unilateral: volver es una negociación | Reformulado en el cap. 2: el riesgo **se hace** reversible antes de aceptar (periodo de prueba, interinidad con fecha, cláusula escrita), no lo es por defecto |
 | **Efecto Zeigarnik** (tareas inacabadas se recuerdan mejor) | Replicación irregular | Se puede mencionar como recurso narrativo, **no** como hallazgo firme |
 | **Mentalidad de crecimiento (Dweck)** | El marco es valioso; los efectos de las intervenciones escolares son mucho menores de lo que se popularizó | Citar la idea, no prometer resultados espectaculares |
 | **Grit (Duckworth)** | Metaanálisis posteriores: predice menos que la responsabilidad (*conscientiousness*), con la que solapa mucho | Citar con matiz o evitar |

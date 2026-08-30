@@ -210,6 +210,18 @@ su empleador y con clientes. Antes de escribir una línea:
 | **Seudónimo** | Libertad total para contar casos | Pierdes la mitad del marketing; la credencial pierde fuerza porque no es comprobable |
 | **Nombre real + casos totalmente anonimizados y genéricos** | **Recomendado.** Conservas la credibilidad y eliminas el riesgo | Requiere disciplina al escribir |
 
+### Declaración de contenido generado por IA
+KDP **obliga a declarar** si el contenido (texto, imágenes, traducción) es *generado* por
+inteligencia artificial en el momento de publicar. Según sus pautas vigentes, el uso meramente
+**asistencial** —lluvia de ideas, corrección, edición sobre texto que has escrito tú— no se
+declara como contenido generado; el texto producido por una herramienta y después editado, sí.
+La distinción la marca quién escribió el borrador. Conviene:
+
+- Conservar trazabilidad de lo que se ha escrito a mano y de lo que se ha generado.
+- **Releer la política en el momento de publicar**, no ahora: es una de las que más ha cambiado.
+- Recordar que declararlo no penaliza la visibilidad; no declararlo cuando corresponde puede
+  costar la cuenta.
+
 ### Personas reales en el libro
 - **Figuras públicas** (un presidente de naviera, una consejera delegada): se puede escribir sobre
   ellas basándose en **información publicada**, citando fuentes y sin inventar diálogos ni estados

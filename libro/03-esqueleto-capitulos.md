@@ -43,9 +43,20 @@ va a decir.*
    prediciendo cómo nos vamos a sentir en situaciones que no hemos vivido.
 2. Te descubres actuando, no pensando. Ibarra lo llama *outsight*: la perspectiva que solo
    aparece cuando ya has empezado a hacer cosas nuevas.
-3. **El riesgo es reversible.** Lo peor que puede pasar es que renuncies al puesto y vuelvas al
-   anterior. Enumerar el coste real y honesto de esa marcha atrás (orgullo, algo de dinero, unos
-   meses raros) frente al coste de no probarlo nunca.
+3. **El riesgo se puede hacer reversible — pero no lo es por defecto.** Aquí va la corrección
+   más importante del libro y no puede omitirse: *«lo peor que puede pasar es que vuelvas»* es
+   falso como regla general. En España, una vez consolidado el ascenso (nuevo grupo profesional,
+   nuevas funciones, nuevo salario), el trabajador **no tiene derecho a revertirlo
+   unilateralmente**: volver atrás sería una modificación sustancial que requiere acuerdo de la
+   empresa. El artículo 39 del Estatuto de los Trabajadores regula la movilidad funcional que
+   ordena la empresa, no un derecho de retorno del empleado.
+   **Lo que sí se puede hacer, y es la tesis del capítulo:** convertir el ascenso en reversible
+   *antes* de aceptarlo. Periodo de prueba pactado, sustitución temporal o función interina con
+   fecha, o cláusula de retorno por escrito. Y antes de eso, la escalera de experimentos
+   reversibles del capítulo 16 (facilitar una reunión, liderar un proyecto transversal de ocho
+   semanas, una sustitución de verano), que dan la misma información sin comprometer nada.
+   Enumerar después el coste real y honesto de una marcha atrás negociada (orgullo, algo de
+   dinero, unos meses raros) frente al coste de no probarlo nunca.
 **Evidencia:** Herminia Ibarra, *Act Like a Leader, Think Like a Leader* y "The Authenticity
 Paradox" (HBR, 2015).
 **Entregable:** el "experimento de 90 días" — comprometerse a probar una sola conducta de jefe,
@@ -340,6 +351,9 @@ de su vida profesional.
 otra manera, y se paga barata.*
 **Contenido:** este capítulo **cumple la promesa del capítulo 2** y es el corazón moral del libro.
 - Cómo saber si es un mal ajuste o solo los primeros meses (la curva normal de sufrimiento).
+- **Lo que la ley sí y no te garantiza.** Sin cláusula previa, volver atrás es una negociación,
+  no un derecho. Un recuadro con la realidad legal española evita que el libro venda una red de
+  seguridad que no existe — y refuerza el argumento de negociarla antes de aceptar.
 - El procedimiento para volver atrás con dignidad: a quién se le dice, en qué orden, con qué
   palabras, y cómo se cuenta después en una entrevista.
 - Qué te llevas puesto aunque vuelvas: red, criterio, saber leer una organización, y haber

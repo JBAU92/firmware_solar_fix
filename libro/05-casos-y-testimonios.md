@@ -1,6 +1,41 @@
 # 05 · Casos de éxito, contra-casos y testimonios
 
-## 1. El caso ancla — estado: **pendiente de confirmación**
+## 0. ⭐ El caso de cruceros, resuelto (actualización)
+
+**Michael Bayley — Royal Caribbean.** Es, casi con seguridad, la historia que recordabas. Arco
+verificado en la biografía corporativa de la compañía:
+
+- **1981:** entra como *assistant purser* (auxiliar de sobrecargo) en el **m.s. Nordic Prince**.
+- **Diez años embarcado**, en puestos de responsabilidad creciente.
+- En tierra: vicepresidente de satisfacción del cliente → vicepresidente sénior de operaciones
+  hoteleras e ingresos a bordo → vicepresidente ejecutivo de operaciones (marítimas, hoteleras,
+  terrestres y desarrollo comercial).
+- **2012:** presidente y consejero delegado de **Celebrity Cruises**.
+- **Diciembre de 2014:** presidente y consejero delegado de **Royal Caribbean International**.
+
+**Dos precisiones que hay que respetar al escribirlo:**
+
+1. **No es una empresa española.** Royal Caribbean opera y vende en España, pero es un grupo
+   internacional. Si el libro lo presenta como «un caso español» pierde credibilidad de golpe.
+   Se cuenta como lo que es: un caso internacional del sector de cruceros.
+2. **Es presidente y CEO de Royal Caribbean *International* (la marca), no de Royal Caribbean
+   *Group*** (el holding, dirigido por otra persona). Confundirlo es el tipo de error que un
+   lector del sector detecta y comenta en una reseña.
+
+**Ventaja narrativa enorme:** su punto de partida es concreto y visual —un chaval en la
+recepción de un barco— y su recorrido pasa por operaciones, hotel, comercial y dirección
+general. Encaja peldaño a peldaño con la escalera del capítulo 4. Es mejor caso ancla que
+cualquiera de los candidatos españoles que había localizado.
+
+**Decisión recomendada:** Bayley como **caso ancla** (arco largo, seis entregas) y un caso
+**español** en paralelo para que el lector se reconozca. Ver §2.
+
+Fuentes: [biografía corporativa de Royal Caribbean](https://www.royalcaribbean.com/about-us/michael-bayley) ·
+[Royal Caribbean Press Center](https://www.royalcaribbeanpresscenter.com/download-executive-bio/21/)
+
+---
+
+## 1. El caso ancla español — estado: **pendiente de confirmación**
 
 El libro se apoya en una historia larga que se trocea en seis entregas (una por parte). Debe ser
 la de alguien que empezó abajo o a media escalera en una empresa y terminó dirigiéndola.
@@ -82,7 +117,10 @@ caso ancla**: son ejemplos cortos de uno o dos párrafos.
 | **Doug McMillon** (Walmart) | Empieza descargando camiones en un almacén en verano; consejero delegado en 2014 | Cap. 3: el empleo como escuela | ✓ ampliamente documentado |
 | **Ursula Burns** (Xerox) | Entra como becaria de ingeniería mecánica en 1980; consejera delegada en 2009 | Cap. 13: el papel decisivo de un padrino interno — su historia es un caso de manual de *sponsorship* | Confirmar detalles del mentor/padrino |
 | **José Bogas** (Endesa) | Ingeniero en la compañía desde los años ochenta; consejero delegado en 2014 | Caso español de promoción interna pura | ⚑ Verificar fechas |
-| **Adolfo Utor** (Baleària) | Ver arriba | Caso ancla candidato | ⚑ Verificar puesto inicial |
+| **Adolfo Utor** (Baleària) | Ver arriba | Caso ancla español candidato | ⚑ Verificar puesto inicial |
+| **Michael Bayley** (Royal Caribbean) | *Assistant purser* en 1981 → presidente y CEO de Royal Caribbean International en 2014 | **Caso ancla recomendado.** Movilidad funcional: mar → hotel → comercial → dirección | ✓ verificado en fuente corporativa |
+| **José Vicente de los Mozos** (Renault → Indra) | Entra en 1978, con 16 años, como aprendiz en la factoría de carrocerías de Renault en Valladolid, mientras estudiaba ingeniería; CEO de Indra en 2023 | Caso español potentísimo de aprendizaje técnico y ampliación de alcance | ✓ verificado. **Ojo:** su carrera **no** es promoción interna pura — pasó por Nissan y Ficosa. Sirve mejor como caso multirruta |
+| **Enrique Lores** (HP → PayPal) | Becario de ingeniería → presidente y CEO de HP en 2019, tras 36 años en la compañía | Caso español e internacional de carrera larga en una sola empresa | ✓ verificado. **Dejó HP en febrero de 2026** y pasó a PayPal: escribir «ex‑CEO de HP», nunca el cargo en presente |
 
 **Cómo usarlos sin caer en el libro de aeropuerto:** un caso famoso sirve para **ilustrar**, nunca
 para **demostrar**. La demostración viene de los estudios del archivo [04](04-bibliografia-y-evidencia.md).
