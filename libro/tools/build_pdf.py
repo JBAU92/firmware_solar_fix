@@ -354,13 +354,13 @@ doc = f'''<!doctype html>
 <style>{CSS}</style></head><body>
 
 <div class="cover">
-  <div class="kicker">Estudio de preproducción · Amazon KDP · v4.0</div>
+  <div class="kicker">Estudio de preproducción · Amazon KDP · v5.0</div>
   <h1>ESCALA</h1>
   <div class="sub">El plan de carrera que tu empresa diseña para unos pocos, traducido para cualquier trabajador</div>
   <div class="rule"></div>
   <div class="facts">
     Método <b>Elige · Sitúate · Construye · Amplifica · Lidera · Asegura</b><br>
-    Libro 1 <b>27.000 palabras</b> · <b>12 capítulos</b> · ~140 páginas a 17,95 €<br>
+    Libro 1 <b>~34.000 palabras</b> · <b>14 capítulos</b> · ~170 páginas · 15,95–17,95 €<br>
     Entregable del lector <b>Un expediente de promoción de 8 plantillas</b><br>
     Mercado <b>Amazon.es</b> · eBook Kindle y tapa blanda
   </div>

@@ -1,4 +1,9 @@
-# 14 · Plan condensado — el libro que sí sale rentable
+# 14 · Plan del libro 1 — extensión, economía y alcance
+
+> **Corregido en la v5.0.** La versión anterior fijaba 12 capítulos y 140 páginas optimizando la
+> regalía por ejemplar. Era una mala optimización: pasar de 140 a 170 páginas cuesta **36 céntimos
+> por ejemplar** y compra treinta páginas de valor percibido y dos capítulos que había comprimido
+> de más. **Vigente: 14 capítulos, ~36.000 palabras, ~170 páginas.**
 
 > **Este archivo sustituye al plan de extensión de los archivos 03, 08 y 09.** El resto del dossier
 > sigue siendo válido como **cantera**: la investigación, la evidencia y los casos no cambian, solo
@@ -6,14 +11,26 @@
 
 ---
 
-## 1. Los números te dan la razón
+## 1. La economía, corregida
 
-| Formato | Precio sin IVA | Impresión | **Regalía** | €/página |
-|---|---|---|---|---|
-| **140 págs @ 17,95 €** (5,5"×8,5") | 17,26 € | 2,43 € | **7,93 €** | 0,128 |
-| 110 págs @ 17,95 € (6"×9") | 17,26 € | 2,07 € | **8,29 €** | 0,163 |
-| 150 págs @ 19,95 € | 19,18 € | 2,55 € | **8,96 €** | 0,133 |
-| ~~240 págs @ 15,99 €~~ *(plan anterior)* | 15,38 € | 3,63 € | 5,59 € | 0,067 |
+| Escenario | Precio con IVA | Págs. | Impresión | **Regalía** | Amortizar 900–2.400 € |
+|---|---|---|---|---|---|
+| A · Compacto | 17,95 € | 140 | 2,43 € | 7,93 € | 114–303 ej. |
+| **B · Vigente** | **17,95 €** | **170** | **2,79 €** | **7,57 €** | **119–317 ej.** |
+| C · Precio de entrada | 15,95 € | 170 | 2,79 € | 6,41 € | 140–374 ej. |
+| ~~D · Plan viejo~~ | 15,99 € | 240 | 3,63 € | 5,59 € | 161–429 ej. |
+
+**El argumento que decide.** De A a B se pierden **36 céntimos por ejemplar** y se ganan treinta
+páginas. Optimizar la regalía unitaria a costa de amputar contenido es optimizar la variable
+equivocada:
+
+> **La página cuesta poco. La página innecesaria cuesta atención.** Se corta por valor editorial,
+> nunca para perseguir un escalón de impresión.
+
+**Y el precio no se decide por regalía.** Entre B y C hay 1,16 € por ejemplar, pero una diferencia
+de conversión del 20 % los borra. **15,95 € frente a 17,95 € es un test del prototipo**, no una
+decisión de hoja de cálculo. Lo único cierto: fuera de la banda del 70 % se pierde la mitad, y el
+eBook debe quedar ≥20 % por debajo del impreso.
 
 **El libro corto y caro gana por goleada: +42% de regalía por ejemplar escribiendo menos de la
 mitad de palabras.** Y para amortizar los 900–2.400 € de producción hacen falta **114–303
@@ -29,10 +46,9 @@ ejemplares** en vez de 161–429.
    cada euro de precio añade 60 céntimos de regalía. Escribir 100 páginas más para justificar 2 €
    más de precio es un mal negocio.
 
-## 2. La corrección que propongo a tu propuesta
+## 2. Formato
 
-**No 110 páginas en 6"×9", sino ~140 en 5,5"×8,5".** Mismo número de palabras, mismo precio, y
-solo 36 céntimos menos de regalía por ejemplar. A cambio:
+**~170 páginas en 5,5"×8,5".** El 6"×9" de 110 páginas quedó descartado por dos motivos:
 
 - El **precio por página** baja de 0,163 € a 0,128 €, que es la objeción real de un comprador de
   Amazon cuando ve «110 páginas · 17,95 €».
@@ -51,7 +67,7 @@ Aquí está la decisión más importante de todo el replanteamiento, y es contra
 
 > **Condensar no es comprimir cada capítulo. Es eliminar temas enteros.**
 
-Si metemos los 25 capítulos actuales en 140 páginas, el resultado es exactamente lo que temes: un
+Si metemos los 25 capítulos del plan viejo en 170 páginas, el resultado es exactamente lo que temes: un
 ladrillo denso que nadie termina. Si bajamos a **12 capítulos y dejamos que cada uno respire**,
 el resultado es lo contrario: un libro rápido, con aire, con una idea por capítulo y una acción al
 final de cada uno.
@@ -60,16 +76,16 @@ final de cada uno.
 
 | Bloque | Páginas | Palabras |
 |---|---|---|
-| Preliminares (portada, créditos, índice) | 6 | — |
+| Preliminares (portada, créditos, índice, nota del autor) | 8 | — |
 | Prólogo | 4 | 900 |
-| **12 capítulos × ~2.000 palabras** | 100 | 24.000 |
+| **14 capítulos × ~2.200 palabras** | 128 | 30.800 |
 | Epílogo | 3 | 700 |
 | Apéndice: el expediente (8 plantillas) | 16 | — |
-| Notas y fuentes | 8 | 1.400 |
-| Página de cierre y llamada al libro 2 | 2 | 200 |
-| **Total** | **~139** | **~27.200** |
+| Notas y fuentes | 9 | 1.600 |
+| Cierre y llamada al libro 2 | 2 | 200 |
+| **Total** | **~170** | **~34.200** |
 
-**27.000 palabras frente a las 59.000 del plan anterior.** Menos de la mitad, más rentable, y
+**34.000 palabras frente a las 59.000 del plan anterior.** Menos de la mitad, más rentable, y
 —esto es lo importante— **mejor producto para este lector**: alguien que trabaja ocho horas y
 quiere respuestas, no un tratado.
 
@@ -82,26 +98,32 @@ quiere respuestas, no un tratado.
 3. **Aire deliberado.** Cada capítulo termina con media página en blanco de resumen y acción. En un
    libro de 140 páginas, el blanco no es desperdicio: es lo que hace que se lea de un tirón.
 
-## 4. Los doce capítulos
+## 4. Los catorce capítulos
 
 Criterio de selección: qué es **único frente a la competencia**, qué tiene **evidencia fuerte**,
 qué es **accionable el lunes** y qué **engancha**. Todo lo que no puntúa alto en al menos tres, se
 va al libro 2 o desaparece.
 
-| # | Capítulo | Idea única | Estudio en el cuerpo | Acción |
-|---|---|---|---|---|
-| **1** | **El expediente que no has visto** | Existe una sala donde se habla de ti. Y llevas años mejorando el sistema equivocado: desempeño ≠ promoción ≠ carrera | Los tres criterios de potencial | Diagnóstico en 15 min |
-| **2** | **Cómo se decide de verdad** | Te ascienden por rendimiento presente cuando necesitan potencial futuro. Ese error es tu oportunidad | Benson, Li y Shue (QJE 2019) | Mapa de decisión: quién, cuándo, qué vacante |
-| **3** | **Tu inventario en una página** | Capacidad, evidencia, confianza, opciones y energía son reservas. Un curso no es capacidad: es un intento de capacidad | Las cinco reservas | Ficha de brechas |
-| **4** | **Trabajar bien no basta** | El mérito invisible no existe. Y no todo el trabajo cuenta igual | Babcock et al. (AER 2017) | Registro SARA + filtro |
-| **5** | **Haz una prueba del nivel siguiente** | Hacer mejor tu trabajo no demuestra que puedas hacer el otro. Un encargo difícil sí | De Pater et al. (2009) | Carta de proyecto |
-| **6** | **Caer bien no es un defecto de carácter** | La adulación funciona — y te cuesta a todos los que la ven. Las cinco reglas de la versión que no te hunde | Vonk, efecto baba (JPSP 1998) | Una conversación preparada |
-| **7** | **Mentor no: padrino** | Un mentor te habla a ti; un padrino habla de ti cuando no estás | Hewlett | Tres candidatos y qué resolverles |
-| **8** | **La red que decide sobre ti** | Las oportunidades llegan por los conocidos, no por los íntimos | Rajkumar et al. (Science 2022) | Mapa de 12 relaciones |
-| **9** | **Haz de jefe antes de serlo** | Presentar el trabajo de otros **es** el trabajo. La prueba del autor en la sala | Google, Proyecto Oxígeno | Consolidar algo esta semana |
-| **10** | **Pide** | Dice que sí mucha más gente de la que crees. Y un «todavía no» solo vale si trae criterios y fecha | Flynn y Bohns (JPSP 2008) | La conversación, con guion |
-| **11** | **Que no te lo hagan a ti** | Ocho señales de que el problema no eres tú, y tres defensas | Efecto baba / socavamiento | Revisión de señales |
-| **12** | **Acepta con condiciones** | La reversibilidad no se hereda, se negocia. Y hay cuatro finales válidos | Otto et al. (HRMJ 2022) | Lista de aceptación |
+| # | Capítulo | Movimiento | Idea única |
+|---|---|---|---|
+| **1** | El expediente que no has visto | **E** | Existe una sala donde se habla de ti. Y llevas años mejorando el sistema equivocado |
+| **2** | Cinco escaleras, no una | **E** | Solo una de las cinco tiene cola en la entrada, y no es la mejor: es la única señalizada |
+| **3** | Pruébalo sin jugártela | **E** | No hace falta apostar la carrera para saber si te gusta. Hacen falta ocho semanas |
+| **4** | Cómo se decide de verdad | **S** | Las tres puertas: capacidad, oportunidad y patrocinio. Solo una depende de ti |
+| **5** | Tu inventario en una página | **S** | Un curso no es capacidad: es un intento de capacidad |
+| **6** | Trabajar bien no basta | **C** | El mérito invisible no existe. Y no todo el trabajo cuenta igual |
+| **7** | Haz una prueba del nivel siguiente | **C** | El marrón que nadie quiere es la única oportunidad sin competencia |
+| **8** | Caer bien no es un defecto | **A** | La adulación te gana a quien se la haces y te cuesta a todos los que la ven |
+| **9** | Mentor no: padrino | **A** | Un mentor te habla a ti; un padrino habla de ti cuando no estás |
+| **10** | La red que decide sobre ti | **A** | Las oportunidades llegan por los conocidos, no por los íntimos |
+| **11** | Haz de jefe antes de serlo | **L** | Presentar el trabajo de otros **es** el trabajo. La prueba del autor en la sala |
+| **12** | Pide | **L** | Dice que sí mucha más gente de la que crees |
+| **13** | Que no te lo hagan a ti | **A** | Ocho señales de que el problema no eres tú |
+| **14** | Acepta con condiciones | **A** | La reversibilidad no se hereda: se negocia, y se negocia antes |
+
+**ESCALA vuelve a ordenar el libro**, en vez de quedarse en la portada: Elige (1–3) · Sitúate
+(4–5) · Construye (6–7) · Amplifica (8–10) · Lidera (11–12) · Asegura (13–14).
+
 
 **Comprobaciones de coherencia:**
 - El bucle del capítulo 1 («¿qué pone en mi ficha?») cierra en el 3.
@@ -166,7 +188,7 @@ Sin lástima. Nada de esto sobrevive al filtro de «valor por página»:
 |---|---|
 | 01 Concepto | **Válido.** El posicionamiento cambia a «manual de trabajo», no a «libro» |
 | 02 Arquitectura | **Válido en lo conceptual.** Los tres actos pasan a ser 1–2 / 3–10 / 11–12 |
-| 03 Esqueleto | **Superado por este archivo** para el libro 1. Sigue siendo el mapa del libro 2 |
+| 03 Esqueleto | **Superado.** El plan vigente son los archivos 14 y 15. El 03 queda como mapa del libro 2 |
 | 04 Bibliografía | **Válido y necesario.** Ahora es más importante: 12 estudios en el cuerpo, el resto en notas |
 | 05 Casos | **Válido.** El caso ancla se trocea en 4 entregas en vez de 6 |
 | 06 Enganche | **Válido.** La plantilla de capítulo se recorta a 8 bloques |
@@ -188,11 +210,11 @@ Escribir 27.000 palabras en vez de 59.000 cambia el proyecto de escala:
 | Validación de mercado | 2 sem. | 2 sem. |
 | Campo (entrevistas) | 5 sem. | **3 sem.** — 20 entrevistas bastan para 12 capítulos |
 | Prototipo | 3 sem. | 2 sem. |
-| Manuscrito | 13 sem. | **7 sem.** a 2 capítulos por semana |
+| Manuscrito | 13 sem. | **8 sem.** a 2 capítulos por semana |
 | Reescritura | 5 sem. | 4 sem. |
 | Producción | 3 sem. | 3 sem. |
 | Lanzamiento | 8 sem. | 8 sem. |
-| **Total** | 9,5 meses | **~7 meses** |
+| **Total** | 9,5 meses | **~7,5 meses** |
 
 Con un trabajo a jornada completa: **8 o 9 meses** en vez de 11–13.
 
@@ -209,9 +231,13 @@ Con un trabajo a jornada completa: **8 o 9 meses** en vez de 11–13.
 
 ## 10. Decisión
 
-**Recomendación:** adelante, con las tres precisiones de este archivo — **140 páginas en
-5,5"×8,5", 17,95 €, doce capítulos**. Es más rentable, se escribe en la mitad de tiempo, es mejor
-producto para este lector y deja un segundo libro ya escrito en el dossier.
+**Vigente:** **~170 páginas en 5,5"×8,5", 14 capítulos, ~34.000 palabras**, y el precio decidido
+por prueba entre 15,95 € y 17,95 €. Se escribe en la mitad de tiempo que el plan original, deja un
+segundo libro ya investigado, y no amputa ni la elección de ruta ni la prueba reversible.
 
-Lo único que **no** hay que hacer es lo que parecía obvio: meter los 25 capítulos actuales en 140
-páginas. Eso produce el ladrillo denso que quieres evitar.
+**Los dos errores que este archivo corrige, y que eran míos:**
+1. Optimizar la regalía por ejemplar recortando contenido. Treinta páginas cuestan 36 céntimos.
+2. Fijar el precio en una hoja de cálculo. Se fija con un test de prototipo.
+
+**Y lo que sigue en pie:** no meter los 25 capítulos del plan viejo en 170 páginas. Eso produce el
+ladrillo denso que hay que evitar. Catorce capítulos que respiran, no veinticinco apretados.

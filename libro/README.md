@@ -1,4 +1,4 @@
-# ESCALA — Estudio de preproducción v4.0
+# ESCALA — Estudio de preproducción v5.0
 
 **Libro práctico de no ficción para Amazon KDP.** Tercera versión, resultado de dos rondas de
 fusión con un estudio independiente (`Estudio_preproduccion_libro_KDP_ascenso_empresarial.docx`),
@@ -7,9 +7,10 @@ que a su vez leyó este dossier y respondió a él. Ver el
 
 **No es el manuscrito.** Es todo lo necesario para escribirlo sin volver a investigar nada.
 
-> ⚠️ **Cambio de escala (v4.0).** El proyecto pasa de un libro de 250 páginas a un **manual de
-> 140 páginas a 17,95 €**, que rinde **+42 % de regalía por ejemplar escribiendo menos de la mitad
-> de palabras**. El plan vigente del libro 1 es
+> ⚠️ **Escala vigente (v5.0).** Manual de **~170 páginas y 14 capítulos**. La v4.0 fijaba 140
+> páginas y 12 capítulos optimizando la regalía unitaria; era una mala optimización — treinta
+> páginas cuestan **36 céntimos por ejemplar** y compran dos capítulos que se habían comprimido de
+> más. El plan vigente del libro 1 es
 > [14-plan-condensado.md](14-plan-condensado.md); el resto del dossier queda como **cantera** de
 > investigación y como mapa del libro 2.
 
@@ -37,8 +38,8 @@ trabajo empieza ahora por la puerta de validación, no por la escritura → [09]
 | **Título de trabajo** | *ESCALA* · «El plan de carrera que tu empresa diseña para unos pocos» |
 | **Método** | **E**lige · **S**itúate · **C**onstruye · **A**mplifica · **L**idera · **A**segura |
 | **Entregable del lector** | Un **expediente de promoción** de 14 páginas que crece capítulo a capítulo |
-| **Extensión** | **27.000 palabras · 12 capítulos · ~140 páginas en 5,5"×8,5"** |
-| **Precio** | **17,95 €** en tapa blanda · regalía ~7,93 € por ejemplar |
+| **Extensión** | **~34.000 palabras · 14 capítulos · ~170 páginas en 5,5"×8,5"** |
+| **Precio** | **15,95 € o 17,95 €** — se decide por test, no por hoja de cálculo · regalía 6,41–7,57 € |
 | **Libro 2** | *Ahora mandas* — todo lo posterior al ascenso, ya investigado en este dossier |
 | **Mercado** | Amazon.es (principal) · Amazon.com en español (secundario) |
 | **Formatos** | eBook Kindle + tapa blanda POD |
@@ -178,6 +179,23 @@ bajar a 12 y dejarlos respirar produce lo contrario.
 partir de 110, así que **no hay acantilado** que optimizar; y cada página cuesta 1,2 céntimos
 mientras que cada euro de precio aporta 60 — **el precio importa veinte veces más que la
 extensión**.
+
+### Quinta ronda — el estudio externo corrige mi condensación
+
+Llegó una V4.1 del estudio independiente que responde a mi v4.0. **Tiene razón en lo importante.**
+
+| Discrepancia | Quién acierta | Por qué |
+|---|---|---|
+| 12 capítulos / 27.000 palabras / 140 págs. **vs** 14 / 34–38.000 / 160–180 | **Ellos** | Mi condensación amputaba la elección de ruta y la prueba reversible. Las 30 páginas cuestan 36 céntimos por ejemplar |
+| Precio fijado por regalía unitaria **vs** decidido por test | **Ellos** | Entre 15,95 € y 17,95 € hay 1,16 €, pero un 20 % de diferencia en conversión lo borra |
+| ESCALA como marco **vs** como adorno de portada | **Ellos** | Con 14 capítulos el acrónimo vuelve a ordenar el libro: 1‑3 / 4‑5 / 6‑7 / 8‑10 / 11‑12 / 13‑14 |
+| Marta y Javier sin reglas **vs** con regla de integridad | **Ellos** | Yo escribí escenas con cifras y diálogos inventados. En un libro que vende evidencia, eso lo contamina todo |
+| Las **tres puertas del ascenso** *(capacidad · oportunidad · patrocinio)* | **Ellos** | Explica mejor que mis cinco reservas por qué el mérito solo no basta. Se adopta como columna del cap. 4 |
+| Las escenas de apertura ya redactadas | **Mías** | Su V4.1 no las tiene. Se conservan las catorce |
+| Pepitas, ganchos entre capítulos, curva de intensidad y mapa de bucles | **Míos** | Se conservan y se renumeran |
+
+**Lo mejor que aportan, en una frase suya:** *«La página cuesta poco. La página innecesaria cuesta
+atención.»* Es mejor que mi formulación y se adopta tal cual.
 
 ### Y dos cosas que aporto yo en esta ronda
 

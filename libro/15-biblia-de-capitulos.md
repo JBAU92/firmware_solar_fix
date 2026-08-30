@@ -4,8 +4,8 @@
 **ya redactada**, el giro, la tesis, las ideas en orden, la evidencia, las pepitas, el contrapeso,
 la herramienta, el cierre y **el gancho literal al capítulo siguiente**.
 
-Extensión objetivo: **~2.000 palabras por capítulo**. Ocho minutos de lectura. Un capítulo por
-trayecto de metro.
+Extensión objetivo: **~2.200 palabras por capítulo** · **14 capítulos** · ~36.000 palabras en total.
+Nueve minutos de lectura por capítulo. Un capítulo por trayecto de metro.
 
 ---
 
@@ -26,22 +26,48 @@ exactamente lo que él va a empezar a hacer mañana.
 | Cap. | Lo que el lector descubre de Javier |
 |---|---|
 | 1 | Ascendió. Marta no. Marta era mejor técnicamente. *(Indignación)* |
-| 4 | Mandaba tres líneas a su jefe los viernes. Nada más |
-| 6 | Caía bien, y no por adular: preguntaba y volvía con respuestas |
-| 8 | Conocía a gente de tres departamentos. Marta, de uno |
-| 9 | Presentó el trabajo del equipo en un comité — **con los nombres** |
-| 10 | **Lo pidió.** Marta nunca lo pidió |
-| 12 | Dos años después: dónde acabaron los dos. Y quién eligió mejor |
+| 6 | Mandaba tres líneas a su jefe los viernes. Nada más |
+| 8 | Caía bien, y no por adular: preguntaba y volvía con respuestas |
+| 10 | Conocía a gente de tres departamentos. Marta, de uno |
+| 11 | Presentó el trabajo del equipo en un comité — **con los nombres** |
+| 12 | **Lo pidió.** Marta nunca lo pidió |
+| 14 | Dos años después: dónde acabaron los dos. Y quién eligió mejor |
+
 
 **Por qué funciona:** es un bucle abierto de largo recorrido que no depende del método sino de la
 curiosidad. El lector no pasa página para aprender: pasa página **porque quiere saber qué hizo
 Javier**. Es el motor que tiene una novela y que casi ningún libro de no ficción se molesta en
 construir.
 
-**Y el giro final, en el capítulo 12:** Marta no fracasó. Marta, dos años después, dirige una
+**Y el giro final, en el capítulo 14:** Marta no fracasó. Marta, dos años después, dirige una
 especialidad, gana más que Javier y trabaja treinta y ocho horas. Eligió otra ruta —a
 conciencia—, que es exactamente la tesis de los cuatro finales. El libro cierra sin sermón porque
 la historia hace el trabajo del sermón.
+
+## 1 bis. ⚠️ Regla de integridad narrativa
+
+**Innegociable, y hay que fijarla antes de escribir la primera escena.**
+
+Marta, Javier, Nacho y Andrés son **personajes compuestos** hasta que existan las entrevistas de
+campo. Eso significa:
+
+- **No inventar cifras** que suenen a dato: ni «un doce por ciento menos», ni sueldos, ni horas, ni
+  fechas de comité. Si no viene de una fuente o de una entrevista, se escribe sin número.
+- **No inventar diálogo** y presentarlo como transcripción. Se puede reconstruir el sentido de una
+  frase; no se puede entrecomillar algo que nadie dijo.
+- **Declararlo una vez**, en la nota del autor, con una frase: *«Los casos de este libro combinan
+  experiencias reales de personas entrevistadas; se han alterado los detalles no esenciales para
+  proteger su identidad.»*
+- Cuando lleguen las entrevistas, **cada detalle concreto se ancla a un caso autorizado** o se
+  quita.
+
+**Por qué importa más de lo que parece:** todo el argumento del libro es que se apoya en evidencia.
+Un lector que detecte una escena fabricada con precisión falsa deja de creerse también los
+estudios. La credibilidad no se reparte por bloques: se pierde entera.
+
+**Michael Bayley es la excepción, y por eso hay que tratarlo aparte:** hechos corporativos
+verificables por un lado, interpretación del mecanismo por otro, y nunca mezclados en la misma
+frase.
 
 ## 2. Los cinco hilos
 
@@ -170,7 +196,7 @@ juzgando.
 1. **Qué es esa sala.** Comité de talento, calibración, la cuadrícula. Sin jerga sin traducir.
 2. **Los tres sistemas.** Desempeño ≠ promoción ≠ carrera. *«Llevas años mejorando el sistema
    equivocado.»* Aquí, en dos páginas, va también el aviso de las cinco rutas: no todas las
-   escaleras llevan a una vida mejor, y el capítulo 12 vuelve sobre ello.
+   escaleras llevan a una vida mejor, y el capítulo 14 vuelve sobre ello.
 3. **Los tres criterios reales:** capacidad, aspiración, compromiso. El lector cumple uno y no
    sabe que existen los otros dos. *(Hueco de información puro.)*
 4. **La política de oficina, de frente**, en un párrafo y sin sermón: sí existe, sí funciona, te la
@@ -203,7 +229,134 @@ dirigida · hueco de información · prolepsis.
 
 ---
 
-## Cap. 2 · Cómo se decide de verdad
+## Cap. 2 · Cinco escaleras, no una
+
+**Función:** honestidad temprana. Sin este capítulo, el libro vende una sola idea de éxito y pierde
+a media audiencia en la página treinta.
+
+### La escena *(redactada)*
+
+> A Andrés lo ascendieron a jefe de equipo un lunes de septiembre. Lo dejó en marzo.
+>
+> No lo despidieron ni fracasó: pidió volver a lo técnico y lo consiguió, que ya es más suerte de
+> la que tiene la mayoría. Cuando le pregunté qué había pasado, tardó en contestar. Al final dijo:
+>
+> «Pasaba el día resolviendo cosas que no eran problemas. Y las cosas que sí eran problemas no me
+> dejaban tocarlas.»
+>
+> Hoy Andrés dirige la arquitectura técnica de la misma empresa, no manda a nadie, y gana más que
+> cuando era jefe de equipo.
+>
+> Nadie le había contado que esa puerta existía.
+
+### El giro
+Hay al menos cinco escaleras, y solo una tiene gente empujando en la entrada.
+
+### La tesis
+> **Subir no es el único éxito. Y subir sin encaje puede empeorarte la vida sin que nadie te avise.**
+
+### Ideas, en orden
+1. **Las cinco rutas:** mando · carrera experta · movilidad lateral · salida externa · permanencia
+   consciente. Con la trampa nombrada: la permanencia *elegida* es una decisión; la permanencia
+   *por defecto* es lo que le pasa a casi todo el mundo.
+2. **La carrera experta merece su espacio.** En muchas empresas existe, está escrita y casi nadie
+   la pide, porque nadie la anuncia. Es la ruta con menos competencia del libro entero.
+3. **Los criterios para comparar rutas:** autonomía, ingreso, aprendizaje, riesgo, energía,
+   identidad y reversibilidad. Siete columnas, una tabla, decisión tomada.
+4. **Por qué el libro sigue enfocado en el mando:** porque es la ruta que menos se explica. No
+   porque sea la mejor.
+
+### La evidencia
+El éxito profesional tiene componente objetivo y subjetivo, **y no los predicen los mismos
+factores**. Es lo que legitima que haya cinco finales y no uno.
+
+### Pepitas
+- *Solo una de las cinco escaleras tiene cola en la entrada. Y no es la mejor: es la única
+  señalizada.*
+- *Quedarse es una decisión excelente. Quedarse sin haberlo decidido no es una decisión.*
+
+### Contrapeso
+Elegir la ruta experta para evitar el conflicto no es elegir: es huir con mejor vocabulario. La
+prueba está en el capítulo siguiente.
+
+### Herramienta
+Tabla de cinco rutas por siete criterios. Ruta principal y alternativa, escritas.
+
+### Cierre y gancho
+> «Ya sabes que hay cinco puertas. Queda el problema de siempre: ¿cómo sabes cuál es la tuya sin
+> haberlas cruzado? Andrés lo descubrió gastando seis meses y bastante dignidad. Hay una forma más
+> barata.»
+
+**Técnicas:** contra-caso como apertura · cita textual que resume un año · dato de sueldo que
+invierte la expectativa · gancho por promesa de atajo.
+
+---
+
+## Cap. 3 · Pruébalo sin jugártela
+
+**Función:** convertir la duda en experimento. Es el capítulo que desbloquea al lector que dice
+«eso no es para mí».
+
+### La escena *(redactada)*
+
+> Tengo un compañero que lleva quince años diciendo que a él lo de mandar no le va. Que los
+> marrones se los quede otro.
+>
+> Es una postura respetable. Solo tiene un problema: nunca ha sido jefe.
+>
+> Lo que él llama una decisión es en realidad una predicción. Y las predicciones sobre cómo nos
+> sentiremos en sitios donde no hemos estado se nos dan muy mal — con las ciudades, con los
+> trabajos, con las personas.
+
+### El giro
+No hace falta aceptar un ascenso para saber si el trabajo te gusta. Hace falta hacer el trabajo
+durante ocho semanas.
+
+### La tesis
+> **No te descubres pensando: te descubres haciendo. Pero se puede hacer sin apostar la carrera.**
+
+### Ideas, en orden
+1. **La escalera de experimentos**, de menos a más riesgo: facilitar una reunión · liderar un
+   proyecto transversal de seis a ocho semanas con patrocinador y alcance escrito · una
+   sustitución o interinidad con fecha · y solo al final, el puesto.
+2. **Qué mirar en ti mismo mientras lo haces.** No «¿me gusta mandar?» sino tres preguntas
+   concretas: ¿disfruto desatascando lo de otros? ¿aguanto decidir sin tener toda la información?
+   ¿me compensa el día que hay que dar una mala noticia?
+3. **Emprender dentro, con el coste real.** Ya inviertes ocho horas ahí. El coste marginal de
+   hacerlo con un plan es mucho menor que el de montar algo fuera — **pero no es cero**: consume
+   horas y consume energía, que es una reserva como cualquier otra. Y la cabeza partida entre el
+   empleo y el proyecto de casa es lo peor de los dos mundos.
+4. **La advertencia legal, aquí y no en el capítulo 14:** «lo peor que puede pasar es que vuelvas»
+   no es verdad por defecto. Por eso se prueba **antes** con cosas reversibles.
+
+### La evidencia
+Ibarra y el *outsight*: la perspectiva nueva no llega reflexionando, llega después de haber
+empezado. Y el residuo de atención para el argumento de la cabeza partida.
+
+### Pepitas
+- *Rechazar algo que no has probado no es una decisión. Es una predicción, y predecimos fatal.*
+- *No hace falta apostar la carrera para saber si te gusta el trabajo. Hacen falta ocho semanas.*
+- *Emprender dentro no cuesta cero. Cuesta mucho menos, que es distinto.*
+
+### Contrapeso
+Un experimento sin fecha de fin no es un experimento: es trabajo extra permanente. Y si al
+terminarlo la respuesta es «no me gusta», eso es **un resultado**, no un fracaso.
+
+### Herramienta
+El experimento elegido, con fecha de inicio, fecha de cierre y las tres preguntas de
+autoobservación.
+
+### Cierre y gancho
+> «Ya tienes una forma barata de averiguar si quieres. Ahora falta lo otro, que es más incómodo:
+> aunque quieras y aunque valgas, hay tres puertas que tienen que abrirse a la vez. Y solo una de
+> las tres depende de ti.»
+
+**Técnicas:** apertura con personaje reconocible · reformulación *(decisión → predicción)* ·
+escalera de riesgo como tabla · gancho por revelación de obstáculo.
+
+---
+
+## Cap. 4 · Cómo se decide de verdad
 
 **Función:** entregar el mecanismo. Es el capítulo que justifica el precio.
 
@@ -232,6 +385,13 @@ Ascender al que rinde es la decisión localmente racional y globalmente equivoca
 > vacía.**
 
 ### Ideas, en orden
+0. **Las tres puertas del ascenso.** Una candidatura no avanza por una sola cadena de mérito:
+   necesita que se abran tres a la vez. **Capacidad demostrada** (alguien ha visto el trabajo del
+   nivel siguiente), **oportunidad organizativa** (hay vacante, presupuesto y ventana) y
+   **patrocinio** (alguien creíble está dispuesto a defenderlo en la sala). Fallar una las anula
+   todas — y solo la primera depende enteramente de ti. Esto reordena el libro: los capítulos 6 y
+   7 trabajan la primera puerta, el 9 y el 10 la tercera, y la segunda es la que hay que
+   diagnosticar antes de invertir dos años.
 1. Quién propone, quién compara, quién veta.
 2. **La ventana.** Las decisiones no se toman cuando tú estás listo: se toman en fechas concretas
    y hay que saber cuáles son.
@@ -265,7 +425,7 @@ regla de tres.
 
 ---
 
-## Cap. 3 · Tu inventario en una página
+## Cap. 5 · Tu inventario en una página
 
 **Función:** diagnóstico. El capítulo que convierte la lectura en trabajo.
 
@@ -326,7 +486,7 @@ paradoja de cierre.
 
 ---
 
-## Cap. 4 · Trabajar bien no basta
+## Cap. 6 · Trabajar bien no basta
 
 **Función:** el primer golpe fuerte. Aquí está el punto de abandono del 30% y aquí se blinda.
 
@@ -390,7 +550,7 @@ revelación de Javier · dato incómodo contado entero.
 
 ---
 
-## Cap. 5 · Haz una prueba del nivel siguiente
+## Cap. 7 · Haz una prueba del nivel siguiente
 
 **Función:** de registrar a producir. El capítulo más accionable del libro.
 
@@ -436,7 +596,7 @@ y más allá** del desempeño diario. Es exactamente lo que el capítulo necesit
 
 ### Contrapeso
 Aceptar todo lo difícil es la vía rápida al agotamiento. **Uno cada vez, con final.** Y el enlace
-al capítulo 4: si el encargo no es evaluable, es trabajo invisible con más horas.
+al capítulo 6: si el encargo no es evaluable, es trabajo invisible con más horas.
 
 ### Herramienta
 Carta de proyecto demostrativo.
@@ -453,7 +613,7 @@ por tabú.
 
 ---
 
-## Cap. 6 · Caer bien no es un defecto de carácter
+## Cap. 8 · Caer bien no es un defecto de carácter
 
 **Función:** el capítulo diferencial. El que hace que hablen del libro.
 
@@ -521,7 +681,7 @@ baba)* · honestidad sobre el privilegio · antítesis en las pepitas.
 
 ---
 
-## Cap. 7 · Mentor no: padrino
+## Cap. 9 · Mentor no: padrino
 
 **Función:** el capítulo del «ah, claro». Alta densidad de utilidad por página.
 
@@ -561,7 +721,7 @@ patrocinio es desigual. Decirlo aquí protege al libro entero.
 
 ### Contrapeso
 Un padrino es una apuesta que puede salir mal: si cae él, caes tú. Por eso tres observadores en
-tres áreas, y no uno solo. Enlaza con el capítulo 11.
+tres áreas, y no uno solo. Enlaza con el capítulo 13.
 
 ### Herramienta
 Tres candidatos, y qué problema suyo puedes resolver este trimestre.
@@ -576,7 +736,7 @@ suya»)* · promesa numerada de revelación.
 
 ---
 
-## Cap. 8 · La red que decide sobre ti
+## Cap. 10 · La red que decide sobre ti
 
 **Función:** el capítulo contraintuitivo. Aquí se rompe una creencia.
 
@@ -635,7 +795,7 @@ narración · corrección de un tópico · gancho por provocación.
 
 ---
 
-## Cap. 9 · Haz de jefe antes de serlo
+## Cap. 11 · Haz de jefe antes de serlo
 
 **Función:** el clímax del método. Es el capítulo que el lector recomienda.
 
@@ -703,7 +863,7 @@ tabla como argumento · pregunta-test memorizable · gancho por omisión.
 
 ---
 
-## Cap. 10 · Pide
+## Cap. 12 · Pide
 
 **Función:** el clímax emocional. Es el capítulo que cambia comportamientos.
 
@@ -751,7 +911,7 @@ desconocidos por la calle. Antes les preguntaron a cuántos calculaban que tendr
 - *Un «todavía no» solo vale si trae criterios y fecha. Lo demás es una forma educada de no.*
 
 ### Contrapeso
-Pedir sin haber hecho los capítulos 3 a 9 es pedir de más. La conversación funciona porque llega
+Pedir sin haber hecho los capítulos 5 a 11 es pedir de más. La conversación funciona porque llega
 al final, no al principio.
 
 ### Herramienta
@@ -767,7 +927,7 @@ capítulo 1 · quinta y última pista de Javier · gancho de amenaza.
 
 ---
 
-## Cap. 11 · Que no te lo hagan a ti
+## Cap. 13 · Que no te lo hagan a ti
 
 **Función:** el capítulo que nadie más escribe. Alto valor percibido y muy compartible.
 
@@ -829,7 +989,7 @@ Revisión de las ocho señales, con fecha.
 
 ---
 
-## Cap. 12 · Acepta con condiciones
+## Cap. 14 · Acepta con condiciones
 
 **Función:** cerrar las tres promesas del libro y abrir el libro 2.
 
@@ -914,12 +1074,15 @@ epílogo cierra con la respuesta que le daría hoy, en una sola frase.
 
 | Bucle | Abre | Cierra |
 |---|---|---|
-| ¿Qué hizo Javier? | Cap. 1 | Cap. 10, con resolución en el 12 |
-| ¿Qué pone en mi ficha? | Cap. 1 | Cap. 3 |
-| ¿Y si no es lo mío? | Cap. 1 | Cap. 12 |
-| La reversibilidad | Cap. 1 | Cap. 12 |
-| El auxiliar del barco | Prólogo | Cap. 12 |
+| ¿Qué hizo Javier? | Cap. 1 | Cap. 12, con resolución en el 14 |
+| ¿Y si no es lo mío? | Cap. 1 | Cap. 3, y se confirma en el 14 |
+| ¿Existe otra escalera? | Cap. 1 | Cap. 2 |
+| ¿Qué pone en mi ficha? | Cap. 1 | Cap. 5 |
+| Las tres puertas | Cap. 4 | Se cierran en 7, 10 y 12 |
+| La reversibilidad | Cap. 3 | Cap. 14 |
+| El auxiliar del barco | Prólogo | Cap. 14 |
 | La pregunta del hijo | Prólogo | Epílogo |
+
 
 **Regla:** ningún bucle abierto queda sin cerrar, y ninguno aguanta más de seis capítulos salvo los
 tres de largo recorrido.
@@ -929,19 +1092,22 @@ tres de largo recorrido.
 | Cap. | Función | Intensidad |
 |---|---|---|
 | 1 | Revelación | ▲▲▲▲ |
-| 2 | Mecanismo | ▲▲▲ |
-| 3 | Trabajo del lector | ▲▲ *(valle deliberado)* |
-| 4 | Primer golpe | ▲▲▲▲ |
-| 5 | Acción | ▲▲▲ |
-| 6 | Tabú | ▲▲▲▲▲ |
-| 7 | Utilidad | ▲▲▲ |
-| 8 | Contraintuitivo | ▲▲▲▲ |
-| 9 | Clímax del método | ▲▲▲▲▲ |
-| 10 | Clímax emocional | ▲▲▲▲▲ |
-| 11 | Giro defensivo | ▲▲▲▲ |
-| 12 | Resolución | ▲▲▲▲ |
+| 2 | Ensanchar la promesa | ▲▲▲ |
+| 3 | Desbloqueo | ▲▲▲▲ |
+| 4 | Mecanismo | ▲▲▲ |
+| 5 | Trabajo del lector | ▲▲ *(valle deliberado)* |
+| 6 | Primer golpe | ▲▲▲▲ |
+| 7 | Acción | ▲▲▲ |
+| 8 | Tabú | ▲▲▲▲▲ |
+| 9 | Utilidad | ▲▲▲ |
+| 10 | Contraintuitivo | ▲▲▲▲ |
+| 11 | Clímax del método | ▲▲▲▲▲ |
+| 12 | Clímax emocional | ▲▲▲▲▲ |
+| 13 | Giro defensivo | ▲▲▲▲ |
+| 14 | Resolución | ▲▲▲▲ |
 
-**El valle del capítulo 3 es intencionado.** Sin valles no hay picos, y un libro a intensidad
+
+**El valle del capítulo 5 es intencionado.** Sin valles no hay picos, y un libro a intensidad
 constante agota. Se compensa dándole al lector su primera herramienta.
 
 ## Reparto de estudios — uno por capítulo
@@ -949,17 +1115,20 @@ constante agota. Se compensa dándole al lector su primera herramienta.
 | Cap. | Estudio en el cuerpo |
 |---|---|
 | 1 | Los tres criterios del potencial *(sin cifra)* |
-| 2 | Benson, Li y Shue — QJE 2019 |
-| 3 | Las cinco reservas *(marco, declarado como tal)* |
-| 4 | Babcock et al. — AER 2017 |
-| 5 | De Pater et al. — 2009 |
-| 6 | Vonk — JPSP 1998 |
-| 7 | Hewlett *(con cautela explícita)* |
-| 8 | Rajkumar et al. — Science 2022 |
-| 9 | Google, Proyecto Oxígeno + Gallup |
-| 10 | Flynn y Bohns — JPSP 2008 |
-| 11 | Keeves, Westphal y McDonald — ASQ 2017 |
-| 12 | Otto et al. — HRMJ 2022 |
+| 2 | Ng, Eby, Sorensen y Feldman — 2005 |
+| 3 | Ibarra, *outsight* + Leroy, residuo de atención |
+| 4 | Benson, Li y Shue — QJE 2019 |
+| 5 | Las cinco reservas *(marco, declarado como tal)* |
+| 6 | Babcock et al. — AER 2017 |
+| 7 | De Pater et al. — 2009 |
+| 8 | Vonk — JPSP 1998 |
+| 9 | Hewlett *(con cautela explícita)* |
+| 10 | Rajkumar et al. — Science 2022 |
+| 11 | Google, Proyecto Oxígeno + Gallup |
+| 12 | Flynn y Bohns — JPSP 2008 |
+| 13 | Keeves, Westphal y McDonald — ASQ 2017 |
+| 14 | Otto et al. — HRMJ 2022 |
+
 
 Todo lo demás vive en las **notas finales**, ordenadas por capítulo. Ocho páginas que casi nadie
 leerá y que todo el mundo mirará antes de comprar.
@@ -975,4 +1144,5 @@ leerá y que todo el mundo mirará antes de comprar.
 - [ ] ¿La acción se hace en menos de treinta minutos y sin permiso?
 - [ ] ¿La última línea abre el capítulo siguiente?
 - [ ] ¿Se avanza el hilo de Marta y Javier, o se decide conscientemente no tocarlo?
+- [ ] ¿Toda cifra o diálogo viene de una fuente real, o está escrito sin número?
 - [ ] Leído en voz alta entero, ¿dónde tropiezas?
