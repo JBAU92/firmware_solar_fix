@@ -3,9 +3,11 @@
 import re, sys, pathlib, collections
 
 BASE = pathlib.Path(__file__).resolve().parents[2] / 'manuscrito'
-SECTOR = {1:'oficina',2:'tecnico',3:'oficina',4:'ventas',5:'libre',6:'restauracion',
-          7:'logistica',8:'industria',9:'juridico',10:'retail',11:'oficina',12:'sanidad',
-          13:'retail/industria',14:'oficina'}
+SECTOR = {0:'— prólogo —',1:'oficina',2:'tecnico',3:'oficina',4:'ventas',5:'libre',
+          6:'restauracion',7:'logistica',8:'industria',9:'juridico',10:'retail',11:'oficina',
+          12:'sanidad',13:'retail/industria',14:'oficina',15:'— epílogo —'}
+# piezas de marco: objetivo propio, mucho más corto que un capítulo
+MARCO = {0:(600,900), 15:(600,900)}
 REVELACION = {1,6,8,10,11,12,14}
 NEGRAS = ['Gino','Ariely','power posing','postura de poder','10.000 horas','diez mil horas',
           '93 %','93%','Mehrabian','70-20-10','uno de cada siete','1 de cada 7','siete segundos']
@@ -56,18 +58,24 @@ def check(path):
         errs.append("HILO: capítulo con revelación asignada y sin Marta ni Javier")
 
     # 6 · extensión
-    if n and not (1900 <= palabras <= 2600):
+    if n in MARCO:
+        lo, hi = MARCO[n]
+        if not (lo <= palabras <= hi):
+            warns.append(f"EXTENSIÓN: {palabras} palabras (objetivo {lo}–{hi})")
+    elif n and not (1900 <= palabras <= 2600):
         (errs if (palabras>2900 or palabras<1500) else warns).append(
             f"EXTENSIÓN: {palabras} palabras (objetivo 2.000–2.500)")
 
-    # 8 · cadencia de máquina
+    # 8 · cadencia de máquina — las piezas de marco no exigen párrafo largo
+
     noesx = len(re.findall(r'\bno es\b[^.]{1,60}\bes\b', cuerpo, re.I))
     if noesx > 2: errs.append(f"CADENCIA: «no es… es» {noesx} veces (máx 2)")
     rayas = len(re.findall(r'—', cuerpo))
     if 1000*rayas/max(palabras,1) > 14: warns.append(f"rayas: {1000*rayas/max(palabras,1):.0f}/1000")
     parras = [len(p.split()) for p in re.split(r'\n\s*\n', cuerpo) if len(p.split())>4 and not p.startswith(('|','#','>'))]
     if parras and not any(p<=25 for p in parras): warns.append("sin párrafo corto")
-    if parras and not any(p>=90 for p in parras): warns.append("sin párrafo largo")
+    if parras and n not in MARCO and not any(p>=90 for p in parras):
+        warns.append("sin párrafo largo")
 
     # 9 · gancho
     if n and n < 14 and '> GANCHO' not in t:
@@ -89,7 +97,9 @@ def main():
         for e in errs:  print(f"       ✗ {e}")
         for w in warns: print(f"       · {w}")
     print("-"*78)
-    print(f"total: {total:,} palabras · objetivo del cuerpo ~30.800 · fallos: {fallos}")
+    cuerpo = total - sum(check(f)[1] for f in files if int(re.match(r'(\d+)', f.stem).group(1)) in MARCO)
+    print(f"total: {total:,} palabras · cuerpo (caps. 1–14): {cuerpo:,} · objetivo ~30.800 · "
+          f"fallos: {fallos}")
     return 1 if fallos else 0
 
 if __name__ == '__main__':
