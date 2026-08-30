@@ -39,10 +39,15 @@ curiosidad. El lector no pasa página para aprender: pasa página **porque quier
 Javier**. Es el motor que tiene una novela y que casi ningún libro de no ficción se molesta en
 construir.
 
-**Y el giro final, en el capítulo 14:** Marta no fracasó. Marta, dos años después, dirige una
-especialidad, gana más que Javier y trabaja treinta y ocho horas. Eligió otra ruta —a
-conciencia—, que es exactamente la tesis de los cuatro finales. El libro cierra sin sermón porque
-la historia hace el trabajo del sermón.
+**Y el giro final, en el capítulo 14:** ninguno de los dos fracasó. Javier dirige un equipo y le
+va bien — su decisión se presenta como **normal y buena**, porque si el libro insinúa en su última
+página que subir sale mal, se contradice entero. Y Marta aprendió, pero tarde y a base de palos:
+tardó dos años en entender lo que Javier había entendido antes, y cuando lo hizo se le abrió un
+movimiento lateral.
+
+**La diferencia no es quién eligió mejor. Es que uno lo aprendió antes y a la otra le costó cuatro
+años.** El libro cierra sin sermón porque la historia hace el trabajo del sermón: lo que hay que
+aprender no es a subir, es a moverse.
 
 ## 1 bis. ⚠️ Regla de integridad narrativa
 
@@ -78,6 +83,65 @@ frase.
 | **El auxiliar del barco** | El arco largo real (Michael Bayley) | Cuatro entregas: prólogo, 5, 9 y 12 |
 | **El expediente** | Lo que el lector construye | Cierre de cada capítulo |
 | **La promesa reversible** | «Lo peor que puede pasar» | Se abre en 1, se cierra en 12 |
+
+## 2 bis. ⚠️ Regla de sectores — el libro no va de oficinas
+
+**El error más caro que puede cometer este libro es sonar a oficina.** Si todos los ejemplos son
+reuniones, informes y comités, se pierde a más de la mitad del mercado en el capítulo 2 — y encima
+al segmento con menos competencia editorial, porque nadie escribe para ellos.
+
+**Regla dura:** de los catorce capítulos, **como máximo cinco** abren con una escena de oficina.
+Y **nunca dos capítulos seguidos** del mismo sector.
+
+### Reparto de escenas por sector
+
+| Cap. | Sector de la escena de apertura |
+|---|---|
+| 1 | Oficina *(el comité — aquí es inevitable)* |
+| 2 | Industria / técnico |
+| 3 | Oficina |
+| 4 | Comercial / ventas |
+| 5 | Cualquiera *(es un ejercicio del lector)* |
+| 6 | Restauración |
+| 7 | Logística / almacén |
+| 8 | Oficina |
+| 9 | Servicios profesionales *(bufete)* |
+| 10 | Retail / tienda |
+| 11 | Oficina |
+| 12 | Sanidad |
+| 13 | Retail o industria |
+| 14 | Oficina *(cierre de Marta y Javier)* |
+
+### La tabla de equivalencias
+
+**Y la técnica que lo hace funcionar:** cada vez que se explica un mecanismo, se enseña el mismo
+mecanismo en dos oficios distintos. El lector de almacén entiende que lo suyo es lo mismo que lo
+del abogado, y el de oficina descubre que no era tan especial. Esto se dice explícitamente en el
+capítulo 1 y se practica en todos los demás.
+
+| Mecanismo | Restauración | Almacén | Bufete | Oficina |
+|---|---|---|---|---|
+| **Rendir muy bien** | Montar las hamburguesas más rápido y sin fallos | Picar más pedidos sin errores | Facturar horas y ganar casos | Los mejores informes, y antes de plazo |
+| **Trabajo invisible** | Limpiar la freidora, formar al nuevo | Cuadrar inventario, cubrir turnos | Formar becarios, comités internos | Actas, coordinar, apagar fuegos |
+| **Prueba del nivel siguiente** | Llevar el cierre del local un mes | Coordinar la campaña de Navidad | Llevar un cliente propio | Liderar un proyecto transversal |
+| **Padrino** | El gerente que te mete en el programa de encargados | El jefe de plataforma | El socio que te lleva a la reunión con el cliente | El director que dice tu nombre en el comité |
+| **Lazos débiles** | Gente de otros locales de la zona | Otros almacenes, transportistas | Otros departamentos y clientes | Otras áreas |
+| **El ascenso trampa** | Te dan el local que va mal, sin personal | Jefe del turno de noche, sin equipo | Socio sin cartera propia | Jefe de un equipo con dos bajas |
+| **La ruta experta** | Formador o auditor de calidad de la zona | Especialista en planificación | *Of counsel*, especialista | Referente técnico |
+| **La salida** | **Montar tu propia franquicia** | Jefe de almacén en otra empresa | Abrir despacho | Cambiar de empresa |
+
+### El caso de la franquicia — merece recuadro propio
+
+La última fila de la derecha es oro para el libro y conviene desarrollarla en el capítulo 2: **la
+persona que entra a hacer hamburguesas a los diecinueve, llega a gerente, y acaba con su propia
+franquicia.** Es la respuesta perfecta al lector que quiere emprender, porque demuestra la tesis
+entera del libro: **la escalera de la empresa fue el camino hacia su propio negocio, no la
+alternativa.** La compañía le pagó por aprender a llevar un local antes de dejarle llevar uno
+suyo.
+
+Cuando se cuente, dos cautelas: es un modelo que exige capital y no está al alcance de todo el
+mundo, y las condiciones varían mucho por marca y por país. Se cuenta como ruta real, no como
+promesa.
 
 ## 3. Las técnicas, y dónde se usa cada una
 
@@ -197,11 +261,24 @@ juzgando.
 2. **Los tres sistemas.** Desempeño ≠ promoción ≠ carrera. *«Llevas años mejorando el sistema
    equivocado.»* Aquí, en dos páginas, va también el aviso de las cinco rutas: no todas las
    escaleras llevan a una vida mejor, y el capítulo 14 vuelve sobre ello.
-3. **Los tres criterios reales:** capacidad, aspiración, compromiso. El lector cumple uno y no
+3. **La trampa del imprescindible.** Aquí va el giro que cambia la escena entera, y hay que darlo
+   pronto: **ascender a Marta tampoco le convenía a la empresa.** Si Marta sube, ¿quién cierra el
+   mes? Lleva cuatro años siendo la única que sabe hacerlo. El comité no estaba eligiendo entre
+   una persona buena y otra peor: estaba eligiendo entre **perder algo seguro** —lo que Marta
+   produce hoy— y **ganar algo incierto** —lo que Marta produciría en un puesto que nadie la ha
+   visto hacer nunca—.
+   Y la segunda mitad, que duele más: **ser muy bueno en tu trabajo no dice nada sobre si serás
+   bueno en el de arriba.** Son trabajos distintos. Nadie contrata a un cocinero excelente para
+   dirigir el restaurante solo porque cocine bien.
+   **Consecuencia práctica, y es de las más útiles del libro:** tu objetivo no es ser
+   imprescindible. Es exactamente el contrario — ser **sustituible donde estás y creíble donde
+   quieres ir**. Formar a quien te releve no es regalar tu puesto: es quitar el único argumento
+   sólido que existe para no moverte.
+4. **Los tres criterios reales:** capacidad, aspiración, compromiso. El lector cumple uno y no
    sabe que existen los otros dos. *(Hueco de información puro.)*
-4. **La política de oficina, de frente**, en un párrafo y sin sermón: sí existe, sí funciona, te la
+5. **La política de oficina, de frente**, en un párrafo y sin sermón: sí existe, sí funciona, te la
    voy a explicar entera, y también voy a enseñarte a defenderte.
-5. **La promesa reversible:** lo peor que puede pasar. Se enuncia aquí y se cumple en el 12.
+6. **La promesa reversible:** lo peor que puede pasar. Se enuncia aquí y se cumple en el 12.
 
 ### La evidencia
 Los tres criterios del alto potencial. **Sin la cifra popular** de «uno de cada siete» —está en la
@@ -209,10 +286,17 @@ lista negra hasta tener el informe original—. La idea se sostiene sola.
 
 ### Pepitas
 - *No te ascienden por lo que haces. Te ascienden por lo que creen que podrás hacer.*
+- **_Ser imprescindible en tu puesto no es una ventaja. Es la razón por la que no te mueven de
+  él._** ← candidata a frase de contraportada
+- *Nadie pone a dirigir el restaurante al mejor cocinero solo porque cocine bien.*
 - *Llevas años mejorando el sistema equivocado.*
-- *Hay una sala donde se habla de ti y no te han invitado. Este libro va de lo que se dice dentro.*
 
 ### Contrapeso
+**Y una promesa de alcance, que va en el capítulo 1 y se cumple en los trece siguientes:** esto no
+es un libro de oficina. El que monta las hamburguesas más rápido y sin fallos y el que entrega los
+mejores informes antes de plazo tienen exactamente el mismo problema, y la solución también es la
+misma. En cada capítulo el mecanismo aparece en al menos dos oficios distintos.
+
 Nada de esto controla si hay vacante. Se dice ya, en el capítulo 1: el libro sube tus
 probabilidades, no te garantiza nada. Prometer menos al principio permite entregar más al final.
 
@@ -220,9 +304,11 @@ probabilidades, no te garantiza nada. Prometer menos al principio permite entreg
 Diagnóstico en quince minutos. **Primera victoria antes de la página veinte.**
 
 ### Cierre y gancho
-> «Marta hacía su trabajo mejor que nadie. El problema es que “mejor que nadie” no es una casilla
-> de esa cuadrícula. En el capítulo siguiente vas a ver cuáles son las casillas de verdad — y por
-> qué el sistema que las dibujó está roto de una forma que te conviene.»
+> «Marta hacía su trabajo mejor que nadie. Y eso, que parece el mejor argumento del mundo, era en
+> realidad el argumento en su contra.
+>
+> Antes de aprender a moverte por la escalera hay una pregunta que casi nadie se hace, y es si la
+> escalera que tienes delante es la tuya. Resulta que hay cinco.»
 
 **Técnicas:** in medias res · sinécdoque (la cuadrícula) · personajes recurrentes · indignación
 dirigida · hueco de información · prolepsis.
@@ -322,12 +408,36 @@ durante ocho semanas.
 2. **Qué mirar en ti mismo mientras lo haces.** No «¿me gusta mandar?» sino tres preguntas
    concretas: ¿disfruto desatascando lo de otros? ¿aguanto decidir sin tener toda la información?
    ¿me compensa el día que hay que dar una mala noticia?
-3. **Emprender dentro, con el coste real.** Ya inviertes ocho horas ahí. El coste marginal de
-   hacerlo con un plan es mucho menor que el de montar algo fuera — **pero no es cero**: consume
-   horas y consume energía, que es una reserva como cualquier otra. Y la cabeza partida entre el
-   empleo y el proyecto de casa es lo peor de los dos mundos.
-4. **La advertencia legal, aquí y no en el capítulo 14:** «lo peor que puede pasar es que vuelvas»
-   no es verdad por defecto. Por eso se prueba **antes** con cosas reversibles.
+3. **Emprender dentro: de dónde sale el tiempo.** Aquí está el argumento honesto, y no es «no
+   cuesta nada».
+   **Seamos sinceros: no das el cien por cien. Nadie lo da.** Hay ratos muertos, reuniones que
+   podrían ser un correo, media hora de móvil, y ese rato en que estás en tu mesa pensando en tu
+   proyecto de casa. No es un reproche — es aritmética, y es lo que hace viable todo lo demás.
+   **El coste no son horas extra: es reasignar la holgura que ya tienes.** Media hora al día que
+   hoy se te va en otra cosa. Eso sí que es un coste marginal bajo, y es verdad, a diferencia de
+   decir que cuesta cero.
+   **Y la parte que conviene decirle al lector en voz alta:** la inmensa mayoría de la gente va a
+   cumplir. Ficha, hace lo suyo, se va. No es mala gente: es lo normal. Lo que significa que
+   **hacer un poco más ya te pone muy por delante**, y no hace falta ser un fenómeno ni echar
+   horas. Basta con ser de los pocos que llegan con un plan.
+   La trampa que sí hay que evitar es la cabeza partida: estar en la oficina con la mente en el
+   proyecto de casa es lo peor de los dos mundos — no rindes ni avanzas.
+4. **Qué pasa de verdad si aceptas y no te gusta.** Y aquí hay que ser preciso, porque es fácil
+   pasarse de optimista y también de agorero:
+   - **Lo más probable, con diferencia, es que salga bien la marcha atrás.** Hablándolo con tu
+     jefe, lo normal es volver a tu puesto o a uno parecido. A ninguna empresa le sobra la gente
+     buena, y a nadie le interesa que te vayas.
+   - **Lo que no existe es la garantía automática.** No hay un botón. Consolidado el ascenso,
+     volver es un acuerdo, no un derecho. Por eso se pide el paracaídas **antes** — no porque
+     vayas a caer, sino porque pedirlo el primer día es gratis y pedirlo el día 200 es una
+     negociación desde abajo.
+   - **Y lo que te llevas puesto aunque vuelvas**, que es la parte que casi nadie calcula:
+     **has dirigido**. Eso es un hito desbloqueado en tu currículum y no se borra. Hay puestos a
+     los que no te podías ni presentar y a los que ahora sí. Dentro de la empresa pasa lo mismo:
+     durante esos meses te ha visto gente que antes no sabía que existías, y **se abren
+     movimientos laterales que antes no estaban a tu alcance**.
+   - **Y la información**, que es lo que fuiste a buscar: ya sabes si te gusta. Eso no se consigue
+     de ninguna otra manera.
 
 ### La evidencia
 Ibarra y el *outsight*: la perspectiva nueva no llega reflexionando, llega después de haber
@@ -335,12 +445,16 @@ empezado. Y el residuo de atención para el argumento de la cabeza partida.
 
 ### Pepitas
 - *Rechazar algo que no has probado no es una decisión. Es una predicción, y predecimos fatal.*
-- *No hace falta apostar la carrera para saber si te gusta el trabajo. Hacen falta ocho semanas.*
-- *Emprender dentro no cuesta cero. Cuesta mucho menos, que es distinto.*
+- *Pide el paracaídas el primer día. No porque vayas a caer: porque el primer día es gratis.*
+- *Aunque vuelvas, vuelves con algo que no tenías: has dirigido. Eso ya no te lo quita nadie.*
 
 ### Contrapeso
 Un experimento sin fecha de fin no es un experimento: es trabajo extra permanente. Y si al
 terminarlo la respuesta es «no me gusta», eso es **un resultado**, no un fracaso.
+
+**Aviso de tono para escribir este capítulo:** el riesgo aquí es asustar. La cifra emocional que
+tiene que quedar es *«lo normal es que salga bien y, si no, se arregla hablando»*, no *«ojo, que
+te puedes quedar sin nada»*. La cautela legal ocupa dos frases, no dos páginas.
 
 ### Herramienta
 El experimento elegido, con fecha de inicio, fecha de cierre y las tres preguntas de
@@ -376,13 +490,27 @@ escalera de riesgo como tabla · gancho por revelación de obstáculo.
 >
 > El sistema funcionó exactamente como está diseñado. Y ese es el problema.
 
-### El giro
-Ascender al que rinde es la decisión localmente racional y globalmente equivocada. Está medido.
+### El giro — y aquí se resuelve una contradicción aparente
+
+**Ojo al escribir este capítulo.** El lector viene del capítulo 1, donde le hemos dicho que *no
+ascienden por rendimiento, ascienden por potencial*. Y ahora abrimos con una empresa que asciende
+al que más vende. Si no se explica, el lector piensa que nos estamos contradiciendo — y tiene
+razón en pensarlo.
+
+**La resolución es la mitad del valor del capítulo:**
+
+> **Las empresas dicen que ascienden por potencial. La mayoría asciende por rendimiento. Ese hueco
+> entre lo que dicen y lo que hacen es donde vive tu oportunidad.**
+
+Las dos cosas son verdad a la vez. La doctrina oficial del mundo del talento —los tres criterios,
+las nueve casillas, los comités— es real y está escrita. Y el dato duro dice que, en la práctica,
+el rendimiento actual sigue pesando muchísimo más de lo que debería. Ascender al que rinde es la
+decisión localmente racional y globalmente equivocada, y está medido.
 
 ### La tesis
 > **Las empresas ascienden por rendimiento presente cuando lo que necesitan es potencial futuro.
 > Ese error es tu mayor oportunidad: si demuestras potencial, compites en una categoría casi
-> vacía.**
+> vacía. Pero primero tienes que saber en qué tipo de empresa estás.**
 
 ### Ideas, en orden
 0. **Las tres puertas del ascenso.** Una candidatura no avanza por una sola cadena de mérito:
@@ -392,12 +520,25 @@ Ascender al que rinde es la decisión localmente racional y globalmente equivoca
    todas — y solo la primera depende enteramente de ti. Esto reordena el libro: los capítulos 6 y
    7 trabajan la primera puerta, el 9 y el 10 la tercera, y la segunda es la que hay que
    diagnosticar antes de invertir dos años.
-1. Quién propone, quién compara, quién veta.
-2. **La ventana.** Las decisiones no se toman cuando tú estás listo: se toman en fechas concretas
+1. **¿De qué tipo es tu empresa?** El diagnóstico que el lector se lleva de este capítulo, y que
+   cambia toda su estrategia:
+
+| | **La que asciende por rendimiento** | **La que asciende por potencial** |
+|---|---|---|
+| Cómo se reconoce | El último ascenso fue para «el que más vende / más produce». No hay comité, decide el jefe. No existe descripción escrita del nivel siguiente | Hay comités o calibraciones. Hay planes de sucesión. Te han preguntado alguna vez dónde te ves |
+| Quién manda ahí | Casi todas las pymes y muchas grandes | Grandes empresas con departamento de talento |
+| Tu estrategia | Rendir alto **te va a ascender igual**, así que el riesgo no es que no te suban: es que te suban a un puesto que no sabes hacer. **Los experimentos del capítulo 3 son urgentes, no opcionales** | Rendir alto **no te va a bastar nunca**. Necesitas pruebas del nivel siguiente y observadores que las hayan visto. Aquí es donde todo este libro paga |
+| El peligro | Acabar como Nacho | Acabar como Marta |
+
+**Y el aviso honesto:** la mayoría de las empresas están en la primera columna. Nacho no es un caso
+raro ni una empresa mal gestionada. Es lo normal.
+
+2. Quién propone, quién compara, quién veta.
+3. **La ventana.** Las decisiones no se toman cuando tú estás listo: se toman en fechas concretas
    y hay que saber cuáles son.
-3. **La vacante.** Puedes hacerlo todo bien y no haber sitio. Se dice aquí, pronto, sin dramatismo.
-4. El sector público, en dos párrafos: otras reglas, y qué partes del método siguen valiendo.
-5. **Cómo se explota el error:** todo el mundo demuestra rendimiento; casi nadie demuestra
+4. **La vacante.** Puedes hacerlo todo bien y no haber sitio. Se dice aquí, pronto, sin dramatismo.
+5. El sector público, en dos párrafos: otras reglas, y qué partes del método siguen valiendo.
+6. **Cómo se explota el error:** todo el mundo demuestra rendimiento; casi nadie demuestra
    potencial. Puerta abierta.
 
 ### La evidencia — el corazón del libro
@@ -406,6 +547,8 @@ rendimiento de los comerciales de ciento treinta y una empresas. Querían saber 
 más vende sale bien. La respuesta fue que no…»*
 
 ### Pepitas
+- *Las empresas dicen que ascienden por potencial. La mayoría asciende por rendimiento. En ese
+  hueco vive tu oportunidad.*
 - *Nacho no fracasó. El sistema acertó al ascenderlo y se equivocó al elegirlo.*
 - *Todo el mundo demuestra rendimiento. Casi nadie demuestra potencial. Ahí tienes tu hueco.*
 
@@ -416,9 +559,9 @@ El estudio es de comerciales. No extrapolar sin decirlo. Y decirlo **suma** cred
 Mapa de decisión: actores, ventana, vacante.
 
 ### Cierre y gancho
-> «Ya sabes dónde se decide y con qué criterio. Queda la pregunta incómoda: en esos criterios, ¿tú
-> qué tienes de verdad? No lo que crees. Lo que podrías demostrar el jueves si alguien te lo
-> pidiera.»
+> «Ya sabes de qué tipo es tu empresa y con qué criterio decide. Queda la pregunta incómoda: en
+> esos criterios, ¿tú qué tienes de verdad? No lo que crees. Lo que podrías demostrar el jueves si
+> alguien te lo pidiera.»
 
 **Técnicas:** contraejemplo como apertura · exculpación (nadie hizo nada mal) · dato como relato ·
 regla de tres.
@@ -1021,9 +1164,21 @@ La pregunta no es «¿me lo dan?». Es «¿en qué condiciones esto es viable?»
    lo cumple diciendo la verdad.**
 3. **Los cuatro finales válidos**, breves: la promoción aceptada, la especialidad elegida, el
    movimiento lateral, la salida decidida. Sin jerarquía moral entre ellos.
-4. **Marta y Javier, dos años después.** Javier dirige un equipo de nueve y le está costando.
-   Marta dirige una especialidad, gana algo más que él y trabaja treinta y ocho horas. **Eligió.**
-   Y elegir era el objetivo desde el principio.
+4. **Marta y Javier, cuatro años después.** Y aquí hay que tener mucho cuidado con el tono,
+   porque es donde el libro se juega su coherencia.
+   **Javier dirige un equipo de nueve personas.** Los primeros meses le costaron —eso se cuenta,
+   sin dramatizar— y ahora le va bien. No es un mártir ni un trepa: es alguien a quien le gusta el
+   trabajo que hace. **Su decisión se presenta como lo que es: normal, y buena.** Si el libro
+   insinúa que subir sale mal, se contradice a sí mismo en la última página.
+   **Y Marta aprendió, pero a base de palos.** Tardó dos años en entender lo que Javier había
+   entendido antes: que había que decirlo en voz alta, que había que dejar que la vieran, que
+   formar a alguien que la sustituyera no era regalar su puesto. Cuando por fin lo hizo, se le
+   abrió un movimiento lateral a una especialidad que ni sabía que existía. **Hoy también está
+   bien.**
+   **La moraleja, y es la del libro entero:** ninguno de los dos ganó ni perdió. Los dos
+   aprendieron a moverse. La diferencia es que **Javier lo aprendió antes y Marta lo aprendió
+   después, y eso le costó cuatro años.** Lo que hay que aprender no es a subir: es a moverte por
+   la escalera — y entonces ya eliges tú si subes, si te desplazas o si te quedas.
 
 ### La evidencia
 Otto et al.: la promoción eleva la satisfacción laboral **y el efecto se diluye al año**. El punto
@@ -1032,7 +1187,9 @@ de referencia se actualiza. Es el dato perfecto para este capítulo: no desanima
 ### Pepitas
 - *El día que aceptas es el último día que tienes poder de negociación.*
 - *La reversibilidad no se hereda. Se negocia, y se negocia antes.*
-- *No hay un final bueno y tres malos. Hay cuatro finales, y el objetivo era que eligieras tú.*
+- **_Ni Javier ganó ni Marta perdió. Javier aprendió a moverse antes, y eso le ahorró cuatro
+  años._**
+- *Lo que hay que aprender no es a subir. Es a moverse. Subir es solo una de las direcciones.*
 
 ### Contrapeso
 Negociar condiciones puede leerse como falta de entusiasmo. Cómo hacerlo sin que lo parezca: se
@@ -1042,8 +1199,8 @@ pregunta desde el «para hacerlo bien necesito saber», no desde el «a cambio d
 La lista de aceptación. Última página del expediente.
 
 ### Cierre y gancho — al epílogo y al libro 2
-> «Marta eligió y Javier eligió. Los dos acertaron, y ninguno de los dos lo habría sabido sin
-> probar.
+> «Marta y Javier están los dos bien. Javier lo supo a los dos años; Marta, a los seis. Esa es toda
+> la diferencia, y son cuatro años de tu vida.
 >
 > Si el tuyo fue el camino de Javier, dentro de tres meses vas a tener un problema nuevo y bastante
 > más urgente que este: nueve personas mirándote a las nueve de la mañana. De eso va el siguiente
