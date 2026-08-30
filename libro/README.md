@@ -69,6 +69,7 @@ libro también enseña a elegir cuál subir, o a no subir ninguna.
 | [12-sistema-de-promocion.md](12-sistema-de-promocion.md) | **Los tres sistemas, las cinco reservas, los bucles y las trampas.** La capa conceptual que diferencia el libro |
 | [13-influencia-y-defensa.md](13-influencia-y-defensa.md) | **La política de oficina, tratada de frente:** por qué la congraciación funciona y cómo se hace bien, agregar frente a apropiarse, y ocho señales para defenderte |
 | [14-plan-condensado.md](14-plan-condensado.md) | ⭐ **El plan vigente del libro 1.** Doce capítulos, 140 páginas, la economía que lo hace rentable y qué se va al libro 2 |
+| [15-biblia-de-capitulos.md](15-biblia-de-capitulos.md) | ⭐⭐ **Desde aquí se escribe.** Los doce capítulos con la escena de apertura ya redactada, tesis, evidencia, pepitas, contrapeso, cierre y el gancho literal al siguiente |
 
 ---
 

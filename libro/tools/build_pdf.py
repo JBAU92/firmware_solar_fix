@@ -21,6 +21,7 @@ ORDER = [
     ('12-sistema-de-promocion.md',    'La promoción como sistema'),
     ('13-influencia-y-defensa.md',    'Influencia real y defensa'),
     ('14-plan-condensado.md',         'Plan condensado del libro 1'),
+    ('15-biblia-de-capitulos.md',     'Biblia de capítulos'),
 ]
 
 # ---------------------------------------------------------------- inline
