@@ -21,17 +21,21 @@ No hizo la pelota. No pisó a nadie. Hizo, una por una, las cosas que este libro
 último capítulo el lector descubre que llevaba doscientas páginas juzgando mal a alguien por hacer
 exactamente lo que él va a empezar a hacer mañana.
 
-**El calendario de revelación:**
+**El calendario de revelación — las cinco cosas que Javier puso encima de la mesa:**
 
-| Cap. | Lo que el lector descubre de Javier |
+| Cap. | Lo que el lector descubre |
 |---|---|
-| 1 | Ascendió. Marta no. Marta era mejor técnicamente. *(Indignación)* |
-| 6 | Mandaba tres líneas a su jefe los viernes. Nada más |
-| 8 | Caía bien, y no por adular: preguntaba y volvía con respuestas |
-| 10 | Conocía a gente de tres departamentos. Marta, de uno |
-| 11 | Presentó el trabajo del equipo en un comité — **con los nombres** |
-| 12 | **Lo pidió.** Marta nunca lo pidió |
-| 14 | Dos años después: dónde acabaron los dos. Y quién eligió mejor |
+| 1 | Ascendió Javier. Sobre Marta había dos cosas; sobre él, cinco. *(Indignación)* |
+| 6 | **Una:** mandaba tres líneas a su jefe los viernes. Su impacto era legible |
+| 8 | **Dos:** la gente quería trabajar con él. Y no por adular: preguntaba y volvía con respuestas |
+| 10 | **Tres:** le había visto trabajar gente de otros tres departamentos |
+| 11 | **Cuatro:** presentó el trabajo del equipo en un comité, con los nombres. Le vieron haciendo el trabajo de arriba |
+| 12 | **Cinco:** lo pidió. Marta nunca lo pidió |
+| 14 | Cuatro años después: dónde acabaron los dos, y qué le costó a ella aprenderlo tarde |
+
+**Ninguna de las cinco era trabajar más.** Esa frase se dice en el capítulo 1 y se demuestra a lo
+largo del libro.
+
 
 
 **Por qué funciona:** es un bucle abierto de largo recorrido que no depende del método sino de la
@@ -73,6 +77,35 @@ estudios. La credibilidad no se reparte por bloques: se pierde entera.
 **Michael Bayley es la excepción, y por eso hay que tratarlo aparte:** hechos corporativos
 verificables por un lado, interpretación del mecanismo por otro, y nunca mezclados en la misma
 frase.
+
+## 1 ter. La idea que sostiene el libro entero: **la mesa**
+
+Si el libro tiene una sola imagen, es esta. Se planta en el capítulo 1, se explica en el 4 y
+organiza los diez siguientes.
+
+> Cuando se sientan a decidir quién sube, hay una mesa. Encima hay cosas sobre ti. Para casi todo
+> el mundo hay exactamente dos: **sus números y la opinión de su jefe**. Con eso deciden, porque
+> es lo que hay.
+
+**Por qué esta imagen resuelve el problema que ninguna otra formulación resolvía:**
+
+- **No dice que las empresas sean tontas ni injustas.** Deciden razonablemente con la información
+  que tienen. Eso hace el libro creíble para quien ya tiene experiencia.
+- **No le dice al lector que rinda más**, que es lo que ya hace y no le funciona.
+- **No parte a las empresas en buenas y malas.** Sirve igual en un McDonald's que en una
+  multinacional con comité de talento: la mesa siempre está, solo cambia quién se sienta.
+- **Convierte los diez capítulos siguientes en una lista concreta:** cada uno pone una cosa
+  distinta encima. Deja de ser un libro de consejos y pasa a ser un procedimiento.
+- **Y da la métrica del lector**, que puede comprobar él solo: *¿qué hay hoy encima de mi mesa?
+  ¿Y dentro de seis meses?*
+
+**La frase, para la contraportada:** *Tu trabajo no es rendir más. Es cambiar lo que hay encima de
+la mesa.*
+
+**Cuidado con la formulación que hay que evitar** —y que estuvo a punto de colarse en una versión
+anterior de este plan—: decir que *«unas empresas ascienden por rendimiento y otras por
+potencial»*. Es falso, y además destruye el libro: si el lector concluye que la suya asciende al
+que más rinde, la conclusión lógica es cerrar el libro y seguir rindiendo.
 
 ## 2. Los cinco hilos
 
@@ -239,11 +272,16 @@ mismo.*
 > sin un solo error, y a la que todo el equipo llamaba cuando algo se rompía. Y **Javier**, que
 > llevaba dos.
 >
+> Sobre Marta había dos cosas: sus números, que eran impecables, y la opinión de su jefe, que era
+> excelente.
+>
+> Sobre Javier había cinco.
+>
 > Ascendió Javier.
 >
 > Si esto te ha molestado, estamos empezando bien. A mí también me molestó, y llevaba diez años
 > sentándome en esas salas. Tardé todo ese tiempo en entender que Javier no había hecho nada
-> sucio. Había hecho, una por una, siete u ocho cosas que Marta no hizo, y ninguna de ellas era
+> sucio. Había hecho, una por una, unas cuantas cosas que Marta no hizo — y ninguna de ellas era
 > trabajar más.
 >
 > Voy a contártelas todas.
@@ -253,8 +291,8 @@ Marta y Javier no competían en lo mismo. Marta estaba ganando una carrera que n
 juzgando.
 
 ### La tesis
-> **No te ascienden por lo que haces. Te ascienden porque alguien cree que reducirás su riesgo en
-> el nivel siguiente. Son dos cosas distintas y se miden distinto.**
+> **No te ascienden por lo que haces. Te ascienden por lo que hay encima de esa mesa cuando hablan
+> de ti — y ahora mismo lo único que hay son tus números y lo que opine tu jefe.**
 
 ### Ideas, en orden
 1. **Qué es esa sala.** Comité de talento, calibración, la cuadrícula. Sin jerga sin traducir.
@@ -276,6 +314,9 @@ juzgando.
    sólido que existe para no moverte.
 4. **Los tres criterios reales:** capacidad, aspiración, compromiso. El lector cumple uno y no
    sabe que existen los otros dos. *(Hueco de información puro.)*
+   **Y el aviso que ordena el libro entero:** que existan esos criterios no significa que alguien
+   los mida por ti. Lo único que llega a esa mesa es lo que tú —o alguien por ti— haya puesto
+   encima. Este libro va de eso: **de qué se pone en la mesa, y cómo se pone.**
 5. **La política de oficina, de frente**, en un párrafo y sin sermón: sí existe, sí funciona, te la
    voy a explicar entera, y también voy a enseñarte a defenderte.
 6. **La promesa reversible:** lo peor que puede pasar. Se enuncia aquí y se cumple en el 12.
@@ -494,74 +535,94 @@ escalera de riesgo como tabla · gancho por revelación de obstáculo.
 
 **Ojo al escribir este capítulo.** El lector viene del capítulo 1, donde le hemos dicho que *no
 ascienden por rendimiento, ascienden por potencial*. Y ahora abrimos con una empresa que asciende
-al que más vende. Si no se explica, el lector piensa que nos estamos contradiciendo — y tiene
-razón en pensarlo.
+al que más vende. Si no se explica bien, el lector piensa que nos contradecimos.
 
-**La resolución es la mitad del valor del capítulo:**
+**Y la explicación fácil —«unas empresas ascienden por rendimiento y otras por potencial»— es
+falsa y además destruiría el libro:** si le dices al lector que su empresa probablemente asciende
+al que más rinde, le estás diciendo que siga haciendo exactamente lo que ya hace.
 
-> **Las empresas dicen que ascienden por potencial. La mayoría asciende por rendimiento. Ese hueco
-> entre lo que dicen y lo que hacen es donde vive tu oportunidad.**
+La explicación verdadera es otra, y es mucho mejor:
 
-Las dos cosas son verdad a la vez. La doctrina oficial del mundo del talento —los tres criterios,
-las nueve casillas, los comités— es real y está escrita. Y el dato duro dice que, en la práctica,
-el rendimiento actual sigue pesando muchísimo más de lo que debería. Ascender al que rinde es la
-decisión localmente racional y globalmente equivocada, y está medido.
+> **No es que asciendan por rendimiento. Es que el rendimiento es lo único que tienen delante.**
+
+Cuando cinco personas se sientan a decidir quién sube, están intentando contestar a una pregunta
+sobre el futuro —*¿quién lo hará bien en el puesto de arriba?*— y miran la mesa a ver qué hay.
+Casi siempre hay dos cosas: **tus números y la opinión de tu jefe**. Nada más. Así que deciden con
+eso, porque es lo que hay.
+
+A Nacho no lo ascendieron porque valoraran vender. Lo ascendieron porque **nadie había puesto otra
+cosa encima de la mesa** — ni él, ni su jefe, ni nadie.
 
 ### La tesis
-> **Las empresas ascienden por rendimiento presente cuando lo que necesitan es potencial futuro.
-> Ese error es tu mayor oportunidad: si demuestras potencial, compites en una categoría casi
-> vacía. Pero primero tienes que saber en qué tipo de empresa estás.**
+> **El rendimiento no es el criterio: es el sustituto que usan cuando no tienes nada más que
+> enseñar. Tu trabajo no es rendir más. Es cambiar lo que hay encima de la mesa.**
 
-### Ideas, en orden
-0. **Las tres puertas del ascenso.** Una candidatura no avanza por una sola cadena de mérito:
-   necesita que se abran tres a la vez. **Capacidad demostrada** (alguien ha visto el trabajo del
-   nivel siguiente), **oportunidad organizativa** (hay vacante, presupuesto y ventana) y
-   **patrocinio** (alguien creíble está dispuesto a defenderlo en la sala). Fallar una las anula
-   todas — y solo la primera depende enteramente de ti. Esto reordena el libro: los capítulos 6 y
-   7 trabajan la primera puerta, el 9 y el 10 la tercera, y la segunda es la que hay que
-   diagnosticar antes de invertir dos años.
-1. **¿De qué tipo es tu empresa?** El diagnóstico que el lector se lleva de este capítulo, y que
-   cambia toda su estrategia:
+### Y esto es, literalmente, el índice del libro
 
-| | **La que asciende por rendimiento** | **La que asciende por potencial** |
-|---|---|---|
-| Cómo se reconoce | El último ascenso fue para «el que más vende / más produce». No hay comité, decide el jefe. No existe descripción escrita del nivel siguiente | Hay comités o calibraciones. Hay planes de sucesión. Te han preguntado alguna vez dónde te ves |
-| Quién manda ahí | Casi todas las pymes y muchas grandes | Grandes empresas con departamento de talento |
-| Tu estrategia | Rendir alto **te va a ascender igual**, así que el riesgo no es que no te suban: es que te suban a un puesto que no sabes hacer. **Los experimentos del capítulo 3 son urgentes, no opcionales** | Rendir alto **no te va a bastar nunca**. Necesitas pruebas del nivel siguiente y observadores que las hayan visto. Aquí es donde todo este libro paga |
-| El peligro | Acabar como Nacho | Acabar como Marta |
+Aquí conviene enseñarle al lector el mapa de lo que viene, porque convierte los diez capítulos
+siguientes en algo obviamente necesario en lugar de en una lista de consejos:
 
-**Y el aviso honesto:** la mayoría de las empresas están en la primera columna. Nacho no es un caso
-raro ni una empresa mal gestionada. Es lo normal.
+| Qué pone encima de la mesa | Capítulo |
+|---|---|
+| Tu impacto, en un formato que otro pueda repetir | 6 |
+| Una experiencia real del nivel siguiente | 7 |
+| Que la gente quiera trabajar contigo | 8 |
+| Alguien creíble que te defienda cuando no estás | 9 |
+| Gente de fuera de tu área que te ha visto trabajar | 10 |
+| Que te hayan visto **haciendo** el trabajo de arriba | 11 |
+| Tu aspiración, dicha en voz alta | 12 |
 
-2. Quién propone, quién compara, quién veta.
-3. **La ventana.** Las decisiones no se toman cuando tú estás listo: se toman en fechas concretas
-   y hay que saber cuáles son.
-4. **La vacante.** Puedes hacerlo todo bien y no haber sitio. Se dice aquí, pronto, sin dramatismo.
-5. El sector público, en dos párrafos: otras reglas, y qué partes del método siguen valiendo.
-6. **Cómo se explota el error:** todo el mundo demuestra rendimiento; casi nadie demuestra
-   potencial. Puerta abierta.
+**Siete cosas. Marta puso cero. Javier puso cinco.** No hizo falta que pusiera las siete.
+
+### El diagnóstico que se lleva el lector
+
+No es «¿de qué tipo es mi empresa?». Es más incómodo y más útil:
+
+> **Si mañana se sentaran a hablar de ti, ¿qué tendrían encima de la mesa además de tus números y
+> lo que opine tu jefe?**
+
+Para el 90% de los lectores la respuesta honesta es «nada». **Ese es el problema que resuelve este
+libro**, y no se resuelve rindiendo más.
 
 ### La evidencia — el corazón del libro
 Benson, Li y Shue. Contado como historia: *«Tres economistas se hicieron con los datos de
 rendimiento de los comerciales de ciento treinta y una empresas. Querían saber si ascender al que
 más vende sale bien. La respuesta fue que no…»*
 
+**Y el matiz del estudio que sostiene todo el capítulo, y que hay que citar con precisión:** lo
+que encontraron es que las empresas priorizan el rendimiento en el puesto actual **a expensas de
+otras características observables que predicen mejor el desempeño como directivo**.
+
+*Observables.* Es decir: **las otras señales existen y se pueden ver.** No es que sea imposible
+saber quién será buen jefe. Es que se mira poco, porque casi nadie se molesta en ponerlo delante.
+
+**Y la consecuencia honesta, que además justifica la mitad del libro:** si las empresas
+infraponderan esas señales incluso cuando están disponibles, **no basta con tener la prueba: hay
+que hacerla imposible de ignorar.** Por eso los capítulos 8 a 12 no son un extra sobre política de
+oficina — son la condición para que la prueba llegue a la mesa y alguien la defienda.
+
 ### Pepitas
-- *Las empresas dicen que ascienden por potencial. La mayoría asciende por rendimiento. En ese
-  hueco vive tu oportunidad.*
-- *Nacho no fracasó. El sistema acertó al ascenderlo y se equivocó al elegirlo.*
-- *Todo el mundo demuestra rendimiento. Casi nadie demuestra potencial. Ahí tienes tu hueco.*
+- **_No es que asciendan por rendimiento. Es que el rendimiento es lo único que tienen delante._**
+- *A Nacho no lo ascendieron por vender. Lo ascendieron porque nadie puso otra cosa encima de la
+  mesa.*
+- *Tu trabajo no es rendir más. Es cambiar lo que hay encima de la mesa.*
+- *Si mañana hablaran de ti, ¿qué tendrían delante además de tus números?*
 
 ### Contrapeso
-El estudio es de comerciales. No extrapolar sin decirlo. Y decirlo **suma** credibilidad.
+El estudio es de comerciales. No extrapolar sin decirlo — y decirlo **suma** credibilidad.
+
+Y el segundo contrapeso, que es de honestidad: **poner cosas encima de la mesa no garantiza nada**
+si no hay vacante o si el que decide ya tiene a alguien pensado. Cambia tus probabilidades, que es
+mucho, pero no cambia la aritmética de las sillas.
 
 ### Herramienta
 Mapa de decisión: actores, ventana, vacante.
 
 ### Cierre y gancho
-> «Ya sabes de qué tipo es tu empresa y con qué criterio decide. Queda la pregunta incómoda: en
-> esos criterios, ¿tú qué tienes de verdad? No lo que crees. Lo que podrías demostrar el jueves si
-> alguien te lo pidiera.»
+> «Ya sabes qué hay encima de esa mesa, y que casi todo lo que hay son tus números. Queda la
+> pregunta incómoda, y conviene contestarla antes de seguir: de las otras siete cosas, ¿cuál
+> podrías poner tú el jueves que viene? No la que te gustaría. La que ya casi tienes y no has
+> enseñado.»
 
 **Técnicas:** contraejemplo como apertura · exculpación (nadie hizo nada mal) · dato como relato ·
 regla de tres.
