@@ -73,5 +73,3 @@ inmediato, y hay un par de conversaciones ahí en medio que te van a dar pereza.
 la gente lo hace todos los días sin saber que lo está haciendo.
 
 Voy a empezar por el sitio donde se decide, porque es el único al que no te han dejado entrar.
-
-> GANCHO — cierra en la sala del comité, que abre el capítulo 1.
