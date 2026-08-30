@@ -17,12 +17,12 @@ Los cuatro dijeron que sí en menos de una hora. Nadie quería hacerlo.
 El jueves, Javier estuvo cuarenta minutos delante del comité de dirección. No empezó hablando de
 los números. Empezó así:
 
-*Esto son cuatro trabajos. El análisis de márgenes es de Lucía, la parte de logística de Andrés, lo
+*Esto son cuatro trabajos. El análisis de márgenes es de Lucía, la parte de logística de Nando, lo
 de personal de Rosa y la previsión la ha hecho Quique. Yo lo he juntado y os cuento lo que se ve
 cuando se mira todo junto.*
 
 Cuando alguien preguntó por un dato de logística que no cuadraba, Javier no improvisó una respuesta.
-Dijo: «Andrés, ¿lo explicas tú?». Y Andrés, que estaba al fondo, lo explicó.
+Dijo: «Nando, ¿lo explicas tú?». Y Nando, que estaba al fondo, lo explicó.
 
 Javier no hizo ese trabajo. Javier hizo **el trabajo de un jefe**. Y lo hizo cuatro meses antes de
 que le dieran el puesto.
@@ -80,7 +80,7 @@ Sin nombramiento, sin subida de sueldo y sin que nadie tuviera que arriesgar nad
 Fíjate también en lo que ganaron los otros cuatro, porque esto es lo que hace que funcione en vez
 de generar enemigos: cada uno se quitó de encima una tarea que no quería, su nombre se dijo en voz
 alta delante del comité de dirección —donde a lo mejor no se decía nunca— y quien preguntó por
-logística escuchó la respuesta de Andrés, no la versión de Javier. Los cuatro salieron ganando.
+logística escuchó la respuesta de Nando, no la versión de Javier. Los cuatro salieron ganando.
 
 Por eso repitieron al trimestre siguiente. Y al otro.
 
