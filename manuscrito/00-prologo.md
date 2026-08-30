@@ -1,10 +1,5 @@
 # Prólogo · Papá, ¿tú qué haces?
 
-⟦AUTOR: todo este prólogo depende de que la escena con tu hijo sea real y de que tu credencial
-sea factual y contable. Si alguna de las dos cosas no se sostiene, hay que reescribirlo entero
-con la variante de autor‑investigador. Léelo y reescríbelo con tus palabras: es la única parte
-del libro que no puede sonar a nadie más que a ti.⟧
-
 Mi hijo me lo preguntó un martes, cenando.
 
 —Papá, ¿tú qué haces en el trabajo?
@@ -17,11 +12,35 @@ Se quedó conforme. Los niños se quedan conformes con casi cualquier cosa que l
 seguridad, y volvió a lo suyo, que era separar los guisantes del arroz con una precisión de
 cirujano.
 
-Yo no me quedé conforme.
+Yo pensé que se había acabado la conversación. A los dos minutos levantó la cabeza.
 
-Porque esa frase es verdad y no explica nada. Lo que hago de verdad es esto: entro en empresas
-grandes, miro a la gente que trabaja allí, y elijo. Digo *este*, *esta*, *aquel de allí*. Y a esos
-pocos les diseñamos un camino. Les damos proyectos que no les tocaban. Les buscamos a alguien
+—¿Y a quién ayudas?
+
+—A los que elijo. Voy a la empresa, miro cómo trabaja la gente y digo: este, esta, aquel de allí.
+
+Lo estuvo pensando el rato que tarda un crío en apartar cuatro guisantes.
+
+—¿Y eliges a los mejores?
+
+Me quedé con el tenedor a medio camino. Más rato del que él estaba dispuesto a esperar, porque
+volvió a lo suyo antes de que yo contestara nada.
+
+La respuesta era que no. No elijo a los mejores. A veces sí, y entonces todo el mundo asiente y
+parece que mi trabajo consiste en tener buen ojo. Pero muchas otras veces el mejor de esa
+planta lleva años siendo el mejor de esa planta y no lo elijo, y elijo a otro que hace su trabajo
+bien sin más y que tiene una cosa que al primero le falta.
+
+Explicarle eso a un niño en una frase es imposible. Lo intenté, además. Dije algo sobre que hay
+gente que además de hacer bien lo suyo sabe otras cosas, y me salió una respuesta de esas que uno
+oye salir de su propia boca sabiendo que no vale.
+
+Al día siguiente seguía dándole vueltas.
+
+Porque la respuesta buena existe, lo que pasa es que no cabe en una frase. Ocupa un libro, y este
+es el libro.
+
+Esto es lo que hago de verdad. Entro en empresas grandes y elijo a unas cuantas personas. Y a esas
+pocas les diseñamos un camino. Les damos proyectos que no les tocaban. Les buscamos a alguien
 arriba que los defienda cuando no están delante. Les ponemos por delante problemas calculados para
 que crezcan un poco más rápido de lo cómodo. Y a los tres, cinco, siete años, esas personas
 dirigen cosas.

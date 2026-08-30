@@ -8,9 +8,8 @@ tu mismo puesto y tu mismo sueldo.**
 
 Sin adjetivos. «Comprometido» no vale, «responsable» tampoco. Qué aportas.
 
-⟦AUTOR: aquí va tu número real de personas con las que has hecho este ejercicio. Si no lo tienes
-contado, «con mucha gente» funciona igual de bien. No inventes la cifra.⟧ He hecho este ejercicio
-con mucha gente y pasa siempre lo mismo, con una precisión de reloj que ya casi da risa. Los
+He hecho este ejercicio con mucha gente, en salas de formación, en despachos y en la barra de un
+bar, y pasa siempre lo mismo con una precisión de reloj que ya casi da risa. Los
 primeros treinta segundos se escriben tareas: llevo el cierre mensual, atiendo a los clientes
 grandes, hago los cuadrantes. Luego hay un silencio largo, con el bolígrafo parado. Y luego, casi
 siempre, la misma frase:
