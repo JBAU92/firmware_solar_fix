@@ -65,6 +65,34 @@ dentro, y sobre todo se nota cuando algo cambia: cuando cierran tu planta, cuand
 nuevo con otras ideas, cuando el sector se mueve. El que eligió quedarse tiene un plan. El que se
 quedó sin elegir descubre en ese momento que llevaba diez años apostando a que nada cambiara.
 
+## Cómo saber cuáles de las cinco existen donde trabajas
+
+Las cinco rutas existen en el mundo. En tu empresa concreta puede que solo existan tres, y
+averiguar cuáles es una tarde de trabajo, no un misterio.
+
+Empieza por lo escrito. Casi todas las empresas de cierto tamaño tienen colgado en algún sitio un
+documento con la estructura de niveles, las bandas salariales o los criterios de promoción. Suele
+llamarse algo así como política de desarrollo, marco de carrera o modelo de niveles, y suele estar
+en la intranet, en la carpeta compartida de recursos humanos o en el convenio. Nadie lo lee. Es
+información pública dentro de la empresa y buscarla no delata absolutamente nada, así que búscala.
+Lo que quieres saber cabe en dos preguntas: ¿hay niveles que se alcancen sin llevar gente? y
+¿existe un procedimiento escrito para cambiar de área?
+
+Sigue por lo que ha pasado. Piensa en las personas que se han movido en los últimos dos o tres
+años en tu empresa y coloca cada movimiento en una de las cinco rutas. No hace falta que sean de
+tu departamento ni que las conozcas bien; basta con saber de dónde salieron y dónde están. Si
+todos los movimientos que recuerdas son hacia arriba en la misma línea, ya sabes algo importante:
+tu empresa solo tiene una puerta señalizada de verdad, y las demás, si existen, hay que abrirlas
+tú. Si ves gente que cambió de área y le fue bien, la movilidad lateral es una ruta real allí, no
+una idea de libro.
+
+Y termina preguntando, que es lo que hizo Andrés sin querer. Una comida, un café, alguien de otra
+sede: «¿en tu equipo hay gente sénior que no lleva a nadie?». Es una pregunta que no compromete a
+nada y que en muchas empresas destapa un puesto entero que no sabías que existía.
+
+Lo que no vale es deducirlo. La mayoría de la gente decide que en su empresa «eso no existe» sin
+haber abierto un solo documento ni haber hecho una sola pregunta, y muchas veces existe.
+
 ## Subir no es lo mismo que estar mejor
 
 Hay una tentación evidente en un libro como este, que es dar por hecho que ascender equivale a
