@@ -380,5 +380,5 @@ doc = f'''<!doctype html>
 {''.join(sections)}
 </body></html>'''
 
-(OUT / 'dossier-escala.html').write_text(doc)
+(OUT / 'pdf-source.html').write_text(doc)
 print(f'HTML generado: {len(doc):,} bytes · {len(sections)} secciones')

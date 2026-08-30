@@ -10,7 +10,7 @@ python3 libro/tools/build_pdf.py
 CHROME=/opt/pw-browsers/chromium_headless_shell-*/chrome-linux/headless_shell
 $CHROME --headless --no-sandbox --disable-gpu --no-pdf-header-footer \
         --print-to-pdf=ESCALA-estudio-preproduccion.pdf \
-        file://$PWD/dossier-escala.html
+        file://$PWD/pdf-source.html
 ```
 
 En otra máquina, cualquier Chrome o Chromium sirve: `chrome --headless --print-to-pdf=...`.
