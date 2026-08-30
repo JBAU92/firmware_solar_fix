@@ -1,7 +1,12 @@
 # 11 · El expediente de promoción
 
 **El entregable del lector.** No colecciona consejos: fabrica un documento. Al final de cada parte
-añade páginas; al terminar el libro tiene entre 10 y 12 que valen más que el libro.
+añade páginas; al terminar el libro tiene **catorce** que valen más que el libro.
+
+> **Nota de coherencia.** La primera versión de este dossier decía «10–12 páginas» y luego
+> enumeraba catorce. Son catorce. Si en producción resultan demasiadas, se comprimen así:
+> fusionar 1+2 (diagnóstico y ruta), 6+7 (brechas y semáforo) y 12+13 (candidatura y aceptación),
+> lo que deja **once**. Lo que no se toca es el registro SARA ni el plan a doce meses.
 
 Estas plantillas van en el **apéndice A** del libro, en formato imprimible, y cada capítulo remite
 a la que corresponde. Deben funcionar en blanco y negro, en una página de 6"×9" y en la pantalla

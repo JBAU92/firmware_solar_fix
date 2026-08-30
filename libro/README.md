@@ -1,9 +1,9 @@
-# ESCALA — Estudio de preproducción v2.0
+# ESCALA — Estudio de preproducción v3.0
 
-**Libro práctico de no ficción para Amazon KDP.** Este dossier es la versión definitiva: fusiona
-el estudio original de este repositorio con el segundo estudio independiente
-(`Estudio_preproduccion_libro_KDP_ascenso_empresarial.docx`), quedándose con lo mejor de cada uno.
-Ver el [registro de fusión](#registro-de-fusión) al final.
+**Libro práctico de no ficción para Amazon KDP.** Tercera versión, resultado de dos rondas de
+fusión con un estudio independiente (`Estudio_preproduccion_libro_KDP_ascenso_empresarial.docx`),
+que a su vez leyó este dossier y respondió a él. Ver el
+[registro de fusión](#registro-de-fusión) al final.
 
 **No es el manuscrito.** Es todo lo necesario para escribirlo sin volver a investigar nada.
 
@@ -30,8 +30,8 @@ trabajo empieza ahora por la puerta de validación, no por la escritura → [09]
 |---|---|
 | **Título de trabajo** | *ESCALA* · «El plan de carrera que tu empresa diseña para unos pocos» |
 | **Método** | **E**lige · **S**itúate · **C**onstruye · **A**mplifica · **L**idera · **A**segura |
-| **Entregable del lector** | Un **expediente de promoción** de 10–12 páginas que crece capítulo a capítulo |
-| **Extensión** | 57.000–62.000 palabras · 24 capítulos · ~250 páginas en 6"×9" |
+| **Entregable del lector** | Un **expediente de promoción** de 14 páginas que crece capítulo a capítulo |
+| **Extensión** | 57.000–62.000 palabras · 15, 20 o 25 capítulos *(a decidir por prueba)* · ~250 páginas en 6"×9" |
 | **Mercado** | Amazon.es (principal) · Amazon.com en español (secundario) |
 | **Formatos** | eBook Kindle + tapa blanda POD |
 | **Horizonte** | 11–13 meses desde hoy, incluida la validación |
@@ -57,7 +57,8 @@ libro también enseña a elegir cuál subir, o a no subir ninguna.
 | [08-produccion-kdp.md](08-produccion-kdp.md) | Validación de mercado, economía, metadatos, portada, riesgo legal, IA |
 | [09-plan-de-trabajo.md](09-plan-de-trabajo.md) | Siete fases con puertas de decisión, calendario y riesgos |
 | [10-piezas-redactadas.md](10-piezas-redactadas.md) | Cinco piezas ya escritas para fijar la voz |
-| [11-expediente-de-promocion.md](11-expediente-de-promocion.md) | Las doce páginas del entregable del lector, en plantilla |
+| [11-expediente-de-promocion.md](11-expediente-de-promocion.md) | Las catorce páginas del entregable del lector, en plantilla |
+| [12-sistema-de-promocion.md](12-sistema-de-promocion.md) | **Los tres sistemas, las cinco reservas, los bucles y las trampas.** La capa conceptual que diferencia el libro |
 
 ---
 
@@ -99,3 +100,42 @@ Qué se ha tomado de cada estudio y por qué.
 | Declaración de contenido IA en KDP | .docx | Requisito de cumplimiento que se me pasó |
 | Protocolo de validación de mercado y economía de impresión | .docx | Convierte el plan en una decisión de negocio |
 | Guion de entrevista y protocolo de consentimiento | fusión | Los dos tenían uno; se han combinado |
+
+### Segunda ronda — qué aporta la versión ampliada del .docx
+
+El segundo estudio dobló su tamaño, leyó este dossier y registró qué integraba y qué rechazaba de
+él. Incorporó además dos libros: *El Mom Test* (Fitzpatrick) y *Thinking in Systems* (Meadows).
+
+| Aportación | Decisión | Dónde entra |
+|---|---|---|
+| **Los tres sistemas** (desempeño / promoción / carrera) | **Integrar — es lo mejor de las dos rondas** | Cap. 1 y toda la arquitectura |
+| **La carrera como sistema:** cinco reservas, bucles, demoras y trampas | **Integrar** | Archivo 12, nuevo |
+| «Las acciones son flujos, no reservas» y el **factor limitante** | Integrar | Caps. 7 y 24 |
+| **«Cuándo el problema no eres tú»**, con seis señales rojas | Integrar | **Capítulo 8 bis, nuevo** |
+| **Código ético de influencia**, seis líneas | Integrar | Cap. 1 y parte Amplifica |
+| **Escalera de evidencia 0–4** para la validación | Integrar | Archivo 08 |
+| Descubrimiento **antes** de enseñar el libro (*El Mom Test*) | Integrar | Archivo 08 y cap. 20 |
+| **Reglas de parada**, seis criterios de abandono | Integrar | Archivo 09 |
+| **Economía por unidad** con escenarios de publicidad | Integrar | Archivo 08 |
+| **Cuatro formas de construir autoridad** sin fingir cargo | Integrar | Archivo 01 |
+| Tabla «qué permite sostener / qué no permite prometer» | Integrar | Archivo 04 |
+| Otto et al. (2022) y Martin et al. (2016) | Integrar **con el título corregido** | Archivo 04 |
+| 15 vs. 24 capítulos | **Aceptar su objeción:** se decide con prototipo comparado, no por intuición | Archivo 09 |
+
+### Errores propios que el segundo estudio detectó, y que están corregidos
+
+| Error | Corrección |
+|---|---|
+| «Emprender dentro cuesta cero horas» | Falso: confundía presencia con preparación. Ahora: el **coste marginal** es mucho menor, no cero |
+| El expediente decía 10–12 páginas y enumeraba 14 | Son catorce, con instrucciones para comprimirlas a once |
+| Umbrales inventados (70% de finalización, 20+ reseñas, 60% de páginas leídas, ranking < 300.000) | Retirados y señalados como invención |
+| «1 de cada 7 empleados de alto rendimiento es alto potencial» | A la lista negra hasta tener el informe original |
+| «Un tercio del feedback empeora el rendimiento» | Es una fracción agregada de estudios, no una probabilidad personal |
+| Precio de lanzamiento y KDP Select como recetas | Convertidos en experimentos con economía unitaria |
+
+### Y dos cosas que aporto yo en esta ronda
+
+| Hallazgo | Por qué importa |
+|---|---|
+| **La banda del 70% en KDP subió en julio de 2026**, de 9,99 a 12,99 USD y equivalentes | Los dos estudios daban por buena la banda antigua. Cambia la estrategia de precio: el techo que empujaba este libro hacia precios bajos ya no está |
+| **El título de Otto et al. (2022) estaba mal citado** | La muestra y los años coinciden, el título no. Es exactamente lo que el registro maestro debe cazar |

@@ -53,11 +53,33 @@ larga distancia — el lector que quiere saber cómo acaba pasa de página.
 
 ### Hilo C — El expediente de promoción *(el entregable)*
 El lector no colecciona consejos: **fabrica un documento**. Al final de cada parte añade páginas.
-Al terminar el libro tiene 10–12 páginas que valen más que el libro.
+Al terminar el libro tiene **catorce** que valen más que el libro (comprimibles a once; ver
+*sección 11*).
 
 Este es el hallazgo estructural más importante del proyecto: un artefacto que crece da sensación
 de progreso, justifica releer, y convierte una lectura en una conducta. Contenido completo en
 [11-expediente-de-promocion.md](11-expediente-de-promocion.md).
+
+## 2 bis. El reencuadre que sostiene todo: los tres sistemas
+
+Antes del método hay una distinción, y es probablemente lo más valioso del proyecto entero. El
+lector necesita tres cosas a la vez y **mejorar una no garantiza las otras**:
+
+| Sistema | Pregunta | Error típico |
+|---|---|---|
+| **Desempeño** | ¿Cumplo bien el puesto actual? | Creer que más volumen equivale a preparación |
+| **Promoción** | ¿La organización **puede defender** mi candidatura al nivel siguiente? | Esperar reconocimiento automático |
+| **Carrera** | ¿Ese movimiento mejora la vida profesional que quiero? | Aceptar el mando como única definición de éxito |
+
+Casi todos los lectores llevan años optimizando el primero creyendo que trabajan en el segundo, y
+sin haberse planteado el tercero. Enunciarlo en el capítulo 1 produce el momento de reconocimiento
+que hace que alguien siga leyendo — y que se lo cuente a otra persona.
+
+**La frase:** *«Llevas años mejorando el sistema equivocado.»*
+
+Y detrás de los tres sistemas hay un modelo: la promoción **no es una cadena lineal** sino un
+sistema con reservas, flujos, bucles y demoras. Desarrollado entero en
+[12-sistema-de-promocion.md](12-sistema-de-promocion.md).
 
 ## 3. El método ESCALA
 

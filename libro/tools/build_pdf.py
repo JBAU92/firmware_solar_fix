@@ -18,6 +18,7 @@ ORDER = [
     ('09-plan-de-trabajo.md',         'Plan de trabajo'),
     ('10-piezas-redactadas.md',       'Piezas ya redactadas'),
     ('11-expediente-de-promocion.md', 'El expediente de promoción'),
+    ('12-sistema-de-promocion.md',    'La promoción como sistema'),
 ]
 
 # ---------------------------------------------------------------- inline
@@ -350,14 +351,14 @@ doc = f'''<!doctype html>
 <style>{CSS}</style></head><body>
 
 <div class="cover">
-  <div class="kicker">Estudio de preproducción · Amazon KDP · v2.0</div>
+  <div class="kicker">Estudio de preproducción · Amazon KDP · v3.0</div>
   <h1>ESCALA</h1>
   <div class="sub">El plan de carrera que tu empresa diseña para unos pocos, traducido para cualquier trabajador</div>
   <div class="rule"></div>
   <div class="facts">
     Método <b>Elige · Sitúate · Construye · Amplifica · Lidera · Asegura</b><br>
-    Extensión objetivo <b>57.000–62.000 palabras</b> · <b>24 capítulos</b> · ~250 páginas<br>
-    Entregable del lector <b>Un expediente de promoción de 10–12 páginas</b><br>
+    Extensión objetivo <b>57.000–62.000 palabras</b> · ~250 páginas · nº de capítulos a decidir por prueba<br>
+    Entregable del lector <b>Un expediente de promoción de 14 páginas</b><br>
     Mercado <b>Amazon.es</b> · eBook Kindle y tapa blanda
   </div>
   <div class="foot"><span>Documento de trabajo — no es el manuscrito</span><span>30 de agosto de 2026</span></div>

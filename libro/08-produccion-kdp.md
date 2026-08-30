@@ -40,6 +40,28 @@ de…») — contamina la respuesta y además no se puede usar en los metadatos.
 pertinentes en la primera página con un ranking de ventas razonablemente bajo. *Es una regla de
 trabajo, no una ley de Amazon.*
 
+### La escalera de evidencia
+
+**El error que arruina una validación es sumar elogios.** Cada observación tiene un nivel, y solo
+los niveles 2 en adelante cuentan:
+
+| Nivel | Ejemplo | Lo que permite concluir |
+|---|---|---|
+| **0 · Ruido** | «Qué buena idea», «yo lo compraría», preferencia de portada sin contexto | Nada sobre demanda. Solo lenguaje o reacción del momento |
+| **1 · Problema concreto** | Relata un intento reciente, sus consecuencias y una frustración específica | El problema existe para esa persona. Falta saber si es prioritario |
+| **2 · Conducta y coste** | Buscó opciones, compró o leyó recursos, pidió ayuda, dedicó horas | Hay inversión real y una alternativa. Todavía no valida **este** libro |
+| **3 · Compromiso** | Reserva tiempo, devuelve una plantilla cumplimentada, acepta seguimiento, te presenta a otro lector | La propuesta merece un coste para esa persona. No equivale a una venta |
+| **4 · Transacción** | Compra o preventa real, transparente y reembolsable | Señal fuerte de disposición a pagar. Falta medir conversión, escala, devoluciones y margen |
+
+**Y el orden importa:** primero conversaciones de descubrimiento **sin enseñar el libro** —sin
+título, sin portada, sin ESCALA—, preguntando por el último intento real de progresar, qué hizo,
+qué le costó y qué ya había probado. Solo después se prueban promesas, títulos y portada. Si
+enseñas la portada primero, lo que mides es cortesía.
+
+**Preguntas que no validan nada:** «¿te gusta la idea?», «¿comprarías un libro así?», «¿cuánto
+pagarías?». Si aparecen generalizaciones —*siempre*, *normalmente*, *algún día*—, pedir el último
+caso concreto y qué hizo la persona.
+
 ### La puerta
 
 | Condición | Umbral |
@@ -96,11 +118,20 @@ que en inglés tendría 45.000 palabras, aquí son 55.000.
 ## 3. Regalías (verificar antes de publicar)
 
 ### eBook
-- **Plan del 70%:** disponible con precio entre **2,99 y 9,99** (USD/EUR según mercado). Se
-  descuenta el coste de entrega por MB.
+- **Plan del 70%:** ⚠️ **la banda cambió en julio de 2026.** El techo pasó de 9,99 a **12,99 USD**
+  en Amazon.com, con importes equivalentes en el resto de tiendas KDP — el primer cambio desde
+  2007. El suelo sigue en 2,99. Se descuenta el coste de entrega por MB. El cambio **no es
+  automático** para libros ya publicados: hay que optar a él.
+  **Consecuencia estratégica:** el techo de 9,99 era la restricción que empujaba a este tipo de
+  libro hacia precios bajos. Con ~12,99 disponible, un manual práctico de 250 páginas con
+  plantillas puede sostener un precio bastante más alto **sin perder la mitad de la regalía**.
+  Conviene confirmar el importe exacto en euros para Amazon.es antes de fijar precio.
+- **⚠️ Requisito que casi nadie conoce:** para optar al 70%, el precio del eBook debe estar **al
+  menos un 20% por debajo** del precio de lista de cualquier edición impresa del mismo libro en
+  Amazon. Dicho al revés: **el impreso tiene que ser al menos un 25% más caro que el digital.**
+  Esto acopla las dos decisiones de precio — no se pueden fijar por separado. Y si algún día subes
+  el eBook, hay que volver a comprobar la relación o se pierde el 70%.
 - **Plan del 35%:** sin restricción de precio, sin descuento de entrega. Paga la mitad.
-- **Conclusión práctica:** hay que fijar el precio dentro de la franja del 70%. Por debajo de 2,99
-  o por encima de 9,99 se pierde la mitad de la regalía.
 
 ### Tapa blanda en Amazon.es — con los números
 
@@ -115,6 +146,26 @@ A 240 páginas: 0,75 + (240 × 0,012) = **3,63 €**.
 | 15,99 € | 60% | 9,59 − 3,63 | **5,96 €** |
 | 17,99 € | 60% | 10,79 − 3,63 | **7,16 €** |
 | 9,50 € | 50% | 4,75 − 3,63 | 1,12 € — inviable |
+
+### La regalía no es beneficio
+
+Este es el cálculo que decide si el proyecto tiene sentido, y ninguno de los dos dossieres lo
+tenía al principio. **Contribución = regalía − impresión − publicidad atribuible**, antes de
+amortizar portada, corrección y maquetación.
+
+| Escenario a 15,99 € sin IVA | Cálculo | Contribución |
+|---|---|---|
+| Venta orgánica | 5,96 − 0 | **5,96 €** |
+| Venta con 4 € de coste publicitario | 5,96 − 4,00 | **1,96 €** |
+| Venta con 6 € de coste publicitario | 5,96 − 6,00 | **−0,04 €** |
+
+Los 4 € y los 6 € son **escenarios, no previsiones**: hay que sustituirlos por datos de una prueba
+con presupuesto y regla de parada. Pero el punto es claro: **entre 5,96 € de regalía y el
+equilibrio hay muy poco margen para publicidad.** No existe un coste publicitario objetivo
+universal; depende del precio, el formato, las páginas y la contribución que quieras.
+
+Con un presupuesto de producción de 900–2.400 €, hacen falta del orden de **200 a 400 ventas
+orgánicas** solo para amortizar. Ese número, y no el ranking, es el objetivo real del lanzamiento.
 
 ⚠️ **Dos avisos.** Primero: estas cifras son ilustrativas y hay que reconfirmarlas en la
 calculadora oficial. Segundo, y más importante: **el cálculo va sobre el precio SIN IVA**. Los
@@ -137,17 +188,20 @@ que se quiere ganar, no al revés.
 - Los ingresos tributan en España como rendimiento de la actividad. Si esto va a generar ingresos
   recurrentes, consulta con una gestoría antes del lanzamiento, no después.
 
-### Precio recomendado
-| Formato | Lanzamiento | Precio estable |
-|---|---|---|
-| eBook | **2,99 €** las 2 primeras semanas | **4,99 – 6,99 €** |
-| Tapa blanda | — | **16,95 – 19,95 €** |
+### Precio: hipótesis, no receta
 
-Razón: el eBook barato al inicio compra **velocidad de ventas y reseñas**, que es lo que activa
-los algoritmos de recomendación de Amazon. La subida posterior a 4,99–6,99 € es la zona donde este
-tipo de libro convierte mejor sin parecer barato. La tapa blanda debe estar bastante por encima
-para hacer que el eBook parezca una ganga (anclaje de precio) y para cubrir la impresión con
-margen.
+**Corrección respecto a la primera versión de este dossier.** Ahí se recomendaba «2,99 € al
+lanzar y luego 4,99–6,99 €» y «sí a KDP Select» como si fueran hechos. No lo son: son recetas de
+foro sin datos detrás. Lo honesto es tratarlas como **experimentos con economía unitaria**.
+
+| Formato | Rango a probar | Restricción |
+|---|---|---|
+| eBook | 5,99 – 9,99 € | Debe quedar ≥20% por debajo del impreso |
+| Tapa blanda | 16,95 – 21,95 € | ≥9,99 € sin IVA para cobrar el 60% |
+
+Lo que **sí** se puede afirmar: por debajo de 2,99 € o (con la banda nueva) por encima del techo
+del 70% se pierde la mitad de la regalía; y la relación 20/25% entre digital e impreso es una
+regla de KDP, no una opinión.
 
 ---
 
@@ -246,8 +300,12 @@ de entrar en **Kindle Unlimited** (te pagan por páginas leídas) y de acceso a 
 | Los ingresos por páginas leídas pueden superar a los de venta | Dependencia total de un canal |
 | Las descargas gratuitas de la promoción impulsan el posicionamiento | Las páginas leídas premian que el libro se **termine** — lo cual, aquí, es un argumento a favor de la plantilla de capítulos |
 
-**Recomendación:** **sí en el lanzamiento** (primeros 90–180 días). Es donde más se gana en
-visibilidad para un autor sin audiencia previa. Reevaluar después.
+**Cómo decidirlo, en vez de copiar una receta.** No hay base pública para afirmar que Select
+convenga siempre. Lo que sí se puede hacer es tratarlo como un experimento con una regla de
+parada: entrar 90 días, medir **páginas leídas frente a ventas perdidas fuera de Amazon** (que
+para un autor sin audiencia previa suelen ser cercanas a cero, y ese es el verdadero argumento a
+favor), y decidir con el dato. Lo mismo para el contenido A+ y la preventa: son funciones reales
+de KDP, y no hay cifra fiable que permita prometer cuánto convierten.
 
 ---
 

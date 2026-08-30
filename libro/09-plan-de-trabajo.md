@@ -149,6 +149,27 @@ en estado pendiente.
 
 ---
 
+## Reglas de parada
+
+Un plan sin criterios de abandono no es un plan: es una intención. Estas seis condiciones obligan
+a reformular o archivar, y hay que escribirlas **antes** de empezar, cuando todavía no duelen.
+
+1. **La demanda observada sigue siendo débil** después de tres capturas comparables y de las
+   conversaciones de descubrimiento → reformular la promesa o archivar.
+2. **No aparece un hueco recurrente** en reseñas y lectores que el prototipo resuelva mejor → no
+   entrar en un nicho solo porque no haya títulos exactos. La ausencia de competencia también
+   puede ser ausencia de compradores.
+3. **La contribución por unidad es nula o negativa** en el escenario conservador de publicidad →
+   cambiar precio, formato, páginas o canal **antes** de escribir.
+4. **La credencial central exige una biografía que no es factual** → eliminarla y reconstruir la
+   autoridad por otra vía. Si no es posible, no publicar con esa promesa.
+5. **No se consiguen casos ordinarios, contra-casos ni permisos suficientes** → reducir el alcance
+   y las afirmaciones, o detener el proyecto.
+6. **El prototipo no se entiende, no se cree o no produce una acción observable** en lectores del
+   segmento → reescribir antes de ampliar.
+
+---
+
 ## Calendario
 
 | Fase | Duración | Acumulado |
@@ -189,8 +210,16 @@ plan que prometa menos de seis meses para un libro con esta base documental est�
 **Durante la escritura:** ¿se cumplen los 2 capítulos por semana? ¿cada capítulo tiene escena de
 apertura, contrapeso y página de expediente?
 
-**En los lectores de prueba:** ¿más del 70% lo termina? ¿alguien ha hecho algo distinto en su
+**En los lectores de prueba:** ¿cuántos llegan al final? ¿alguien ha hecho algo distinto en su
 trabajo después de leerlo? **Esta segunda es la métrica real.**
 
-**Tras el lanzamiento:** 20+ reseñas en dos meses · media por encima de 4,3 · en Kindle Unlimited,
-páginas leídas por préstamo por encima del 60% del total, que es la medida directa de si engancha.
+**Tras el lanzamiento:** volumen de reseñas, valoración media y, en Kindle Unlimited, proporción
+de páginas leídas por préstamo — que es la medida más directa de si el libro engancha.
+
+> ⚠️ **Sobre los umbrales.** La primera versión de este dossier fijaba cifras concretas —«más del
+> 70% lo termina», «20+ reseñas en dos meses», «60% de páginas leídas»— como si fueran referencias
+> del sector. **No lo son: me las inventé.** Los umbrales útiles se fijan **al principio de la
+> validación y por comparación con los competidores que sí se han medido**, no copiando números
+> redondos. Lo mismo vale para el corte de ranking de ventas: es una señal ordinal, volátil y
+> dependiente de tienda y categoría; sirve para ver **persistencia entre fechas**, no como puerta
+> con un número fijo.

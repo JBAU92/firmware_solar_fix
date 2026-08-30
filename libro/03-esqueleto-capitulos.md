@@ -25,13 +25,19 @@ nombres: un chaval, un puerto y un barco.
 nueve casillas y tu nombre en una de ellas.
 **Tesis:** *No te ascienden por lo que haces. Te ascienden porque un comité cree que reducirás su
 riesgo en el nivel siguiente.*
-**Contenido:** qué es un comité de talento, la matriz de nueve casillas, qué significa «alto
-potencial». Los tres criterios reales —**capacidad, aspiración y compromiso**— y el dato que
+**Contenido:** **el reencuadre de apertura son los tres sistemas** —desempeño, promoción y
+carrera— y la frase que abre el libro de verdad: *«llevas años mejorando el sistema
+equivocado»* (*sección 12, §1*). Después: qué es un comité de talento, la matriz de nueve
+casillas, qué significa «alto potencial». Los tres criterios reales —**capacidad, aspiración y compromiso**— y el dato que
 descoloca: la mayoría de quienes rinden alto **no** figuran como alto potencial. Presentación de
 ESCALA y del expediente. La objeción ética, tratada de frente. Primer resultado en quince
 minutos: el diagnóstico de ruta.
-**Evidencia:** modelo de tres factores del Corporate Leadership Council (Gartner); ~1 de cada 7
-empleados de alto rendimiento cumple los tres.
+**Evidencia:** modelo de tres factores del Corporate Leadership Council (Gartner).
+⚠️ **La cifra popular «1 de cada 7 empleados de alto rendimiento es alto potencial» no se cita**
+mientras no se obtenga el informe original con su muestra y su definición: es dato de consultora
+con metodología propietaria. El capítulo funciona igual sin el número — de hecho funciona mejor,
+porque la idea («rendir alto y tener potencial son cosas distintas, y se miden distinto») es lo
+que sorprende, no el porcentaje.
 **Expediente:** página 1 — diagnóstico inicial.
 
 ## Cap. 2 · Cinco escaleras, no una
@@ -81,8 +87,14 @@ a decir. Pero pruébalo con un experimento reversible, no con un ascenso.*
 **Tesis:** *Llevas años queriendo emprender fuera. Nunca has probado a emprender dentro, donde ya
 inviertes ocho horas al día.*
 **Contenido:** la comparación honesta de las rutas. Emprender fuera cuesta las horas que te
-quedan, capital propio e ingreso cero durante meses. Emprender dentro cuesta cero horas
-adicionales: las ocho ya están puestas; lo que cambia es atención y dirección.
+quedan, capital propio e ingreso cero durante meses.
+**Corrección importante respecto a la primera versión de este dossier:** emprender dentro **no
+cuesta cero horas**. Decirlo era confundir presencia con preparación. Las ocho horas ya están
+pagadas, sí, pero liderar un proyecto transversal, preparar conversaciones y documentar impacto
+consume horas y, sobre todo, **energía**, que es una de las cinco reservas del sistema (ver
+*sección 12*). Lo que es cierto, y sigue siendo un argumento potente, es que **el coste marginal
+es mucho menor**: la plataforma, el contexto, las relaciones y el salario ya existen. No partes
+de cero; partes de una posición.
 El problema de la cabeza partida: estar en la oficina con la mente en tu proyecto es lo peor de
 los dos mundos — el **residuo de atención** (Leroy, 2009) hace que rindas peor en las dos cosas.
 Y el argumento de fondo: lo que se aprende ascendiendo —dirigir gente, leer una cuenta de
@@ -133,9 +145,14 @@ Qué hace distinto alguien preparado para ese nivel, en verbos.
 **Gancho:** el ejercicio incómodo de escribir en un folio lo que aportas, sin adjetivos.
 **Tesis:** *Si no puedes describir tu valor en una frase que un desconocido entienda, nadie va a
 hacerlo por ti.*
-**Contenido:** auditoría en seis dimensiones (resultados y alcance, decisiones y ambigüedad,
-personas e influencia, conocimiento del negocio, riesgo y criterio, comunicación). Detectar el
-techo técnico: el punto en el que ser aún mejor en tu especialidad ya no te mueve.
+**Contenido:** aquí entra **el mapa de las cinco reservas** —capacidad, evidencia, confianza,
+opciones y energía— con qué alimenta y qué erosiona cada una (*sección 12, §3*). Sustituye a una
+auditoría plana de competencias y aporta la idea más útil del libro: **las acciones son flujos, no
+reservas.** Un curso no es capacidad; es un intento de capacidad. Y muchas veces lo que más mueve
+no es añadir entrada, sino **cerrar una fuga**: soltar tareas invisibles, cerrar proyectos
+abiertos, impedir que la evidencia se pierda.
+Detectar además el techo técnico: el punto en el que ser aún mejor en tu especialidad ya no te
+mueve.
 **Expediente:** página 6 — brechas priorizadas por importancia × evidencia × acceso a práctica.
 
 ## Cap. 8 · ¿Tu empresa tiene escalera o tiene techo?
@@ -151,6 +168,22 @@ peor los primeros años que quienes ascendieron internamente. *Cautela: un solo 
 designación). Media página diciendo qué partes del método aplican y cuáles no. Sin esto, se pierde
 a todo el lector funcionario.
 **Expediente:** página 7 — semáforo de la organización.
+
+## Cap. 8 bis · Cuando el problema no eres tú
+**Gancho:** la tercera vez que le cambian los criterios después de haberlos cumplido.
+**Tesis:** *No toda barrera es un déficit tuyo. Algunas son del sistema, y confundirlas te hace
+trabajar más en la dirección equivocada durante años.*
+**Contenido:** las seis señales rojas con su pregunta de comprobación y su respuesta prudente
+—criterios móviles, promesa sin calendario, movilidad bloqueada, trabajo invisible, cargo sin
+medios, sesgo o represalia— desarrolladas en *sección 12, §7*. Y la distinción sistémica que las
+ordena: **B2, la puerta organizativa** — tu candidatura puede mejorar y seguir bloqueada por
+vacante, presupuesto, calendario o porque tu jefe no quiere perder a un buen ejecutor.
+**Por qué este capítulo es innegociable:** un libro de carrera que convierte toda barrera en falta
+de esfuerzo personal es, además de injusto, falso. Y comercialmente es el capítulo que hará que
+alguien lo recomiende: es el que nadie escribe.
+**Aviso obligatorio dentro del capítulo:** el libro no sustituye orientación laboral ni jurídica.
+**Expediente:** diagnóstico de señales rojas y, si hay dos o más, activación de la ruta alternativa
+elegida en el capítulo 2.
 
 > **Carta al hijo nº 2** — *«Mirar el mapa antes de andar»*
 
@@ -292,8 +325,12 @@ de selección.*
 
 ## Cap. 19 · Feedback y generosidad, las dos herramientas que más se usan mal
 **Gancho:** la reunión de evaluación tras la cual alguien rindió peor durante tres meses.
-**Tesis:** *El feedback no mejora automáticamente el rendimiento: aproximadamente un tercio de las
-veces lo empeora. Y ayudar a todo el mundo no te asciende.*
+**Tesis:** *El feedback no mejora el rendimiento por defecto: en una parte importante de los casos
+estudiados lo empeoró. Y ayudar a todo el mundo no te asciende.*
+⚠️ **Cuidado al redactar:** «más de un tercio de las intervenciones redujeron el rendimiento» es
+una fracción **agregada de estudios**, no una probabilidad personal. No escribir «hay un 33% de
+riesgo de que el feedback que recibas te perjudique». Contar el diseño y el mecanismo —falla
+cuando el mensaje apunta a la persona en vez de a la tarea— vale más que la cifra.
 **Evidencia:** Kluger y DeNisi (*Psychological Bulletin*, 1996): metaanálisis de 607 tamaños de
 efecto sobre 23.663 observaciones; efecto medio positivo (d ≈ 0,41) pero más de un tercio de las
 intervenciones redujeron el rendimiento — sobre todo cuando el mensaje apunta a la persona y no a

@@ -153,6 +153,20 @@ que resolverlo **antes de escribir el prólogo**:
 **Regla absoluta: nunca inventar credenciales.** Es el fraude que más rápido destruye un libro de
 no ficción, y es trivial de comprobar.
 
+**Y la buena noticia: la autoridad se puede construir sin fingir un cargo.** La fórmula sólida es
+*experiencia real en organizaciones + método de investigación transparente + voces cualificadas +
+casos verificables*. Cuatro formas de redactarla con seguridad:
+
+| Opción | Cuándo usarla | Redacción segura |
+|---|---|---|
+| **Experiencia directa** | Puedes documentar años, tipos de puesto y decisiones observadas | Describe hechos concretos sin revelar empresa, personas ni información confidencial |
+| **Autor‑investigador** | No has trabajado en talento, pero ejecutas el plan de campo de este dossier | «Para este libro entrevisté a… y contrasté cada mecanismo con…» |
+| **Asesor experto** | Un profesional de talento revisa el método y acepta figurar con alcance definido | Explica qué revisó. No le transfieras la autoría ni le atribuyas una validación total |
+| **El caso del hijo** | La pregunta y la relación son reales | Marco breve de apertura y cierre. **Nunca inventar diálogo ni biografía** |
+
+La opción 2 es perfectamente vendible: *«no soy cazatalentos, soy quien fue a preguntárselo a
+treinta y dos de ellos»* es una promesa honesta y competitiva.
+
 ### 7.2 La objeción ética, tratada en el capítulo 1
 
 > Lo que aquí se cuenta no crea méritos que no existen: hace visibles los que ya existen. La

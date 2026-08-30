@@ -126,6 +126,48 @@ Psychology*, 62(2), 297–325.
   promocionabilidad **por encima y más allá** del desempeño en el puesto actual.
 - **Uso:** cap. 16. Es la evidencia dura que sustituye a las cifras infundadas del 70‑20‑10.
 
+### A10 🟢 Qué pasa realmente después de ascender *(sustituye a la ficha ⚑ pendiente)*
+**Otto, S., Dekker, V., Dekker, H., Richter, D. y Zabel, S. (2022).** "The joy of gratifications:
+Promotion as a short-term boost or long-term success — The same for women and men?" *Human
+Resource Management Journal*, 32(1).
+- **Dato citable:** panel representativo alemán (SOEP), **5.978 observaciones a lo largo de 27
+  años**. La promoción **sí** eleva la satisfacción laboral, pero el efecto **se diluye al cabo de
+  aproximadamente un año**: el punto de referencia se actualiza a la nueva situación y la
+  satisfacción vuelve al nivel base del individuo. El efecto fue **más marcado en hombres que en
+  mujeres**.
+- **Uso:** cap. 2 (cinco escaleras), cap. 21 (acepta con condiciones) y cap. 23 (los cuatro
+  finales). Es la base empírica de que ascender no equivale a estar mejor.
+- ⚠️ **Nota de verificación:** el segundo estudio citaba esta investigación con el título «Who
+  gains from being promoted?». La muestra y los años coinciden exactamente, pero **el título es
+  otro**. Usar el correcto. Es justo el tipo de error que el registro maestro de afirmaciones
+  existe para cazar.
+
+### A11 🟢 La relación con tu jefe, medida
+**Martin, R., Guillaume, Y., Thomas, G., Lee, A. y Epitropaki, O. (2016).** "Leader–Member
+Exchange (LMX) and Performance: A Meta-Analytic Review". *Personnel Psychology*, 69(1), 67–121.
+- **Dato citable:** la calidad de la relación entre jefe y colaborador (LMX) se asocia de forma
+  consistente con el desempeño en la tarea y con conductas de ciudadanía organizativa.
+- **Uso:** cap. 14 — le da base empírica a un capítulo que hasta ahora se apoyaba solo en un
+  artículo de HBR de 1980.
+- **Cautela:** es correlacional y con problemas de fuente común (a menudo el mismo jefe evalúa la
+  relación y el desempeño). No prometer causalidad.
+
+---
+
+## A′. Qué permite sostener cada mecanismo, y qué no
+
+Esta tabla debe estar delante al escribir cada capítulo. Convierte la bibliografía en un
+instrumento de control de las afirmaciones, no en un adorno.
+
+| Mecanismo | Sí permite sostener | **No** permite prometer |
+|---|---|---|
+| Rendimiento y promoción | Que el desempeño actual influye en ser promovido y no garantiza dirigir bien | Que el mejor ejecutor sea el mejor mando, ni que deba querer el puesto |
+| Red y relación con jefatura | Que *networking*, mentoría y una relación de confianza se asocian con resultados profesionales | Que cultivar contactos sustituya a la competencia, ni que controle una vacante |
+| Experiencias del nivel siguiente | Que las tareas desafiantes aportan información de preparación más allá del desempeño diario | Que aceptar cualquier tarea extra aumente tus opciones |
+| Visibilidad y voz | Que comunicar impacto puede mejorar la observabilidad en ciertos contextos | Que exponerse sea siempre seguro o premiado en cualquier cultura |
+| Promoción y bienestar | Que el efecto puede ser positivo, negativo o transitorio según demandas y contexto | Que ascender produzca felicidad, salud o una carrera sostenible por sí solo |
+| Patrocinio | Que puede describirse como defensa activa y acceso a oportunidades | Un efecto causal universal, ni una receta igualmente accesible para todos |
+
 ---
 
 ## B. Red, patrocinio e influencia
@@ -331,7 +373,11 @@ Success". *Journal of Applied Psychology*, 84(3), 416–427.
   como destino** ni recomendar tests de personalidad como diagnóstico de carrera. Un libro que
   dice «si no eres proactivo, olvídate» pierde justo al lector que quiere ayudar.
 
-### C10 🟡 ⚑ Qué pasa después de ascender
+### C10 · ✅ Resuelta — ver A10
+*(Esta ficha estaba marcada como pendiente de verificación. Ya está identificada: Otto et al.,
+2022, HRMJ. Ver A10.)*
+
+### C10-bis 🟡 Otros efectos de la promoción
 Estudios longitudinales sobre los efectos de la promoción en satisfacción, demandas laborales y
 salud mental (incluidos diseños con grupos emparejados y efectos retardados).
 - **Idea citable:** los efectos de una promoción son **heterogéneos** y cambian con el tiempo.
@@ -421,6 +467,8 @@ estas ideas circulan en libros de gestión y son tentadoras. Ninguna debe usarse
 | **"El 93% de la comunicación es no verbal" (Mehrabian)** | Malinterpretación grosera de un experimento sobre mensajes contradictorios de una sola palabra | **No usar** |
 | **"Solo usamos el 10% del cerebro", "hemisferio izquierdo/derecho", estilos de aprendizaje** | Neuromitos | **No usar** |
 | **«Lo peor que puede pasar es que vuelvas a tu puesto»** | **Falso como regla general en España.** Consolidado el ascenso, no hay derecho de retorno unilateral: volver es una negociación | Reformulado en el cap. 2: el riesgo **se hace** reversible antes de aceptar (periodo de prueba, interinidad con fecha, cláusula escrita), no lo es por defecto |
+| **«1 de cada 7 empleados de alto rendimiento es alto potencial»** | Dato de consultora, metodología propietaria, contexto incierto | **No citar la cifra** hasta tener informe original, muestra y definición. La idea cualitativa —rendir y tener potencial son cosas distintas— se sostiene sola |
+| **«Un tercio del feedback empeora el rendimiento»** | Procede de un metaanálisis real, pero es una fracción **agregada de estudios**, no una probabilidad personal | Contar el diseño y el mecanismo, no convertir la fracción en pronóstico individual |
 | **Efecto Zeigarnik** (tareas inacabadas se recuerdan mejor) | Replicación irregular | Se puede mencionar como recurso narrativo, **no** como hallazgo firme |
 | **Mentalidad de crecimiento (Dweck)** | El marco es valioso; los efectos de las intervenciones escolares son mucho menores de lo que se popularizó | Citar la idea, no prometer resultados espectaculares |
 | **Grit (Duckworth)** | Metaanálisis posteriores: predice menos que la responsabilidad (*conscientiousness*), con la que solapa mucho | Citar con matiz o evitar |
