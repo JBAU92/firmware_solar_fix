@@ -19,6 +19,7 @@ ORDER = [
     ('10-piezas-redactadas.md',       'Piezas ya redactadas'),
     ('11-expediente-de-promocion.md', 'El expediente de promoción'),
     ('12-sistema-de-promocion.md',    'La promoción como sistema'),
+    ('13-influencia-y-defensa.md',    'Influencia real y defensa'),
 ]
 
 # ---------------------------------------------------------------- inline
@@ -351,7 +352,7 @@ doc = f'''<!doctype html>
 <style>{CSS}</style></head><body>
 
 <div class="cover">
-  <div class="kicker">Estudio de preproducción · Amazon KDP · v3.0</div>
+  <div class="kicker">Estudio de preproducción · Amazon KDP · v3.1</div>
   <h1>ESCALA</h1>
   <div class="sub">El plan de carrera que tu empresa diseña para unos pocos, traducido para cualquier trabajador</div>
   <div class="rule"></div>

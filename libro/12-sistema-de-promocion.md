@@ -114,17 +114,25 @@ diciendo.
 | **Cargo sin medios** | ¿Responsabilidad sin autoridad, recursos, banda salarial ni apoyo? | Condicionar la aceptación o rechazarla. Liderar antes del título no es trabajar gratis sin límite |
 | **Sesgo o represalia** | ¿Hay patrones por género, origen, edad, discapacidad, tipo de contrato o cuidados? | Documentar hechos, usar canales seguros, buscar asesoramiento. **El libro no sustituye orientación laboral ni jurídica** |
 
-## 8. Código ético de influencia
+## 8. Ética operativa: qué explota y por qué
 
-Seis líneas que van en el libro, probablemente al final del capítulo 1 y repetidas en la parte
-Amplifica. Son la respuesta permanente a la sospecha de «esto es enseñar a hacer la pelota»:
+**No es un código moral, es una lista de fallos.** Cada línea está aquí porque **se detecta y se
+paga**, no porque quede bonito decirla. Presentada así, el lector la usa; presentada como sermón,
+se la salta.
 
-1. Atribuir el mérito con nombres y contribuciones. No apropiarse del trabajo ajeno.
-2. Comunicar resultados verificables. No fabricar urgencias, aliados ni cifras.
-3. Adaptar el mensaje a intereses reales, sin fingir amistad ni adular.
-4. Proteger información confidencial y anonimizar ejemplos, métricas y conversaciones.
-5. No prometer favores ni usar relaciones para saltarse controles de seguridad, calidad o equidad.
-6. Aceptar un no cuando hay una razón legítima; pedir criterios y decidir la siguiente ruta.
+| Conducta | Por qué explota |
+|---|---|
+| **Apropiarte del trabajo ajeno** | En cuanto asciendes tu resultado es el de tu equipo, y un equipo no rinde para quien le robó el crédito. Además, el comité pregunta a esa gente |
+| **Fabricar cifras, urgencias o aliados** | Una sola verificación fallida destruye años de credibilidad. Y la credibilidad es la reserva más lenta de reconstruir |
+| **Adular solo hacia arriba** | El *efecto baba*: los observadores te perciben como baboso aunque el adulado te adore. Ganas un voto y pierdes diez, y son los de quienes tendrán que aguantarte como jefe |
+| **Decir lo que no piensas de forma sostenida** | Documentado: quien practica congraciación intensa acaba resintiéndose del adulado y socavándolo. La factura la pagas tú |
+| **Filtrar información confidencial para quedar bien** | Te marca como riesgo. En un comité de talento, «indiscreto» es un veto silencioso |
+| **Usar relaciones para saltarte controles** | Cuando salga mal —y sale mal— serás el nombre en el informe |
+| **Insistir tras un no legítimo** | Quema el capital de la relación justo cuando más lo necesitas. Pide criterios y una fecha; eso sí se puede pedir dos veces |
+
+**La versión corta, que sí puede ir como frase en el libro:** *haz solo lo que podrías explicar en
+voz alta a la persona afectada.* No como imperativo moral, sino como **prueba de resistencia**:
+lo que no supera esa prueba es lo que acaba saliendo a la luz.
 
 ---
 

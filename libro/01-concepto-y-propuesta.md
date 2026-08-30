@@ -67,9 +67,10 @@ por qué. Ha fantaseado con montar algo por su cuenta y no ha llegado a hacerlo.
 **No prioritario, y conviene decirlo:** alta dirección, búsqueda de primer empleo, carrera
 puramente autónoma y emprendimiento desde cero. Aparecen solo como comparación de rutas.
 
-**Anti-lector.** Quien busca trepar pasando por encima de la gente. El libro se posiciona
-explícitamente en contra: por ética, y porque separa el título de la estantería de *Las 48 leyes
-del poder* y evita la reseña de una estrella que dice «esto es un manual de pelotas».
+**Anti-lector.** Quien busca un manual para perjudicar a rivales. No es una posición moral de
+escaparate: es que esas tácticas se detectan, dejan huella y se vuelven contra quien las usa en
+cuanto dirige a alguien. Ahora bien — **el libro sí explica cómo funcionan**, en su capítulo
+defensivo, porque hay que saber reconocerlas cuando te las hacen a ti.
 
 ## 4. La corrección que cambia el tamaño del mercado
 
@@ -167,15 +168,32 @@ casos verificables*. Cuatro formas de redactarla con seguridad:
 La opción 2 es perfectamente vendible: *«no soy cazatalentos, soy quien fue a preguntárselo a
 treinta y dos de ellos»* es una promesa honesta y competitiva.
 
-### 7.2 La objeción ética, tratada en el capítulo 1
+### 7.2 La política de oficina, tratada de frente
 
-> Lo que aquí se cuenta no crea méritos que no existen: hace visibles los que ya existen. La
-> diferencia entre un trepa y alguien que gestiona bien su carrera es de dónde sale el mérito. El
-> trepa se apropia del trabajo ajeno; el otro consigue que el suyo se vea. Este libro solo sirve
-> para lo segundo — y lo primero funciona mal a medio plazo: en cuanto asciendes, tu resultado ya
-> no es el tuyo, es el de tu equipo, y un equipo no rinde para alguien que le roba el crédito.
+Un libro sobre ascender se enfrenta a una sospecha inmediata: *¿esto no es enseñar a hacer la
+pelota?*
 
-Ese párrafo planta además la semilla del capítulo 18. Es un bucle abierto útil.
+**La respuesta cobarde** —«no, esto va de mérito»— es la que daban las primeras versiones de este
+dossier, y está mal por dos motivos: es falsa y desperdicia el material más útil del libro. La
+congraciación **funciona**, está medida en metaanálisis, y para quien no tiene credenciales de
+élite ni el perfil demográfico dominante es, según la investigación, una **ruta sustitutiva**
+—no un extra.
+
+**La respuesta honesta**, que es la que va en el capítulo 1, en un párrafo y sin sermón:
+
+> Sí, la política de oficina existe y funciona. Este libro te la explica entera, incluida la parte
+> que incomoda, porque no puedes decidir no jugar a un juego cuyas reglas desconoces. Lo que no
+> vas a encontrar aquí son tácticas para perjudicar a alguien en concreto — y no por delicadeza:
+> porque se detectan, porque se vuelven contra ti en cuanto diriges a alguien, y sobre todo porque
+> son innecesarias. Todo lo que de verdad mueve la aguja se puede hacer a la luz.
+
+Y una segunda parte, igual de importante: **el libro también enseña a defenderse.** Reconocer
+cuándo te difuminan la autoría, cuándo te llenan de trabajo invisible, cuándo te ofrecen un
+ascenso trampa. Un lector que sale sabiendo influir pero sin saber ver es un lector peor
+preparado que antes.
+
+Todo el desarrollo, con la evidencia, en
+[13-influencia-y-defensa.md](13-influencia-y-defensa.md).
 
 ## 8. El tono
 

@@ -242,10 +242,10 @@ proactiva), **usados como asociaciones, nunca como destino**. Un rasgo no es una
 
 ## PARTE A · AMPLIFICA
 
-## Cap. 13 · Visibilidad ética
+## Cap. 13 · Que se vea lo que haces
 **Gancho:** el compañero técnicamente brillante al que nadie quiere en su proyecto.
-**Tesis:** *Visibilidad ética es hacer legible el resultado, la colaboración y el aprendizaje. No
-es apropiarse del mérito, y no hace falta que lo sea.*
+**Tesis:** *Hacer legible tu resultado no es apropiarse de nada. Y no hace falta que lo sea: hay
+formas mejores.*
 **Evidencia:** Casciaro y Sousa Lobo (HBR, 2005): cuando la gente elige con quién trabajar, la
 simpatía pesa más que la competencia. Los cuatro cuadrantes.
 **Contenido:** ocho formas concretas de contar tu trabajo sin autobombo — dar crédito primero,
@@ -253,6 +253,36 @@ informar en lugar de presumir, el formato «problema → qué hicimos → qué a
 presentar el trabajo del equipo. La cadencia de actualizaciones: avance, impacto, riesgo,
 petición.
 **Expediente:** cadencia de comunicación con destinatarios y frecuencia.
+
+## Cap. 13 bis · Caer bien no es un defecto de carácter
+**Gancho:** dos personas con el mismo currículum. Una asciende. La otra escribe en un foro que
+en su empresa solo suben los pelotas.
+**Tesis:** *La congraciación funciona — está medida. Lo que casi todo el mundo hace mal es la
+ejecución, y la ejecución tiene reglas.*
+**Contenido:** el capítulo que las versiones anteriores de este dossier no se atrevían a escribir.
+Desarrollo completo en *sección 13*:
+1. **El dato:** metaanálisis de tácticas de influencia — la congraciación se asocia con mejores
+   evaluaciones, subidas y promociones. Y para quien no tiene credenciales de élite ni el perfil
+   demográfico dominante, la influencia interpersonal actúa como **ruta sustitutiva**.
+2. **El mecanismo:** quien recibe la adulación la interpreta a su favor. No piensa «me está
+   haciendo la pelota», piensa «tiene buen criterio».
+3. **El coste:** el **efecto baba**. Observar a alguien ser agradable *hacia arriba* hace que los
+   observadores lo perciban como baboso. *La adulación te gana a quien se la haces y te cuesta a
+   todos los que la ven.* Esa frase ordena el capítulo entero.
+4. **Las cinco reglas de la versión elegante:** que sea verdad, específica, privada o justificada,
+   cara de fingir, y **que fluya en las tres direcciones** — la quinta es el antídoto real contra
+   el efecto baba y la que casi nadie aplica.
+5. **Las formas que no parecen adulación** y funcionan más: conformidad de opinión bien entendida
+   (construir sobre su idea, no darle la razón), prestación de favores, atención, reconocimiento
+   hacia arriba de terceros.
+6. **El coste a largo plazo:** quien adula de forma sostenida acaba resintiéndose del adulado y
+   socavándolo. Aviso para el lector hoy, y aviso para cuando sea jefe mañana.
+**Evidencia:** Higgins, Judge y Ferris (2003); Westphal y Stern (2006, 2007); Vonk (1998, 2002);
+Stern y Westphal (2010); Keeves, Westphal y McDonald (2017); literatura sobre habilidad política.
+**Contrapeso obligatorio:** la conformidad de opinión **no** es callarse ante un error. El
+capítulo 17 (discrepar sin perder la relación) es su complemento y hay que remitir a él
+explícitamente.
+**Expediente:** una conversación real preparada con las cinco reglas.
 
 ## Cap. 14 · Gestiona hacia arriba sin convertirte en adulador
 **Gancho:** dos personas con el mismo jefe. Una dice que es un desastre. La otra lleva dos años
@@ -313,9 +343,23 @@ principio funciona porque la otra persona no ve lo que está pasando, no se usa.
 **Gancho:** a la persona que ascendieron llevaba ya seis meses haciendo el trabajo.
 **Tesis:** *A casi nadie le dan un puesto para que aprenda a hacerlo. Se lo dan porque ya lo está
 haciendo. Pero con mandato, no invadiendo.*
-**Contenido:** cómo quedarte con el 20% del trabajo de tu jefe que él quiere soltar, sin pisar a
-tus compañeros ni trabajar gratis indefinidamente: alcance, recursos, autoridad y **final**.
-Después, los comportamientos que se puntúan, convertidos en conductas practicables hoy.
+**Contenido — y aquí está el núcleo del capítulo, corregido:** el trabajo de un jefe consiste,
+literalmente, **en presentar resultados que ha producido otra gente**. Un director no fabrica
+nada: recoge lo que hacen doce personas, encuentra el patrón, lo traduce al lenguaje de quien
+escucha y lo defiende en una sala. Eso no es robar: es **agregar**, y es una habilidad escasa.
+Hacerlo antes de tener el puesto es la demostración más rápida y más barata de que puedes.
+
+**La prueba que separa agregar de apropiarse**, aplicable *antes* de presentar: ¿presentarías esto
+exactamente igual si quien hizo el trabajo estuviera en primera fila? Y la versión ofensiva:
+**llévalo de verdad a la sala** — desarrollar gente es justo lo que se mide en un comité.
+
+Los cinco movimientos: ofrécete a consolidar · añade la capa de interpretación (ahí está tu valor,
+y es indiscutiblemente tuyo) · atribuye por nombre y por defecto · **responde tú de los errores** ·
+deja rastro escrito de quién hizo qué. El cuarto es el que separa a los que ascienden.
+
+Después, cómo quedarte con el 20% del trabajo de tu jefe que él quiere soltar —alcance, recursos,
+autoridad y **fecha de fin**— y los comportamientos que se puntúan, convertidos en conductas
+practicables hoy. Desarrollo en *sección 13, parte 2*.
 **Evidencia:** Google, Proyecto Oxígeno — los diez comportamientos de los buenos mandos,
 identificados sobre más de 10.000 observaciones. Gallup — el mando directo explica al menos el
 70% de la varianza del compromiso del equipo, lo que convierte este puesto en el de mayor
@@ -340,6 +384,24 @@ que llegan arriba cambian de estilo ante quien solo toma y priorizan la ayuda de
 darlo sin tener el cargo. La generosidad barata: presentaciones, recomendaciones, información.
 Cómo decir que no sin coste de relación.
 **Expediente:** tres peticiones de feedback con la pregunta ya escrita.
+
+## Cap. 19 bis · Que no te lo hagan a ti
+**Gancho:** el informe que presentó otro, con tu trabajo dentro y sin tu nombre.
+**Tesis:** *Todo lo que has aprendido a hacer te lo pueden hacer. Un lector que sabe influir pero
+no sabe ver está peor preparado que antes de abrir el libro.*
+**Contenido:** las **ocho señales** con su respuesta, desarrolladas en *sección 13, parte 3* —
+te difuminan la autoría, te dejan fuera de la sala, te llenan de trabajo invisible, los criterios
+se mueven, el ascenso trampa, mucho elogio y cero decisiones, te aíslan de tu red, y te inflan la
+confianza justo antes de un encargo enorme.
+Y las **tres defensas** que sirven para casi todo: escribe (un correo de tres líneas tras cada
+acuerdo verbal), diversifica quién te ve (tres observadores en tres áreas), y ten una alternativa
+viva (la reserva «opciones» del sistema).
+**Por qué este capítulo importa comercialmente:** es el que casi ningún competidor tiene, y es de
+los que se subrayan y se prestan.
+**Contrapeso:** distinguir un patrón real de un mal mes. Una señal aislada no es nada; dos
+repetidas en tres meses, sí. El capítulo debe frenar la paranoia tanto como la ingenuidad.
+**Expediente:** revisión de las ocho señales, con fecha, y activación de la ruta alternativa si
+aparecen dos.
 
 > **Carta al hijo nº 5** — *«Ayudar tiene truco»*
 

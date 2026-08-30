@@ -1,4 +1,4 @@
-# ESCALA — Estudio de preproducción v3.0
+# ESCALA — Estudio de preproducción v3.1
 
 **Libro práctico de no ficción para Amazon KDP.** Tercera versión, resultado de dos rondas de
 fusión con un estudio independiente (`Estudio_preproduccion_libro_KDP_ascenso_empresarial.docx`),
@@ -59,6 +59,7 @@ libro también enseña a elegir cuál subir, o a no subir ninguna.
 | [10-piezas-redactadas.md](10-piezas-redactadas.md) | Cinco piezas ya escritas para fijar la voz |
 | [11-expediente-de-promocion.md](11-expediente-de-promocion.md) | Las catorce páginas del entregable del lector, en plantilla |
 | [12-sistema-de-promocion.md](12-sistema-de-promocion.md) | **Los tres sistemas, las cinco reservas, los bucles y las trampas.** La capa conceptual que diferencia el libro |
+| [13-influencia-y-defensa.md](13-influencia-y-defensa.md) | **La política de oficina, tratada de frente:** por qué la congraciación funciona y cómo se hace bien, agregar frente a apropiarse, y ocho señales para defenderte |
 
 ---
 
@@ -132,6 +133,21 @@ El segundo estudio dobló su tamaño, leyó este dossier y registró qué integr
 | «1 de cada 7 empleados de alto rendimiento es alto potencial» | A la lista negra hasta tener el informe original |
 | «Un tercio del feedback empeora el rendimiento» | Es una fracción agregada de estudios, no una probabilidad personal |
 | Precio de lanzamiento y KDP Select como recetas | Convertidos en experimentos con economía unitaria |
+
+### Tercera ronda — corregir el exceso de prudencia
+
+Crítica del autor, aceptada: las dos primeras versiones eran **demasiado pudorosas** y eso costaba
+contenido. Tres correcciones de fondo:
+
+| Lo que decía | Por qué estaba mal | Qué dice ahora |
+|---|---|---|
+| «Esto no va de hacer la pelota» | **Es falso.** La congraciación se asocia en metaanálisis con mejores evaluaciones, subidas y promociones, y puede sustituir a las credenciales de élite | Capítulo entero sobre por qué funciona, el efecto baba, y las cinco reglas de la versión que no te hunde |
+| «No le quites el mérito a nadie» | Colapsaba dos cosas distintas. **Agregar el trabajo de un equipo, ordenarlo y presentarlo es literalmente el trabajo de un jefe** — y hacerlo antes de tener el puesto es la mejor demostración de que puedes | Cap. 18 reescrito, con la prueba del autor en la sala como criterio operativo |
+| Un código ético en forma de sermón | El lector se lo salta | Lista de **qué explota y por qué**, en términos de consecuencias, no de moral |
+
+Y una carencia que se corrige: **faltaba la parte defensiva**. Ocho señales para reconocer cuándo
+te difuminan la autoría, te llenan de trabajo invisible o te ofrecen un ascenso trampa. Capítulo
+19 bis, nuevo.
 
 ### Y dos cosas que aporto yo en esta ronda
 

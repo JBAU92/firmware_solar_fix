@@ -249,6 +249,68 @@ Work Outcomes: A Theoretical Extension, Meta-Analytic Investigation, and Agenda 
 - **Cautela ética innegociable:** se traduce como *lectura social e influencia ética*. Este
   metaanálisis **no valida la manipulación**, y el libro debe decirlo en el propio capítulo.
 
+### B6a ⚑ 🟢 La congraciación funciona — el metaanálisis
+**Higgins, C. A., Judge, T. A. y Ferris, G. R. (2003).** "Influence Tactics and Work Outcomes: A
+Meta-Analysis". *Journal of Organizational Behavior*, 24(1), 89–106.
+- **Dato citable:** de las tácticas de influencia estudiadas —congraciación, autopromoción,
+  racionalidad, asertividad, intercambio y apelación a superiores—, la **congraciación** y la
+  **racionalidad** muestran efectos positivos consistentes sobre resultados laborales:
+  evaluaciones de desempeño, incrementos salariales y promociones. La **asertividad** tiende a
+  asociarse negativamente.
+- **Uso:** cap. 13 bis. Es el dato que legitima el capítulo entero.
+- **Cautela:** son asociaciones. Y el tamaño del efecto importa: citar «se asocia», no «garantiza».
+
+### B6b 🟢 La influencia como ruta sustitutiva
+**Westphal, J. D. y Stern, I. (2006).** "The Other Pathway to the Boardroom: Interpersonal
+Influence Behavior as a Substitute for Elite Credentials and Majority Status in Obtaining Board
+Appointments". *Administrative Science Quarterly*, 51(2), 169–204.
+**Westphal, J. D. y Stern, I. (2007).** "Flattery Will Get You Everywhere (Especially If You Are a
+Male Caucasian)…". *Academy of Management Journal*, 50(2).
+- **Dato citable:** el comportamiento de influencia interpersonal puede **sustituir** a las
+  credenciales de élite y a la pertenencia al grupo demográfico mayoritario a la hora de obtener
+  nombramientos en consejos. La congraciación hacia el consejero delegado —halago, conformidad de
+  opinión y prestación de favores— aumenta la probabilidad de nombramientos en otras empresas
+  conectadas.
+- **El matiz que hay que contar, no esconder:** el efecto es **mayor** para quien ya parte con
+  ventaja demográfica. El libro no puede presentar la influencia como un igualador perfecto.
+- **Uso:** cap. 13 bis. Es la mejor razón para que el lector sin pedigrí lea el capítulo.
+- **Cautela:** contexto de alta dirección estadounidense. No extrapolar sin decirlo a un jefe de
+  turno en Alcorcón.
+
+### B6c ⚑ 🟢 El efecto baba — por qué la versión burda hunde
+**Vonk, R. (1998).** "The Slime Effect: Suspicion and Dislike of Likeable Behavior Toward
+Superiors". *Journal of Personality and Social Psychology*, 74(4), 849–864.
+**Vonk, R. (2002).** "Self-Serving Interpretations of Flattery: Why Ingratiation Works". *JPSP*,
+82(4), 515–526.
+- **Datos citables:** observar a alguien comportarse de forma agradable **hacia un superior** hace
+  que los observadores lo perciban como **baboso**, insincero y sospechoso — el mismo
+  comportamiento hacia un igual se percibe como simple amabilidad. Y el complemento: quien
+  **recibe** el halago lo interpreta de forma **auto-favorable**, lo que explica que funcione con
+  el destinatario y falle con el público.
+- **Uso:** cap. 13 bis. **Es la viga del capítulo** y de donde sale su ley: *la adulación te gana
+  a quien se la haces y te cuesta a todos los que la ven.*
+
+### B6d 🟡 No es la táctica, es la ejecución
+**Stern, I. y Westphal, J. D. (2010).** "Stealthy Footsteps to the Boardroom: Executives'
+Backgrounds, Sophisticated Interpersonal Influence Behavior, and Board Appointments". *ASQ*,
+55(2), 278–319. Más la literatura sobre **habilidad política** como moderador (p. ej. el trabajo
+sobre cuándo la congraciación se percibe como manipulación).
+- **Dato citable:** la adulación produce nombramientos **solo cuando el destinatario no percibe el
+  motivo instrumental**; las formas sutiles y sofisticadas funcionan y las burdas no. Y la misma
+  conducta se percibe como manipulación cuando la ejecuta alguien con poca habilidad política.
+  **La sofisticación se aprende** con la exposición previa a entornos donde se practica — lo que
+  justifica que un libro pueda enseñarla.
+- **Uso:** cap. 13 bis, las cinco reglas de la versión elegante.
+
+### B6e 🟢 El coste de adular mucho tiempo
+**Keeves, G. D., Westphal, J. D. y McDonald, M. L. (2017).** "Those Closest Wield the Sharpest
+Knife: How Ingratiation Leads to Resentment and Social Undermining of the CEO". *ASQ*, 62(3).
+- **Dato citable:** los directivos que practican congraciación intensa hacia su consejero delegado
+  tienden después a **resentirse** de él y a **socavarlo socialmente** ante terceros. Adular de
+  forma sostenida amenaza la autoimagen y se compensa denigrando por detrás.
+- **Uso:** cierre del cap. 13 bis (aviso al lector) y cap. 22 (aviso al lector ya convertido en
+  jefe: tu subordinado más adulador es tu candidato más probable a apuñalarte).
+
 ### B5 🟢/🟡 Los principios de influencia
 **Cialdini, R.** *Influence: The Psychology of Persuasion* (1984; ed. ampliada 2021) y
 *Pre-Suasion* (2016). Ed. española: *Influencia* y *Pre-suasión*.
