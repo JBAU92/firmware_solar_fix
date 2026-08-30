@@ -68,7 +68,7 @@ Aquí está la decisión más importante de todo el replanteamiento, y es contra
 > **Condensar no es comprimir cada capítulo. Es eliminar temas enteros.**
 
 Si metemos los 25 capítulos del plan viejo en 170 páginas, el resultado es exactamente lo que temes: un
-ladrillo denso que nadie termina. Si bajamos a **12 capítulos y dejamos que cada uno respire**,
+ladrillo denso que nadie termina. Si bajamos a **14 capítulos y dejamos que cada uno respire**,
 el resultado es lo contrario: un libro rápido, con aire, con una idea por capítulo y una acción al
 final de cada uno.
 
@@ -202,13 +202,13 @@ Sin lástima. Nada de esto sobrevive al filtro de «valor por página»:
 
 ## 8. Nuevo calendario
 
-Escribir 27.000 palabras en vez de 59.000 cambia el proyecto de escala:
+Escribir ~34.000 palabras en vez de 59.000 cambia el proyecto de escala:
 
 | Fase | Antes | Ahora |
 |---|---|---|
 | Verdad del autor | 3 días | 3 días |
 | Validación de mercado | 2 sem. | 2 sem. |
-| Campo (entrevistas) | 5 sem. | **3 sem.** — 20 entrevistas bastan para 12 capítulos |
+| Campo (entrevistas) | 5 sem. | **3 sem.** — 20 entrevistas bastan para 14 capítulos |
 | Prototipo | 3 sem. | 2 sem. |
 | Manuscrito | 13 sem. | **8 sem.** a 2 capítulos por semana |
 | Reescritura | 5 sem. | 4 sem. |

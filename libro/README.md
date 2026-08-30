@@ -72,11 +72,11 @@ libro también enseña a elegir cuál subir, o a no subir ninguna.
 |---|---|
 | [01-concepto-y-propuesta.md](01-concepto-y-propuesta.md) | Premisa, lector, promesa y sus límites, competencia, títulos, ética |
 | [02-arquitectura-narrativa.md](02-arquitectura-narrativa.md) | Tres actos, tres hilos, el método ESCALA, el expediente, mapa de bucles |
-| [03-esqueleto-capitulos.md](03-esqueleto-capitulos.md) | Los 24 capítulos, uno a uno |
+| [03-esqueleto-capitulos.md](03-esqueleto-capitulos.md) | ⚠️ **ANEXO** — esqueleto largo de 24 capítulos. **No es el plan.** Es el mapa del libro 2 |
 | [04-bibliografia-y-evidencia.md](04-bibliografia-y-evidencia.md) | 30 fuentes con el dato citable, su nivel de solidez y su cautela + **lista negra** |
 | [05-casos-y-testimonios.md](05-casos-y-testimonios.md) | Caso ancla (resuelto), cartera de casos, contra-casos, guion de entrevistas |
 | [06-enganche-del-lector.md](06-enganche-del-lector.md) | Plantilla fija de capítulo, palancas de ritmo, prueba con lectores |
-| [07-leccion-de-los-bestsellers.md](07-leccion-de-los-bestsellers.md) | Clear, Carnegie, Covey: qué se copia y qué no |
+| [07-leccion-de-los-bestsellers.md](07-leccion-de-los-bestsellers.md) | ⚠️ **ANEXO** — Clear, Carnegie, Covey: qué se copia. Solo dossier |
 | [08-produccion-kdp.md](08-produccion-kdp.md) | Validación de mercado, economía, metadatos, portada, riesgo legal, IA |
 | [09-plan-de-trabajo.md](09-plan-de-trabajo.md) | Siete fases con puertas de decisión, calendario y riesgos |
 | [10-piezas-redactadas.md](10-piezas-redactadas.md) | Cinco piezas ya escritas para fijar la voz |
