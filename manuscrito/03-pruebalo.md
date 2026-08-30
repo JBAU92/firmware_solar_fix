@@ -79,18 +79,53 @@ tuyo; apúntalo como dato.
 **¿Me compensa el día de las malas noticias?** Porque lo hay. Hay un día al trimestre en el que te
 toca decirle a alguien que no, o que se va, o que su proyecto se para. Se paga con eso.
 
-## De dónde va a salir el tiempo
+## La carpeta
 
-Vamos a hablar del coste, porque hay una versión de este argumento que se oye mucho y que es
-mentira: la de que hacer esto no cuesta nada porque «total, ya estás ahí».
+Antes de hablar del coste, quiero hablar de otra cosa. Y voy a apostar.
 
-Cuesta. Preparar una conversación cuesta. Llevar un proyecto transversal cuesta, y sobre todo
-cuesta energía, que es un recurso mucho más escaso que las horas.
+Apuesto a que tienes un proyecto.
 
-Ahora bien, seamos sinceros con la otra parte: **no das el cien por cien. Nadie lo da.** Hay ratos
+No hace falta que sea gran cosa. Puede ser una carpeta en el ordenador con un nombre optimista.
+Puede ser una nota en el móvil con una lista de ideas que empezó muy bien y que se corta a media
+frase. Puede ser un dominio que compraste una noche por doce euros y que se renueva solo cada año
+como un recordatorio educado. Un curso que empezaste. Un logotipo que hiciste tú y que no está mal.
+Una conversación con un amigo, de esas que se ponen serias a partir de la segunda cerveza, en la
+que los dos dijisteis «esto habría que montarlo» y nadie volvió a mencionarlo.
+
+Y apuesto también a que hace meses que no lo abres.
+
+No lo digo para hacerte sentir mal. Al revés: **esa carpeta es la mejor noticia de este capítulo**,
+porque significa que no eres de los que se conforman. Alguien que se conforma no tiene carpeta. Ha
+pasado por tu cabeza que tu vida profesional podía ser otra cosa, y en algún momento hiciste algo
+al respecto, aunque fuera comprar un dominio a las once de la noche.
+
+Lo que quiero que veas es dónde has puesto esa ambición.
+
+## Las dos ambiciones, con el precio delante
+
+Montar algo por tu cuenta cuesta las horas que te quedan después de todo lo demás. Si trabajas
+ocho, duermes siete y tienes casa, niños o vida, hablamos de una o dos horas al día en el peor
+momento del día, cuando ya no te queda cabeza. Cuesta dinero tuyo. Durante meses no entra nada. Y
+la mayoría de los proyectos que empiezan así no se caen porque la idea fuera mala: se caen porque
+no había horas donde ponerlas.
+
+Ahora mira la otra.
+
+Las ocho horas ya están puestas. Ya estás ahí. Ya te pagan por estar ahí. Y — esta es la parte que
+casi nadie calcula — **conseguir un ascenso o un movimiento a otro puesto no te pide ni una sola
+hora fuera del trabajo.** Ni una. No hay que madrugar más, no hay que sacrificar los sábados, no
+hay que explicarle a nadie en casa que estás liado con una cosa.
+
+Es, literalmente, la única ambición que puedes perseguir sin robarle tiempo a tu vida.
+
+Y te va a costar algo, no te voy a vender humo: te va a costar atención, te va a costar preparar
+un par de conversaciones incómodas y te va a costar energía, que es más escasa que las horas. Pero
+todo eso sale de dentro de la jornada, no de fuera.
+
+Porque seamos sinceros con la otra parte: **no das el cien por cien. Nadie lo da.** Hay ratos
 muertos entre dos cosas, hay reuniones que podrían haber sido un correo, hay media hora larga de
-móvil repartida por el día, y hay ese rato en el que estás sentado en tu sitio pensando en aquello
-que ibas a montar por tu cuenta.
+móvil repartida por el día. Y hay ese rato —ese lo conoces bien— en el que estás sentado en tu
+sitio pensando precisamente en la carpeta.
 
 No lo digo como reproche, y menos aún como una de esas arengas de productividad que dan ganas de
 cerrar el libro. Lo digo porque es aritmética. Y porque esa aritmética es la que hace viable todo
@@ -104,11 +139,36 @@ normal y es lo que sostiene el mundo. Lo que significa, en la práctica, que **h
 te pone muy por delante de casi todos**. No hace falta ser un fenómeno ni echar horas. Basta con
 ser de los pocos que llegan con un plan.
 
-La trampa que sí hay que esquivar es la cabeza partida. Estar en la oficina con la mente en tu
-proyecto de casa es lo peor de los dos mundos: rindes regular y avanzas menos. Cuando dejas una
+La trampa que sí hay que esquivar es la cabeza partida. Estar en la oficina con la mente en la
+carpeta es lo peor de los dos mundos: rindes regular y la carpeta tampoco avanza. Cuando dejas una
 cosa a medias para atender otra, parte de tu atención se queda enganchada en la primera —los
 psicólogos del trabajo lo llaman residuo de atención— y llegas a la segunda con menos de lo que
-crees. Un año en un sitio, con la cabeza entera. Después ya elegirás.
+crees. Llevas meses pagando el precio de dos proyectos y cobrando el resultado de ninguno.
+
+## Y esto no va contra tu carpeta
+
+Quiero dejar clara una cosa, porque sería facilísimo que este capítulo sonara a lo que no es.
+
+No te estoy diciendo que renuncies a montar lo tuyo. Te estoy diciendo en qué orden.
+
+Mira lo que se aprende subiendo un peldaño: a dirigir a gente que no eligió que la dirijas tú, a
+leer una cuenta de resultados, a negociar un presupuesto con alguien que quiere lo contrario que
+tú, a contratar, a despedir, a decidir con la mitad de la información, a defender una decisión
+delante de alguien que no está de acuerdo y a explicarle a un cliente por qué se ha retrasado.
+
+Ahora vuelve a leer esa lista y dime qué de ahí **no** vas a necesitar el día que abras lo tuyo.
+
+Esa es la lista entera. Y la diferencia es que aquí te la enseñan cobrando y con los errores
+pagados por otro. Hay una versión de esta historia en casi todas las cadenas de restauración: el
+que entra a los diecinueve, aprende a llevar un local con el dinero de la marca, y años después
+abre uno suyo. La escalera de la empresa no fue la alternativa a su negocio. Fue el entrenamiento.
+
+Así que la propuesta es esta: **un año en un solo sitio, con la cabeza entera.** El que ya te
+paga. Si al final del año quieres irte, te irás sabiendo cosas que hoy no sabes y con la carpeta
+intacta, que lleva ahí catorce meses y no se va a estropear por esperar doce más.
+
+Y si resulta que lo de dentro te gusta, habrás descubierto algo que te habría costado tres años y
+tus ahorros averiguar por fuera.
 
 ## Y si acepto y no me gusta, ¿qué?
 

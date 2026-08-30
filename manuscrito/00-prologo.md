@@ -57,6 +57,11 @@ La primera es que esto no va de trabajar más. Si has llegado hasta aquí pensan
 son horas, puedes ahorrarte el resto: las horas no están en la lista de criterios de nadie. De
 hecho, buena parte de este libro va de dejar de hacer cosas.
 
+Y hay una posibilidad bastante alta de que lo que tengas no sea falta de ambición sino ambición
+mal colocada. Si alguna vez has pensado en montar algo por tu cuenta —y si has llegado a este
+libro, hay bastantes papeletas—, ya sabes que la ambición no es tu problema. En el capítulo tres
+hablaremos de eso, y de por qué probablemente estés apostando en la mesa más cara.
+
 La segunda es que no te voy a prometer un ascenso. Nadie que te lo prometa te está diciendo la
 verdad, porque ni yo ni tú controlamos si hay una vacante, si hay presupuesto, o si al que decide
 le cae bien otro. Lo que sí puedo hacer es cambiarte las probabilidades, y cambiártelas mucho.
