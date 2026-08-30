@@ -1,4 +1,4 @@
-# ESCALA — Estudio de preproducción v3.1
+# ESCALA — Estudio de preproducción v4.0
 
 **Libro práctico de no ficción para Amazon KDP.** Tercera versión, resultado de dos rondas de
 fusión con un estudio independiente (`Estudio_preproduccion_libro_KDP_ascenso_empresarial.docx`),
@@ -6,6 +6,12 @@ que a su vez leyó este dossier y respondió a él. Ver el
 [registro de fusión](#registro-de-fusión) al final.
 
 **No es el manuscrito.** Es todo lo necesario para escribirlo sin volver a investigar nada.
+
+> ⚠️ **Cambio de escala (v4.0).** El proyecto pasa de un libro de 250 páginas a un **manual de
+> 140 páginas a 17,95 €**, que rinde **+42 % de regalía por ejemplar escribiendo menos de la mitad
+> de palabras**. El plan vigente del libro 1 es
+> [14-plan-condensado.md](14-plan-condensado.md); el resto del dossier queda como **cantera** de
+> investigación y como mapa del libro 2.
 
 ---
 
@@ -31,7 +37,9 @@ trabajo empieza ahora por la puerta de validación, no por la escritura → [09]
 | **Título de trabajo** | *ESCALA* · «El plan de carrera que tu empresa diseña para unos pocos» |
 | **Método** | **E**lige · **S**itúate · **C**onstruye · **A**mplifica · **L**idera · **A**segura |
 | **Entregable del lector** | Un **expediente de promoción** de 14 páginas que crece capítulo a capítulo |
-| **Extensión** | 57.000–62.000 palabras · 15, 20 o 25 capítulos *(a decidir por prueba)* · ~250 páginas en 6"×9" |
+| **Extensión** | **27.000 palabras · 12 capítulos · ~140 páginas en 5,5"×8,5"** |
+| **Precio** | **17,95 €** en tapa blanda · regalía ~7,93 € por ejemplar |
+| **Libro 2** | *Ahora mandas* — todo lo posterior al ascenso, ya investigado en este dossier |
 | **Mercado** | Amazon.es (principal) · Amazon.com en español (secundario) |
 | **Formatos** | eBook Kindle + tapa blanda POD |
 | **Horizonte** | 11–13 meses desde hoy, incluida la validación |
@@ -60,6 +68,7 @@ libro también enseña a elegir cuál subir, o a no subir ninguna.
 | [11-expediente-de-promocion.md](11-expediente-de-promocion.md) | Las catorce páginas del entregable del lector, en plantilla |
 | [12-sistema-de-promocion.md](12-sistema-de-promocion.md) | **Los tres sistemas, las cinco reservas, los bucles y las trampas.** La capa conceptual que diferencia el libro |
 | [13-influencia-y-defensa.md](13-influencia-y-defensa.md) | **La política de oficina, tratada de frente:** por qué la congraciación funciona y cómo se hace bien, agregar frente a apropiarse, y ocho señales para defenderte |
+| [14-plan-condensado.md](14-plan-condensado.md) | ⭐ **El plan vigente del libro 1.** Doce capítulos, 140 páginas, la economía que lo hace rentable y qué se va al libro 2 |
 
 ---
 
@@ -148,6 +157,26 @@ contenido. Tres correcciones de fondo:
 Y una carencia que se corrige: **faltaba la parte defensiva**. Ocho señales para reconocer cuándo
 te difuminan la autoría, te llenan de trabajo invisible o te ofrecen un ascenso trampa. Capítulo
 19 bis, nuevo.
+
+### Cuarta ronda — de tratado a manual rentable
+
+Decisión del autor: el objetivo es un KDP rentable, no un libro largo. Verificado y adoptado.
+
+| Antes | Ahora | Efecto |
+|---|---|---|
+| 240 págs @ 15,99 € | **140 págs @ 17,95 €** | Regalía de 5,59 € a **7,93 €** por ejemplar |
+| 59.000 palabras | **27.000 palabras** | Manuscrito de 13 a 7 semanas |
+| 25 capítulos | **12 capítulos** | Menos densidad, no más |
+| Amortizar: 161–429 ejemplares | **114–303 ejemplares** | Punto de equilibrio mucho más cerca |
+
+**El principio que lo hace funcionar:** condensar no es comprimir cada capítulo, es **eliminar
+temas enteros**. Meter 25 capítulos en 140 páginas produce el ladrillo denso que había que evitar;
+bajar a 12 y dejarlos respirar produce lo contrario.
+
+**Hallazgos técnicos de la verificación:** KDP cobra tarifa plana hasta ~108 páginas y fórmula a
+partir de 110, así que **no hay acantilado** que optimizar; y cada página cuesta 1,2 céntimos
+mientras que cada euro de precio aporta 60 — **el precio importa veinte veces más que la
+extensión**.
 
 ### Y dos cosas que aporto yo en esta ronda
 

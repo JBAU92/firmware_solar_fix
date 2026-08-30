@@ -75,6 +75,22 @@ caso concreto y qué hizo la persona.
 
 ---
 
+## 1 bis. ⚠️ La economía vigente está en el archivo 14
+
+Este archivo conserva el análisis completo, pero **las cifras de formato y precio han cambiado**.
+El plan vigente es un manual de **~140 páginas en 5,5"×8,5" a 17,95 €**, con una regalía de
+**7,93 € por ejemplar** — frente a los 5,59 € del plan de 240 páginas. Ver
+[14-plan-condensado.md](14-plan-condensado.md).
+
+Dos correcciones técnicas que salen de esa verificación y que afectan a todo lo que sigue:
+
+- **KDP cobra tarifa plana hasta ~108 páginas** y aplica la fórmula `0,75 € + 0,012 €/página` a
+  partir de 110. La diferencia entre 108 y 110 páginas son céntimos: **no hay acantilado que
+  optimizar**, la extensión es una decisión editorial.
+- **El precio pesa veinte veces más que las páginas.** Cada página añadida cuesta 1,2 céntimos;
+  cada euro de precio aporta 60 céntimos de regalía. Alargar el libro para justificar el precio es
+  un mal negocio.
+
 ## 2. Formatos y especificaciones
 
 ### eBook (Kindle)

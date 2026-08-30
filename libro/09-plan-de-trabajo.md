@@ -94,7 +94,11 @@ meses.
 **Puerta:** reescribir si menos de 8 de 12 pueden explicar la promesa, o menos de 6 de 12
 completan la herramienta que se les pidió.
 
-## Fase 4 · Manuscrito — *12 a 14 semanas*
+> ⚠️ **Calendario acortado (v4.0).** Con 27.000 palabras en vez de 59.000, la fase de campo baja a
+> **3 semanas / 20 entrevistas** y el manuscrito a **7 semanas**. Total del proyecto: **~7 meses**,
+> u 8–9 compaginándolo con un trabajo. Ver [14-plan-condensado.md](14-plan-condensado.md).
+
+## Fase 4 · Manuscrito — *7 semanas*
 
 **Ritmo:** 2 capítulos por semana ≈ 4.800 palabras ≈ 8–10 horas efectivas. Sostenible con un
 trabajo a jornada completa.
