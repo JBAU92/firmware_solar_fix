@@ -74,52 +74,17 @@ personales del autor no deben ocupar más del 20% del texto, salvo en el prólog
 
 ## 3. La plantilla de capítulo
 
-**Esta plantilla es probablemente el activo más importante de este dossier.** Aplicada a los 24
-capítulos, garantiza ritmo constante y sensación de progreso.
+**Está en [15-biblia-de-capitulos.md](15-biblia-de-capitulos.md), en ocho bloques**, junto con las
+técnicas asignadas capítulo a capítulo. Es la versión buena y la única vigente.
 
-```
-1. ESCENA          150–300 palabras. Una persona, un sitio, un momento, un conflicto.
-                   Sin explicar nada todavía.
+Lo único que conviene repetir aquí, porque es lo que más se incumple al escribir:
 
-2. LA PREGUNTA     1 párrafo. El hueco de información: qué es lo que no cuadra.
-
-3. EL GIRO         2–3 párrafos. Por qué lo que el lector cree es incompleto o falso.
-
-4. LA EVIDENCIA    400–600 palabras. UN estudio principal contado como historia
-                   (quién lo hizo, qué esperaba encontrar, qué encontró),
-                   más un apoyo secundario. Nunca más de dos por capítulo.
-
-5. EL PRINCIPIO    Una sola frase, en negrita, numerada. El lector debe poder
-                   subrayarla y repetirla.
-
-6. CÓMO SE HACE    600–800 palabras. Tres pasos concretos, con ejemplo real de cada uno.
-                   Aquí es donde se gana el dinero.
-
-7. EL CONTRAPESO   1–2 párrafos. Cuándo la regla falla, a quién perjudica o qué cuesta.
-                   No es una concesión: es lo que separa este libro de la autoayuda,
-                   y ahorra reseñas negativas.
-
-8. LA HERRAMIENTA  La página del expediente que el lector añade en este capítulo.
-
-9. CIERRE          Se vuelve a la escena del punto 1 y se cierra.
-
-10. EN UNA         4–5 viñetas de resumen + DOS preguntas de recuerdo, sin mirar atrás.
-    SERVILLETA
-
-11. ESTA SEMANA    UN plan si-entonces, de menos de 30 minutos, que se pueda ejecutar
-                   sin permiso de nadie.
-```
-
-### Sobre el punto 9
-Es exactamente lo que hace James Clear al final de cada capítulo de *Hábitos Atómicos*. Tiene tres
-efectos: permite releer el libro en veinte minutos, hace que el libro se **cite** (la gente
-fotografía los resúmenes y los comparte) y da una sensación de cierre que empuja al siguiente
-capítulo.
-
-### Sobre el punto 10
-Es la mayor diferencia entre un libro que se lee y un libro que se usa. **Menos de 30 minutos y
-sin necesidad de permiso** es la restricción clave: si la tarea requiere hablar con el jefe o
-esperar a la evaluación anual, el lector la pospone y con ella pospone el libro.
+- **Todos los capítulos abren con una persona**, nunca con una definición ni con un dato.
+- **Un solo estudio en el cuerpo**, contado como historia. El resto, a las notas finales.
+- **Contrapeso obligatorio:** cada capítulo dice cuándo su propio consejo falla.
+- **Cierre en tres piezas:** resumen en viñetas, dos preguntas de recuerdo sin mirar atrás, y un
+  plan si‑entonces de menos de treinta minutos que no necesite el permiso de nadie.
+- **La última línea abre el capítulo siguiente.** Sin excepción.
 
 ## 4. Palancas de ritmo
 

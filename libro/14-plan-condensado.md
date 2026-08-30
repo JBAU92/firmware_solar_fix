@@ -1,9 +1,9 @@
 # 14 · Plan del libro 1 — extensión, economía y alcance
 
-> **Corregido en la v5.0.** La versión anterior fijaba 12 capítulos y 140 páginas optimizando la
-> regalía por ejemplar. Era una mala optimización: pasar de 140 a 170 páginas cuesta **36 céntimos
-> por ejemplar** y compra treinta páginas de valor percibido y dos capítulos que había comprimido
-> de más. **Vigente: 14 capítulos, ~36.000 palabras, ~170 páginas.**
+> ## El libro 1 tiene **14 capítulos**, ~34.000 palabras y ~170 páginas.
+>
+> Índice completo en el §4 de este archivo; cada capítulo desarrollado en
+> [15-biblia-de-capitulos.md](15-biblia-de-capitulos.md).
 
 > **Este archivo sustituye al plan de extensión de los archivos 03, 08 y 09.** El resto del dossier
 > sigue siendo válido como **cantera**: la investigación, la evidencia y los casos no cambian, solo
@@ -67,8 +67,8 @@ Aquí está la decisión más importante de todo el replanteamiento, y es contra
 
 > **Condensar no es comprimir cada capítulo. Es eliminar temas enteros.**
 
-Si metemos los 25 capítulos del plan viejo en 170 páginas, el resultado es exactamente lo que temes: un
-ladrillo denso que nadie termina. Si bajamos a **14 capítulos y dejamos que cada uno respire**,
+Meter una arquitectura de veintitantos capítulos en 170 páginas produce un ladrillo denso que
+nadie termina. Si bajamos a **14 capítulos y dejamos que cada uno respire**,
 el resultado es lo contrario: un libro rápido, con aire, con una idea por capítulo y una acción al
 final de cada uno.
 
@@ -239,5 +239,4 @@ segundo libro ya investigado, y no amputa ni la elección de ruta ni la prueba r
 1. Optimizar la regalía por ejemplar recortando contenido. Treinta páginas cuestan 36 céntimos.
 2. Fijar el precio en una hoja de cálculo. Se fija con un test de prototipo.
 
-**Y lo que sigue en pie:** no meter los 25 capítulos del plan viejo en 170 páginas. Eso produce el
-ladrillo denso que hay que evitar. Catorce capítulos que respiran, no veinticinco apretados.
+**Y lo que sigue en pie:** catorce capítulos que respiran, no veintitantos apretados.

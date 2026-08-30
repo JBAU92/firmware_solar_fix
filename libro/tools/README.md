@@ -9,7 +9,7 @@ No necesita pandoc ni librerías externas: convierte el markdown a HTML y lo imp
 python3 libro/tools/build_pdf.py
 CHROME=/opt/pw-browsers/chromium_headless_shell-*/chrome-linux/headless_shell
 $CHROME --headless --no-sandbox --disable-gpu --no-pdf-header-footer \
-        --print-to-pdf=ESCALA-estudio-preproduccion.pdf \
+        --print-to-pdf=ESCALA-plan-libro-1.pdf \
         file://$PWD/pdf-source.html
 ```
 

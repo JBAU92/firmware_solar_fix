@@ -7,25 +7,21 @@ OUT = pathlib.Path('/tmp/claude-0/-home-user-firmware-solar-fix/d54e8afc-d969-53
 
 ORDER = [
     ('README.md',                     'Ficha del proyecto'),
-    # --- el plan vigente, primero ---
-    ('14-plan-condensado.md',         'Plan vigente del libro 1'),
+    # --- el plan y los capítulos ---
+    ('14-plan-condensado.md',         'Plan del libro 1'),
     ('15-biblia-de-capitulos.md',     'Los 14 capítulos, desarrollados'),
     ('10-piezas-redactadas.md',       'Piezas ya redactadas'),
-    # --- concepto y evidencia ---
-    ('01-concepto-y-propuesta.md',    'Concepto y propuesta editorial'),
-    ('02-arquitectura-narrativa.md',  'Arquitectura narrativa'),
+    ('11-expediente-de-promocion.md', 'El expediente de promoción'),
+    # --- material de apoyo para escribir ---
     ('04-bibliografia-y-evidencia.md','Bibliografía y base de evidencia'),
     ('12-sistema-de-promocion.md',    'La promoción como sistema'),
     ('13-influencia-y-defensa.md',    'Influencia real y defensa'),
     ('05-casos-y-testimonios.md',     'Casos, contra-casos y testimonios'),
     ('06-enganche-del-lector.md',     'Cómo mantener al lector enganchado'),
-    ('11-expediente-de-promocion.md', 'El expediente de promoción'),
+    ('01-concepto-y-propuesta.md',    'Concepto y propuesta editorial'),
     # --- negocio ---
     ('08-produccion-kdp.md',          'Validación, producción y KDP'),
     ('09-plan-de-trabajo.md',         'Plan de trabajo'),
-    # --- anexos: NO son el plan ---
-    ('03-esqueleto-capitulos.md',     '[ANEXO] Esqueleto largo — mapa del libro 2'),
-    ('07-leccion-de-los-bestsellers.md','[ANEXO] Ingeniería inversa de los bestsellers'),
 ]
 
 # ---------------------------------------------------------------- inline
@@ -365,7 +361,7 @@ doc = f'''<!doctype html>
   <div class="rule"></div>
   <div class="facts">
     Método <b>Elige · Sitúate · Construye · Amplifica · Lidera · Asegura</b><br>
-    Libro 1 <b>~34.000 palabras</b> · <b>14 capítulos</b> · ~170 páginas · 15,95–17,95 €<br>
+    Libro 1 <b>14 capítulos</b> · ~34.000 palabras · ~170 páginas · 15,95–17,95 €<br>
     Entregable del lector <b>Un expediente de promoción de 8 plantillas</b><br>
     Mercado <b>Amazon.es</b> · eBook Kindle y tapa blanda
   </div>
