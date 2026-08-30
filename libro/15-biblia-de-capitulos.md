@@ -123,7 +123,7 @@ que más rinde, la conclusión lógica es cerrar el libro y seguir rindiendo.
 reuniones, informes y comités, se pierde a más de la mitad del mercado en el capítulo 2 — y encima
 al segmento con menos competencia editorial, porque nadie escribe para ellos.
 
-**Regla dura:** de los catorce capítulos, **como máximo cinco** abren con una escena de oficina.
+**Regla dura:** de los catorce capítulos, **como máximo cuatro** abren con una escena de oficina.
 Y **nunca dos capítulos seguidos** del mismo sector.
 
 ### Reparto de escenas por sector
@@ -137,7 +137,7 @@ Y **nunca dos capítulos seguidos** del mismo sector.
 | 5 | Cualquiera *(es un ejercicio del lector)* |
 | 6 | Restauración |
 | 7 | Logística / almacén |
-| 8 | Oficina |
+| 8 | Industria / nave |
 | 9 | Servicios profesionales *(bufete)* |
 | 10 | Retail / tienda |
 | 11 | Oficina |
@@ -820,6 +820,101 @@ por tabú.
 ## Cap. 8 · Caer bien no es un defecto de carácter
 
 **Función:** el capítulo diferencial. El que hace que hablen del libro.
+
+> **Nota de estructura.** Este capítulo tiene **dos movimientos**: primero cómo te leen antes de
+> que abras la boca *(presencia)*, después cómo te leen cuando la abres *(congraciación)*. Es el
+> orden en que ocurre y el orden en que hay que contarlo.
+
+---
+
+## MOVIMIENTO 1 · Te leen antes de que hables
+
+### La escena *(redactada)*
+
+> Tres personas del mismo turno, en la misma nave, con el mismo mono de trabajo.
+>
+> El primero llega cinco minutos antes. El mono está limpio y planchado, la barba recortada o
+> afeitada, las botas atadas. No es guapo ni deja de serlo: es que sabes exactamente lo que te vas
+> a encontrar.
+>
+> El segundo llega justo. El mono lleva tres días puesto, el pelo es una improvisación y a veces
+> hay que abrirle la ventanilla de la furgoneta.
+>
+> El tercero es, de largo, el más atractivo de los tres. También es el único del que nunca sabes
+> qué versión va a aparecer: un lunes impecable, con reloj y todo, y el jueves siguiente hecho un
+> desastre.
+>
+> Ahora la pregunta. Eres el jefe de turno, te vas el viernes y tienes que dejar a alguien al
+> mando de la línea.
+>
+> No has tardado ni un segundo en descartar a dos.
+
+### El giro
+No has elegido al más guapo. Has elegido al **previsible**. Y eso es una buena noticia, porque la
+previsibilidad se fabrica y la cara no.
+
+### La tesis del movimiento
+> **No te leen por guapo. Te leen por previsible. Y lo que se paga no es la cara que tienes: es el
+> cuidado que se nota.**
+
+### Las ideas, en orden
+
+1. **La velocidad.** Te forman un juicio en **cien milisegundos** de ver tu cara. Y el detalle que
+   de verdad importa: darles más tiempo **no corrige la impresión** — solo hace que estén más
+   seguros de ella. Con dos segundos ya han decidido y a partir de ahí buscan confirmación.
+2. **El dato incómodo, dicho sin adornos.** Sí, el aspecto se paga. La penalización por tener un
+   físico por debajo de la media ronda el 9% del salario por hora, y la prima por estar por encima
+   ronda el 5%. Es injusto y es real, y este libro no va a fingir lo contrario.
+3. **Y el dato que lo cambia todo, que es el que hace útil este capítulo:** cuando se separa la
+   belleza del **arreglo**, resulta que **lo que paga es el arreglo**. En mujeres explica
+   prácticamente toda la ventaja; en hombres, alrededor de la mitad. Es decir: **la parte que se
+   cobra es justo la parte que decides tú cada mañana.**
+4. **La previsibilidad, que es el eje del capítulo.** El tercer compañero de la escena es el caso
+   interesante y del que nadie escribe: viste bien, pero varía. Una presencia que oscila se lee
+   como una vida que oscila, y a nadie le apetece dejar la línea el viernes en manos de una
+   incógnita. **La variable no es «bueno». Es «el mismo».**
+5. **Las tres reglas**, que valen igual en una nave que en un bufete:
+   - **Constante antes que impecable.** Es mejor un aspecto normal todos los días que uno
+     excelente tres días de cada diez.
+   - **Adecuado antes que elegante.** En una fábrica, el mono planchado gana a la americana. En un
+     despacho, al revés. La señal que se lee es *«esta persona entiende dónde está»*.
+   - **Un peldaño por encima, no tres.** Vestir como tu jefe se lee como preparado. Vestir como el
+     jefe de tu jefe se lee como raro.
+6. **Y lo que no es ropa pero es presencia:** llegar a la hora —tu puntualidad es un hecho
+   físico—, el estado de tus cosas, y hablar a un volumen que no obligue a nadie a pedirte que
+   repitas.
+
+### La evidencia
+Willis y Todorov (2006) para los cien milisegundos y para lo de que más tiempo solo aumenta la
+confianza. Ambady y Rosenthal para los *thin slices*. Hamermesh y Biddle para la parte incómoda.
+Y **Wong y Penner (2016) es la pieza clave del capítulo**: el arreglo, no la belleza.
+
+### Contrapeso — obligatorio, y no como coletilla
+- **La presión no está repartida por igual.** A las mujeres se las juzga más por el arreglo y
+  pagan más caro equivocarse por cualquiera de los dos lados. Hay sesgos por edad, por peso, por
+  origen. Nombrarlo no arregla nada, pero fingir que el campo es plano deja al libro en ridículo.
+- **Nada de esto va de gastar dinero.** Limpio, planchado, adecuado y constante no cuesta casi
+  nada. Cualquier consejo que empiece por «invierte en un buen traje» está escrito para otro
+  lector.
+- **Y la línea que el libro no cruza:** se habla de lo que uno **elige cada mañana**, nunca de
+  cómo tiene que ser su cuerpo. Ni dietas, ni cirugías, ni «cuídate más». No es pudor: es que lo
+  que se cobra, según el dato, es el arreglo — así que el consejo correcto es también el único
+  que hace falta dar.
+
+### Pepitas del movimiento 1
+- *No te juzgan por guapo. Te juzgan por previsible.*
+- *Cien milisegundos. Y darles más tiempo no corrige la impresión: solo hace que estén más seguros
+  de ella.*
+- **_Lo que se paga no es la cara que tienes. Es el cuidado que se nota._**
+- *Un aspecto normal todos los días gana a uno excelente tres de cada diez.*
+
+### Herramienta del movimiento 1 — el test del viernes
+> Si tu jefe tuviera que dejar a alguien al mando el viernes, ¿tu aspecto le ayuda a elegirte o le
+> da un motivo para dudar? Y la segunda, más dura: **¿lo mismo el lunes que el jueves?**
+
+---
+
+## MOVIMIENTO 2 · Y cuando abres la boca
 
 ### La escena *(redactada)*
 

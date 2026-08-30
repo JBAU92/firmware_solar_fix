@@ -311,6 +311,49 @@ Knife: How Ingratiation Leads to Resentment and Social Undermining of the CEO". 
 - **Uso:** cierre del cap. 13 bis (aviso al lector) y cap. 22 (aviso al lector ya convertido en
   jefe: tu subordinado más adulador es tu candidato más probable a apuñalarte).
 
+### B7a ⚑ 🟢 Cien milisegundos
+**Willis, J. y Todorov, A. (2006).** "First Impressions: Making Up Your Mind After a 100-Ms
+Exposure to a Face". *Psychological Science*, 17(7), 592–598.
+- **Dato citable:** con **100 milisegundos** de exposición a una cara ya se forman juicios de
+  confianza, competencia, simpatía y agresividad, y esos juicios **correlacionan alto** con los que
+  se emiten sin límite de tiempo. Al alargar la exposición a 500 y 1.000 ms **las correlaciones no
+  aumentan**: lo que aumenta es la **confianza** en el juicio ya formado.
+- **Por qué es la mejor cita del capítulo:** desarma la respuesta natural del lector («ya me
+  conocerán mejor»). Más tiempo no corrige la primera impresión — la asienta.
+
+### B7b 🟢 Las rodajas finas
+**Ambady, N. y Rosenthal, R. (1992).** "Thin Slices of Expressive Behavior as Predictors of
+Interpersonal Consequences: A Meta-Analysis". *Psychological Bulletin*, 111(2), 256–274.
+- **Dato citable:** metaanálisis de 38 estudios. Los juicios formados a partir de fragmentos de
+  **menos de 30 segundos** predicen consecuencias interpersonales tan bien como los de fragmentos
+  mucho más largos: **no hay aumento lineal de precisión** entre 30 y 300 segundos.
+- **Uso:** cap. 8, movimiento 1.
+
+### B7c 🟡 El dato incómodo: el aspecto se paga
+**Hamermesh, D. S. y Biddle, J. E. (1994).** "Beauty and the Labor Market". *American Economic
+Review*, 84(5), 1174–1194.
+- **Dato citable:** controlando educación y experiencia, quien tiene un físico **por debajo de la
+  media** gana en torno a un **9% menos** por hora, y quien está **por encima**, alrededor de un
+  **5% más**. La penalización pesa más que la prima.
+- **Cómo se cita:** sin adornos y sin justificarlo. Es un sesgo del mercado, no una recomendación.
+- **Cautela:** datos de EE. UU. y Canadá de los años ochenta. Citar el sentido y el orden de
+  magnitud, no la cifra como si fuera universal y actual.
+
+### B7d ⚑ 🟢 Y el dato que lo hace accionable: paga el arreglo, no la belleza
+**Wong, J. S. y Penner, A. M. (2016).** "Gender and the Returns to Attractiveness". *Research in
+Social Stratification and Mobility*, 44, 113–123.
+- **Dato citable:** con datos longitudinales de unas **14.600 personas** (Add Health), las personas
+  consideradas atractivas ganan en torno a un 20% más que las de atractivo medio — **pero al
+  controlar por el arreglo personal la ventaja se reduce drásticamente**. En mujeres, el arreglo
+  explica **prácticamente toda** la prima; en hombres, alrededor de **la mitad**.
+- **La frase que resume el hallazgo:** no basta con ser atractivo, lo que se recompensa es
+  *«hacer el atractivo apropiadamente»* — es decir, el cuidado, que es conducta y no genética.
+- **Por qué es la viga del capítulo:** convierte un tema incómodo y fatalista en uno accionable y
+  honesto. **La parte que se cobra es la parte que el lector controla.**
+- **Cautela obligatoria al citarlo:** el hallazgo tiene una lectura de género que hay que contar
+  entera, no seleccionar. Que a las mujeres se les exija más arreglo para cobrar lo mismo **es el
+  sesgo, no el consejo**.
+
 ### B5 🟢/🟡 Los principios de influencia
 **Cialdini, R.** *Influence: The Psychology of Persuasion* (1984; ed. ampliada 2021) y
 *Pre-Suasion* (2016). Ed. española: *Influencia* y *Pre-suasión*.
@@ -531,6 +574,9 @@ estas ideas circulan en libros de gestión y son tentadoras. Ninguna debe usarse
 | **«Lo peor que puede pasar es que vuelvas a tu puesto»** | **Falso como regla general en España.** Consolidado el ascenso, no hay derecho de retorno unilateral: volver es una negociación | Reformulado en el cap. 2: el riesgo **se hace** reversible antes de aceptar (periodo de prueba, interinidad con fecha, cláusula escrita), no lo es por defecto |
 | **«1 de cada 7 empleados de alto rendimiento es alto potencial»** | Dato de consultora, metodología propietaria, contexto incierto | **No citar la cifra** hasta tener informe original, muestra y definición. La idea cualitativa —rendir y tener potencial son cosas distintas— se sostiene sola |
 | **«Un tercio del feedback empeora el rendimiento»** | Procede de un metaanálisis real, pero es una fracción **agregada de estudios**, no una probabilidad personal | Contar el diseño y el mecanismo, no convertir la fracción en pronóstico individual |
+| **«Tienes 7 segundos para causar una primera impresión»** | Cifra de manual de autoayuda sin origen. La investigación seria habla de **milisegundos**, no de segundos | Usar Willis y Todorov, que además dice algo más interesante |
+| **«Vístete para el puesto que quieres»** | Folclore. Llevado al extremo produce a alguien disfrazado, que es justo la señal contraria | Sustituir por *un peldaño por encima, no tres* |
+| **Enclothed cognition** (la bata de laboratorio) | Replicación floja | No usar como mecanismo |
 | **Efecto Zeigarnik** (tareas inacabadas se recuerdan mejor) | Replicación irregular | Se puede mencionar como recurso narrativo, **no** como hallazgo firme |
 | **Mentalidad de crecimiento (Dweck)** | El marco es valioso; los efectos de las intervenciones escolares son mucho menores de lo que se popularizó | Citar la idea, no prometer resultados espectaculares |
 | **Grit (Duckworth)** | Metaanálisis posteriores: predice menos que la responsabilidad (*conscientiousness*), con la que solapa mucho | Citar con matiz o evitar |
