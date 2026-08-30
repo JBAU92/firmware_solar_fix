@@ -1,86 +1,101 @@
-# Dossier de preproducción — libro de escalada profesional (Amazon KDP)
+# ESCALA — Estudio de preproducción v2.0
 
-**Estado:** boceto y documentación. **No es el manuscrito.** Aquí está todo lo necesario
-para poder sentarse a escribir sin volver a investigar nada.
+**Libro práctico de no ficción para Amazon KDP.** Este dossier es la versión definitiva: fusiona
+el estudio original de este repositorio con el segundo estudio independiente
+(`Estudio_preproduccion_libro_KDP_ascenso_empresarial.docx`), quedándose con lo mejor de cada uno.
+Ver el [registro de fusión](#registro-de-fusión) al final.
 
-**Título de trabajo:** *ESCALA — El plan de carrera que nadie te va a dar*
-**Idioma:** español (mercado principal: Amazon.es; secundario: Amazon.com en español)
-**Formato objetivo:** eBook Kindle + tapa blanda POD
-**Extensión objetivo:** 52.000–58.000 palabras · 24 capítulos · ~240–260 páginas (6"x9")
+**No es el manuscrito.** Es todo lo necesario para escribirlo sin volver a investigar nada.
+
+---
+
+## Veredicto editorial
+
+> **VALIDAR ANTES DE ESCRIBIR.** La promesa es útil y diferenciable, pero dos puertas siguen
+> cerradas: la **demanda real en español** no está medida y la **autoridad del autor** no está
+> verificada. Ninguna idea buena compensa esas dos cosas.
+>
+> **Siguiente hito:** un sprint de validación de 3–4 semanas (mercado + credencial + 15 lectores
+> + 8 entrevistas de RR. HH.). Solo después, dos capítulos prototipo. El manuscrito completo, más
+> tarde.
+
+Esta es la corrección más importante que aporta el segundo estudio y se adopta entera. El plan de
+trabajo empieza ahora por la puerta de validación, no por la escritura → [09](09-plan-de-trabajo.md).
+
+---
+
+## Ficha del proyecto
+
+| | |
+|---|---|
+| **Título de trabajo** | *ESCALA* · «El plan de carrera que tu empresa diseña para unos pocos» |
+| **Método** | **E**lige · **S**itúate · **C**onstruye · **A**mplifica · **L**idera · **A**segura |
+| **Entregable del lector** | Un **expediente de promoción** de 10–12 páginas que crece capítulo a capítulo |
+| **Extensión** | 57.000–62.000 palabras · 24 capítulos · ~250 páginas en 6"×9" |
+| **Mercado** | Amazon.es (principal) · Amazon.com en español (secundario) |
+| **Formatos** | eBook Kindle + tapa blanda POD |
+| **Horizonte** | 11–13 meses desde hoy, incluida la validación |
+
+**La premisa:** existe un manual para fabricar jefes; lo escriben las empresas, se aplica a un
+puñado de elegidos y nadie se lo enseña a los demás. Este libro es ese manual, filtrado y puesto
+en manos del lector — **y ampliado**, porque no todas las escaleras llevan a una vida mejor y el
+libro también enseña a elegir cuál subir, o a no subir ninguna.
 
 ---
 
 ## Índice del dossier
 
-| Archivo | Qué contiene | Para qué sirve |
+| Archivo | Contenido |
+|---|---|
+| [01-concepto-y-propuesta.md](01-concepto-y-propuesta.md) | Premisa, lector, promesa y sus límites, competencia, títulos, ética |
+| [02-arquitectura-narrativa.md](02-arquitectura-narrativa.md) | Tres actos, tres hilos, el método ESCALA, el expediente, mapa de bucles |
+| [03-esqueleto-capitulos.md](03-esqueleto-capitulos.md) | Los 24 capítulos, uno a uno |
+| [04-bibliografia-y-evidencia.md](04-bibliografia-y-evidencia.md) | 30 fuentes con el dato citable, su nivel de solidez y su cautela + **lista negra** |
+| [05-casos-y-testimonios.md](05-casos-y-testimonios.md) | Caso ancla (resuelto), cartera de casos, contra-casos, guion de entrevistas |
+| [06-enganche-del-lector.md](06-enganche-del-lector.md) | Plantilla fija de capítulo, palancas de ritmo, prueba con lectores |
+| [07-leccion-de-los-bestsellers.md](07-leccion-de-los-bestsellers.md) | Clear, Carnegie, Covey: qué se copia y qué no |
+| [08-produccion-kdp.md](08-produccion-kdp.md) | Validación de mercado, economía, metadatos, portada, riesgo legal, IA |
+| [09-plan-de-trabajo.md](09-plan-de-trabajo.md) | Siete fases con puertas de decisión, calendario y riesgos |
+| [10-piezas-redactadas.md](10-piezas-redactadas.md) | Cinco piezas ya escritas para fijar la voz |
+| [11-expediente-de-promocion.md](11-expediente-de-promocion.md) | Las doce páginas del entregable del lector, en plantilla |
+
+---
+
+## Las cinco decisiones abiertas
+
+1. **✅ Caso ancla — resuelto.** Michael Bayley: *assistant purser* en el *Nordic Prince* en 1981,
+   presidente y consejero delegado de Royal Caribbean International desde 2014. No es una empresa
+   española y hay que decirlo. Falta un **caso ancla español en paralelo**.
+2. **🔴 La credencial del autor.** Determina la introducción entera, el tono y qué se puede
+   afirmar. Si es real: concretar años, funciones y límites de confidencialidad. Si no lo es o no
+   puede sostenerse: el libro se presenta como investigación sobre profesionales del talento, con
+   entrevistas trazables. **Nunca inventar credenciales.** Bloquea el prólogo.
+3. **🔴 Demanda de mercado.** Sin medir. Protocolo de 7–10 días en [08](08-produccion-kdp.md).
+4. **🟡 Título definitivo.** Tres finalistas en [01](01-concepto-y-propuesta.md#títulos).
+5. **🟡 Acceso a 32 entrevistas.** Sin ellas el libro depende de famosos y de literatura de
+   segunda mano, que es exactamente lo que hace la competencia.
+
+---
+
+## Registro de fusión
+
+Qué se ha tomado de cada estudio y por qué.
+
+| Elemento | Origen | Motivo |
 |---|---|---|
-| [01-concepto-y-propuesta.md](01-concepto-y-propuesta.md) | Premisa, lector objetivo, promesa, competencia, títulos candidatos | Decidir *qué* libro es y por qué alguien lo compra |
-| [02-arquitectura-narrativa.md](02-arquitectura-narrativa.md) | Introducción / nudo / desenlace, el hilo conductor, el método ESCALA | La columna vertebral |
-| [03-esqueleto-capitulos.md](03-esqueleto-capitulos.md) | Los 24 capítulos: qué cuenta cada uno, qué evidencia lo respalda, qué ejercicio cierra | El mapa de escritura |
-| [04-bibliografia-y-evidencia.md](04-bibliografia-y-evidencia.md) | Fuentes verificadas con el dato citable exacto + **lista negra de citas peligrosas** | Que nadie pueda tumbar el libro en una reseña |
-| [05-casos-y-testimonios.md](05-casos-y-testimonios.md) | Caso ancla (naviera española), banco de casos verificados, contra-casos, cómo conseguir testimonios propios | La carne narrativa |
-| [06-enganche-del-lector.md](06-enganche-del-lector.md) | Qué hace que un lector termine un libro de no ficción, con evidencia; plantilla de capítulo | Que no lo abandonen en el capítulo 3 |
-| [07-leccion-de-los-bestsellers.md](07-leccion-de-los-bestsellers.md) | Disección de *Hábitos Atómicos*, *Cómo ganar amigos*, *7 Hábitos* y qué copiamos exactamente | Ingeniería inversa del éxito |
-| [08-produccion-kdp.md](08-produccion-kdp.md) | Regalías, formatos, metadatos, categorías, precio, portada, lanzamiento | La parte de negocio |
-| [09-plan-de-trabajo.md](09-plan-de-trabajo.md) | Fases, calendario realista, entregables y decisiones pendientes | Ejecución |
-| [10-piezas-redactadas.md](10-piezas-redactadas.md) | Borradores ya escritos de las 4 piezas clave (apertura, carta al hijo, el permiso, emprender vs. escalar) | Para ver el tono y validar la voz |
-
----
-
-> **Actualización (30 ago 2026).** Existe un segundo estudio de preproducción, independiente
-> (`Estudio_preproduccion_libro_KDP_ascenso_empresarial.docx`), que llega por otro camino a
-> conclusiones convergentes y aporta tres cosas que este dossier no tenía: multirruta en vez de
-> solo ascenso, el «expediente de promoción» como entregable único, y disciplina de validación de
-> mercado antes de escribir. Sus correcciones ya están incorporadas aquí. Ver el análisis
-> comparado al final de este archivo.
-
-## Las 5 decisiones que hay que tomar antes de escribir una sola página
-
-1. **El caso ancla. ✅ RESUELTO** — el caso de cruceros es **Michael Bayley**: entró en 1981 como *assistant purser* en el *Nordic Prince* de Royal Caribbean y es presidente y consejero delegado de Royal Caribbean International desde 2014. No es una empresa española: eso hay que decirlo, no esconderlo. Sigue haciendo falta **un caso ancla español en paralelo** (candidato: Adolfo Utor / Baleària). Ver [05](05-casos-y-testimonios.md).
-2. **¿El autor firma con nombre real o seudónimo?** Afecta a la credibilidad ("soy cazatalentos"), a las cláusulas de confidencialidad con tu empleador y a la estrategia de marketing. Ver [08](08-produccion-kdp.md#riesgo-legal-y-reputacional).
-3. **¿24 capítulos o 20?** El esqueleto tiene 24; se puede comprimir a 20 fusionando cuatro pares. Ver [03](03-esqueleto-capitulos.md#opciones-de-compresion).
-4. **Título definitivo.** Tres candidatos finalistas en [01](01-concepto-y-propuesta.md#titulos-candidatos).
-5. **¿KDP Select (exclusividad 90 días + Kindle Unlimited) o distribución amplia?** Ver [08](08-produccion-kdp.md#kdp-select-si-o-no).
-
----
-
-## Resumen ejecutivo en 10 líneas
-
-Las grandes empresas **ya tienen** un método industrial para fabricar directivos: identifican
-"alto potencial", les asignan padrinos, les diseñan experiencias, les miden con una ficha que
-el interesado nunca ve. Ese método se aplica a un puñado de elegidos.
-
-El libro **filtra ese método y lo pone en manos de cualquiera**, sin necesidad de que nadie te
-elija. Lo cuenta alguien que se dedica profesionalmente a hacer esas listas y esos planes de
-carrera, y que lo escribe, en primer lugar, para que su hijo entienda algún día a qué se dedica
-su padre.
-
-El argumento emocional es un permiso: *"no puedes decir que mandar no es lo tuyo si no lo has
-probado; lo peor que puede pasar es que renuncies y vuelvas a tu puesto"*. Y un cambio de foco:
-*"llevas años pensando en emprender fuera y nunca has probado a emprender dentro, donde ya
-inviertes ocho horas al día"*.
-
-El método se llama **ESCALA** (Evalúa · Señala · Conecta · Actúa como · Lidera · Asegura) y
-cada letra es una parte del libro.
-
-
----
-
-## Anexo · Los dos estudios, comparados
-
-Dos dossieres independientes sobre el mismo proyecto, fechados el mismo día. Convergen en lo
-esencial —incluido el acrónimo ESCALA, con distinto desarrollo— y se complementan bien.
-
-| Dimensión | Este dossier | Estudio .docx | Qué se queda |
-|---|---|---|---|
-| **Veredicto** | Asume luz verde y planifica la escritura | «Investigar», no publicar: 71/100, con demanda y autoridad como puertas | **El del .docx.** Validar mercado antes de escribir 55.000 palabras es el orden correcto |
-| **ESCALA** | Evalúa · Señala · Conecta · Actúa como · Lidera · Asegura | Elegir · Situar · Construir · Amplificar · Liderar · Asegurar | **Fusión:** el reparto del .docx (mejor secuencia de decisiones) con los verbos imperativos de aquí (más memorables) |
-| **Alcance** | Solo ascenso jerárquico | Cinco rutas: mando, experta, lateral, salida, permanencia consciente | **El del .docx.** Multiplica el mercado y elimina un supuesto falso |
-| **Entregable del lector** | Uno por parte | Un «expediente de promoción» de 8–12 páginas que crece capítulo a capítulo | **El del .docx.** Un artefacto acumulativo vende mejor que cinco sueltos |
-| **Voz y prosa** | Cuatro piezas ya redactadas, tono conversacional | Sin prosa; registro de informe de consultoría | **El de aquí** |
-| **Carta al hijo** | Motor emocional, 5 apariciones + prólogo y epílogo | Reducida a menos de 3 páginas totales | **El de aquí.** Es lo único que ningún competidor puede copiar |
-| **Evidencia** | Peter Principle, lazos débiles (Science 2022), Flynn & Bohns, Kluger & DeNisi, Gallup, Google Oxígeno, CLC/Gartner | Ng et al., Bidwell, De Pater, Babcock, Munyon, Allen, Wolff & Moser, Gollwitzer | **Los dos.** Se han fusionado en [04](04-bibliografia-y-evidencia.md) |
-| **Defensa frente a citas malas** | Lista negra (Gino, Ariely, Cuddy, 10.000 horas, PIE, 70‑20‑10, Mehrabian) | «Afirmaciones que el libro no debe hacer» | **Los dos, son complementarios** |
-| **Extensión** | 24 capítulos × 2.300 palabras | 15 capítulos × 3.000 palabras | **El de aquí.** Capítulo corto = menos abandono |
-| **Reversibilidad del ascenso** | ❌ Prometía que volver atrás es el peor escenario | ✅ Lo marca como falso como regla general | **El del .docx.** Corregido en el cap. 2 y el cap. 22 |
-| **Cumplimiento KDP** | Regalías, metadatos, riesgo laboral | Además: declaración de contenido generado por IA, metadatos con marcas ajenas | **Los dos.** Incorporado en [08](08-produccion-kdp.md) |
+| Veredicto «validar antes de escribir» | .docx | Evita seis meses de escritura sobre una demanda no probada |
+| Multirruta: cinco finales válidos | .docx | Más mercado, y elimina el supuesto falso «subir = éxito» |
+| Reparto de ESCALA como secuencia de decisiones | .docx | Cada letra tiene criterio de salida; mejor que mi reparto original |
+| Verbos en imperativo y segunda persona | original | Más memorables y accionables que los infinitivos |
+| El expediente de promoción como entregable único | .docx | Un artefacto que crece retiene mejor que cinco sueltos |
+| Corrección de la reversibilidad del ascenso | .docx | Mi versión afirmaba algo falso en derecho español |
+| Babcock et al., tareas de baja promocionabilidad | .docx | Impide que el libro recomiende trabajo invisible |
+| Ng et al., Bidwell, De Pater, Munyon, Allen, Wolff & Moser, Gollwitzer | .docx | Base académica de carrera que faltaba |
+| Peter Principle, lazos débiles (Science 2022), Flynn & Bohns, Kluger & DeNisi, Gallup, Oxígeno, CLC | original | Evidencia más reciente y más contable |
+| Lista negra de citas contaminadas | original | Defensa que el .docx no tenía |
+| Plantilla fija de capítulo y palancas de ritmo | fusión | Su rigor de bloques, mis extensiones más cortas |
+| Carta al hijo como motor emocional | original | Es lo único que ningún competidor puede copiar |
+| Capítulos de ~2.400 palabras, 24 en total | original | Menos abandono que 15 capítulos de 3.000+ |
+| Declaración de contenido IA en KDP | .docx | Requisito de cumplimiento que se me pasó |
+| Protocolo de validación de mercado y economía de impresión | .docx | Convierte el plan en una decisión de negocio |
+| Guion de entrevista y protocolo de consentimiento | fusión | Los dos tenían uno; se han combinado |

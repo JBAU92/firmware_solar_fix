@@ -1,121 +1,174 @@
 # 01 · Concepto y propuesta editorial
 
-## 1. La premisa (la "gran idea")
+## 1. La premisa
 
 > **Existe un manual para fabricar jefes. Lo escriben las empresas, se aplica a un puñado de
 > elegidos y nadie se lo enseña a los demás. Este libro es ese manual, filtrado y puesto en tus
-> manos.**
+> manos — y con una pregunta que el manual original nunca hace: ¿esta escalera te conviene?**
 
-Esta premisa funciona porque cumple las tres condiciones de una premisa vendible en no ficción
-de desarrollo profesional:
+Tres condiciones cumplidas, que es lo que separa una premisa vendible de una idea bonita:
 
-1. **Revela un secreto real, no un tópico.** Los comités de talento, la matriz de 9 casillas,
-   las listas de "alto potencial" y los planes de sucesión existen de verdad, tienen nombre
-   propio y están documentados. El lector medio no sabe que se le está evaluando en ejes que
-   nadie le ha comunicado.
-2. **Convierte al lector en protagonista, no en alumno.** No es "sé mejor persona": es
-   "aquí está la ficha con la que te puntúan; rellénala tú".
-3. **La autoridad del autor es estructural, no prestada.** El autor no es un coach que leyó
-   libros: es quien hace las listas. Eso es lo que hace único a este libro frente a los
-   trescientos títulos de liderazgo genérico que hay en Amazon.
+1. **Revela algo real, no un tópico.** Los comités de talento, la matriz de nueve casillas, las
+   listas de alto potencial y los planes de sucesión existen, tienen nombre y método. El lector
+   medio no sabe que se le evalúa en ejes que nadie le ha comunicado.
+2. **Convierte al lector en protagonista.** No es «sé mejor persona»: es «aquí está la ficha con
+   la que te puntúan; rellénala tú».
+3. **La autoridad es estructural, no prestada.** El autor no es alguien que leyó libros sobre
+   ascender: es quien hace las listas. *Condicionado a que sea verdad — ver §7.*
 
-## 2. La promesa (contraportada, versión trabajo)
+## 2. La promesa, y sus límites
 
-> Trabajas ocho horas al día en una empresa que tiene un plan para unas pocas personas. Tú no
-> estás en ese plan. Este libro te enseña a hacértelo tú.
->
-> Durante años me he dedicado a buscar talento para grandes compañías: a decidir quién entra en
-> la lista de los que van a ascender y a diseñarles el camino. Es un proceso mucho menos mágico
-> —y mucho más copiable— de lo que parece desde fuera.
->
-> Aquí está el método completo: cómo te miden, cómo hacer visible lo que ya haces bien, cómo
-> conseguir un padrino dentro de la organización, cómo comportarte como jefe antes de serlo y
-> qué hacer los primeros noventa días si lo consigues.
->
-> Y si al final descubres que no es lo tuyo, habrás perdido tres meses y habrás ganado la única
-> respuesta que no se puede leer en ningún sitio: la tuya.
+**Promesa editorial:**
 
-## 3. El lector objetivo
+> Diseña y ejecuta un plan de doce meses para convertirte en una opción creíble para tu próximo
+> movimiento interno —mando, especialidad o movilidad lateral— y decide con datos si esa escalera
+> te conviene.
 
-**Retrato robot primario** — 28 a 45 años, empleado por cuenta ajena en una empresa mediana o
-grande de España o Latinoamérica. Ya es bueno técnicamente en lo suyo. Lleva entre 3 y 10 años
-en el mismo escalón. Ha visto ascender a gente que rendía menos que él y no entiende por qué. Ha
-fantaseado con montar algo por su cuenta, ha comprado un curso, ha abierto un documento con un
-plan de negocio, y ahí sigue.
+**Lo que el lector se lleva:**
 
-**Sus tres creencias de partida (el libro debe desmontarlas, en este orden):**
-
-| Creencia | Dónde se desmonta |
+| Tipo | Resultado |
 |---|---|
-| "Si trabajo bien, se darán cuenta" | Parte S (cap. 8–11) |
-| "Mandar no es lo mío / no quiero problemas" | Cap. 2 y cap. 22 |
-| "Lo mío es montármelo por mi cuenta" | Cap. 3 |
+| **Tangible** | Un expediente de promoción de 10–12 páginas, construido capítulo a capítulo |
+| **Conductual** | Un sistema semanal de 30 minutos y un experimento profesional al mes |
+| **Cognitivo** | Entender criterios, actores, ventanas y riesgos del sistema de promociones |
 
-**Retrato secundario** — mando intermedio recién ascendido que se está ahogando. Compra el libro
-por los capítulos 20–23. Es un público valioso porque compra en tapa blanda y regala ejemplares.
+**Los límites, declarados dentro del libro y en la contraportada:**
 
-**Anti-lector (a quien NO va dirigido, y conviene decirlo dentro del libro):** el que busca
-trepar pasando por encima de la gente. El libro debe posicionarse explícitamente en contra —
-por ética y porque es comercialmente mejor: separa el título de la estantería de *Las 48 leyes
-del poder* y evita la reseña de una estrella que dice "esto es un manual de pelotas".
+- El libro **no controla** vacantes, presupuesto, reestructuraciones, sesgos ni decisiones
+  políticas. Puede aumentar mucho tus probabilidades; no puede garantizarte nada.
+- **No enseña a manipular.** Influencia aquí significa entender intereses, comunicar valor y
+  construir confianza. No adular, no ocultar, no explotar relaciones.
+- **No promete que ascender te hará más feliz.** Los efectos de una promoción sobre satisfacción,
+  horas y salud son heterogéneos, y el libro dedica un capítulo entero a eso.
 
-## 4. Diferenciación frente a la competencia
+**Por qué declarar límites vende más, no menos:** el lector de esta categoría ya ha comprado dos
+libros que le prometían un secreto y le dieron consignas. La honestidad sobre lo que no se
+controla es, en 2026, un diferenciador comercial.
 
-| Libro | Qué hace | Qué le falta (nuestro hueco) |
+## 3. El lector
+
+**Primario.** Profesional hispanohablante de 25–45 años, con 3 a 15 años de experiencia, empleado
+en una organización mediana o grande. Competente en lo suyo. Poco visible. Sin mapa de carrera ni
+acceso al lenguaje interno del talento. Ha visto ascender a gente que rendía menos y no entiende
+por qué. Ha fantaseado con montar algo por su cuenta y no ha llegado a hacerlo.
+
+**Sus cuatro creencias de partida, y dónde se desmontan:**
+
+| Creencia | Capítulo |
+|---|---|
+| «Si trabajo bien, se darán cuenta» | 11 |
+| «Mandar no es lo mío / no quiero problemas» | 3 y 5 |
+| «Lo mío es montármelo por mi cuenta» | 4 |
+| «Ascender es el único éxito posible» | 2 |
+
+**Secundario.** Primer mando recién nombrado que quiere consolidarse. Compra por los capítulos
+18 y 20–23. Es público valioso: compra en tapa blanda y regala ejemplares.
+
+**No prioritario, y conviene decirlo:** alta dirección, búsqueda de primer empleo, carrera
+puramente autónoma y emprendimiento desde cero. Aparecen solo como comparación de rutas.
+
+**Anti-lector.** Quien busca trepar pasando por encima de la gente. El libro se posiciona
+explícitamente en contra: por ética, y porque separa el título de la estantería de *Las 48 leyes
+del poder* y evita la reseña de una estrella que dice «esto es un manual de pelotas».
+
+## 4. La corrección que cambia el tamaño del mercado
+
+La versión inicial del proyecto hablaba solo de **subir**. Es un error de alcance y de fondo.
+
+El éxito profesional tiene un componente objetivo (salario, promociones) y otro subjetivo
+(satisfacción), y **no los predicen los mismos factores** (Ng et al., 2005). Un libro que
+identifica éxito con jerarquía deja fuera a media audiencia y le miente a la otra media.
+
+**El libro reconoce cinco rutas desde el capítulo 2:**
+
+| Ruta | Qué es | A quién le encaja |
 |---|---|---|
-| *Cómo ganar amigos e influir sobre las personas* (Carnegie) | Habilidad social atemporal | No habla de estructuras de empresa; ni una sola mención a cómo se decide un ascenso |
-| *Hábitos Atómicos* (Clear) | Sistema personal de conducta | Individual, apolítico, sin organización alrededor |
-| *Los 7 hábitos* (Covey) | Marco de carácter | Abstracto, poco accionable a corto plazo |
-| *Las 48 leyes del poder* (Greene) | Política de poder cruda | Amoral; da vergüenza recomendarlo; no sirve para lunes por la mañana |
-| *Los primeros 90 días* (Watkins) | Excelente, pero **empieza cuando ya te ascendieron** | Todo lo de antes: cómo llegar ahí |
-| Libros de liderazgo genéricos ES | Consejos sin fuentes | Ni evidencia, ni casos, ni acceso al lado de dentro |
+| **Mando** | Dirigir personas y resultados ajenos | Quien disfruta coordinando y decidiendo con información incompleta |
+| **Carrera experta** | Profundidad técnica con alcance e influencia crecientes | Quien quiere más impacto sin gestionar personas |
+| **Movilidad lateral** | Otra función, otro país, otro producto | Quien necesita ampliar el terreno antes de subir |
+| **Salida externa** | La misma escalera en otra empresa | Cuando la organización no tiene escalera real |
+| **Permanencia consciente** | Quedarse donde está, **decidido, no por defecto** | Quien tras probarlo elige su vida actual |
+
+El gancho comercial sigue siendo el ascenso —es lo que la gente busca en Amazon—, pero la
+promesa interna es más amplia y más defendible: **aumentar tus opciones y elegir con criterio**.
+
+## 5. Competencia y hueco
+
+| Título | Qué hace | Qué deja libre |
+|---|---|---|
+| *Cómo ganar amigos e influir sobre las personas* | Habilidad social atemporal | Ni una palabra sobre cómo se decide un ascenso |
+| *Hábitos atómicos* | Sistema personal de conducta | Individual, sin organización alrededor |
+| *Los 7 hábitos* | Marco de carácter | Abstracto, poco accionable a corto plazo |
+| *Las 48 leyes del poder* | Política de poder cruda | Amoral; da vergüenza recomendarlo |
+| *Los primeros 90 días* | Excelente — pero **empieza cuando ya te ascendieron** | Todo lo de antes |
+| *Power* (Pfeffer) | No elimina el poder de la conversación | Poco operativo para un empleado sin red |
+| Liderazgo genérico en español | Consejos sin fuentes | Ni evidencia, ni casos ordinarios, ni acceso al lado de dentro |
 
 **El hueco:** no existe en español un libro que explique el proceso interno de identificación y
-promoción de talento **desde dentro** y lo convierta en un plan autoaplicable. Ese es el libro.
+promoción de talento desde dentro, lo respalde con evidencia, y lo convierta en un plan
+autoaplicable con entregable.
 
-## 5. Títulos candidatos
+**Advertencia:** un hueco no es demanda. Que nadie lo haya escrito bien puede significar
+oportunidad o puede significar que no se compra. Por eso el proyecto pasa primero por el
+protocolo de validación de [08](08-produccion-kdp.md#1-validación-de-mercado-antes-de-escribir).
 
-**Finalistas** (ordenados por recomendación):
+## 6. Títulos
 
-1. **ESCALA** · *El plan de carrera que las empresas diseñan para unos pocos (y cómo hacerte el tuyo)*
-   — Ventaja: el título es también el acrónimo del método, lo que refuerza la memorización. Corto,
-   pronunciable, buscable.
-2. **Cómo te eligen** · *Lo que de verdad se mira cuando se decide quién asciende*
-   — Ventaja: es la pregunta exacta que el lector se hace. Muy fuerte en portada.
-3. **El expediente que nadie te enseña** · *Manual de ascenso escrito por quien hace las listas*
-   — Ventaja: máxima curiosidad (hueco de información puro). Riesgo: suena a thriller.
+**Finalistas:**
 
-**Descartados y por qué:** *El arte de ascender* (genérico), *Trepa con ética* (la palabra "trepa"
-es tóxica en España), *De empleado a jefe* (ya existen varios), cualquier cosa con "éxito" en el
-título (satura la categoría y baja la percepción de calidad).
+1. **ESCALA** · *Cómo se decide de verdad quién asciende, y cómo hacerte tu propio plan de carrera*
+   — El título es el acrónimo del método: refuerza la memorización. Corto y buscable. Necesita
+   subtítulo para comunicar categoría.
+2. **Cómo te eligen** · *El plan de carrera que tu empresa diseña para unos pocos*
+   — Es la pregunta exacta que el lector se hace. El más fuerte en portada de móvil.
+3. **El expediente** · *Manual de ascenso escrito por quien hace las listas*
+   — Máxima curiosidad. Riesgo: suena a novela negra.
 
-**Regla para el subtítulo:** en KDP el subtítulo es un campo indexado. Debe contener las palabras
-que la gente teclea: *plan de carrera*, *ascender*, *promoción*, *liderazgo*, *jefe de equipo*.
+**Descartados y por qué:** *Hazte promocionable* («promocionable» es jerga de RR. HH., justo la
+palabra que un lector beta marcaría), *El arte de ascender* (genérico), *Trepa con ética* («trepa»
+es tóxico en España), cualquier título con «éxito» (satura la categoría).
 
-## 6. El tono
+**Regla para el subtítulo:** es campo indexado en KDP. Debe contener, con naturalidad, lo que la
+gente teclea: *plan de carrera*, *ascender*, *promoción interna*, *liderazgo*, *jefe de equipo*.
 
-- **Segunda persona.** "Tú", no "uno" ni "el profesional".
-- **Frases cortas.** Objetivo: media de 14–18 palabras por frase.
-- **Confesional, no magistral.** El autor cuenta también lo que hizo mal y las veces que se
-  equivocó al elegir a alguien.
-- **Sin argot corporativo sin traducir.** Si aparece *HiPo*, *nine-box* o *sponsorship*, se
-  explica en cristiano la primera vez y se recoge en el glosario final. El argot es parte del
-  secreto que se está revelando: úsalo, pero tradúcelo siempre.
-- **Nada de mayúsculas motivacionales ni signos de exclamación.** El libro vende acceso, no ánimo.
+**Regla de metadatos:** **no** usar en título, subtítulo ni palabras clave «Hábitos atómicos»,
+«Dale Carnegie», «bestseller» ni comparaciones no autorizadas. Dentro del libro sí caben análisis,
+citas breves y bibliografía.
 
-## 7. La objeción ética (hay que tratarla en el capítulo 1, no esconderla)
+## 7. Las dos cuestiones de integridad
 
-Un libro sobre ascender en la jerarquía se enfrenta a una sospecha inmediata: *¿esto no es
-enseñar a hacer la pelota?*
+### 7.1 La credencial del autor — bloqueante
 
-Respuesta que debe dar el libro, explícitamente y pronto:
+Todo el libro descansa sobre «me dedico a buscar talento y a diseñar planes de carrera». Si eso
+es verdad, es el mayor activo del proyecto. Si no lo es, o no puede sostenerse públicamente, hay
+que resolverlo **antes de escribir el prólogo**:
+
+| Escenario | Qué hacer |
+|---|---|
+| Es verdad y puede contarse | Concretar años, funciones, tipo de empresas y límites de confidencialidad. Nunca clientes ni casos identificables |
+| Es verdad pero hay confidencialidad estricta | Describir la función en términos genéricos, sin sector ni empleador, y apoyarse en entrevistas a terceros |
+| Es parcial o indirecta | Presentar el libro como **investigación** sobre profesionales del talento, con 32 entrevistas trazables. Considerar coautor o asesor con credencial verificable |
+| No existe | No inventarla. Ni «narrador compuesto» sin declararlo |
+
+**Regla absoluta: nunca inventar credenciales.** Es el fraude que más rápido destruye un libro de
+no ficción, y es trivial de comprobar.
+
+### 7.2 La objeción ética, tratada en el capítulo 1
 
 > Lo que aquí se cuenta no crea méritos que no existen: hace visibles los que ya existen. La
-> diferencia entre un trepa y alguien que gestiona bien su carrera es de dónde sale el mérito.
-> El trepa se apropia del trabajo ajeno; el otro consigue que el suyo se vea. Este libro solo
-> sirve para lo segundo, y de hecho lo primero funciona mal a medio plazo: en cuanto asciendes,
-> tu resultado ya no es el tuyo, es el de tu equipo, y un equipo no rinde para alguien que le
-> roba el crédito.
+> diferencia entre un trepa y alguien que gestiona bien su carrera es de dónde sale el mérito. El
+> trepa se apropia del trabajo ajeno; el otro consigue que el suyo se vea. Este libro solo sirve
+> para lo segundo — y lo primero funciona mal a medio plazo: en cuanto asciendes, tu resultado ya
+> no es el tuyo, es el de tu equipo, y un equipo no rinde para alguien que le roba el crédito.
 
-Ese párrafo, además, planta la semilla del capítulo 17 (por qué el jefe explica la mayor parte
-del compromiso de un equipo). Es un bucle abierto útil.
+Ese párrafo planta además la semilla del capítulo 18. Es un bucle abierto útil.
+
+## 8. El tono
+
+- **Segunda persona.** «Tú», no «uno» ni «el profesional».
+- **Frases cortas.** Media de 14–18 palabras.
+- **Confesional, no magistral.** El autor cuenta también las veces que se equivocó eligiendo.
+- **Argot corporativo traducido siempre.** Si aparece *HiPo*, *nine-box* o *sponsorship*, se
+  explica en cristiano la primera vez y va al glosario. El argot es parte del secreto que se
+  revela: úsalo, pero tradúcelo.
+- **Nada de mayúsculas motivacionales ni exclamaciones.** El libro vende acceso, no ánimo.

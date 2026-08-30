@@ -9,6 +9,12 @@ dónde se usa en el libro y el **nivel de solidez**:
 - 🔴 **Riesgo** — dato popular sin respaldo, autor con problemas de integridad o hallazgo no
   replicado. Ver [§ Citas de riesgo](#citas-de-riesgo). **No usar como prueba.**
 
+**Niveles de fuerza, además del semáforo.** Al escribir conviene distinguir explícitamente:
+**Nivel A** — metaanálisis, revisión sistemática o datos administrativos amplios. **Nivel B** —
+estudio longitudinal, experimental o de campo con varias fuentes. **Nivel C** — estudio
+transversal, caso corporativo o heurística profesional. Y una regla que hay que respetar en todo
+el libro: *una fuente no «respalda el libro entero»; respalda una afirmación concreta.*
+
 **Aviso de verificación:** todas las fuentes de esta lista han sido localizadas y contrastadas
 con fuentes secundarias fiables. Antes de publicar, hay que **abrir el original de las cinco
 marcadas con ⚑** y comprobar la cifra exacta y la página, porque son las que sostienen los
@@ -173,6 +179,34 @@ Social Networks". *Harvard Business Review*, 83(6), 92–99.
 - **Uso:** cap. 10. Es el antídoto contra el "yo es que soy muy bueno técnicamente".
 - Enlace: [HBR](https://hbr.org/2005/06/competent-jerks-lovable-fools-and-the-formation-of-social-networks)
 
+### B4b 🟢 El *networking*, medido en el tiempo
+**Wolff, H.-G. y Moser, K. (2009).** "Effects of Networking on Career Success: A Longitudinal
+Study". *Journal of Applied Psychology*, 94(1), 196–206.
+- **Dato citable:** el *networking* —interno y externo— se asocia longitudinalmente con salario
+  actual, crecimiento salarial y satisfacción con la carrera.
+- **Uso:** cap. 15, junto a Granovetter y al experimento de LinkedIn.
+- **Cautela:** diseño longitudinal, no experimental. No prometer causalidad total.
+
+### B4c 🟢 Qué aporta un mentor
+**Allen, T. D., Eby, L. T., Poteet, M. L., Lentz, E. y Lima, L. (2004).** "Career Benefits
+Associated with Mentoring for Protégés: A Meta-Analysis". *Journal of Applied Psychology*, 89(1),
+127–136.
+- **Dato citable:** la mentoría se asocia con beneficios de carrera tanto objetivos (compensación,
+  promociones) como subjetivos (satisfacción), con efectos **modestos** y heterogéneos.
+- **Uso:** cap. 15 y 16 — sirve precisamente para marcar la diferencia con el patrocinio: la
+  mentoría tiene base más sólida, el patrocinio promete más pero está peor medido.
+- **Cautela:** hay selección — quien consigue mentor puede ser distinto de quien no.
+
+### B4d 🟡 Habilidad política, traducida
+**Munyon, T. P., Summers, J. K., Thompson, K. M. y Ferris, G. R. (2015).** "Political Skill and
+Work Outcomes: A Theoretical Extension, Meta-Analytic Investigation, and Agenda for the Future".
+*Personnel Psychology*, 68(1), 143–184.
+- **Dato citable:** la habilidad política —lectura social, adaptación, capacidad de generar
+  confianza— se asocia con reputación, desempeño y éxito de carrera.
+- **Uso:** cap. 17.
+- **Cautela ética innegociable:** se traduce como *lectura social e influencia ética*. Este
+  metaanálisis **no valida la manipulación**, y el libro debe decirlo en el propio capítulo.
+
 ### B5 🟢/🟡 Los principios de influencia
 **Cialdini, R.** *Influence: The Psychology of Persuasion* (1984; ed. ampliada 2021) y
 *Pre-Suasion* (2016). Ed. española: *Influencia* y *Pre-suasión*.
@@ -269,6 +303,45 @@ switching between work tasks". *Organizational Behavior and Human Decision Proce
 - **Uso:** cap. 3, para el argumento de "tener la cabeza en tu proyecto mientras estás en el
   trabajo es lo peor de los dos mundos". ⚑ **Verificar la referencia exacta antes de publicar.**
 
+### C7 🟢 Convertir intención en conducta
+**Gollwitzer, P. M. y Sheeran, P. (2006).** "Implementation Intentions and Goal Achievement: A
+Meta-Analysis of Effects and Processes". *Advances in Experimental Social Psychology*, 38, 69–119.
+- **Dato citable:** los planes con formato **«si ocurre X, entonces haré Y»** aumentan de forma
+  consistente la probabilidad de ejecutar una intención, frente a la mera intención de hacerlo.
+- **Uso:** cap. 9, y el formato de cierre de todos los capítulos.
+- **Cautela:** aumenta la ejecución de lo que depende de ti. No crea vacantes ni oportunidades.
+
+### C8 🟢 Recordar lo leído
+**Roediger, H. L. y Karpicke, J. D. (2006).** "Test-Enhanced Learning: Taking Memory Tests
+Improves Long-Term Retention". *Psychological Science*, 17(3), 249–255.
+- **Dato citable:** recuperar activamente lo aprendido retiene mucho mejor que releerlo.
+- **Uso:** justifica las **dos preguntas de recuerdo** al final de cada capítulo, sin mirar atrás.
+  Es una decisión de diseño del libro, no un adorno.
+- **Cautela:** los estudios son de material de laboratorio; el contenido profesional no es idéntico.
+
+### C9 🟡 Rasgos que se asocian, no que sentencian
+**Barrick, M. R. y Mount, M. K. (1991).** "The Big Five Personality Dimensions and Job
+Performance: A Meta-Analysis". *Personnel Psychology*, 44(1), 1–26.
+**Seibert, S. E., Crant, J. M. y Kraimer, M. L. (1999).** "Proactive Personality and Career
+Success". *Journal of Applied Psychology*, 84(3), 416–427.
+- **Datos citables:** la **responsabilidad** (*conscientiousness*) aparece de forma consistente
+  asociada al desempeño; la **personalidad proactiva** se asocia al éxito profesional.
+- **Uso:** cap. 12.
+- **Cautela crítica:** son asociaciones, y rasgo y entorno interactúan. **Jamás presentar un rasgo
+  como destino** ni recomendar tests de personalidad como diagnóstico de carrera. Un libro que
+  dice «si no eres proactivo, olvídate» pierde justo al lector que quiere ayudar.
+
+### C10 🟡 ⚑ Qué pasa después de ascender
+Estudios longitudinales sobre los efectos de la promoción en satisfacción, demandas laborales y
+salud mental (incluidos diseños con grupos emparejados y efectos retardados).
+- **Idea citable:** los efectos de una promoción son **heterogéneos** y cambian con el tiempo.
+  Aumentan ingresos y alcance; también aumentan las demandas, las horas y, en algunos estudios,
+  el riesgo para la salud mental.
+- **Uso:** cap. 2, cap. 21 y cap. 23. Es la base del capítulo de los cuatro finales.
+- ⚑ **Pendiente de verificación fina:** hay que fijar autores, año, revista, muestra y cifras
+  exactas antes de citar nada numérico. **No usar cifras concretas hasta entonces**; la afirmación
+  cualitativa («los efectos son heterogéneos») sí se sostiene.
+
 ---
 
 ## D. Cómo se escribe para que el lector no lo suelte
@@ -280,6 +353,17 @@ public narratives". *Journal of Personality and Social Psychology*, 79(5), 701�
   emoción, imágenes mentales, desconexión del entorno— **recuerda mejor el contenido y adopta más
   las creencias del relato**, y lo somete a menos escrutinio crítico.
 - **Uso:** justifica abrir **todos** los capítulos con una escena y no con una definición.
+
+### D1b 🟢 El transporte narrativo, metaanalizado
+**Van Laer, T., de Ruyter, K., Visconti, L. M. y Wetzels, M. (2014).** "The Extended
+Transportation-Imagery Model: A Meta-Analysis of the Antecedents and Consequences of Consumers'
+Narrative Transportation". *Journal of Consumer Research*, 40(5), 797–817.
+- **Dato citable:** confirma y cuantifica los antecedentes y consecuencias del transporte
+  narrativo: identificación con el personaje, verosimilitud y causalidad narrativa lo aumentan; el
+  transporte aumenta a su vez el efecto sobre creencias y actitudes.
+- **Uso:** es la justificación metodológica de abrir cada capítulo con una escena.
+- **Cautela:** justifica escenas bien contadas, **no adornar hechos**. Un caso compuesto se
+  declara como compuesto.
 
 ### D2 🟢 El hueco de información
 **Loewenstein, G. (1994).** "The psychology of curiosity: A review and reinterpretation".

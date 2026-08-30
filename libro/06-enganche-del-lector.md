@@ -42,7 +42,23 @@ qué pieza te falta**. Un lector que no sabe qué le falta, no tiene curiosidad;
 - *"Ese comercial fue ascendido. Nueve meses después, su equipo vendía menos. Y ningún directivo
   hizo nada mal."*
 
-### 2.3 Ideas que se pegan
+### 2.3 Recordar lo que se ha leído
+Roediger y Karpicke (2006) mostraron que **recuperar activamente** lo aprendido retiene mucho
+mejor que releerlo. Por eso cada capítulo cierra con **dos preguntas de recuerdo, sin mirar
+atrás**, y cada parte abre con una revisión de treinta segundos de la anterior.
+
+No es un adorno pedagógico: es lo que hace que el lector pueda explicarle el libro a otra persona,
+que es como se venden los libros de esta categoría.
+
+### 2.4 Convertir la intención en conducta
+Gollwitzer y Sheeran (2006), metaanálisis: los planes con formato **«si ocurre X, entonces haré
+Y»** aumentan de forma consistente la ejecución frente a la mera intención.
+
+Por eso el cierre de cada capítulo no es «reflexiona sobre esto» sino un si-entonces concreto:
+*«Si termina mi próxima reunión con mi jefe, entonces le pediré un criterio observable del nivel
+siguiente»*.
+
+### 2.5 Ideas que se pegan
 El marco SUCCES de los hermanos Heath (simple, inesperado, concreto, creíble, emocional, con
 historia) funciona bien como **lista de revisión** después de escribir cada capítulo. Ver §5.
 
@@ -79,16 +95,19 @@ capítulos, garantiza ritmo constante y sensación de progreso.
 6. CÓMO SE HACE    600–800 palabras. Tres pasos concretos, con ejemplo real de cada uno.
                    Aquí es donde se gana el dinero.
 
-7. EL ERROR        1–2 párrafos. Cómo se ve esto mal hecho. Ahorra reseñas negativas
-                   y demuestra que el autor conoce el terreno.
+7. EL CONTRAPESO   1–2 párrafos. Cuándo la regla falla, a quién perjudica o qué cuesta.
+                   No es una concesión: es lo que separa este libro de la autoayuda,
+                   y ahorra reseñas negativas.
 
-8. CIERRE          Se vuelve a la escena del punto 1 y se cierra.
+8. LA HERRAMIENTA  La página del expediente que el lector añade en este capítulo.
 
-9. EN UNA          4–5 viñetas. Resumen literal del capítulo.
-   SERVILLETA
+9. CIERRE          Se vuelve a la escena del punto 1 y se cierra.
 
-10. ESTA SEMANA    UNA acción, de menos de 30 minutos, que se pueda hacer sin permiso
-                   de nadie.
+10. EN UNA         4–5 viñetas de resumen + DOS preguntas de recuerdo, sin mirar atrás.
+    SERVILLETA
+
+11. ESTA SEMANA    UN plan si-entonces, de menos de 30 minutos, que se pueda ejecutar
+                   sin permiso de nadie.
 ```
 
 ### Sobre el punto 9
@@ -145,6 +164,27 @@ esperar a la evaluación anual, el lector la pospone y con ella pospone el libro
 **Filtro de lectura en voz alta**
 - [ ] Leerlo en voz alta entero. Donde tropieces, reescribe. Sin excepciones. Es el único
       corrector de estilo que funciona siempre.
+
+## 5b. La prueba con lectores, con umbrales
+
+No basta con «pasarlo a unos amigos». El protocolo:
+
+1. Entregar **la introducción y los capítulos 11 y 20** a **12 lectores** del segmento —no del
+   círculo cercano, porque mienten para no ofender.
+2. Pedirles cuatro cosas, por escrito:
+   - **Marca el punto exacto donde dejaste de leer** o donde te costó seguir.
+   - ¿Qué no te creíste?
+   - ¿Qué acción de las propuestas harías de verdad esta semana?
+   - **¿Qué palabra sonó a departamento de recursos humanos?**
+3. **Medir el recuerdo una semana después**, sin avisar: ¿saben explicar ESCALA, la diferencia
+   entre rendimiento y preparación, y cuál era su primer paso?
+4. **Umbrales de reescritura:** si menos de **8 de 12** pueden explicar la promesa, o menos de
+   **6 de 12** completaron la herramienta que se les pidió, se reescribe. No se discute.
+5. **Lectura de sensibilidad** aparte, sobre poder, género, precariedad y salud.
+
+La cuarta pregunta del punto 2 es la más rentable: la jerga corporativa sin traducir es la
+principal causa de abandono en este género, y el autor es exactamente la persona que no puede
+detectarla por sí misma.
 
 ## 6. Los tres puntos de abandono y cómo blindarlos
 

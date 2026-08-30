@@ -96,11 +96,22 @@ caso ancla, sin nombres: un chaval, un puerto y un barco.)*
 > Y ahora la parte que casi nadie se ha parado a calcular. ¿Qué es exactamente lo peor que puede
 > pasar?
 >
-> Lo peor que puede pasar es esto: lo pruebas, no te gusta, lo dices, y vuelves a tu puesto
-> anterior o a uno parecido. Pasas unos meses raros. Te tragas el orgullo. Puede que pierdas algo
-> de dinero. Alguno hará un comentario.
+> Y aquí es donde casi todos los libros mienten, así que voy a tener cuidado.
 >
-> Eso es todo. Eso es el suelo.
+> Se suele decir que lo peor que puede pasar es que lo pruebes, no te guste y vuelvas a tu puesto
+> anterior. Eso **no es verdad por defecto**. Cuando un ascenso se consolida —funciones nuevas,
+> grupo profesional nuevo, salario nuevo— no existe un botón de volver atrás: deshacerlo es una
+> modificación de tus condiciones que tu empresa tiene que aceptar. Nadie te debe tu antiguo
+> puesto.
+>
+> Lo que sí puedes hacer es **fabricar esa marcha atrás antes de necesitarla**. Un periodo de
+> prueba pactado. Una sustitución con fecha de fin. Una función interina. Una frase por escrito.
+> Y antes de todo eso, algo que no compromete nada: dirigir un proyecto de ocho semanas y ver qué
+> te pasa por dentro.
+>
+> Con eso puesto, entonces sí: lo peor que puede pasar es que pases unos meses raros, te tragues
+> el orgullo y vuelvas. Sin eso puesto, lo peor que puede pasar es bastante peor, y quien te diga
+> lo contrario no ha visto a nadie hacerlo.
 >
 > Compáralo con el otro riesgo, el que nadie llama riesgo porque no tiene fecha ni tiene un mal
 > día concreto: llegar a los cincuenta y cinco haciendo exactamente lo mismo que hacías a los
@@ -109,9 +120,10 @@ caso ancla, sin nombres: un chaval, un puerto y un barco.)*
 > Yo he visto a mucha gente arrepentirse de lo segundo. No recuerdo a nadie arrepentido de lo
 > primero.
 
-*(Aquí entra el capítulo 22, prometido de forma explícita: "En el capítulo 22 te voy a contar
-exactamente cómo se da marcha atrás, con nombres, plazos y palabras. Escribir el plan de salida
-antes de aceptar es lo que hace que aceptar deje de dar miedo.")*
+*(Aquí entran los capítulos 21 y 23, prometidos de forma explícita: «En el capítulo 21 vas a
+encontrar la lista exacta de lo que hay que dejar acordado antes de decir que sí, y en el 23, lo
+que se hace cuando aun así sale mal. Escribir el plan de salida antes de aceptar es lo que hace
+que aceptar deje de dar miedo.»)*
 
 ---
 

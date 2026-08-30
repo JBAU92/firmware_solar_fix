@@ -1,144 +1,196 @@
 # 09 · Plan de trabajo
 
-## 1. Fase actual
+## El cambio de orden más importante
 
-**Fase 0 — Documentación: completada** (este dossier).
-**Siguiente: Fase 1 — Cierre de decisiones e investigación de campo.**
+La versión anterior de este plan empezaba escribiendo. **Ya no.** El proyecto pasa primero por una
+puerta de validación, porque hay dos cosas que ninguna calidad de escritura compensa: que no haya
+demanda, y que la credencial del autor no se sostenga.
+
+```
+FASE 0 ─┐
+FASE 1 ─┼─► PUERTA ──► FASE 2 ──► FASE 3 ──► FASE 4 ──► FASE 5 ──► FASE 6
+FASE 1b─┘   ¿pasa?      campo     prototipo  manuscrito  verificación  KDP
+             │
+             └─ NO ──► reformular la promesa, cambiar de ángulo o parar
+```
 
 ---
 
-## 2. Las fases
+## Fase 0 · La verdad del autor — *2 a 3 días*
 
-### Fase 1 · Cerrar decisiones y conseguir el material propio — *3 a 4 semanas*
+**La primera y la más incómoda.** Todo el libro descansa sobre una credencial.
 
-Es la fase que más gente se salta y la que más determina la calidad del libro. Aquí no se escribe.
+- [ ] Redactar la biografía **factual**: años, funciones, tipo de organizaciones, qué se puede
+      contar y qué no.
+- [ ] Leer el contrato laboral: confidencialidad, no competencia, actividad externa, propiedad
+      intelectual de lo producido durante la relación laboral.
+- [ ] Decidir: nombre real, seudónimo, o nombre real con casos totalmente anonimizados
+      *(recomendado)*.
+- [ ] Si la credencial no se sostiene: decidir ahora coautor, asesor con credencial verificable, o
+      reposicionar el libro como investigación basada en entrevistas.
 
-**Entregables:**
-- [ ] **Caso ancla confirmado.** Identificar a la persona, reunir todo lo publicado sobre ella y
-      decidir si se pide entrevista. → [05](05-casos-y-testimonios.md)
-- [ ] **12 entrevistas** hechas y transcritas, con el guion del archivo 05. Grabadas, con permiso.
-- [ ] **Contra-casos elegidos** (los tres del archivo 05). Son la pieza diferencial.
-- [ ] **Revisión legal:** contrato laboral leído, cláusulas identificadas, decisión sobre nombre
-      real o seudónimo tomada.
-- [ ] **Título y subtítulo definitivos**, validados con una encuesta rápida a 20 personas del
-      perfil objetivo (enséñales tres portadas de prueba y pregunta cuál abrirían).
-- [ ] **Verificación de las 5 fuentes marcadas con ⚑** en [04](04-bibliografia-y-evidencia.md):
-      abrir el original y anotar la cifra y la página exactas.
+**Puerta:** no se escribe una línea del prólogo hasta cerrar esto. **Nunca inventar credenciales.**
 
-### Fase 2 · Escritura del primer borrador — *12 a 16 semanas*
+## Fase 1 · Validación de mercado — *7 a 10 días*
 
-**Ritmo recomendado:** 2 capítulos por semana. A 2.300 palabras por capítulo son 4.600 palabras
-semanales, unas 8–10 horas de escritura efectiva. Es sostenible compaginándolo con un trabajo.
+Protocolo completo en [08](08-produccion-kdp.md#1-validación-de-mercado-antes-de-escribir).
 
-**Orden de escritura (importante, y no es el orden del libro):**
+- [ ] 10 búsquedas definidas, capturadas en **tres días no consecutivos** en Amazon.es.
+- [ ] Matriz de 10–20 competidores: índice, muestra, portada, precio, antigüedad, autoridad.
+- [ ] 100 reseñas codificadas para encontrar el trabajo no resuelto (qué se queja la gente).
+- [ ] 15 entrevistas cortas con lectores del perfil: dos promesas, tres títulos, dos portadas.
+      **Sin mencionar ningún bestseller como aval.**
 
-1. **Primero, tres capítulos del acto II** — sugerencia: 5, 12 y 13. Son los que tienen la
-   evidencia más fuerte y los que más van a determinar el tono. Escribir primero el prólogo es un
-   error clásico: acabas reescribiéndolo entero al final.
-2. **Después el resto del acto II** (caps. 6–11, 14–19), que es donde está el método.
-3. **Después el acto III** (20–24).
-4. **Después el acto I** (1–4). Ahora ya sabes qué estás prometiendo.
-5. **El prólogo y el epílogo, los últimos.** Son las dos piezas más emocionales y las que más se
-   benefician de escribirse cuando el libro ya existe.
-6. **Las cinco cartas al hijo, al final**, de una sentada, para que tengan una voz coherente.
+## Fase 1b · Acceso al campo — *en paralelo*
 
-**Regla durante esta fase:** no corregir mientras se escribe. Borrador feo y completo antes que
-tres capítulos perfectos.
+- [ ] 8 entrevistas iniciales con RR. HH., talento o sucesión, para confirmar que hay acceso.
+- [ ] Confirmar que se pueden conseguir las 32 entrevistas de la fase 2.
 
-**Control de calidad semanal:** aplicar la lista de revisión de [06](06-enganche-del-lector.md) a
-los capítulos de esa semana. Diez minutos por capítulo.
+## 🚪 LA PUERTA
 
-### Fase 3 · Reescritura — *4 a 6 semanas*
+Se pasa a la fase 2 **solo si se cumplen las cuatro**:
 
-- **Pasada 1 — Estructura.** ¿Sobra algún capítulo? ¿Falta alguno? ¿Los bucles del mapa de
-  [02](02-arquitectura-narrativa.md#5-gestión-de-bucles-loop-map) se cierran todos?
-- **Pasada 2 — Ritmo.** Recortar un 10% del total. Siempre sobra un 10%. Sin excepciones.
-- **Pasada 3 — Evidencia.** Comprobar una por una todas las afirmaciones con dato. Cazar
-  cualquier cita de la lista negra que se haya colado.
-- **Pasada 4 — Voz.** Leer el libro entero **en voz alta**. Es lento y es el paso que más mejora
-  el resultado.
+| Condición | Umbral |
+|---|---|
+| Demanda | Señal favorable en al menos dos búsquedas no marcarias |
+| Autoridad | Credencial verificable, o plan alternativo cerrado |
+| Margen | Positivo tras publicidad razonable, con precio real por territorio |
+| Acceso | 32 entrevistas alcanzables con permisos |
 
-### Fase 4 · Lectores beta — *3 semanas*
+**Si no se pasa:** reformular la promesa, cambiar de ángulo (p. ej. *primer mando* en lugar de
+*conseguir el ascenso*) o parar. Parar aquí cuesta tres semanas. Parar en la fase 4 cuesta seis
+meses.
 
-10–15 lectores del perfil objetivo. La pregunta clave no es "¿te ha gustado?" sino:
+---
 
-1. **¿En qué capítulo te aburriste o pensaste en dejarlo?** (la única pregunta que de verdad
-   importa)
-2. ¿Qué has hecho después de leerlo? ¿Alguna acción real?
-3. ¿Hubo algo que no te creíste?
-4. ¿A quién se lo recomendarías y por qué?
+## Fase 2 · Investigación de campo — *4 a 6 semanas*
 
-**Cómo interpretar:** si tres o más lectores señalan el mismo capítulo, ese capítulo se
-reescribe o se elimina. Si señalan capítulos distintos, es ruido.
+- [ ] **32 entrevistas** con la muestra mínima:
 
-### Fase 5 · Producción — *3 a 4 semanas*
-Corrección profesional → maquetación → portada → ficha de KDP → pruebas impresas.
+| Grupo | N | Qué aporta |
+|---|---|---|
+| Talento / RR. HH. / sucesión | 8 | Cómo se definen niveles, potencial, calibraciones y ventanas |
+| Responsables que han promovido | 6 | Señales de preparación y motivos reales de descarte |
+| Personas promovidas internamente | 10 | La secuencia real de acciones y las sorpresas del nuevo rol |
+| Rechazadas o estancadas | 5 | Puntos ciegos, estructura, sesgos, decisiones de salida |
+| Promoción revertida o mando abandonado | 3 | Costes, salud, reversibilidad y rutas alternativas |
+
+- [ ] Consentimiento por escrito para grabar, citar, anonimizar y revisar los hechos.
+- [ ] Transcribir y codificar por mecanismo: criterio, prueba, relación, oportunidad, barrera,
+      decisión, coste.
+- [ ] **Registro maestro de afirmaciones** abierto (ver abajo).
+- [ ] Caso ancla español identificado y verificado.
+
+## Fase 3 · Prototipo — *2 a 3 semanas*
+
+- [ ] Escribir **la introducción y los capítulos 11 y 20**. Son el corazón práctico y el clímax:
+      si esos tres funcionan, el libro funciona.
+- [ ] Probarlos con **12 lectores** del segmento.
+- [ ] Preguntas: ¿dónde dejaste de leer? ¿qué no te creíste? ¿qué acción harías? ¿qué palabra
+      sonó a departamento de recursos humanos?
+- [ ] Medir el recuerdo **una semana después**: ¿saben explicar ESCALA, la diferencia entre
+      rendimiento y preparación, y su primer paso?
+
+**Puerta:** reescribir si menos de 8 de 12 pueden explicar la promesa, o menos de 6 de 12
+completan la herramienta que se les pidió.
+
+## Fase 4 · Manuscrito — *12 a 14 semanas*
+
+**Ritmo:** 2 capítulos por semana ≈ 4.800 palabras ≈ 8–10 horas efectivas. Sostenible con un
+trabajo a jornada completa.
+
+**Orden de escritura, que no es el orden del libro:**
+1. Los capítulos con la evidencia más fuerte: **5, 15 y 16**. Fijan el tono.
+2. El resto del nudo: 6–14, 17–19.
+3. El desenlace: 20–24.
+4. El acto I: 1–4. Ahora ya sabes qué estás prometiendo.
+5. **El prólogo y el epílogo, los últimos.**
+6. **Las cinco cartas al hijo, de una sentada**, para que tengan una voz coherente.
+
+**Regla:** no corregir mientras se escribe. Borrador feo y completo antes que tres capítulos
+perfectos.
+
+## Fase 5 · Reescritura y verificación — *4 a 5 semanas*
+
+- **Pasada 1 · Estructura.** ¿Sobra o falta algún capítulo? ¿Se cierran todos los bucles del mapa
+  de [02](02-arquitectura-narrativa.md#6-mapa-de-bucles)?
+- **Pasada 2 · Ritmo.** Recortar un 10%. Siempre sobra un 10%.
+- **Pasada 3 · Verificación.** Recorrer el registro maestro de afirmaciones entero. Cazar cualquier
+  cita de la [lista negra](04-bibliografia-y-evidencia.md#citas-de-riesgo). **Actualizar cargos y
+  cifras de los casos públicos** — el caso de Enrique Lores demuestra por qué: dejó HP en febrero
+  de 2026 y un manuscrito escrito en 2025 lo habría publicado como CEO en activo.
+- **Pasada 4 · Voz.** Leer el libro entero **en voz alta**.
+- **Pasada 5 · Sensibilidad y ética.** Lectura específica sobre poder, género, precariedad, salud
+  y sesgos. El capítulo 11 (tareas de baja promocionabilidad) es el que más lo necesita.
+- Corrección ortotipográfica y de estilo profesional.
+
+## Fase 6 · Producción y lanzamiento — *2 a 3 semanas + 8 de lanzamiento*
+
 Detalle en [08](08-produccion-kdp.md).
 
-### Fase 6 · Lanzamiento — *8 semanas*
-Plan detallado en [08 · §7](08-produccion-kdp.md#7-lanzamiento-plan-de-8-semanas).
+---
+
+## Registro maestro de afirmaciones
+
+Una hoja de cálculo, abierta en la fase 2 y cerrada en la fase 5. Una fila por afirmación con dato.
+
+| Campo | Ejemplo |
+|---|---|
+| **Afirmación** | Los encargos desafiantes aportan información sobre promocionabilidad más allá del desempeño actual |
+| **Fuente primaria** | De Pater et al. (2009), DOI, tabla exacta |
+| **Fuerza** | B — estudio de campo. Muestra: ___ |
+| **Redacción permitida** | «En este estudio se asoció…». **No**: «está demostrado para todos» |
+| **Capítulo** | 10 |
+| **Fecha de control** | Al cierre de cada borrador y 30 días antes de publicar |
+| **Estado** | Verificada / pendiente / descartada |
+
+**Si una fila está en «pendiente» el día del cierre, la afirmación se quita.** No se publica nada
+en estado pendiente.
 
 ---
 
-## 3. Calendario
+## Calendario
 
 | Fase | Duración | Acumulado |
 |---|---|---|
-| 1 · Decisiones e investigación | 4 semanas | 1 mes |
-| 2 · Primer borrador | 14 semanas | 4,5 meses |
-| 3 · Reescritura | 5 semanas | 5,5 meses |
-| 4 · Lectores beta | 3 semanas | 6,5 meses |
-| 5 · Producción | 4 semanas | 7,5 meses |
-| 6 · Lanzamiento | 8 semanas | **9,5 meses** |
+| 0 · Verdad del autor | 3 días | 3 días |
+| 1 + 1b · Validación | 2 semanas | 3 semanas |
+| 🚪 Puerta | — | — |
+| 2 · Campo | 5 semanas | 2 meses |
+| 3 · Prototipo | 3 semanas | 2,7 meses |
+| 4 · Manuscrito | 13 semanas | 5,7 meses |
+| 5 · Reescritura y verificación | 5 semanas | 6,9 meses |
+| 6 · Producción | 3 semanas | 7,6 meses |
+| Lanzamiento | 8 semanas | **9,5 meses** |
 
-**Compaginándolo con un trabajo a jornada completa, contando con vacaciones e imprevistos:
-entre 10 y 12 meses hasta el libro publicado.** Cualquier plan que prometa menos de seis meses
-para un libro con esta base documental está mintiendo.
-
----
-
-## 4. Decisiones pendientes
-
-| # | Decisión | Quién decide | Bloquea a |
-|---|---|---|---|
-| 1 | **¿Cuál es el caso ancla de la naviera?** | Tú | Prólogo, estructura de las 6 entregas |
-| 2 | ¿Nombre real o seudónimo? | Tú (con asesoría legal) | Todo el marketing |
-| 3 | Título definitivo | Tú | Portada, metadatos |
-| 4 | ¿24 o 20 capítulos? | Tú | Calendario de escritura |
-| 5 | ¿KDP Select sí o no? | Tú | Estrategia de lanzamiento |
-| 6 | ¿Entrevistas propias o solo casos públicos? | Tú | Duración de la fase 1 y calidad del libro |
-
-**La 1 y la 6 son las importantes.** Las demás se pueden cambiar sobre la marcha; esas dos
-determinan si el libro es único o es uno más.
+Con vacaciones, imprevistos y un trabajo a jornada completa: **entre 11 y 13 meses.** Cualquier
+plan que prometa menos de seis meses para un libro con esta base documental está mintiendo.
 
 ---
 
-## 5. Riesgos del proyecto
+## Riesgos
 
 | Riesgo | Probabilidad | Mitigación |
 |---|---|---|
-| **El proyecto se queda en el borrador** | Alta — es lo que le pasa a la mayoría | Ritmo fijo de 2 capítulos por semana y una persona a quien rendir cuentas cada viernes |
-| **El libro se vuelve teórico y pierde las historias** | Alta | La plantilla de capítulo obliga a abrir con escena. Si no hay escena, el capítulo no está terminado |
-| **Se cuela una cita desacreditada** | Media | Lista negra en [04](04-bibliografia-y-evidencia.md), revisada en la pasada 3 |
-| **Problema legal con el empleador** | Media, y grave | Fase 1: revisión de contrato antes de escribir |
-| **Portada mediocre** | Media | Presupuestar diseñador desde el principio, no al final |
-| **Lanzamiento sin reseñas** | Alta si no se prepara | Los lectores beta son el primer grupo de reseñas. Empezar a reclutarlos en la fase 1, no en la 4 |
-| **El caso ancla se cae** | Media | Tener dos casos de reserva del banco del archivo 05 antes de empezar la fase 2 |
+| **Se queda en el borrador** | Alta — es lo que le pasa a la mayoría | Ritmo fijo de 2 capítulos/semana y alguien a quien rendir cuentas los viernes |
+| **No hay demanda y se descubre tarde** | Media | La puerta de la fase 1 existe exactamente para esto |
+| **La credencial no se sostiene** | Media, y grave | Fase 0, antes de nada |
+| **El libro se vuelve teórico** | Alta | La plantilla obliga a abrir con escena. Sin escena, el capítulo no está terminado |
+| **Se cuela una cita desacreditada** | Media | Lista negra + registro maestro + pasada 3 |
+| **Un cargo o cifra queda obsoleto** | Alta en 12 meses | Control de casos públicos 30 días antes de publicar |
+| **Problema legal con el empleador** | Media, y grave | Fase 0 |
+| **No hay acceso a entrevistas** | Media | Fase 1b lo comprueba antes de comprometerse |
+| **Lanzamiento sin reseñas** | Alta si no se prepara | Los 12 lectores del prototipo son el primer grupo. Reclutarlos en la fase 1, no en la 6 |
 
 ---
 
-## 6. Cómo saber si va bien
+## Cómo saber si va bien
 
-**Durante la escritura:**
-- ¿Se cumple el ritmo de 2 capítulos por semana?
-- ¿Cada capítulo tiene su escena de apertura y su acción de cierre?
+**Durante la escritura:** ¿se cumplen los 2 capítulos por semana? ¿cada capítulo tiene escena de
+apertura, contrapeso y página de expediente?
 
-**En los lectores beta:**
-- ¿Más del 70% lo terminan? Si no, hay un problema estructural, no de estilo.
-- ¿Alguien ha hecho algo distinto en su trabajo después de leerlo? **Esta es la métrica real.**
+**En los lectores de prueba:** ¿más del 70% lo termina? ¿alguien ha hecho algo distinto en su
+trabajo después de leerlo? **Esta segunda es la métrica real.**
 
-**Tras el lanzamiento:**
-- 20+ reseñas en los dos primeros meses.
-- Media por encima de 4,3.
-- En Kindle Unlimited: páginas leídas por préstamo por encima del 60% del total. Es la medida
-  directa de si el libro engancha.
+**Tras el lanzamiento:** 20+ reseñas en dos meses · media por encima de 4,3 · en Kindle Unlimited,
+páginas leídas por préstamo por encima del 60% del total, que es la medida directa de si engancha.

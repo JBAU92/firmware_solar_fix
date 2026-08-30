@@ -7,7 +7,53 @@
 
 ---
 
-## 1. Formatos y especificaciones
+## 1. Validación de mercado, ANTES de escribir
+
+Un hueco no es demanda. Que nadie haya escrito bien este libro puede significar oportunidad o
+puede significar que no se compra. Esto se mide en 7–10 días y evita seis meses de escritura a
+ciegas.
+
+### Protocolo
+
+**1 · Las diez búsquedas.** Fijar estas y no cambiarlas:
+`ascender en el trabajo` · `conseguir promoción` · `plan de carrera` · `crecer en la empresa` ·
+`visibilidad profesional` · `gestionar hacia arriba` · `influencia en el trabajo` ·
+`primer puesto de mando` · `carrera corporativa` · `promoción interna`
+
+**2 · Tres capturas en días no consecutivos.** Los primeros 20 resultados de cada búsqueda en
+Amazon.es, anotando: título, autor, editorial, fecha, formato, páginas, precio, posición de ventas,
+número de reseñas y promesa de la contraportada. Tres días distintos porque el ranking oscila.
+
+**3 · Análisis a fondo de 10–20 competidores.** Índice, muestra gratuita, portada en miniatura,
+reseñas de 1–3 estrellas (ahí está el trabajo no resuelto) y de 4–5 (ahí está lo que sí valoran),
+antigüedad, credencial del autor y margen estimado.
+
+**4 · Codificar 100 reseñas.** Buscar los patrones de queja: *demasiado teórico*, *poco
+aplicable*, *huele a manipulación*, *sin casos*, *todo es liderazgo y yo no soy jefe*, *nada de
+esto vale en España*. Cada patrón repetido es un capítulo que este libro puede vender.
+
+**5 · Quince entrevistas de lector.** Probar **dos promesas, tres títulos y dos conceptos de
+portada**. Regla: **nunca mencionar un bestseller como aval** («es como *Hábitos atómicos* pero
+de…») — contamina la respuesta y además no se puede usar en los metadatos.
+
+**6 · Decidir.** Señal favorable si, en al menos dos búsquedas no marcarias, hay tres o más libros
+pertinentes en la primera página con un ranking de ventas razonablemente bajo. *Es una regla de
+trabajo, no una ley de Amazon.*
+
+### La puerta
+
+| Condición | Umbral |
+|---|---|
+| Demanda observada | Señal favorable en ≥2 búsquedas |
+| Autoridad del autor | Verificable, o plan alternativo cerrado |
+| Margen | Positivo tras publicidad razonable |
+| Acceso a entrevistas | 32 alcanzables con permisos |
+
+**Si no se pasa:** reformular la promesa o cambiar de ángulo. Parar aquí cuesta tres semanas.
+
+---
+
+## 2. Formatos y especificaciones
 
 ### eBook (Kindle)
 - Se sube en **.docx**, **EPUB** o KPF (Kindle Create). Recomendado: maquetar en Word con estilos
@@ -47,7 +93,7 @@ que en inglés tendría 45.000 palabras, aquí son 55.000.
 
 ---
 
-## 2. Regalías (verificar antes de publicar)
+## 3. Regalías (verificar antes de publicar)
 
 ### eBook
 - **Plan del 70%:** disponible con precio entre **2,99 y 9,99** (USD/EUR según mercado). Se
@@ -56,7 +102,27 @@ que en inglés tendría 45.000 palabras, aquí son 55.000.
 - **Conclusión práctica:** hay que fijar el precio dentro de la franja del 70%. Por debajo de 2,99
   o por encima de 9,99 se pierde la mitad de la regalía.
 
-### Tapa blanda en Amazon.es
+### Tapa blanda en Amazon.es — con los números
+
+**Coste de impresión ilustrativo (Amazon.es, blanco y negro, tamaño normal, 110–828 páginas):**
+tarifa fija de **0,75 €** más **0,012 € por página**.
+A 240 páginas: 0,75 + (240 × 0,012) = **3,63 €**.
+
+**Regalía = (porcentaje × precio sin IVA) − coste de impresión:**
+
+| Precio sin IVA | Tasa | Cálculo | Regalía por ejemplar |
+|---|---|---|---|
+| 15,99 € | 60% | 9,59 − 3,63 | **5,96 €** |
+| 17,99 € | 60% | 10,79 − 3,63 | **7,16 €** |
+| 9,50 € | 50% | 4,75 − 3,63 | 1,12 € — inviable |
+
+⚠️ **Dos avisos.** Primero: estas cifras son ilustrativas y hay que reconfirmarlas en la
+calculadora oficial. Segundo, y más importante: **el cálculo va sobre el precio SIN IVA**. Los
+libros en España tributan al 4%, así que un precio de escaparate de 15,99 € equivale a unos
+15,38 € sin IVA, y la regalía real sería algo menor. Conviene fijar el precio partiendo del neto
+que se quiere ganar, no al revés.
+
+### Condiciones generales
 - Aproximadamente **60%** del precio de venta sin IVA **menos el coste de impresión**, cuando el
   precio sin IVA es igual o superior a 9,99 €; **50%** si es inferior.
 - El coste de impresión depende del número de páginas. Para ~250 páginas en blanco y negro,
@@ -85,7 +151,7 @@ margen.
 
 ---
 
-## 3. Metadatos: lo que de verdad mueve las ventas
+## 4. Metadatos: lo que de verdad mueve las ventas
 
 Los metadatos son el 80% del trabajo de visibilidad en Amazon. Merecen tanto tiempo como un
 capítulo.
@@ -146,7 +212,7 @@ aporta credibilidad.
 
 ---
 
-## 4. Portada
+## 5. Portada
 
 En esta categoría la portada tiene que hacer **tres cosas en el tamaño de una miniatura de móvil**
 (porque así es como se ve el 90% de las veces):
@@ -168,7 +234,7 @@ vuelve al diseñador.
 
 ---
 
-## 5. KDP Select: ¿sí o no?
+## 6. KDP Select: ¿sí o no?
 
 **KDP Select** exige **exclusividad del eBook con Amazon durante 90 días** (renovables) a cambio
 de entrar en **Kindle Unlimited** (te pagan por páginas leídas) y de acceso a promociones
@@ -185,7 +251,7 @@ visibilidad para un autor sin audiencia previa. Reevaluar después.
 
 ---
 
-## 6. Riesgo legal y reputacional
+## 7. Riesgo legal y reputacional
 
 Este es el punto que más autores primerizos ignoran y el que más caro sale.
 
@@ -230,7 +296,7 @@ La distinción la marca quién escribió el borrador. Conviene:
 
 ---
 
-## 7. Lanzamiento (plan de 8 semanas)
+## 8. Lanzamiento (plan de 8 semanas)
 
 | Semana | Acción |
 |---|---|
@@ -250,7 +316,7 @@ ejemplares para lectura es correcto; pagar o intercambiar reseñas, no, y Amazon
 
 ---
 
-## 8. Presupuesto realista
+## 9. Presupuesto realista
 
 | Concepto | Coste |
 |---|---|
