@@ -5,9 +5,10 @@ import re, sys, pathlib, collections
 BASE = pathlib.Path(__file__).resolve().parents[2] / 'manuscrito'
 SECTOR = {0:'— prólogo —',1:'oficina',2:'tecnico',3:'oficina',4:'ventas',5:'libre',
           6:'restauracion',7:'logistica',8:'industria',9:'juridico',10:'retail',11:'oficina',
-          12:'sanidad',13:'retail/industria',14:'oficina',15:'— epílogo —'}
+          12:'sanidad',13:'retail/industria',14:'oficina',15:'— epílogo —',
+          16:'— fuentes —'}
 # piezas de marco: objetivo propio, mucho más corto que un capítulo
-MARCO = {0:(600,1000), 15:(600,1000)}
+MARCO = {0:(600,1000), 15:(600,1000), 16:(1200,2200)}
 REVELACION = {1,6,8,10,11,12,14}
 NEGRAS = ['Gino','Ariely','power posing','postura de poder','10.000 horas','diez mil horas',
           '93 %','93%','Mehrabian','70-20-10','uno de cada siete','1 de cada 7','siete segundos']
@@ -39,7 +40,8 @@ def check(path):
                 errs.append(f"CIFRA EN ESCENA: «{tok}» — prohibido salvo fuente citada")
 
     # 2 · citas de la lista negra
-    for neg in NEGRAS:
+    # El apartado de fuentes (16) las nombra a propósito, para decir que NO se han usado.
+    for neg in ([] if n == 16 else NEGRAS):
         if re.search(re.escape(neg), cuerpo, re.I):
             errs.append(f"LISTA NEGRA: «{neg}»")
 
