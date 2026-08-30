@@ -188,11 +188,11 @@ Sin lástima. Nada de esto sobrevive al filtro de «valor por página»:
 |---|---|
 | 01 Concepto | **Válido.** El posicionamiento cambia a «manual de trabajo», no a «libro» |
 | 02 Arquitectura | **Válido en lo conceptual.** Los tres actos pasan a ser 1–2 / 3–10 / 11–12 |
-| 03 Esqueleto | **Superado.** El plan vigente son los archivos 14 y 15. El 03 queda como mapa del libro 2 |
+| 03 Esqueleto | **ANEXO.** Mapa del libro 2. No es el índice del libro 1 |
 | 04 Bibliografía | **Válido y necesario.** Ahora es más importante: 12 estudios en el cuerpo, el resto en notas |
 | 05 Casos | **Válido.** El caso ancla se trocea en 4 entregas en vez de 6 |
 | 06 Enganche | **Válido.** La plantilla de capítulo se recorta a 8 bloques |
-| 07 Bestsellers | **Solo dossier.** No entra en el libro |
+| 07 Bestsellers | **ANEXO.** Solo dossier. No entra en el libro |
 | 08 KDP | **Actualizar** con la economía de este archivo |
 | 09 Plan de trabajo | **Se acorta:** la fase de manuscrito baja de 13 a 7 semanas |
 | 10 Piezas redactadas | **Válido.** El tono no cambia |

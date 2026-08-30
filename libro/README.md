@@ -31,6 +31,20 @@ trabajo empieza ahora por la puerta de validación, no por la escritura → [09]
 
 ---
 
+## ⭐ Cifras vigentes — si solo lees una cosa, lee esto
+
+| | |
+|---|---|
+| **Capítulos del libro 1** | **14** *(más prólogo y epílogo)* |
+| **Palabras** | **~34.000** |
+| **Páginas** | **~170**, en 5,5"×8,5" |
+| **Precio** | 15,95 € o 17,95 €, a decidir por test |
+| **Dónde está el índice bueno** | [14-plan-condensado.md](14-plan-condensado.md) y [15-biblia-de-capitulos.md](15-biblia-de-capitulos.md) |
+
+> ⚠️ **Cuidado con los anexos.** Los archivos **03** y **07** contienen arquitecturas antiguas de
+> 20 y 24 capítulos. **No son el plan.** El 03 es el mapa del **libro 2**; el 07 es la
+> deconstrucción de *Hábitos atómicos*. Están marcados como anexos y van al final del PDF.
+
 ## Ficha del proyecto
 
 | | |

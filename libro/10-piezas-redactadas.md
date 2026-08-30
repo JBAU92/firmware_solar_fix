@@ -211,7 +211,7 @@ que aceptar deje de dar miedo.»)*
 
 ## Notas sobre la voz
 
-Lo que estas piezas fijan y hay que mantener en los 24 capítulos:
+Lo que estas piezas fijan y hay que mantener en los 14 capítulos:
 
 - **Frases cortas. Párrafos cortos.** Casi nunca más de cuatro líneas seguidas.
 - **El autor admite lo incómodo.** "Me incomoda bastante", "a mí me cambió la forma de trabajar".

@@ -1,4 +1,15 @@
-# 03 · Esqueleto capítulo a capítulo
+# 03 · [ANEXO] Esqueleto largo — mapa del libro 2
+
+> ## ⚠️ ESTO NO ES EL PLAN DEL LIBRO 1
+>
+> **El libro 1 tiene 14 capítulos.** Están en
+> [14-plan-condensado.md](14-plan-condensado.md) y desarrollados en
+> [15-biblia-de-capitulos.md](15-biblia-de-capitulos.md).
+>
+> Este archivo es la arquitectura larga de 24 capítulos del plan original. **Se conserva por dos
+> razones:** contiene el material que se va al **libro 2** (primeros 90 días, qué soltar, dirigir
+> a antiguos iguales, feedback, delegación) y guarda el trabajo de investigación por capítulo que
+> alimenta al libro 1. **No se usa como índice de nada.**
 
 **Ficha de cada capítulo:** **Gancho** · **Tesis** (la frase que el lector debe recordar) ·
 **Evidencia** (detalle en [04](04-bibliografia-y-evidencia.md)) · **Contrapeso** (cuándo la regla

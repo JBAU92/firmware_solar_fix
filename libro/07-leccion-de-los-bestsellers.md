@@ -1,4 +1,8 @@
-# 07 · Ingeniería inversa de los bestsellers
+# 07 · [ANEXO] Ingeniería inversa de los bestsellers
+
+> **Material de dossier, no del libro.** Sirve para tomar decisiones de diseño; nada de esto
+> aparece en el manuscrito. Las referencias a «20 capítulos» son de *Hábitos atómicos*, no del
+> plan de ESCALA — que tiene **14**.
 
 Qué hacen exactamente los libros que queremos imitar, y qué copiamos de cada uno.
 
