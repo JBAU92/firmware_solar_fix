@@ -116,10 +116,10 @@ que le cambien de puesto o con que un día decida que le conviene retenerte. Tre
 
 **Ten una alternativa viva.** No una amenaza: una alternativa. Saber lo que se paga fuera y tener
 dos conversaciones al año con gente de otras empresas cambia por completo cómo negocias, y lo
-cambia aunque no lo menciones nunca. Es el quinto depósito del capítulo cinco, y es el que más se
+cambia aunque no lo menciones nunca. Es el cuarto depósito del capítulo cinco, y es el que más se
 descuida justo cuando más falta hace.
 
-## Cómo se recupera la autoría sin quedar de reclamón
+## Cómo se recupera la autoría sin quedar de quejica
 
 Falta la pregunta práctica, que es la que de verdad paraliza a la gente: vale, me ha pasado. ¿Y
 ahora qué digo, sin parecer un crío al que le han quitado el cromo?

@@ -128,9 +128,9 @@ sueldo que el año pasado.
 
 Vamos a hacer algo más incómodo que indignarnos: vamos a mirar los datos.
 
-Existe un metaanálisis sobre tácticas de influencia en el trabajo —congraciación, autopromoción,
-racionalidad, asertividad, intercambio, apelación a superiores— firmado por Higgins, Judge y
-Ferris. De todas ellas, las dos que muestran efectos positivos consistentes sobre evaluaciones,
+Existe un metaanálisis sobre tácticas de influencia en el trabajo —congraciación, que es como se
+llama en la literatura a hacer la pelota, más autopromoción, racionalidad, asertividad, intercambio
+y apelación a superiores— firmado por Higgins, Judge y Ferris. De todas ellas, las dos que muestran efectos positivos consistentes sobre evaluaciones,
 subidas de sueldo y promociones son la **racionalidad** y la **congraciación**. La asertividad, esa
 que tanto se recomienda, tiende a asociarse negativamente.
 
@@ -203,8 +203,9 @@ la propia imagen y se compensa denigrando en privado. La factura la paga el que 
 
 ## La segunda cosa que hizo Javier
 
-Javier no adulaba. Lo he visto adular a mucha gente y no era su caso, ni siquiera en la versión
-elegante.
+Javier no adulaba. Te lo dije en el primer capítulo y aquí toca demostrarlo, porque es la
+explicación que se le ocurre a todo el mundo cuando alguien sube deprisa. No hacía la pelota, ni
+siquiera en la versión elegante.
 
 Hacía otra cosa, más pequeña y con mucho mejor rendimiento. Cuando su jefe soltaba un problema en
 una reunión —de esos que se dicen en voz alta y nadie recoge—, Javier lo apuntaba. Y a los pocos

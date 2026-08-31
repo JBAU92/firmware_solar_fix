@@ -157,9 +157,46 @@ cualquier jefe tiene, que es no poder moverse porque no hay quien le releve. En 
 tener sustituto es literalmente el motivo por el que a alguien no lo ascienden. Convertirte en la
 solución de eso es la jugada más elegante que hay.
 
+Esa frase, eso sí, tiene una condición: que tu jefe quiera subir. Y muchos no. Hay jefes que están
+exactamente donde querían estar, jefes a dos años de jubilarse y jefes que dejaron de aspirar hace
+tiempo y lo llevan bien. A esos, decirles «cuando tú subas» les suena a falso, o peor, les recuerda
+algo en lo que no les apetece pensar.
+
+Con ellos el principio es el mismo y hay que buscarle otra puerta. El principio es este: **no le
+pidas nada que le cueste; ofrécele algo que gane.** Sobre eso, cuatro versiones.
+
+**Si le queda poco.** Aquí funciona lo que dejará detrás, que a casi todo el mundo le importa más
+de lo que reconoce. «Antes de que te vayas me gustaría aprender de ti cómo llevas esto, porque
+cuando no estés alguien va a tener que hacerlo y prefiero que lo hayas enseñado tú.» Le estás
+diciendo que lo suyo tiene valor, que no quieres que se pierda y que quieres ser su alumno. Es
+difícil que eso siente mal, y de paso lo convierte en tu padrino sin usar la palabra.
+
+**Si está donde quiere estar.** Entonces no le hables de puestos, háblale de carga. Todo jefe tiene
+dos o tres cosas que le comen la semana y que no le divierten: el informe mensual, la coordinación
+con la otra área, las incidencias de los viernes. «Hay una parte de lo tuyo que te está comiendo
+tiempo. Si me la llevo yo, ¿te vendría bien?» Nadie dice que no a eso, y esa parte es casi siempre
+trabajo del nivel de arriba.
+
+**Si sospechas que te retiene.** Adelántate a su objeción antes de que la diga, porque su objeción
+no tiene que ver con lo que vales, sino con que no sabe cómo te reemplaza. «Sé que si me muevo te dejo un hueco. Dime
+quién de aquí podría llevar lo mío y me pongo a enseñárselo desde ya.» Le acabas de quitar el único
+motivo real que tenía para frenarte, y además le has demostrado que sabes formar gente, que es
+justo lo que se evalúa arriba.
+
+**Si no hay manera.** Hay jefes con los que nada de esto funciona, y llegado ese punto conviene
+dejar de insistir por esa vía y usar la que no depende de él: el procedimiento. En casi todas las
+empresas existe una evaluación anual, una conversación de desarrollo o un formulario donde tú
+escribes tus objetivos. Eso deja rastro, lo lee alguien más y no se puede archivar con una sonrisa.
+«Para la evaluación quiero poner por escrito hacia dónde me gustaría ir; ¿lo repasamos juntos?» es
+una frase que convierte una petición incómoda en un trámite compartido, y contra un trámite es muy
+difícil decir que no.
+
+Fíjate en que ninguna de las cuatro menciona su puesto, su sueldo ni tu ascenso. Las cuatro hablan
+de un problema suyo. Es la misma jugada del capítulo siete, dicha en voz baja.
+
 Y si aun así se lo toma mal, has aprendido algo importante en veinte minutos: tienes un jefe que te
 va a retener. Es información cara de conseguir y la acabas de conseguir gratis. Lo que se hace con
-ella lo veremos en el último capítulo.
+ella está en el capítulo trece.
 
 Un contrapeso, y es serio: esta conversación funciona porque llega la duodécima, no la primera.
 Pedir sin haber hecho nada de lo anterior es pedir de más, y entonces sí que quedas mal — no por

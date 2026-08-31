@@ -13,7 +13,7 @@ te he dado una cifra, viene de uno de estos trabajos y la he dado con su context
 los que no se puede deducir causa, o datos de otro país y de otra época. Los he usado igual, porque
 son lo mejor que hay sobre ese asunto, y en el texto te he dicho cada vez cuál era la reserva.
 
-**Mi criterio.** Las cinco reservas del capítulo cinco, las tres puertas del cuatro, las ocho
+**Mi criterio.** Los cinco depósitos del capítulo cinco, las tres puertas del cuatro, las ocho
 señales del trece y las siete cosas que se ponen encima de la mesa no salen de ningún laboratorio.
 Son maneras de ordenar lo que he visto, y te las he presentado como tales. Si algún día alguien las
 mide y salen mal, habrá que cambiarlas.

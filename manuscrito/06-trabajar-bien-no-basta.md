@@ -111,8 +111,8 @@ Si eres mujer, esto probablemente te esté sonando mucho. Si eres hombre, mira t
 cuenta cuántas de estas tareas te tocaron a ti y cuántas a la compañera de al lado.
 
 Lo que hay que hacer con esta información no es dejar de hacer trabajo invisible, porque quien
-solo hace lo que luce acaba siendo el compañero que todo el mundo detesta y del que hablaremos en
-el capítulo trece. Hay que hacer tres cosas distintas: **reconocerlo** —saber cuándo lo que te
+solo hace lo que luce acaba siendo el compañero que todo el mundo detesta, y de eso va buena parte
+del capítulo ocho. Hay que hacer tres cosas distintas: **reconocerlo** —saber cuándo lo que te
 piden es de este tipo—, **repartirlo** —si siempre te toca a ti, hay una conversación pendiente, y
 basta con proponer un turno—, y **no coleccionarlo**, que es la trampa de la gente buena.
 

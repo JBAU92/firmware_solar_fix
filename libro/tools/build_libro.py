@@ -44,6 +44,19 @@ def convertir(md):
             continue
         if re.match(r'^\s*---+\s*$', ln):
             out.append('#filete()\n'); i += 1; continue
+        if ln.strip().startswith('|') and i + 1 < n and re.match(r'^\s*\|[\s:\-|]+\|\s*$', lineas[i+1]):
+            celdas = lambda s: [c.strip() for c in s.strip().strip('|').split('|')]
+            cab = celdas(ln); i += 2; filas = []
+            while i < n and lineas[i].strip().startswith('|'):
+                filas.append(celdas(lineas[i])); i += 1
+            fmt = lambda fs: '(' + ', '.join('[%s]' % texto(c) for c in fs) + ',)'
+            # una tabla con la mayoría de casillas vacías es un formulario:
+            # se dibuja con cuadrícula para que se vea dónde escribir
+            cel = [c for f in filas for c in f[1:]]
+            form = 'true' if cel and sum(1 for c in cel if not c) * 2 > len(cel) else 'false'
+            out.append('#tabla(%s, (%s), formulario: %s)\n'
+                       % (fmt(cab), ' '.join(fmt(f) + ',' for f in filas), form))
+            continue
         m = re.match(r'^(#{1,3})\s+(.*)$', ln)
         if m:
             lvl, t = len(m.group(1)), m.group(2).strip()
@@ -146,6 +159,24 @@ PLANTILLA = r'''
 ]
 
 #let cap(num, cuerpo) = { numcap.update(num); heading(level: 1, cuerpo) }
+// Tabla de libro: filetes horizontales y nada más. La primera columna a la
+// izquierda, el resto centradas, que es como se leen las casillas de puntuar.
+#let tabla(cab, filas, formulario: false) = block(
+    above: 0.20in, below: 0.24in, breakable: false)[
+  #set text(size: 9pt, hyphenate: false)
+  #set par(justify: false, first-line-indent: 0pt, leading: 0.52em)
+  #table(
+    columns: (auto,) + (1fr,) * (cab.len() - 1),
+    stroke: if formulario { 0.4pt + luma(150) } else { none },
+    inset: (x: 4pt, y: if formulario { 10pt } else { 5.5pt }),
+    align: (c, r) => if c == 0 { left + horizon } else { center + horizon },
+    table.hline(stroke: 1.1pt),
+    ..cab.map(c => strong(c)),
+    table.hline(stroke: if formulario { 0.9pt } else { 0.5pt }),
+    ..filas.flatten(),
+    table.hline(stroke: 1.1pt),
+  )
+]
 #let filete() = align(center, block(above: 0.22in, below: 0.22in,
   text(size: 10pt, tracking: 4pt, fill: luma(60))[§]))
 #let cita(c) = block(above: 0.17in, below: 0.17in, inset: (left: 0.28in))[

@@ -124,12 +124,40 @@ y lo que se paga ahí fuera se mueve sin que tú te enteres. Es el único depós
 estructural.
 
 Y es también el que más cambia la conversación de dentro, que es lo que a este libro le interesa.
-Piensa en las dos versiones de la misma persona sentada delante de su jefe pidiendo un cambio de
-puesto. La primera no sabe lo que vale fuera, no ha hablado con nadie de otra empresa en cuatro
-años y, aunque no lo diga, lo sabe. La segunda ha tenido dos conversaciones en el último año, sabe
-en qué banda se mueve alguien con su perfil y conoce a dos personas que la contratarían mañana. No
-tiene que amenazar con nada —de hecho, amenazar es la peor manera de usar esto y lo veremos en su
-momento—, pero pide distinto. Se le nota en el cuerpo. Y al otro lado también se nota.
+Deja que te enseñe las dos versiones, porque la diferencia no está donde la gente cree.
+
+Rubén entra un jueves al despacho de su jefe a pedir una subida. Lleva años sin pedir nada y va
+decidido, que es lo que le ha aconsejado todo el mundo. Dice que se está quedando atrás, que eso
+fuera se paga mucho más y que así no puede seguir. Su jefe le pregunta cuánto más. Rubén suelta una
+cifra que oyó en una comida. Le preguntan de dónde sale, y ahí se queda callado, porque no sale de
+ningún sitio: es lo que le gustaría cobrar. Su jefe, que no es tonto, entiende en dos segundos que
+detrás no hay nada, y Rubén se va con un «lo miramos en la revisión» que los dos saben lo que vale.
+Ha gastado su única bala y no ha comprado nada.
+
+Nuria tiene el mismo problema y más prisa: su hija empieza la guardería en septiembre y las cuentas
+de su casa no salen. Y no quiere irse. Lleva años allí, le gusta lo que hace, tiene a su gente y no
+le apetece nada empezar de cero en otro sitio. Precisamente por eso hizo antes dos cosas que Rubén
+no hizo: se tomó un par de cafés con antiguos compañeros que ahora están en otras empresas, y
+preguntó —sin ofrecerse, solo preguntando— en qué banda se mueve alguien con su perfil.
+
+Cuando entra a hablar con su jefa no amenaza con nada. Ni lo insinúa. Dice esto:
+
+*Quiero seguir aquí y quiero decírtelo antes que nada. Lo que pasa es que me he informado de lo que
+se está pagando fuera por lo que yo hago, y hay una diferencia que en mi situación no me puedo
+permitir ignorar. Prefiero arreglarlo aquí. ¿Qué margen tenemos?*
+
+Fíjate en lo que ha hecho, porque son tres movimientos y se pueden copiar. Ha puesto por delante
+que quiere quedarse, con lo cual desaparece el chantaje. Ha traído un dato en lugar de un deseo. Y
+ha terminado con una pregunta abierta en vez de con una exigencia, que deja a la otra persona
+buscando la solución en lugar de defendiéndose de ella.
+
+Su jefa no le va a decir que sí en esa reunión; casi nadie lo hace. Pero sale de ahí sabiendo que
+tiene un problema real, con fecha y con cifra, y eso es una conversación completamente distinta de
+la de Rubén.
+
+La diferencia entre los dos no está en el carácter. Rubén no es más lanzado ni Nuria más lista. Lo
+que cambia es que una tenía el depósito lleno y el otro iba de farol, y **eso se nota siempre**,
+aunque nadie lo diga en voz alta.
 
 Mantener este depósito cuesta menos de lo que parece. No hace falta estar buscando trabajo: hace
 falta hablar con dos personas de fuera al año y saber, con un número aproximado, qué se paga por
@@ -164,16 +192,38 @@ no mueve nada.
 
 ## La ficha
 
-Termina el folio con esto. Tres columnas y cuatro filas, no más.
+Termina el folio con esto. Cuatro filas, ni una más.
 
-En la primera columna escribe las cuatro brechas que te separan del puesto que elegiste en el
-capítulo dos. No lo que te falta en abstracto: lo que te falta para eso concreto. En la segunda,
-puntúa del uno al cinco lo importante que es cada brecha para esa decisión. En la tercera, puntúa
-del uno al cinco lo fácil que te resulta practicarla en tu trabajo actual, con lo que ya tienes a
-mano.
+En la primera columna van las cuatro brechas que te separan del puesto que elegiste en el capítulo
+dos. No lo que te falta en abstracto: lo que te falta para eso concreto. En la segunda, cuánto pesa
+esa brecha para esa decisión, del uno al cinco. En la tercera, lo fácil que te resulta practicarla
+en tu trabajo de ahora, con lo que ya tienes a mano. Y multiplicas.
 
-Multiplica las dos columnas. La fila con el número más alto es por dónde empiezas, y no es
-negociable, porque combina lo que más pesa con lo que más barato te sale.
+Así se ve resuelta:
+
+| Brecha | Pesa | Puedo practicarla | Total |
+|---|---|---|---|
+| Llevar un presupuesto | 5 | 4 | **20** |
+| Hablar en público | 2 | 5 | 10 |
+| Saber de contratos | 5 | 1 | 5 |
+| Manejar una negociación dura | 3 | 3 | 9 |
+
+Fíjate en la tercera fila, que es la que enseña algo. «Saber de contratos» pesa tanto como llevar
+un presupuesto, y sin embargo se queda en cinco puntos, porque en su puesto no hay manera de
+practicarlo. Es una brecha real y no es por donde se empieza: empezar por ahí significa un curso,
+un año y ninguna prueba que enseñar. La de arriba, en cambio, se puede empezar el lunes.
+
+Ahora la tuya, en blanco:
+
+| Brecha | Pesa | Puedo practicarla | Total |
+|---|---|---|---|
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+
+La fila con el número más alto es por dónde empiezas, y esa no se discute, porque combina lo que
+más pesa con lo que más barato te sale.
 
 Casi todo el mundo empieza por la brecha que más le apetece. Empieza por esa.
 

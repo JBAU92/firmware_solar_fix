@@ -82,8 +82,8 @@ Sigue por lo que ha pasado. Piensa en las personas que se han movido en los últ
 años en tu empresa y coloca cada movimiento en una de las cinco rutas. No hace falta que sean de
 tu departamento ni que las conozcas bien; basta con saber de dónde salieron y dónde están. Si
 todos los movimientos que recuerdas son hacia arriba en la misma línea, ya sabes algo importante:
-tu empresa solo tiene una puerta señalizada de verdad, y las demás, si existen, hay que abrirlas
-tú. Si ves gente que cambió de área y le fue bien, la movilidad lateral es una ruta real allí, no
+tu empresa solo tiene una puerta señalizada de verdad, y las demás, si existen, las tienes que
+abrir tú. Si ves gente que cambió de área y le fue bien, la movilidad lateral es una ruta real allí, no
 una idea de libro.
 
 Y termina preguntando, que es lo que hizo Andrés sin querer. Una comida, un café, alguien de otra
@@ -119,17 +119,30 @@ cuatro años.
 
 ## Los siete criterios, y una tarde
 
-Comparar rutas «a ojo» no funciona, porque la que más suena siempre gana. Así que se compara con
-una tabla y siete columnas. Coge las cinco rutas y puntúa cada una del uno al cinco en esto:
+Comparar rutas «a ojo» no funciona, porque la que más suena siempre gana. Se compara con una
+cuadrícula. Cópiala en un folio, pon las cinco rutas arriba y puntúa cada casilla del uno al cinco:
 
-**Autonomía** — ¿cuánto decides tú sobre lo que haces cada día?
-**Ingreso** — no lo que soñarías, lo que realmente paga esa ruta en tu sector.
-**Aprendizaje** — ¿qué sabrás hacer dentro de tres años que hoy no sepas?
-**Riesgo** — ¿qué pasa si sale mal?
-**Energía** — ¿con cuánta llegas a casa? Esta es la columna que más gente se salta y la que más
-manda a largo plazo.
-**Identidad** — ¿te reconoces en esa persona?
-**Reversibilidad** — si te equivocas, ¿cuánto cuesta deshacerlo?
+| | Mando | Experta | Lateral | Salida | Quedarme |
+|---|---|---|---|---|---|
+| Autonomía | | | | | |
+| Ingreso | | | | | |
+| Aprendizaje | | | | | |
+| Riesgo | | | | | |
+| Energía | | | | | |
+| Identidad | | | | | |
+| Reversibilidad | | | | | |
+| **Total** | | | | | |
+
+Cada fila pregunta una cosa distinta, y conviene tenerlas claras antes de puntuar. **Autonomía:**
+¿cuánto decides tú sobre lo que haces cada día? **Ingreso:** no lo que soñarías, lo que de verdad
+paga esa ruta en tu sector. **Aprendizaje:** ¿qué sabrás hacer dentro de tres años que hoy no
+sepas? **Riesgo:** ¿qué pasa si sale mal? **Energía:** ¿con cuánta llegas a casa? Es la fila que
+más gente se salta y la que más manda a largo plazo. **Identidad:** ¿te reconoces en esa persona?
+**Reversibilidad:** si te equivocas, ¿cuánto cuesta deshacerlo?
+
+Suma cada columna y mira los totales, pero no los obedezcas sin más: si la ruta que gana por puntos
+te deja mal cuerpo, la cuadrícula acaba de destapar que hay una fila a la que le estás mintiendo.
+Casi siempre es energía o identidad.
 
 Y luego, debajo, tres líneas más importantes que la tabla: **tus tres no negociables.** Las cosas
 que no vas a entregar a cambio de un puesto. Pueden ser las cenas en casa, no viajar entre semana,

@@ -15,11 +15,10 @@ operaciones enteras: los barcos, los hoteles, la parte de tierra y el desarrollo
 Después, presidente y consejero delegado de Celebrity Cruises. Y en diciembre de 2014, presidente
 y consejero delegado de Royal Caribbean International.
 
-Se llama Michael Bayley. Y como este libro va de no colar goles, dos precisiones: no es una
-empresa española, es un grupo internacional que también opera aquí; y dirige la marca Royal
-Caribbean International, no el holding entero, que lo lleva otra persona.
+Se llama Michael Bayley y hoy preside Royal Caribbean International, que es la marca y no el grupo
+entero, del que se ocupa otra persona.
 
-Dicho eso, mira su recorrido otra vez, porque es lo único que me interesa de esta historia.
+Mira su recorrido otra vez, porque es lo único que me interesa de esta historia.
 
 No voy a contarte que llegó ahí por trabajar mucho. En un crucero trabaja muchísimo todo el mundo,
 y la mayoría se jubila en el mismo departamento donde entró. Llegó porque, una vez detrás de otra,
@@ -132,7 +131,7 @@ puedes ir a hablar con esa persona, que además probablemente agradezca la ayuda
 el no sin motivo, el de «tú a lo tuyo», que se repite cada vez que propones algo. Ese es el
 importante, y no dice nada de ti: dice que tienes un jefe que no quiere que crezcas, casi siempre
 porque le funcionas demasiado bien donde estás. Si ese es tu caso, el problema no se arregla
-esforzándote más, y lo trataremos en el capítulo doce y en el catorce.
+esforzándote más, y lo trataremos en el capítulo doce y en el trece.
 
 Elige un problema que le importe a alguien de arriba, ponle final, y pide solo el permiso que
 necesitas.
@@ -149,7 +148,7 @@ dejarlo todo.
 Fíjate en lo que acabamos de describir en este capítulo. Un encargo con objetivo, con una medida,
 con presupuesto ajeno, con un patrocinador y con fecha de fin. Eso es un proyecto. Es exactamente
 lo que harías si montaras algo tuyo, con la diferencia de que aquí el riesgo lo pone otro, el
-dinero lo pone otro, y a ti te siguen pagando el día quince mientras aprendes.
+dinero lo pone otro, y a ti te sigue entrando la nómina a fin de mes mientras aprendes.
 
 Y el coste en horas fuera del trabajo tampoco llega a cero, que no te voy a vender esa moto, pero
 resulta muchísimo más bajo de lo que crees, porque el grueso lo pagas con tiempo que ya estás
