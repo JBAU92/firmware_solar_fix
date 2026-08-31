@@ -136,14 +136,23 @@ las tres puertas siguen siendo las mismas tres.
 
 ## Las siete cosas
 
-Y ahora la parte práctica, que es también el índice de lo que queda de libro. Si el problema es
-que solo hay dos cosas encima de la mesa, la solución es poner más. Hay siete que se pueden poner,
-y llegan por orden:
+Y ahora la parte práctica, que es literalmente el índice de lo que queda de libro. Si el problema
+es que solo hay dos cosas encima de la mesa, la solución es poner más. Hay siete que se pueden
+poner, y llegan por orden, una por capítulo:
 
-Tu impacto en un formato que otro pueda repetir sin ti delante. Una experiencia real del nivel
-siguiente. Que la gente quiera trabajar contigo. Alguien creíble que te defienda cuando no estás.
-Gente de fuera de tu área que te ha visto trabajar. Que te hayan visto **haciendo** el trabajo de
-arriba. Y tu aspiración, dicha en voz alta.
+| | Lo que se pone encima | Cap. |
+|---|---|---|
+| 1 | Tu impacto en un formato que otro pueda repetir sin ti delante | 6 |
+| 2 | Una experiencia real del nivel siguiente | 7 |
+| 3 | Que la gente quiera trabajar contigo | 8 |
+| 4 | Alguien creíble que te defienda cuando no estás | 9 |
+| 5 | Gente de fuera de tu área que te ha visto trabajar | 10 |
+| 6 | Que te hayan visto **haciendo** el trabajo de arriba | 11 |
+| 7 | Tu aspiración, dicha en voz alta | 12 |
+
+Fíjate en el orden, porque no es caprichoso. Las tres primeras las produces tú. Las tres siguientes
+son personas: alguien que te defiende, gente que te ha visto, una sala que te ha visto. Y la última
+es la única que no se produce de ninguna manera —se dice.
 
 Ninguna de las siete es un talento. Todas son cosas que se producen.
 

@@ -174,6 +174,9 @@ mismo jefe. Cuando su nombre se dijo en voz alta, en la sala no hubo nadie que a
 porque nadie más la había visto trabajar. Y en una conversación de cuarenta minutos con ocho
 nombres, un silencio y una opinión desfavorable pesan casi lo mismo.
 
+Quinta encima de la mesa: gente de fuera de tu área que puede decir una frase concreta sobre ti.
+Quedan dos, y son las dos grandes.
+
 > GANCHO — Ya tienes pruebas, un aliado, un padrino posible y una red que te pone cara. Falta la
 > pieza que lo junta todo, y es la que más se malinterpreta de este libro entero. Porque el trabajo
 > de un jefe consiste, literal y exactamente, en presentar resultados que ha producido otra gente.

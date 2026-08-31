@@ -219,9 +219,23 @@ respuesta, o con el teléfono de alguien de otra área que sabía del tema.
 En seis meses, sin proponérselo, se había convertido en la persona con la que ese jefe pensaba en
 voz alta.
 
+Marta veía exactamente eso mismo, y lo llamaba de otra manera: pelotear.
+
+Y no iba del todo desencaminada, porque desde fuera no se distingue. Uno que se queda hablando con
+el jefe cuando acaba la reunión y otro que se queda hablando con el jefe cuando acaba la reunión se
+parecen muchísimo. La diferencia no está en la escena. Está en si vuelve con algo o vuelve con la
+cara.
+
+Esa es la parte incómoda de este capítulo y no la voy a esconder: lo que funciona y lo que da
+vergüenza ajena se parecen tanto por fuera que mucha gente decente decide no hacer ninguno de los
+dos. Y ahí es exactamente donde se queda.
+
 Marta, en esos mismos seis meses, hizo un trabajo mejor que el suyo. Pero el día que hubo que
 hablar de las dos personas en una sala, uno de los dos llevaba medio año siendo alguien con quien
 se piensa, y la otra llevaba medio año siendo alguien que entrega.
+
+Tercera encima de la mesa. Y fíjate en que esta no la pones tú del todo: la ponen los que hablan de
+ti cuando no estás delante. Las cuatro que quedan van todas por ahí.
 
 > GANCHO — Caerle bien a tu jefe te da un aliado, y un aliado está muy bien. El problema es que tu
 > jefe casi nunca decide solo. En el capítulo siguiente vas a conocer a la figura que sí puede

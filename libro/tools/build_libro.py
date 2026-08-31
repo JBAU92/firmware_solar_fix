@@ -52,10 +52,15 @@ def convertir(md):
             fmt = lambda fs: '(' + ', '.join('[%s]' % texto(c) for c in fs) + ',)'
             # una tabla con la mayoría de casillas vacías es un formulario:
             # se dibuja con cuadrícula para que se vea dónde escribir
+            anchos = []
+            for j in range(len(cab)):
+                largo = max([len(cab[j])] + [len(f[j]) for f in filas if j < len(f)])
+                anchos.append('auto' if largo <= 6 else '1fr')
             cel = [c for f in filas for c in f[1:]]
             form = 'true' if cel and sum(1 for c in cel if not c) * 2 > len(cel) else 'false'
-            out.append('#tabla(%s, (%s), formulario: %s)\n'
-                       % (fmt(cab), ' '.join(fmt(f) + ',' for f in filas), form))
+            out.append('#tabla(%s, (%s), cols: (%s), formulario: %s)\n'
+                       % (fmt(cab), ' '.join(fmt(f) + ',' for f in filas),
+                          ', '.join(anchos) + ',', form))
             continue
         m = re.match(r'^(#{1,3})\s+(.*)$', ln)
         if m:
@@ -170,15 +175,18 @@ PLANTILLA = r'''
 #let cap(num, cuerpo) = { numcap.update(num); heading(level: 1, cuerpo) }
 // Tabla de libro: filetes horizontales y nada más. La primera columna a la
 // izquierda, el resto centradas, que es como se leen las casillas de puntuar.
-#let tabla(cab, filas, formulario: false) = block(
+#let tabla(cab, filas, cols: none, formulario: false) = block(
     above: 0.20in, below: 0.24in, breakable: false)[
   #set text(size: 9pt, hyphenate: false)
   #set par(justify: false, first-line-indent: 0pt, leading: 0.52em)
   #table(
-    columns: (auto,) + (1fr,) * (cab.len() - 1),
+    columns: if cols == none { (auto,) + (1fr,) * (cab.len() - 1) } else { cols },
     stroke: if formulario { 0.4pt + luma(150) } else { none },
     inset: (x: 4pt, y: if formulario { 10pt } else { 5.5pt }),
-    align: (c, r) => if c == 0 { left + horizon } else { center + horizon },
+    align: (c, r) => {
+      let ancho = if cols == none { c != 0 } else { cols.at(c, default: auto) == 1fr }
+      if ancho { left + horizon } else { center + horizon }
+    },
     table.hline(stroke: 1.1pt),
     ..cab.map(c => strong(c)),
     table.hline(stroke: if formulario { 0.9pt } else { 0.5pt }),

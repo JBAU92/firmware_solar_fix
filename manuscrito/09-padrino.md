@@ -183,6 +183,9 @@ Dos años de café no habían movido nada. Un asunto pequeño y bien terminado s
 
 Es un poco decepcionante de lo simple que es.
 
+Cuarta encima de la mesa, y la primera que no es un papel sino una persona: alguien dispuesto a
+decir tu nombre en una sala donde tú no estás. Quedan tres.
+
 > GANCHO — Para que alguien apueste por ti tiene que haberte visto trabajar, y aquí está el
 > problema que Marta nunca resolvió: la gente que decidía sobre ella la conocía solo por lo que
 > contaba su jefe. Javier tenía otra cosa, y es la más contraintuitiva de las siete.

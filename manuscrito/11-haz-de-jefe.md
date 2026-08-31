@@ -204,6 +204,9 @@ mejor, sino porque eligió otro tamaño de problema.
 Si te quedas con una sola frase de este capítulo, que sea esta: **no te van a ascender por hacer
 tu parte impecable, sino por ocuparte del trozo que no es de nadie.**
 
+Sexta encima de la mesa, y la más difícil de discutir de las siete, porque no promete que sabrías
+hacer el trabajo de arriba: certifica que ya lo hiciste. Queda una.
+
 > GANCHO — Ya tienes las pruebas, los aliados, la red y la demostración. Y con todo eso puede que
 > no pase absolutamente nada, porque falta el paso que Marta no dio en cuatro años. Cuesta una
 > conversación de veinte minutos, y casi todo el mundo la evita por la misma razón, que además es

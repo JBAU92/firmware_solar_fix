@@ -17,8 +17,11 @@ dentro ninguna persona.
 Nadie robó nada. Nadie mintió. Doce encargados de zona salieron de esa reunión con un sistema
 nuevo y sin ningún nombre asociado a él, salvo el del que lo contó.
 
-Este es el capítulo que ningún libro de estos escribe, y va de una cosa incómoda: **todo lo que has
-aprendido en los doce capítulos anteriores te lo pueden hacer a ti.** Un lector que sabe influir
+Las siete cosas cuestan meses de poner encima de la mesa y se caen en una reunión de cuarenta
+minutos. Este capítulo va de que no se caigan.
+
+Es el que ningún libro de estos escribe, y va de una cosa incómoda: **todo lo que has aprendido en
+los doce capítulos anteriores te lo pueden hacer a ti.** Un lector que sabe influir
 pero no sabe ver está peor preparado que antes de abrir el libro, porque va con la guardia baja
 donde antes ni siquiera entraba.
 

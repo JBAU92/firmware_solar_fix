@@ -90,4 +90,12 @@ No hace falta que nadie te elija. El procedimiento se puede aplicar uno mismo. N
 inmediato, y hay un par de conversaciones ahí en medio que te van a dar pereza. Pero se puede, y
 la gente lo hace todos los días sin saber que lo está haciendo.
 
+Y una imagen que conviene que te lleves ya, porque va debajo de todo lo demás.
+
+En algún momento alguien se sienta a hablar de ti. Hay una sala, hay una mesa y hay gente
+decidiendo con lo que tiene delante. Lo que tienen delante es lo único que cuenta, y para casi todo
+el mundo son dos cosas: sus números y lo que opine su jefe.
+
+Este libro va de las otras siete que se pueden poner ahí.
+
 Voy a empezar por el sitio donde se decide, porque es el único al que no te han dejado entrar.

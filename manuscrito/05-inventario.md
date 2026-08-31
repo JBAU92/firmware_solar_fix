@@ -241,6 +241,11 @@ Eso no invalida nada de lo que llevas leído. Los cinco depósitos se llenan igu
 es que la evidencia que produzcas la vas a usar fuera en vez de dentro. Sigue leyendo con eso en
 la cabeza: estás preparando una candidatura, y el destinatario lo decides al final.
 
+Y una cosa de encuadre antes de seguir, para que sepas en qué punto del libro estás. Hasta aquí has
+estado preparando: eligiendo ruta, contando lo que tienes y viendo por dónde empezar. A partir del
+capítulo siguiente empiezas a **poner cosas encima de aquella mesa**, una por capítulo, en el orden
+en que llegan. Son siete y te quedan siete.
+
 > GANCHO — Ya sabes qué te falta y por dónde empezar. Ahora viene lo que casi todo el mundo
 > entiende del revés: la reacción natural es cerrar esas brechas trabajando más, y trabajar más
 > es, con diferencia, la forma más lenta que existe de que te asciendan.

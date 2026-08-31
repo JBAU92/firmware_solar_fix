@@ -38,8 +38,23 @@ hablan de otra cosa que no es hacer bien el trabajo de siempre.
 Esas son las que mueven a alguien de casilla.
 
 Si esto te ha molestado, estamos empezando bien. A mí también me molestó, y para entonces llevaba
-ya unos años sentándome en esas salas. Tardé bastante en entender que Javier no había hecho nada
-sucio, ni había hecho la pelota, ni le había quitado el mérito a nadie. Había hecho, una por una,
+ya unos años sentándome en esas salas.
+
+Porque Marta tenía su versión de Javier, y merece la pena oírla, entre otras cosas porque es la que
+tienes tú de alguien de tu trabajo.
+
+Para Marta, Javier era el que se pasaba media mañana de pie en el pasillo. El que en las reuniones
+hablaba mucho y decía poco. El que se apuntaba a todo lo que sonara a proyecto nuevo y luego
+repartía el trabajo entre los demás. El que se iba a las seis y media mientras ella cerraba el mes.
+El que caía bien a los jefes, que es la manera educada de decir otra cosa.
+
+Y no se lo inventaba. Todo eso era verdad, y cualquiera de aquella planta lo habría firmado.
+
+Fíjate en lo cómoda que es esa explicación, porque ahí está la trampa. Si Javier subió por hacer la
+pelota, entonces tú no subes por ser decente, y no hay nada más que hacer ni nada más que pensar.
+Es una historia que te deja tranquilo y quieto. Le pasa a mucha gente y le puede durar años.
+
+Tardé bastante en entender que Javier no había hecho nada sucio, ni había hecho la pelota, ni le había quitado el mérito a nadie. Había hecho, una por una,
 unas cuantas cosas concretas que Marta no hizo. Y ninguna de ellas era trabajar más.
 
 Voy a contártelas todas.

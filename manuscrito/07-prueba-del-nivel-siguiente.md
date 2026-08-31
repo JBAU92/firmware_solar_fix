@@ -190,6 +190,9 @@ Y una comprobación antes de aceptar cualquiera, que resume el capítulo anterio
 encargo no se puede medir, no se puede contar; si no se puede contar, no deja evidencia; y si no
 deja evidencia, lo único que te ha dado son horas.
 
+Segunda de las siete encima de la mesa: alguien te ha visto hacer algo del nivel de arriba antes de
+que nadie te lo diera. Quedan cinco.
+
 > GANCHO — Ya tienes algo que enseñar. Y aquí empieza la parte que a casi todo el mundo le da
 > reparo, porque tiene mala fama y porque casi nadie la hace bien: conseguir caerle bien a quien
 > decide. Resulta que está medido, que funciona, y que la mayoría de la gente lo hace exactamente

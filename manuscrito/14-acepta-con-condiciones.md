@@ -180,6 +180,24 @@ cruzaba tres áreas, conoció a gente que no sabía que existía y, sobre todo, 
 acabó siendo jefa: acabó en un movimiento lateral, en una especialidad de la que ni siquiera sabía
 que había puesto, donde hoy gana más que Javier y decide sobre cosas que antes ni tocaba.
 
+Hay una cosa que me dijo cuando ya llevaba un tiempo en el puesto nuevo, y es el motivo por el que
+existe este libro. Me dijo que lo que más rabia le daba, mirándolo desde donde estaba, no era haber
+perdido aquel puesto. Era haberse pasado dos años pensando mal de un compañero que no le había
+hecho nada.
+
+Porque Javier no tenía ningún método, y conviene decirlo justo aquí, no vaya a ser que cierres el
+libro creyendo que hay gente que nace sabiendo. Hizo esas cosas una a una, cada una por su motivo,
+sin saber en ningún momento que sumaban. Pidió aquella conversación porque estaba harto de no saber
+a qué atenerse. Mandaba el correo de los viernes porque le ahorraba escribir el informe largo.
+Cogió el marrón del inventario porque lo suyo le aburría. Ninguna la hizo pensando en aquella sala,
+sencillamente porque no sabía que aquella sala existía.
+
+A eso, visto desde fuera, se le llama tener suerte.
+
+Tú no la necesitas. Él hizo cinco de las siete sin saber que eran siete, y tú acabas de leerte las
+siete con el nombre puesto y el capítulo al lado. Eso es lo único que este libro te da, y es
+bastante más de lo que tuvo él.
+
 Ninguno de los dos ganó y ninguno perdió.
 
 La única diferencia entre ellos es cuándo lo aprendieron. Javier lo entendió a los dos años de
@@ -199,6 +217,8 @@ Vuelve al folio del capítulo cinco. Deberías tener, si has ido haciendo las co
 leías, una ruta elegida, un inventario, una brecha por la que empezar, un encargo con fecha de fin,
 tres nombres de posibles padrinos, doce contactos con su próximo gesto, algo consolidado que hoy no
 consolida nadie y una conversación pendiente.
+
+Eso, traducido, son las siete cosas encima de una mesa a la que no te dejan entrar.
 
 Si no tienes nada de eso, no pasa nada: este libro se lee dos veces y la segunda es la que sirve.
 
