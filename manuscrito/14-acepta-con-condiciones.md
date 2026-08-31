@@ -34,7 +34,7 @@ la aceptación habiendo hecho ya el primer trabajo de jefe.
 ## La lista
 
 Ocho preguntas. Se hacen antes de decir que sí, en una conversación tranquila, y lo que no quede
-por escrito después no cuenta — no por desconfianza, sino porque a los seis meses nadie recuerda
+por escrito después no cuenta —no por desconfianza, sino porque a los seis meses nadie recuerda
 igual una conversación.
 
 **Qué se espera de mí en los primeros seis meses, dicho en cosas que se puedan comprobar.** Si la

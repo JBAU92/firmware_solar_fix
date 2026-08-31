@@ -137,6 +137,10 @@ PLANTILLA = r'''
 // vista. A 250%% solo parte cuando de verdad hace falta y no queda ninguna.
 #set text(lang: "es", font: "Source Serif 4", size: 10.6pt, hyphenate: true,
           costs: (hyphenation: 250%%))
+
+// En los preliminares no se parte ni una palabra: una portada con «ele-girte»
+// delata el libro a la primera ojeada.
+#let sin-partir(c) = { set text(hyphenate: false); set par(justify: false); c }
 #set par(justify: true, leading: 0.76em, spacing: 0.76em, first-line-indent: 1.15em)
 #show par: set block(below: 0.76em)
 
@@ -195,17 +199,21 @@ PLANTILLA = r'''
 #set page(numbering: none)
 #counter(page).update(1)
 
-#align(center)[#v(2.5in) #text(size: 14pt, tracking: 2.4pt)[#upper(TITULO)]]
+#sin-partir(align(center)[#v(2.5in) #text(size: 14pt, tracking: 2.4pt)[#upper(TITULO)]])
 #pagebreak(to: "odd")
-#align(center)[
+#sin-partir(align(center)[
   #v(1.8in)
-  #text(size: 29pt, weight: 700)[#TITULO]
-  #v(0.22in)
-  #block(width: 3.5in)[#set par(justify: false, first-line-indent: 0pt)
-    #text(size: 11.5pt, style: "italic")[#SUBTITULO]]
+  // Los cortes van forzados: si se dejan al azar, el título parte como
+  // «Nadie va a venir a / elegirte» y deja una preposición suelta al final.
+  #block(width: 4.0in)[#set par(leading: 0.42em, first-line-indent: 0pt)
+    #text(size: 29pt, weight: 700)[Nadie va a venir #linebreak() a elegirte]]
+  #v(0.24in)
+  #block(width: 3.4in)[#set par(leading: 0.62em, first-line-indent: 0pt)
+    #text(size: 11.5pt, style: "italic")[
+      Cómo se decide de verdad quién asciende, #linebreak() y cómo entrar en esa decisión]]
   #v(0.85in)
   #text(size: 11pt, tracking: 2.2pt)[#upper(AUTOR)]
-]
+])
 #pagebreak()
 #v(3.1in)
 #block[
@@ -230,7 +238,7 @@ PLANTILLA = r'''
 ]
 
 #pagebreak(to: "odd")
-#align(center)[#text(size: 12.5pt, tracking: 2.4pt)[#upper("Índice")]]
+#sin-partir(align(center)[#text(size: 12.5pt, tracking: 2.4pt)[#upper("Índice")]])
 #v(0.30in)
 #show outline.entry: it => context {
   let n = numcap.at(it.element.location())

@@ -11,7 +11,7 @@ Y sigue exactamente en el mismo sitio que hace dos años.
 
 En junio se decidió quién se llevaba un cliente nuevo importante, de los que te cambian el
 expediente. Elena se enteró en septiembre. Su mentor, que estuvo en esa conversación, no dijo su
-nombre — no porque tuviera nada contra ella, sino porque en ningún momento se le pasó por la cabeza
+nombre —no porque tuviera nada contra ella, sino porque en ningún momento se le pasó por la cabeza
 que aquello fuera con ella.
 
 No es culpa suya. Es que Elena le pidió lo que no necesitaba.

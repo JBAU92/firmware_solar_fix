@@ -125,7 +125,7 @@ trabajo invisible; dejar escrito cómo se forma a los nuevos es evidencia.
 
 Queda la objeción que estás pensando desde hace tres páginas: *yo no voy a ir por ahí vendiéndome*.
 
-Bien. No lo hagas. Hay una diferencia grande entre presumir e informar, y la nota la todo el mundo
+Bien. No lo hagas. Hay una diferencia grande entre presumir e informar, y la nota todo el mundo
 aunque no sepa explicarla.
 
 Presumir es hablar de ti. Informar es hablar del trabajo y de lo que le pasó al problema. «Menudo
@@ -145,7 +145,7 @@ frecuentes y más caras que hay en una empresa, y casi siempre el motivo no es q
 es que no tiene nada que decir. Tú tienes ese material y él no. Dárselo no es venderte. Es
 equiparlo.
 
-Tres reglas y se acabó. Da el crédito a los demás primero y con nombre, siempre —cuesta nada y
+Tres reglas y se acabó. Da el crédito a los demás primero y con nombre, siempre —no cuesta nada y
 cambia cómo te ven—. Habla en pasado y en concreto, no en adjetivos. Y hazlo cuando sea útil, no
 cuando te apetezca: dentro de una actualización normal, no en un correo cuyo único motivo eres tú.
 

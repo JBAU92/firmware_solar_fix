@@ -72,5 +72,5 @@ tienen fecha no ocurren, y esa es la única de las catorce que nadie puede hacer
 
 Y si algún día me lo vuelve a preguntar un martes, cenando, ya tengo la respuesta corta.
 
-—Le explico a la gente que no va a venir nadie a elegirla. Y luego le enseño a que no le haga
-falta.
+—Le explico a la gente que no va a venir nadie a elegirla. Y luego le enseño a no necesitar que
+nadie la elija.

@@ -100,7 +100,7 @@ la conversación se evapore.
 Una precisión que ahorra muchos malentendidos: en esa conversación **no se pide un ascenso**.
 
 Pedir un ascenso pone a tu jefe en una situación imposible. Un ascenso depende de que haya vacante,
-de que haya presupuesto, de que se apruebe arriba y de que sea el momento del año — es decir, de la
+de que haya presupuesto, de que se apruebe arriba y de que sea el momento del año —es decir, de la
 segunda puerta del capítulo cuatro, que ni él ni tú controláis. Si le pides eso, la única respuesta
 sincera que puede darte es «no depende de mí», y esa respuesta cierra la conversación en vez de
 abrirla.
@@ -200,7 +200,7 @@ va a retener. Es información cara de conseguir y la acabas de conseguir gratis.
 ella está en el capítulo trece.
 
 Un contrapeso, y es serio: esta conversación funciona porque llega la duodécima, no la primera.
-Pedir sin haber hecho nada de lo anterior es pedir de más, y entonces sí que quedas mal — no por
+Pedir sin haber hecho nada de lo anterior es pedir de más, y entonces sí que quedas mal —no por
 pedir, sino por pedir sin nada detrás. Si has llegado hasta aquí saltándote los capítulos, vuelve.
 El orden importa.
 
@@ -244,5 +244,5 @@ Lo que no recupera nadie son los cuatro años que estuvo esperando a que se dier
 
 > GANCHO — Ya has pedido. A partir de aquí pueden pasar dos cosas y conviene estar preparado para
 > las dos. La primera es que te digan que sí. La segunda es que alguien, viendo lo que estás
-> construyendo, decida que ese sitio es suyo — y ese es el capítulo que ningún libro de estos te
+> construyendo, decida que ese sitio es suyo —y ese es el capítulo que ningún libro de estos te
 > escribe.

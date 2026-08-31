@@ -33,7 +33,7 @@ detalle, y quiero ser claro sobre por qué: no porque sea la mejor, sino porque 
 explicada está. De las otras cuatro se habla poco pero se entienden solas; de esta se habla mucho
 y se entiende mal.
 
-**Carrera experta.** Más profundidad, más alcance, más influencia sobre lo que se decide — y
+**Carrera experta.** Más profundidad, más alcance, más influencia sobre lo que se decide —y
 ninguna persona a tu cargo. Es donde acabó Andrés. En muchas empresas medianas y grandes existe
 formalmente, está escrita en algún sitio, y **casi nadie la pide** porque nadie la anuncia. Es,
 con diferencia, la ruta con menos competencia de todo el libro.
@@ -41,7 +41,7 @@ con diferencia, la ruta con menos competencia de todo el libro.
 **Movilidad lateral.** Otra función, otro producto, otro país, mismo nivel. Suena a no avanzar y
 es de los movimientos más rentables que existen, porque lo que ensancha no es el escalafón: es lo
 que sabes hacer y la gente que te conoce. Un jefe de tienda que pasa un año en compras vuelve
-siendo otra persona — vuelve sabiendo por qué llegan los pedidos que llegan, conociendo a quien
+siendo otra persona —vuelve sabiendo por qué llegan los pedidos que llegan, conociendo a quien
 los decide, y con la autoridad que da haber estado en las dos orillas. Es el movimiento favorito
 de la gente que acaba dirigiendo cosas grandes, y el que peor entienden los que están fuera,
 porque desde fuera parece que has estado un año parado.

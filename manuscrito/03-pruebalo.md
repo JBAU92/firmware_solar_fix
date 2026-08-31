@@ -16,7 +16,7 @@ a los demás de que lo sabemos.
 
 ## No te descubres pensando
 
-Herminia Ibarra lleva décadas estudiando cómo cambia la gente de identidad profesional — cómo
+Herminia Ibarra lleva décadas estudiando cómo cambia la gente de identidad profesional —cómo
 alguien deja de ser «el que hace X» y pasa a ser otra cosa. Y su hallazgo va justo en contra de lo
 que hacemos todos, que es sentarnos a pensarlo.
 
@@ -37,17 +37,17 @@ apostar la carrera?»**.
 Se averigua por partes, empezando por lo que no compromete nada. Cada peldaño te da información
 distinta y ninguno exige que aceptes un puesto.
 
-**Riesgo bajo — una tarde.** Llevar una reunión. Documentar una decisión que se ha tomado a medias
+**Riesgo bajo: una tarde.** Llevar una reunión. Documentar una decisión que se ha tomado a medias
 y mandarla. Enseñarle a alguien nuevo cómo se hace una cosa. Parece poco y es donde se cae la
 primera mitad de la gente, porque descubren que coordinar les aburre soberanamente.
 
-**Riesgo medio — de seis a ocho semanas.** Un proyecto transversal: algo que requiere que gente que
+**Riesgo medio: de seis a ocho semanas.** Un proyecto transversal: algo que requiere que gente que
 no depende de ti haga cosas en un orden y en un plazo. Con patrocinador, con alcance escrito y con
 fecha de fin. Este es el peldaño clave y al que hay que llegar sí o sí, porque es el primero que se
 parece de verdad al trabajo de arriba: no tienes autoridad sobre nadie, tienes que conseguir que
 las cosas pasen igualmente, y alguien te va a decir que no.
 
-**Riesgo medio-alto — meses.** Una sustitución por vacaciones o una baja, una interinidad, una
+**Riesgo medio-alto: meses.** Una sustitución por vacaciones o una baja, una interinidad, una
 rotación. Ya es el puesto de verdad, pero con fecha de caducidad puesta desde el principio y con
 todo el mundo sabiéndolo.
 
@@ -111,8 +111,8 @@ no había horas donde ponerlas.
 
 Ahora mira la otra.
 
-Las ocho horas ya están puestas. Ya estás ahí. Ya te pagan por estar ahí. Y — esta es la parte que
-casi nadie calcula — **conseguir un ascenso o un movimiento a otro puesto no te pide ni una sola
+Las ocho horas ya están puestas. Ya estás ahí. Ya te pagan por estar ahí. Y —esta es la parte que
+casi nadie calcula— **conseguir un ascenso o un movimiento a otro puesto no te pide ni una sola
 hora fuera del trabajo.** Ni una. No hay que madrugar más, no hay que sacrificar los sábados, no
 hay que explicarle a nadie en casa que estás liado con una cosa.
 

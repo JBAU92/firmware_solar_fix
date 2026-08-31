@@ -172,7 +172,7 @@ reconocerlo cuando te lo hagan a ti, que es la otra mitad del asunto.
 **Esto no es un libro de oficina.** El que monta las hamburguesas más rápido y sin fallos y el que
 entrega los mejores informes antes de plazo tienen exactamente el mismo problema, y la salida es
 la misma. A lo largo del libro vas a ver el mismo mecanismo en una nave, en una tienda, en un
-almacén y en un despacho, porque el mecanismo no cambia — solo cambia el uniforme.
+almacén y en un despacho, porque el mecanismo no cambia —solo cambia el uniforme.
 
 **Y esto no te obliga a nada.** Puede que después de leerlo decidas que no quieres mandar. Es una
 decisión perfectamente buena, y hay una ruta entera del libro dedicada a ella. Lo que no me parece

@@ -98,7 +98,7 @@ la ha visto. Falla cuando la persona rinde estupendamente en su puesto y nadie l
 hacer otra cosa.
 
 **Oportunidad organizativa.** Que haya sitio. Vacante, presupuesto, momento del año, reglas que lo
-permitan. Falla cuando la candidatura mejora y la empresa no tiene hueco — o cuando lo tiene pero
+permitan. Falla cuando la candidatura mejora y la empresa no tiene hueco —o cuando lo tiene pero
 tu jefe no quiere perder al que le cierra el mes.
 
 **Patrocinio.** Que alguien creíble conozca tu trabajo y esté dispuesto a defenderlo en una sala
@@ -177,7 +177,7 @@ Antes de seguir, contesta a esto y no te hagas trampas:
 lo que opine tu jefe?**
 
 Para la mayoría de la gente la respuesta honesta es «nada». Si esa es la tuya, tranquilo, es lo
-normal — y además es una buena noticia, porque significa que no compites con nadie: los demás
+normal —y además es una buena noticia, porque significa que no compites con nadie: los demás
 tampoco han puesto nada.
 
 Nacho, por cierto, sigue en la empresa. Volvió a vender al cabo de año y medio y hoy le va muy

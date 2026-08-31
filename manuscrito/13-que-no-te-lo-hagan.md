@@ -92,7 +92,7 @@ propio es una de las formas más eficaces de amargarse la vida.
 
 Si en tu empresa no ha ascendido nadie de dentro en años; si los criterios cambian cada vez que los
 cumples; si te han dicho que no tres veces sin decirte por qué; si el único que puede hablar de tu
-trabajo es alguien que no quiere que te muevas — entonces no te falta capacidad. Te falta una
+trabajo es alguien que no quiere que te muevas —entonces no te falta capacidad. Te falta una
 puerta, que es la segunda del capítulo cuatro, y esa no se abre esforzándose más.
 
 No es un fracaso reconocerlo. Es información, y es de la cara. Tienes cinco rutas y una de ellas
@@ -127,7 +127,7 @@ ahora qué digo, sin parecer un crío al que le han quitado el cromo?
 Lo primero es lo que no se hace. No se reclama en público, no se reclama en caliente y no se
 reclama hacia atrás. Levantar la mano en una reunión para decir «eso lo hice yo» tiene un coste
 altísimo y un beneficio nulo: quien lo presentó queda en evidencia delante de todos, se convierte
-en tu enemigo esa misma tarde, y los que miran no se quedan con que el trabajo era tuyo — se
+en tu enemigo esa misma tarde, y los que miran no se quedan con que el trabajo era tuyo —se
 quedan con la escena. Ese es el efecto baba del capítulo ocho, funcionando en tu contra.
 
 Lo que sí funciona son tres cosas pequeñas y hacia delante.

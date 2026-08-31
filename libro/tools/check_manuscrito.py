@@ -82,6 +82,14 @@ def check(path):
                 errs.append(f"TRÍADAS: «{etiqueta}» glosado con «{intrusos[0]}», "
                             f"que pertenece a la otra tríada")
 
+    # 4 ter · la raya de apertura va pegada al texto que introduce
+    # «lo mismo —pero se nota», no «lo mismo — pero se nota». Las marcas de
+    # trabajo «> GANCHO — …» no cuentan: el compositor las quita.
+    for ln in cuerpo.split('\n'):
+        if ln.lstrip().startswith('> GANCHO'): continue
+        for m in re.finditer(r'\S — \S', ln):
+            errs.append(f"RAYA: «{m.group(0)}» — la raya va pegada al texto que abre")
+
     # 5 · hilo narrativo
     if n in REVELACION and not re.search(r'Marta|Javier', cuerpo):
         errs.append("HILO: capítulo con revelación asignada y sin Marta ni Javier")

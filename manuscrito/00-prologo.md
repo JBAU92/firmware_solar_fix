@@ -67,8 +67,7 @@ tenga un trabajo y un jefe y una tarde de domingo en la que le apetezca cambiar 
 se dedicaba su padre. Y la escribo, ya que estoy, para todos los demás.
 
 Voy a contarte el procedimiento entero. Los criterios con los que se decide, quién decide, cuándo,
-qué se mira y qué se ignora. Y voy a contártelo sin adornos, incluida la parte que incomoda —
-porque hay partes que incomodan, y saltárselas sería dejarte a medias.
+qué se mira y qué se ignora. Y voy a contártelo sin adornos, incluida la parte que incomoda —porque hay partes que incomodan, y saltárselas sería dejarte a medias.
 
 Dos advertencias antes de empezar, para que sepas qué has comprado.
 
