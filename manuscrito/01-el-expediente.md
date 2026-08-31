@@ -147,7 +147,7 @@ engorda la primera de las dos cosas que ya están ahí.
 Fíjate en lo que implica, porque es liberador. Que decidan con poco no significa que decidan mal
 a propósito, ni que estén en tu contra, ni que haya un club al que no te han invitado. Significa
 algo mucho más manejable: **están decidiendo a ciegas y agradecerían ver algo**. Cada capítulo de
-lo que viene pone una cosa distinta encima de esa mesa. Son siete en total, y llegan por orden.
+lo que viene pone una cosa distinta encima de esa mesa. Son siete en total, y las vamos a ir viendo una a una.
 
 Javier no puso las siete. Puso cinco, y con eso bastó.
 

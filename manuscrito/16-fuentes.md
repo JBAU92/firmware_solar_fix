@@ -9,8 +9,7 @@ respaldo y me parece deshonesto presentarlo como si lo tuviera. Hay tres niveles
 **Investigación publicada y revisada por pares.** Es la mayor parte de lo que se cita aquí. Cuando
 he dado un resultado numérico de una investigación, aquí tienes la fuente y su contexto. Las demás
 cantidades del libro —doce contactos, dos gestos al mes, tres meses de margen, dos señales en tres
-meses— son herramientas de trabajo mías, no resultados medidos, y van dichas como tales allí donde
-aparecen.
+meses— son herramientas de trabajo que propongo yo, no resultados medidos.
 
 **Investigación con reservas.** Encuestas propias de una consultora, estudios correlacionales de
 los que no se puede deducir causa, o datos de otro país y de otra época. Los he usado igual, porque
@@ -22,6 +21,19 @@ Son maneras de ordenar lo que he visto, y te las he presentado como tales. Si al
 mide y salen mal, habrá que cambiarlas.
 
 ---
+
+## Capítulo 1 · El expediente que no has visto
+
+**Corporate Leadership Council / CEB**, hoy parte de **Gartner**. Modelo de identificación de alto
+potencial basado en tres componentes: *ability*, *aspiration* y *engagement* —capacidad,
+aspiración y vinculación con la organización—, que en el libro traduzco como compromiso. La idea es
+que los tres tienen que darse a la vez, y que rendir mucho no equivale a tener potencial.
+
+*Reserva importante:* esto no es investigación revisada por pares, es un marco de consultoría que
+se ha extendido por los departamentos de recursos humanos durante las dos últimas décadas. Lo cito
+porque describe cómo se decide de hecho en muchas empresas, no porque esté validado como los
+trabajos de las páginas siguientes. Y las conductas concretas que propongo para demostrar cada uno
+de los tres son criterio mío, no parte del modelo original.
 
 ## Capítulo 2 · Cinco escaleras, no una
 
@@ -88,8 +100,10 @@ se cita el sentido y el orden de magnitud, no como una ley universal de hoy.
 
 **Wong, J. S. y Penner, A. M. (2016).** «Gender and the Returns to Attractiveness». *Research in
 Social Stratification and Mobility*, 44, 113–123. La pieza clave del capítulo: al controlar por el
-arreglo personal, la ventaja del atractivo se reduce drásticamente. Es la conducta, no la genética,
-lo que se paga.
+arreglo personal, la asociación entre atractivo e ingresos se reduce drásticamente, sobre todo en
+mujeres. *Reserva:* es un estudio observacional. Permite decir que buena parte de esa ventaja no
+procede de rasgos físicos inalterables; no permite afirmar en términos causales qué es lo que una
+empresa paga.
 
 **Higgins, C. A., Judge, T. A. y Ferris, G. R. (2003).** «Influence Tactics and Work Outcomes: A
 Meta-Analysis». *Journal of Organizational Behavior*, 24(1), 89–106. De las tácticas de influencia

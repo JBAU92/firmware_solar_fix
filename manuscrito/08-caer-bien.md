@@ -79,7 +79,11 @@ a un veinte por ciento más que las de atractivo medio, pero **al controlar por 
 esa ventaja se reducía drásticamente**. En mujeres, el arreglo explicaba prácticamente toda la
 prima. En hombres, alrededor de la mitad.
 
-O sea que la parte del pastel que de verdad se cobra es justo la parte que decides tú.
+Léelo con cuidado, porque es un estudio observacional y no permite decir qué paga exactamente una
+empresa. Lo que dice es esto: al meter el arreglo personal en la cuenta, buena parte de esa ventaja
+se cae. Es decir, que una parte importante de lo que parecía venir de la cara viene de algo que no
+es la cara. Y eso, para lo que a ti te interesa, es la mejor noticia del capítulo, porque lo que no
+viene de la cara se decide todas las mañanas.
 
 Y no cuesta dinero. Limpio, planchado, adecuado y constante está al alcance de cualquiera con una
 plancha y un despertador. Cualquier consejo que empiece por «invierte en un buen traje» está
@@ -234,8 +238,9 @@ Marta, en esos mismos seis meses, hizo un trabajo mejor que el suyo. Pero el dí
 hablar de las dos personas en una sala, uno de los dos llevaba medio año siendo alguien con quien
 se piensa, y la otra llevaba medio año siendo alguien que entrega.
 
-Tercera encima de la mesa. Y fíjate en que esta no la pones tú del todo: la ponen los que hablan de
-ti cuando no estás delante. Las cuatro que quedan van todas por ahí.
+Tercera encima de la mesa, y la primera que no depende solo de ti. Las dos anteriores eran pruebas
+que fabricas; esta es una reputación: la empujas con lo que haces, pero quien la pone encima es la
+gente que habla de ti cuando no estás delante. Las cuatro que quedan van todas por ese lado.
 
 > GANCHO — Caerle bien a tu jefe te da un aliado, y un aliado está muy bien. El problema es que tu
 > jefe casi nunca decide solo. En el capítulo siguiente vas a conocer a la figura que sí puede

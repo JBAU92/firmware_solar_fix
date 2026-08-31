@@ -182,16 +182,21 @@ medias, y la persona que se lo había pedido no volvió a pedirle nada nunca má
 silenciosa en que se cierran estas puertas: sin una conversación, sin un reproche y sin que te
 enteres hasta mucho después.
 
-En su expediente eso no aparece por ningún lado. Lo que aparece es lo que hizo a partir de
-entonces, que fue aprender a decir que no. Y aprender a decir que no es lo que le dejó sitio para
-hacer bien las cinco cosas que sí acabaron encima de la mesa.
+Durante un tiempo aquello sí formó parte de su expediente, del que no se escribe: fue lo que esa
+persona contestaba cuando alguien preguntaba por él. Lo que hizo después no lo borró —eso no se
+borra— pero produjo suficiente material nuevo para que dejara de ser lo primero que se decía.
+
+Que es como se arreglan estas cosas, por cierto. No con que a la gente se le olvide, sino dándole
+algo mejor que contar.
 
 Y una comprobación antes de aceptar cualquiera, que resume el capítulo anterior y este: si el
 encargo no se puede medir, no se puede contar; si no se puede contar, no deja evidencia; y si no
 deja evidencia, lo único que te ha dado son horas.
 
-Segunda de las siete encima de la mesa: alguien te ha visto hacer algo del nivel de arriba antes de
-que nadie te lo diera. Quedan cinco.
+Segunda de las siete encima de la mesa: un encargo del nivel de arriba, acotado, terminado y con un
+resultado que se puede contar. No es todavía que te vean trabajar como un jefe —eso llega en el
+capítulo once—; es una prueba, con principio y final, de que sabes rematar algo de ese tamaño.
+Quedan cinco.
 
 > GANCHO — Ya tienes algo que enseñar. Y aquí empieza la parte que a casi todo el mundo le da
 > reparo, porque tiene mala fama y porque casi nadie la hace bien: conseguir caerle bien a quien

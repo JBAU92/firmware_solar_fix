@@ -64,12 +64,11 @@ En el capítulo tres te dije que probarlo era mucho menos arriesgado de lo que p
 sostengo. Ahora toca cumplir la promesa con precisión, porque una promesa cumplida a medias es peor
 que no haberla hecho.
 
-Si aceptas y no funciona, lo habitual es que se busque acomodo a algo parecido a lo que hacías.
-Pasa continuamente y no es ninguna deshonra. Y hay un motivo de fondo que juega a tu favor: a una
-empresa le sale más barato recolocar a alguien que ya conoce que perderlo y volver a buscar. Por
-eso el miedo suele ser mayor que el riesgo.
+Si aceptas y no funciona, muchas empresas van a intentar encontrarte un encaje parecido al que
+tenías, sobre todo si conservas la buena relación y un historial que les interese. Pasa
+continuamente y no es ninguna deshonra.
 
-Lo que no puedes es darlo por hecho.
+Lo que no puedes es darlo por hecho ni tratarlo como un derecho.
 
 Lo que no existe es el botón. Una vez consolidado el ascenso —funciones nuevas, categoría nueva,
 sueldo nuevo—, deshacerlo es un acuerdo entre dos partes y no algo que puedas exigir tú. Quien te
@@ -194,15 +193,18 @@ sencillamente porque no sabía que aquella sala existía.
 
 A eso, visto desde fuera, se le llama tener suerte.
 
-Tú no la necesitas. Él hizo cinco de las siete sin saber que eran siete, y tú acabas de leerte las
-siete con el nombre puesto y el capítulo al lado. Eso es lo único que este libro te da, y es
-bastante más de lo que tuvo él.
+No te voy a decir que tú no la necesites, porque seguirá haciendo falta: hace falta que haya
+vacante, que haya presupuesto y que el año venga bien, y nada de eso lo decides tú. Lo que cambia
+es que dejas de depender **solo** de ella. Él hizo cinco de las siete sin saber que eran siete; tú
+acabas de leértelas con el nombre puesto y el capítulo al lado. Eso es lo único que este libro te
+da, y es bastante más de lo que tuvo él.
 
 Ninguno de los dos ganó y ninguno perdió.
 
-La única diferencia entre ellos es cuándo lo aprendieron. Javier lo entendió a los dos años de
-entrar. Marta, a los seis. Y esos cuatro años no se los devuelve nadie: son cuatro años de sueldo
-más bajo, de trabajo que no le llenaba y de creer que el problema era ella.
+La única diferencia entre ellos es cuándo empezaron a moverse. Javier empezó al segundo año, sin
+saber ponerle nombre a nada de lo que hacía. Marta, al sexto. Y esos cuatro años no se los devuelve
+nadie: son cuatro años de sueldo más bajo, de trabajo que no le llenaba y de creer que el problema
+era ella.
 
 Eso es lo que te quería contar, y es todo lo que hay.
 

@@ -246,8 +246,9 @@ encogiera de hombros.
 Lo que no recupera nadie son los cuatro años que estuvo esperando a que se dieran cuenta.
 
 Y con eso, siete. La mesa donde se decide sobre ti ya no tiene solo tus números y lo que opine tu
-jefe. Tiene lo que has ido poniendo desde el capítulo seis, y ninguna de esas cosas te ha exigido
-trabajar más horas: te ha exigido trabajar de otra manera.
+jefe. Tiene lo que has ido poniendo desde el capítulo seis. Y fíjate en lo que no ha hecho falta: en
+ningún momento la estrategia ha sido echar más horas. Ha sido usar de otra manera buena parte de
+las que ya estabas allí.
 
 > GANCHO — Ya has pedido. A partir de aquí pueden pasar dos cosas y conviene estar preparado para
 > las dos. La primera es que te digan que sí. La segunda es que alguien, viendo lo que estás

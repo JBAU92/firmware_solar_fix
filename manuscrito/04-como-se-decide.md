@@ -138,21 +138,31 @@ las tres puertas siguen siendo las mismas tres.
 
 Y ahora la parte práctica, que es literalmente el índice de lo que queda de libro. Si el problema
 es que solo hay dos cosas encima de la mesa, la solución es poner más. Hay siete que se pueden
-poner, y llegan por orden, una por capítulo:
+poner, y las vamos a trabajar en este orden, una por capítulo:
 
 | | Lo que se pone encima | Cap. |
 |---|---|---|
 | 1 | Tu impacto en un formato que otro pueda repetir sin ti delante | 6 |
-| 2 | Una experiencia real del nivel siguiente | 7 |
+| 2 | Un encargo del nivel siguiente, terminado y con resultado | 7 |
 | 3 | Que la gente quiera trabajar contigo | 8 |
 | 4 | Alguien creíble que te defienda cuando no estás | 9 |
 | 5 | Gente de fuera de tu área que te ha visto trabajar | 10 |
-| 6 | Que te hayan visto **haciendo** el trabajo de arriba | 11 |
+| 6 | Que te vean **haciendo de jefe**: coordinar y decidir | 11 |
 | 7 | Tu aspiración, dicha en voz alta | 12 |
 
-Fíjate en el orden, porque no es caprichoso. Las tres primeras las produces tú. Las tres siguientes
-son personas: alguien que te defiende, gente que te ha visto, una sala que te ha visto. Y la última
-es la única que no se produce de ninguna manera —se dice.
+Antes de seguir, dos aclaraciones sobre esa tabla.
+
+La segunda y la sexta se parecen y no son lo mismo. La segunda es **un encargo**: una cosa con
+principio, final y resultado, que demuestra que sabes rematar algo del nivel de arriba. La sexta es
+**una manera de trabajar**: que la gente te vea coordinar, decidir y responder de lo que sale mal,
+no una vez sino como costumbre. Se puede tener la una sin la otra, y de hecho es lo normal.
+
+Y el orden no es una ley de la vida laboral, es el orden en que se enseñan. Las dos primeras son
+pruebas que produces tú; la tercera es una reputación que puedes empujar pero que validan otros;
+las tres siguientes dependen de gente que te haya visto y quiera hablar; y la última no se produce
+de ninguna manera —se dice. En una carrera de verdad pueden llegarte en cualquier orden, y a
+alguna gente le aparece un padrino antes de tener nada que enseñarle. Aquí van así porque cada
+capítulo prepara el siguiente.
 
 Ninguna de las siete es un talento. Todas son cosas que se producen.
 
