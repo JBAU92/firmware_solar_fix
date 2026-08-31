@@ -130,9 +130,9 @@ hacer nada distinto de mover palés.
 Ramón cree que su problema es que no le valoran. Su problema es que las tres puertas fallan por
 motivos distintos y él está empujando la única que ya estaba medio abierta.
 
-Cámbiale el sector y no cambia nada. Una enfermera que quiere ser supervisora, un camarero que
-quiere ser encargado, un abogado que quiere ser socio: las tres puertas son las mismas y suelen
-fallar por el mismo sitio.
+Cámbiale el sector y el mecanismo se repite. Una enfermera que quiere ser supervisora, un camarero
+que quiere ser encargado, un abogado que quiere ser socio: cambian los nombres y las costumbres, y
+las tres puertas siguen siendo las mismas tres.
 
 ## Las siete cosas
 
@@ -154,7 +154,7 @@ No hizo falta que pusiera las siete.
 
 Falta el detalle más barato de todo el libro, y es de la segunda puerta, la que no controlas.
 
-En casi todas las empresas los movimientos no se reparten cuando surge la necesidad. Se reparten en
+En muchas empresas los movimientos no se reparten cuando surge la necesidad. Se reparten en
 un mes al año, o en dos: cuando se cierra el presupuesto, cuando se hace la revisión anual, cuando
 se aprueba la plantilla del ejercicio que viene. Hay una ventana, dura unas semanas, y todo lo que
 llegue después llega tarde aunque sea mejor. Es la razón por la que a veces te dicen «lo tendremos
@@ -166,8 +166,10 @@ cita: le vale una frase suelta a tu jefe, del tipo «por curiosidad, ¿los movim
 deciden en algún momento concreto del año?». Si no lo sabe, lo sabe recursos humanos, y a recursos
 humanos se le puede preguntar sin que eso comprometa a nada ni te ponga en ninguna lista.
 
-Y luego resta tres meses. Ese es el día en que tu expediente tiene que estar hecho, porque cuando
-se abre la ventana ya no da tiempo a construir nada: solo a enseñar lo que ya existe.
+Y luego réstale tres meses. La cifra es mía, no de ningún estudio: es el margen que me he
+acostumbrado a dejar para que a alguien le dé tiempo a tener las pruebas hechas antes de que se
+abra la ventana, porque una vez abierta ya no da tiempo a construir nada. Solo a enseñar lo que
+ya existe.
 
 ## El diagnóstico
 

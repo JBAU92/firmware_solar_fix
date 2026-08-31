@@ -45,10 +45,14 @@ Hasta ahí, más o menos lo esperable. Lo interesante viene después. Alargaron 
 segundo y a un segundo entero, y las correlaciones **no mejoraron**. Lo único que aumentó fue la
 **confianza** de la persona en el juicio que ya había hecho.
 
-Léelo otra vez, porque desarma la respuesta que todos nos damos: *bueno, ya me irán conociendo*.
-Pues resulta que no. Más tiempo no corrige la primera impresión: la asienta. La gente que te ve
-todos los días no está revisando su juicio sobre ti, está acumulando seguridad en el que hizo el
-primer día.
+Conviene decir hasta dónde llega eso, porque es fácil estirarlo de más: el experimento va de caras
+en una pantalla durante fracciones de segundo, no de compañeros que llevan meses trabajando juntos.
+Nadie ha demostrado que un año de trato no cambie lo que alguien piensa de ti. Menos mal.
+
+Lo que sí desarma es la respuesta que todos nos damos, que es *bueno, ya me irán conociendo*. El
+juicio se forma antes de que empieces a demostrar nada, y a partir de ahí lo que hagas se
+interpreta desde ahí. Se puede cambiar, claro que se puede. Solo que esperar sentado a que el
+tiempo lo haga por ti es la estrategia más lenta de todas.
 
 ## La parte incómoda, y la que la salva
 

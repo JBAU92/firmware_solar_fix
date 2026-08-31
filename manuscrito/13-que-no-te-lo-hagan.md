@@ -128,7 +128,7 @@ Lo primero es lo que no se hace. No se reclama en público, no se reclama en cal
 reclama hacia atrás. Levantar la mano en una reunión para decir «eso lo hice yo» tiene un coste
 altísimo y un beneficio nulo: quien lo presentó queda en evidencia delante de todos, se convierte
 en tu enemigo esa misma tarde, y los que miran no se quedan con que el trabajo era tuyo —se
-quedan con la escena. Ese es el efecto baba del capítulo ocho, funcionando en tu contra.
+quedan con la escena y con el conflicto.
 
 Lo que sí funciona son tres cosas pequeñas y hacia delante.
 
@@ -154,7 +154,7 @@ el ánimo torcido hace daño.
 **Una señal aislada no significa absolutamente nada.** Tu jefe tuvo un mal mes. La reunión se
 convocó con prisa y no dio tiempo a pensar a quién invitar. Aquella frase se dijo sin querer. Si
 empiezas a interpretar cada gesto de tus compañeros, vas a ser desgraciado y además vas a
-equivocarte, porque el noventa y nueve por ciento de las veces la explicación aburrida es la
+equivocarte, porque casi siempre la explicación aburrida es la
 correcta.
 
 La regla es esta: **dos señales, repetidas, en tres meses.** Repetidas quiere decir que ha pasado

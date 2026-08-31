@@ -58,8 +58,9 @@ ya no sabe decir si es el suyo.
 De Marta y de Javier ya sabes cómo acabó la cosa. Los dos están bien, y a mí eso me parece
 importante decirlo en la última página. Me sigo acordando de aquella sala y de aquellos cuarenta
 minutos, y sobre todo de que ninguno de los dos supo jamás que estuvieron allí dentro, encima de
-una mesa, a punto de irse cada uno con una vida distinta. Eso pasa continuamente, en todas las
-empresas, y la gente de la que se habla casi nunca se entera de que se ha hablado de ella.
+una mesa, a punto de irse cada uno con una vida distinta. Eso pasa continuamente, en
+empresas de todos los tamaños, y la gente de la que se habla casi nunca se entera de que se ha
+hablado de ella.
 
 Tú ya lo sabes.
 

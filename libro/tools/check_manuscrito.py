@@ -22,6 +22,20 @@ SERMON = ['es importante recordar','debemos ','hay que ser consciente','no olvid
 # híbrido de las dos y no existe en ninguna parte.
 #   · cap. 1 · los tres CRITERIOS  → la persona:  capacidad · aspiración · compromiso
 #   · cap. 4 · las tres PUERTAS    → la situación: capacidad demostrada · oportunidad · patrocinio
+# Porcentajes redondos escritos con letra: la forma clásica de la estadística
+# inventada. Se colaron dos —«el noventa y nueve por ciento de los casos»— pese
+# a la regla 1, porque la regla solo miraba dígitos.
+PORCENTAJES_FALSOS = ['noventa y nueve por ciento', 'noventa por ciento',
+                      'ochenta por ciento', 'setenta por ciento',
+                      'nueve de cada diez', 'ocho de cada diez']
+# Universales que suenan a dato y no lo son. Aviso, no error: alguno es voz.
+# Se escriben como expresión regular para poder excluir la versión ya matizada:
+# «casi nadie lo hace» está bien, «nadie lo hace» no.
+ABSOLUTOS = [r'(?<!casi )nadie dice que no', r'nadie ha perdido nunca', r'nunca falla',
+             r'(?<!casi )cualquier jefe tiene', r'en todas las empresas',
+             r'siempre funciona', r'(?<!casi )todo el mundo lo hace',
+             r'(?<!casi )nadie lo hace']
+
 TRIADAS = [
     ('tres criterios', ['aspiración', 'compromiso'],
                        ['haya sitio', 'oportunidad organizativa', 'patrocinio', 'vacante']),
@@ -67,6 +81,21 @@ def check(path):
     # 4 · sermón
     for sp in SERMON:
         if re.search(re.escape(sp), cuerpo, re.I): errs.append(f"SERMÓN: «{sp}»")
+
+    # 3 bis · estadísticas inventadas y universales falsos
+    # sobre el texto sin saltos de línea: «noventa y nueve por\nciento» tiene
+    # que casar igual que si estuviera en una sola línea
+    plano = ' '.join(cuerpo.split())
+    for pf in PORCENTAJES_FALSOS:
+        if re.search(re.escape(pf), plano, re.I):
+            errs.append(f"CIFRA FALSA: «{pf}» — porcentaje redondo sin fuente")
+    for ab in ABSOLUTOS:
+        m = re.search(ab, plano, re.I)
+        if m: warns.append(f"absoluto: «{m.group(0)}» — ¿es defendible o es voz?")
+    for m in re.finditer(r'((?:\w+\s+){0,3})por ciento', cuerpo, re.I):
+        frag = ' '.join(m.group(0).split())
+        if not re.search(r'\d', frag):
+            warns.append(f"porcentaje con letra: «{frag}» — comprobar que tiene fuente")
 
     # 4 bis · no mezclar las dos tríadas
     # Solo se mira la glosa inmediata —hasta el final de la frase—, porque más

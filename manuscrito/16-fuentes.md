@@ -7,7 +7,10 @@ Antes, una aclaración sobre cómo leer esta lista, porque no todo lo que has le
 respaldo y me parece deshonesto presentarlo como si lo tuviera. Hay tres niveles.
 
 **Investigación publicada y revisada por pares.** Es la mayor parte de lo que se cita aquí. Cuando
-te he dado una cifra, viene de uno de estos trabajos y la he dado con su contexto.
+he dado un resultado numérico de una investigación, aquí tienes la fuente y su contexto. Las demás
+cantidades del libro —doce contactos, dos gestos al mes, tres meses de margen, dos señales en tres
+meses— son herramientas de trabajo mías, no resultados medidos, y van dichas como tales allí donde
+aparecen.
 
 **Investigación con reservas.** Encuestas propias de una consultora, estudios correlacionales de
 los que no se puede deducir causa, o datos de otro país y de otra época. Los he usado igual, porque

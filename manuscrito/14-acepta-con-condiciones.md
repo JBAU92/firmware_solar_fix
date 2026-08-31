@@ -64,10 +64,12 @@ En el capítulo tres te dije que probarlo era mucho menos arriesgado de lo que p
 sostengo. Ahora toca cumplir la promesa con precisión, porque una promesa cumplida a medias es peor
 que no haberla hecho.
 
-Lo probable, si aceptas y no funciona, es que vuelvas a algo parecido a lo que hacías. Pasa
-continuamente, no es ninguna deshonra y la mayoría de las empresas prefieren recolocar a alguien
-que ya conocen antes que perderlo. Ese es el escenario normal y por eso el miedo suele ser
-desproporcionado.
+Si aceptas y no funciona, lo habitual es que se busque acomodo a algo parecido a lo que hacías.
+Pasa continuamente y no es ninguna deshonra. Y hay un motivo de fondo que juega a tu favor: a una
+empresa le sale más barato recolocar a alguien que ya conoce que perderlo y volver a buscar. Por
+eso el miedo suele ser mayor que el riesgo.
+
+Lo que no puedes es darlo por hecho.
 
 Lo que no existe es el botón. Una vez consolidado el ascenso —funciones nuevas, categoría nueva,
 sueldo nuevo—, deshacerlo es un acuerdo entre dos partes y no algo que puedas exigir tú. Quien te
@@ -103,8 +105,8 @@ puesto. Es la misma información y produce el efecto contrario.
 
 Y una recomendación práctica: no lo hagas todo en la misma conversación. Agradece, di que te
 interesa mucho —si es verdad— y pide un día. «Me hace mucha ilusión. ¿Te importa si lo hablamos
-mañana con calma para aterrizar cómo lo arrancamos?» Nadie ha perdido nunca un puesto por pedir
-veinticuatro horas, y en esas veinticuatro horas caben las ocho preguntas.
+mañana con calma para aterrizar cómo lo arrancamos?» Pedir un día para pensarlo no te va a costar el puesto, y en esas
+veinticuatro horas caben las ocho preguntas.
 
 ## Cuándo se dice que no
 

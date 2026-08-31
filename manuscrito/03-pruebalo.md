@@ -112,11 +112,13 @@ no había horas donde ponerlas.
 Ahora mira la otra.
 
 Las ocho horas ya están puestas. Ya estás ahí. Ya te pagan por estar ahí. Y —esta es la parte que
-casi nadie calcula— **conseguir un ascenso o un movimiento a otro puesto no te pide ni una sola
-hora fuera del trabajo.** Ni una. No hay que madrugar más, no hay que sacrificar los sábados, no
-hay que explicarle a nadie en casa que estás liado con una cosa.
+casi nadie calcula— **conseguir un ascenso o un movimiento a otro puesto no te pide montar nada
+fuera del trabajo.** No hay que madrugar más, no hay que sacrificar los sábados, no hay que
+explicarle a nadie en casa que estás liado con una cosa.
 
-Es, literalmente, la única ambición que puedes perseguir sin robarle tiempo a tu vida.
+Alguna hora suelta se te va a colar fuera, no te voy a engañar: preparar una conversación, leer
+algo antes de una reunión, darle vueltas a un problema en el coche. Pero eso son horas sueltas, y
+la diferencia entre una hora suelta y una segunda vida es la diferencia entera de este capítulo.
 
 Y te va a costar algo, no te voy a vender humo: te va a costar atención, te va a costar preparar
 un par de conversaciones incómodas y te va a costar energía, que es más escasa que las horas. Pero

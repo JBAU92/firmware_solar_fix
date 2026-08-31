@@ -55,9 +55,13 @@ Vuelve al primer capítulo, a los tres criterios con los que se mira a una perso
 aspiración y compromiso.** Que puedas, que lo quieras y que te vayas a quedar.
 
 La capacidad se demuestra trabajando, y a eso hemos dedicado seis capítulos. El compromiso se
-demuestra quedándote, que es la manera más lenta y más fiable que hay de demostrar algo. Y la
-aspiración no se demuestra de ninguna manera, porque vive dentro de tu cabeza y ahí no entra nadie.
-Es la única de las tres que **solo existe si la dices**.
+demuestra cumpliendo lo que aceptas, sosteniéndolo cuando ya no es novedad y cogiendo cosas que
+solo dan fruto dentro de dos años, que es la señal más clara que existe de que cuentas con seguir
+aquí. Porque quedarse sin más no demuestra nada: uno se queda también por comodidad, por miedo o
+porque no tiene a dónde ir.
+
+Y la aspiración no se demuestra de ninguna manera, porque vive dentro de tu cabeza y ahí no entra
+nadie. Es la única de las tres que **solo existe si la dices**.
 
 Hay una creencia bastante extendida de que las ganas se notan. No se notan. Lo que se nota es que
 trabajas mucho, y trabajar mucho es compatible con querer que te dejen en paz, con querer irte, con
@@ -154,7 +158,7 @@ la misma frase: **«quiero estar preparado para poder sustituirte el día que t�
 
 Piensa en lo que acabas de hacer. Le has dicho que quieres crecer, le has dicho que das por hecho
 que él va a subir —que es lo que él quiere oír— y le has ofrecido resolverle un problema que
-cualquier jefe tiene, que es no poder moverse porque no hay quien le releve. En muchas empresas, no
+tiene casi cualquier jefe, que es no poder moverse porque no hay quien le releve. En muchas empresas, no
 tener sustituto es literalmente el motivo por el que a alguien no lo ascienden. Convertirte en la
 solución de eso es la jugada más elegante que hay.
 
@@ -168,14 +172,15 @@ pidas nada que le cueste; ofrécele algo que gane.** Sobre eso, cuatro versiones
 
 **Si le queda poco.** Aquí funciona lo que dejará detrás, que a casi todo el mundo le importa más
 de lo que reconoce. «Antes de que te vayas me gustaría aprender de ti cómo llevas esto, porque
-cuando no estés alguien va a tener que hacerlo y prefiero que lo hayas enseñado tú.» Le estás
-diciendo que lo suyo tiene valor, que no quieres que se pierda y que quieres ser su alumno. Es
-difícil que eso siente mal, y de paso lo convierte en tu padrino sin usar la palabra.
+cuando no estés alguien va a tener que hacerlo y prefiero que lo hayas enseñado tú.» Le dices que
+lo suyo tiene valor, que no quieres que se pierda y que quieres ser su alumno. Difícil que siente
+mal, y de paso lo convierte en tu padrino sin usar la palabra.
 
 **Si está donde quiere estar.** Entonces no le hables de puestos, háblale de carga. Todo jefe tiene
 dos o tres cosas que le comen la semana y que no le divierten: el informe mensual, la coordinación
 con la otra área, las incidencias de los viernes. «Hay una parte de lo tuyo que te está comiendo
-tiempo. Si me la llevo yo, ¿te vendría bien?» Nadie dice que no a eso, y esa parte es casi siempre
+tiempo. Si me la llevo yo, ¿te vendría bien?» Es muy difícil decir que no a eso, y esa parte es casi
+siempre
 trabajo del nivel de arriba.
 
 **Si sospechas que te retiene.** Adelántate a su objeción antes de que la diga, porque su objeción
@@ -184,13 +189,12 @@ quién de aquí podría llevar lo mío y me pongo a enseñárselo desde ya.» Le
 motivo real que tenía para frenarte, y además le has demostrado que sabes formar gente, que es
 justo lo que se evalúa arriba.
 
-**Si no hay manera.** Hay jefes con los que nada de esto funciona, y llegado ese punto conviene
-dejar de insistir por esa vía y usar la que no depende de él: el procedimiento. En casi todas las
-empresas existe una evaluación anual, una conversación de desarrollo o un formulario donde tú
-escribes tus objetivos. Eso deja rastro, lo lee alguien más y no se puede archivar con una sonrisa.
-«Para la evaluación quiero poner por escrito hacia dónde me gustaría ir; ¿lo repasamos juntos?» es
-una frase que convierte una petición incómoda en un trámite compartido, y contra un trámite es muy
-difícil decir que no.
+**Si no hay manera.** Hay jefes con los que nada de esto funciona, y entonces conviene dejar de
+insistir por esa vía y usar la que no depende de él: el procedimiento. La evaluación anual, la
+conversación de desarrollo, el formulario donde escribes tus objetivos. Eso deja rastro, lo lee
+alguien más y no se archiva con una sonrisa. «Para la evaluación quiero poner por escrito hacia
+dónde me gustaría ir; ¿lo repasamos juntos?» convierte una petición incómoda en un trámite
+compartido, y contra un trámite cuesta mucho decir que no.
 
 Fíjate en que ninguna de las cuatro menciona su puesto, su sueldo ni tu ascenso. Las cuatro hablan
 de un problema suyo. Es la misma jugada del capítulo siete, dicha en voz baja.
@@ -200,9 +204,8 @@ va a retener. Es información cara de conseguir y la acabas de conseguir gratis.
 ella está en el capítulo trece.
 
 Un contrapeso, y es serio: esta conversación funciona porque llega la duodécima, no la primera.
-Pedir sin haber hecho nada de lo anterior es pedir de más, y entonces sí que quedas mal —no por
-pedir, sino por pedir sin nada detrás. Si has llegado hasta aquí saltándote los capítulos, vuelve.
-El orden importa.
+Pedir sin nada detrás es pedir de más, y ahí sí que quedas mal. Si has llegado hasta aquí
+saltándote capítulos, vuelve. El orden importa.
 
 ## Catorce meses antes
 

@@ -85,8 +85,8 @@ sientas al lado de alguien de otro departamento con tiempo para hablar. Y el caf
 con alguien de otra área, que es la única de las cuatro que exige iniciativa.
 
 Sobre ese café, una precisión que ahorra vergüenza: no hace falta ningún pretexto elaborado. «Oye,
-que siempre nos escribimos y no nos conocemos, ¿tomamos un café?» funciona en el noventa y nueve por
-ciento de los casos, porque a la otra persona le pasa exactamente lo mismo y también le da apuro.
+que siempre nos escribimos y no nos conocemos, ¿tomamos un café?» funciona muchísimo mejor de lo que
+imaginas, porque a la otra persona le pasa exactamente lo mismo y también le da apuro.
 
 Y una regla para que la red no se muera sola: lo que mantiene vivo un lazo débil no es verse. Es
 **volver**. Un mensaje seis meses después contando en qué acabó aquello que estabais haciendo
