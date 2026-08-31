@@ -174,6 +174,18 @@ viernes y entonces —solo entonces— se coge el siguiente. Un encargo terminad
 que tres a medias, entre otras cosas porque tres a medias es exactamente lo que hace la gente que
 no asciende.
 
+A Javier le pasó, por cierto. Es la parte de su historia que nunca llegó a aquella sala.
+
+El año anterior había cogido dos encargos a la vez. Uno era suyo; el otro se lo pidió alguien a
+quien no le apetecía decirle que no. Los terminó los dos, técnicamente. Pero uno salió tarde y a
+medias, y la persona que se lo había pedido no volvió a pedirle nada nunca más, que es la manera
+silenciosa en que se cierran estas puertas: sin una conversación, sin un reproche y sin que te
+enteres hasta mucho después.
+
+En su expediente eso no aparece por ningún lado. Lo que aparece es lo que hizo a partir de
+entonces, que fue aprender a decir que no. Y aprender a decir que no es lo que le dejó sitio para
+hacer bien las cinco cosas que sí acabaron encima de la mesa.
+
 Y una comprobación antes de aceptar cualquiera, que resume el capítulo anterior y este: si el
 encargo no se puede medir, no se puede contar; si no se puede contar, no deja evidencia; y si no
 deja evidencia, lo único que te ha dado son horas.
