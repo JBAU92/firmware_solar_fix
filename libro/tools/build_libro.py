@@ -131,7 +131,12 @@ PLANTILLA = r'''
 )
 
 // -------------------------------------------------------------- tipografía
-#set text(lang: "es", font: "Source Serif 4", size: 10.6pt, hyphenate: true)
+// El guionado se encarece a propósito. Con el coste por defecto Typst partía
+// 107 palabras y algunas quedaban feas aunque fueran correctas —«reunio-nes»,
+// «promocio-nes», «vacacio-nes»—: la línea acaba en dos vocales y engancha la
+// vista. A 250%% solo parte cuando de verdad hace falta y no queda ninguna.
+#set text(lang: "es", font: "Source Serif 4", size: 10.6pt, hyphenate: true,
+          costs: (hyphenation: 250%%))
 #set par(justify: true, leading: 0.76em, spacing: 0.76em, first-line-indent: 1.15em)
 #show par: set block(below: 0.76em)
 
