@@ -13,7 +13,7 @@ BASE = pathlib.Path(__file__).resolve().parents[2] / 'manuscrito'
 OUT  = pathlib.Path(sys.argv[1] if len(sys.argv) > 1 else '/tmp')
 
 TITULO    = 'Nadie va a venir a elegirte'
-SUBTITULO = 'Cómo se decide de verdad quién asciende, y cómo entrar en esa decisión'
+SUBTITULO = 'Cómo se decide quién asciende, y las siete cosas que ponen tu nombre encima de esa mesa'
 AUTOR     = 'NOMBRE DEL AUTOR'
 ANIO      = '2026'
 
@@ -218,7 +218,8 @@ PLANTILLA = r'''
   #v(0.24in)
   #block(width: 3.4in)[#set par(leading: 0.62em, first-line-indent: 0pt)
     #text(size: 11.5pt, style: "italic")[
-      Cómo se decide de verdad quién asciende, #linebreak() y cómo entrar en esa decisión]]
+      Cómo se decide quién asciende, #linebreak()
+      y las siete cosas que ponen tu nombre #linebreak() encima de esa mesa]]
   #v(0.85in)
   #text(size: 11pt, tracking: 2.2pt)[#upper(AUTOR)]
 ])
