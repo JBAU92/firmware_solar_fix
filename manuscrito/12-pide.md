@@ -51,12 +51,13 @@ Y tú llevas años sin decírselo.
 
 ## El único criterio que no se demuestra trabajando
 
-Vuelve al primer capítulo, a los tres criterios que se usan en esa sala: que puedas, que haya
-sitio, y **que quieras**.
+Vuelve al primer capítulo, a los tres criterios con los que se mira a una persona: **capacidad,
+aspiración y compromiso.** Que puedas, que lo quieras y que te vayas a quedar.
 
-Los dos primeros se demuestran con trabajo, y a eso hemos dedicado seis capítulos. El tercero no.
-La aspiración es la única de las tres cosas que no puedes demostrar haciendo nada, porque vive
-dentro de tu cabeza y allí no entra nadie.
+La capacidad se demuestra trabajando, y a eso hemos dedicado seis capítulos. El compromiso se
+demuestra quedándote, que es la manera más lenta y más fiable que hay de demostrar algo. Y la
+aspiración no se demuestra de ninguna manera, porque vive dentro de tu cabeza y ahí no entra nadie.
+Es la única de las tres que **solo existe si la dices**.
 
 Hay una creencia bastante extendida de que las ganas se notan. No se notan. Lo que se nota es que
 trabajas mucho, y trabajar mucho es compatible con querer que te dejen en paz, con querer irte, con

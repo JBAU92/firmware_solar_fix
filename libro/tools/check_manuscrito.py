@@ -16,6 +16,19 @@ MULETAS = ['podría ser','en cierto modo','de alguna manera','hasta cierto punto
            'en general','quizás','tal vez','probablemente','suele ser','tiende a']
 SERMON = ['es importante recordar','debemos ','hay que ser consciente','no olvidemos','conviene recordar']
 
+# El libro tiene dos tríadas distintas y es fácil mezclarlas, porque «capacidad»
+# está en las dos. Ya pasó una vez: el capítulo 12 remitía a «los tres criterios»
+# del 1 y los glosaba como «que puedas, que haya sitio y que quieras», que es un
+# híbrido de las dos y no existe en ninguna parte.
+#   · cap. 1 · los tres CRITERIOS  → la persona:  capacidad · aspiración · compromiso
+#   · cap. 4 · las tres PUERTAS    → la situación: capacidad demostrada · oportunidad · patrocinio
+TRIADAS = [
+    ('tres criterios', ['aspiración', 'compromiso'],
+                       ['haya sitio', 'oportunidad organizativa', 'patrocinio', 'vacante']),
+    ('tres puertas',   ['capacidad demostrada', 'oportunidad', 'patrocinio'],
+                       ['aspiración', 'compromiso']),
+]
+
 def bloques_escena(t):
     out=[]
     for m in re.finditer(r'^> .*$(\n^> .*$)*', t, re.M):
@@ -54,6 +67,20 @@ def check(path):
     # 4 · sermón
     for sp in SERMON:
         if re.search(re.escape(sp), cuerpo, re.I): errs.append(f"SERMÓN: «{sp}»")
+
+    # 4 bis · no mezclar las dos tríadas
+    # Solo se mira la glosa inmediata —hasta el final de la frase—, porque más
+    # allá el capítulo puede hablar legítimamente de la otra tríada.
+    for etiqueta, _propios, ajenos in TRIADAS:
+        for m in re.finditer(re.escape(etiqueta), cuerpo, re.I):
+            resto = cuerpo[m.end():m.end() + 200]
+            # el markdown va con saltos de línea: hay que normalizarlos o
+            # «haya\nsitio» no casa con «haya sitio»
+            glosa = ' '.join(re.split(r'(?<=[.?!])\s', resto)[0].lower().split())
+            intrusos = [a for a in ajenos if a in glosa]
+            if intrusos:
+                errs.append(f"TRÍADAS: «{etiqueta}» glosado con «{intrusos[0]}», "
+                            f"que pertenece a la otra tríada")
 
     # 5 · hilo narrativo
     if n in REVELACION and not re.search(r'Marta|Javier', cuerpo):

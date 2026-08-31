@@ -85,11 +85,17 @@ ese dato aunque no sirva.
 Hay otra cosa que conviene entender antes de ponerse a producir pruebas, porque explica los
 ascensos que no llegan aunque todo se haya hecho bien.
 
+Y aquí hay que separar dos cosas que se parecen y no lo son. En el primer capítulo viste los tres
+criterios con los que se mira a **una persona**: capacidad, aspiración y compromiso. Lo que viene
+ahora no habla de la persona, habla de **la situación**. Son dos preguntas distintas, y por eso se
+puede cumplir de sobra la primera y no moverse del sitio en cuatro años.
+
 Una candidatura no avanza por una sola cadena. Necesita que **tres puertas se abran a la vez**.
 
-**Capacidad demostrada.** Que exista evidencia de que puedes hacer el trabajo de arriba, y que
-alguien la haya visto. Falla cuando la persona rinde estupendamente en su puesto y nadie la ha
-visto nunca hacer otra cosa.
+**Capacidad demostrada.** Fíjate en el apellido, que es lo que la separa de la capacidad del primer
+capítulo: allí la pregunta era si puedes; aquí es si existe una prueba de que puedes y si alguien
+la ha visto. Falla cuando la persona rinde estupendamente en su puesto y nadie la ha visto nunca
+hacer otra cosa.
 
 **Oportunidad organizativa.** Que haya sitio. Vacante, presupuesto, momento del año, reglas que lo
 permitan. Falla cuando la candidatura mejora y la empresa no tiene hueco — o cuando lo tiene pero
