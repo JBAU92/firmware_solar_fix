@@ -53,3 +53,6 @@ CMakeLists.txt
 
 # PYTHONPATH used by the Nix shell
 .python3
+
+# PDF del libro: se regenera con libro/tools/build_libro.py
+interior-*.pdf
