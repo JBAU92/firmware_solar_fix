@@ -103,21 +103,31 @@ Rendimiento y potencial. Es esto:
 
 | | Rinde poco | Rinde bien | Rinde mucho |
 |---|---|---|---|
-| **Mucho potencial** | | | Javier |
+| **Mucho potencial** | | Javier | |
 | **Potencial medio** | | | Marta |
 | **Poco potencial** | | | |
 
-Abajo va lo que hiciste el año pasado: se puede medir, lo sabe todo el mundo y no hay discusión. Al
-lado va la apuesta de que lo harías bien un escalón más arriba: no lo sabe nadie, no se puede medir
-y hay que decidirlo con lo que haya encima de la mesa.
+En las columnas va lo que hiciste el año pasado: se puede medir, lo sabe todo el mundo y no hay
+discusión. En las filas va la apuesta de que lo harías bien un escalón más arriba: no lo sabe
+nadie, no se puede medir, y hay que decidirlo con lo que haya encima de la mesa.
 
-Mira dónde está cada uno. Los dos están en la misma columna de la derecha, porque los dos rinden.
-Lo que los separa es la fila, y fíjate en que a Marta no la pusieron abajo: la pusieron en medio,
-que es donde va la gente de la que no hay nada. Nadie la juzgó mal. Nadie la juzgó.
+Y sí, has leído bien las posiciones. **Marta rendía más que Javier.** Está más a la derecha porque
+se lo había ganado a pulso.
 
-Ahí está dibujada la trampa entera de este libro: **puedes llegar al tope de tu eje y no moverte
-nunca de casilla, porque para cambiar de casilla hace falta el otro.** Y en el otro no has puesto
-nada desde que entraste, entre otras cosas porque nadie te ha dicho nunca que existiera.
+Así que la pregunta se hace sola: si ella está más a la derecha y él está más arriba, ¿por qué
+sube él? Porque las dos direcciones no valen lo mismo, y esto es lo que no te explica nadie.
+
+Moverse a la derecha es un filtro, no un ascenso. Sirve para entrar en la conversación: si no
+rindes lo suficiente, no se habla de ti y se acabó. Pero una vez dentro, rendir todavía más te
+mueve a la derecha, y a la derecha no hay ningún puesto. Los puestos están arriba.
+
+Y arriba solo se sube con la otra pregunta contestada. Cuando no hay con qué contestarla, a la
+persona se la deja en la fila del medio y se pasa al siguiente nombre. Fíjate en que a Marta no la
+pusieron abajo: la pusieron en medio. Nadie la juzgó mal. Nadie la juzgó.
+
+Ahí está dibujada la trampa entera de este libro: **puedes llegar al final de tu columna y no
+cambiar nunca de fila.** Marta llegó al final de la suya. Y lo que se pone en las filas de arriba
+es exactamente de lo que va el resto del libro.
 
 ## Llevas años mejorando el sistema equivocado
 
