@@ -50,8 +50,8 @@ y no dejan nada.
 
 Un aviso de honestidad antes de que sigas: esto no es un modelo científico validado. No hay
 ninguna investigación que haya medido cinco depósitos y les haya puesto nombre. Es una manera
-ordenada de mirar, la mejor que conozco, y me sirve porque explica bien un fenómeno que si no
-parece contradictorio: que haya gente que trabaja muchísimo y no se mueve del sitio, y gente que
+ordenada de mirar, la mejor que conozco. Me sirve porque explica bien un fenómeno que si no
+parece contradictorio: que haya gente que trabaja muchísimo sin moverse del sitio, y gente que
 trabaja normal y sube. Si mañana aparece un marco mejor, cambiaré este. Te lo digo porque en este
 género es habitual disfrazar una intuición de ciencia, y prefiero decirte cuándo te estoy dando
 una y cuándo la otra.

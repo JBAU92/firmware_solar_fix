@@ -117,13 +117,16 @@ darse cuenta. El estado de tus cosas —tu mesa, tu furgoneta, tu taquilla, tus 
 ti lo mismo que tu ropa. Y hablar a un volumen que no obligue a nadie a pedirte que repitas es,
 literalmente, la mitad de parecer seguro.
 
-Dos avisos antes de pasar a la segunda parte. Uno: esta presión no está repartida por igual. A las
-mujeres se las juzga más por el arreglo y pagan más caro equivocarse por los dos lados, por defecto
-y por exceso; y hay sesgos por edad, por peso y por origen que existen y que nombrarlos no arregla.
-Fingir que el campo es plano dejaría este libro en ridículo. Dos: esto va de lo que eliges cada
-mañana y no de cómo tiene que ser tu cuerpo. Aquí no vas a leer nada sobre dietas ni sobre
-cuidarte más. No por pudor, sino porque el dato dice que lo que se cobra es el arreglo, y entonces
-el consejo correcto es también el único que hace falta dar.
+Dos avisos antes de pasar a la segunda parte.
+
+Uno: esta presión no está repartida por igual. A las mujeres se las juzga más por el arreglo, y
+pagan más caro equivocarse por los dos lados, por defecto o por exceso. Existen además sesgos por
+edad, por peso, por origen. Nombrarlos no arregla ninguno, pero fingir que el campo es plano
+dejaría este libro en ridículo.
+
+Dos: esto va de lo que eliges cada mañana, no de cómo tiene que ser tu cuerpo. Aquí no vas a leer
+nada sobre dietas ni sobre cuidarte más. No lo hago por pudor: la parte que se puede cambiar es justo la del
+arreglo, así que el consejo honesto es también el único que hace falta dar.
 
 ## «En mi empresa solo ascienden los pelotas»
 

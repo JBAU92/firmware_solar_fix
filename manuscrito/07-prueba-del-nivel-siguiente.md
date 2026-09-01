@@ -124,8 +124,8 @@ Un jefe normal dice que sí a eso. Y si dice que no, escucha bien el motivo, por
 información que no tenías.
 
 Hay tres noes distintos y no se parecen en nada. El primero es «ahora no», y suele ser verdad: hay
-una campaña encima, hay una baja, no es el momento. Ese no se acepta y se vuelve a poner sobre la
-mesa con fecha —«¿lo hablamos después de la campaña?»— y se cumple la fecha. El segundo es «eso lo
+una campaña encima, hay una baja, no es el momento. A ese primero se le dice que bien, y se le pone fecha
+—«¿lo hablamos después de la campaña?»—. Luego se cumple la fecha. El segundo es «eso lo
 lleva otro», que no es un no sino un mapa: acabas de descubrir de quién depende ese asunto, y
 puedes ir a hablar con esa persona, que además probablemente agradezca la ayuda. Y el tercero es
 el no sin motivo, el de «tú a lo tuyo», que se repite cada vez que propones algo. Ese es el

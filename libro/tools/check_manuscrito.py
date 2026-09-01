@@ -149,6 +149,17 @@ def check(path):
                 errs.append(f"RECUENTO: «{quien} puso {m.group(1)}» — debería ser "
                             f"{' o '.join(sorted(validos))}")
 
+    # 3 quinquies · cadenas de «y» dentro de una misma frase
+    # El español enlaza con «y» de forma natural y el libro promedia 34 por mil
+    # palabras, que está bien. Lo que cansa es la frase que se sostiene sobre
+    # tres: «se acepta y se vuelve a poner y se cumple la fecha».
+    for frase in re.split(r'(?<=[.?!])\s+', ' '.join(cuerpo.split())):
+        # Calibrado sobre el libro: a partir de tres marca diecinueve frases y
+        # casi todas son legítimas —enumeraciones, anáfora deliberada—. A partir
+        # de cuatro marca una, y esa sí lo era.
+        if len(re.findall(r'\by\b', frase, re.I)) >= 4 and len(frase.split()) > 12:
+            warns.append(f'cadena de «y»: …{frase[:66]}…')
+
     # 4 bis · no mezclar las dos tríadas
     # Solo se mira la glosa inmediata —hasta el final de la frase—, porque más
     # allá el capítulo puede hablar legítimamente de la otra tríada.

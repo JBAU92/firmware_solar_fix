@@ -140,8 +140,8 @@ Piénsalo desde su lado. En algún momento tu jefe va a tener que hablar de ti e
 no estás, delante de gente que no te conoce, y va a tener treinta segundos. Si lo único que tiene
 es «trabaja mucho y es buena persona», eso es lo que dirá, y eso no gana nada. Si tiene tres cosas
 concretas que ocurrieron y que puede contar con una frase cada una, defenderá mejor —y quedará
-mejor él, que también cuenta—. La gente que te aprecia y no te sabe defender es de las cosas más
-frecuentes y más caras que hay en una empresa, y casi siempre el motivo no es que no quiera:
+mejor él, que también cuenta—. La gente que te aprecia pero no te sabe defender es de las cosas más
+frecuentes y más caras que hay en una empresa. Casi siempre el motivo no es que no quiera:
 es que no tiene nada que decir. Tú tienes ese material y él no. Dárselo no es venderte. Es
 equiparlo.
 
