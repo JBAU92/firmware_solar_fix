@@ -9,7 +9,7 @@ es tu rendimiento. El otro es otra cosa, que ahora veremos, y que es la que de v
 Y en una de esas casillas está tu nombre.
 
 Aquel día estaban Marta y Javier. Marta cerraba el mes sin un solo error. Era a quien llamaba
-todo el mundo cuando algo se rompía. Javier llevaba bastante menos tiempo en la casa.
+todo el mundo cuando algo se rompía. Javier llevaba bastante menos tiempo en la empresa.
 
 Sobre Marta había dos cosas: sus números, que eran impecables, y la opinión de su jefe, que era
 excelente. Nada más.
@@ -44,7 +44,7 @@ tienes tú de alguien de tu trabajo.
 
 Para Marta, Javier era el que se pasaba media mañana de pie en el pasillo. El que en las reuniones
 hablaba mucho y decía poco. El que se apuntaba a todo lo que sonara a proyecto nuevo y luego
-repartía el trabajo entre los demás. El que se iba a las seis y media mientras ella cerraba el mes.
+repartía el trabajo entre los demás. El que se iba a su hora mientras ella se quedaba cerrando el mes.
 El que caía bien a los jefes, que es la manera educada de decir otra cosa.
 
 Y no se lo inventaba. Todo eso era verdad, y cualquiera de aquella planta lo habría firmado.
