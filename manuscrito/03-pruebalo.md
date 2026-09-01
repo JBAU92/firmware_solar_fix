@@ -117,14 +117,11 @@ fuera del trabajo.** No hay que madrugar más, no hay que sacrificar los sábado
 explicarle a nadie en casa que estás liado con una cosa.
 
 Alguna hora suelta se te va a colar fuera, no te voy a engañar: preparar una conversación, leer
-algo antes de una reunión, darle vueltas a un problema en el coche. Pero eso son horas sueltas, y
-la diferencia entre una hora suelta y una segunda vida es la diferencia entera de este capítulo.
+algo antes de una reunión, darle vueltas a un problema en el coche. Y te va a costar atención y
+energía, que es más escasa que las horas. Pero el grueso sale de dentro de la jornada, y la
+diferencia entre una hora suelta y una segunda vida es la diferencia entera de este capítulo.
 
-Y te va a costar algo, no te voy a vender humo: te va a costar atención, te va a costar preparar
-un par de conversaciones incómodas y te va a costar energía, que es más escasa que las horas. Pero
-todo eso sale de dentro de la jornada, no de fuera.
-
-Porque seamos sinceros con la otra parte: **no das el cien por cien. Nadie lo da.** Hay ratos
+Porque hay otra parte de la cuenta: **no das el cien por cien. Nadie lo da.** Hay ratos
 muertos entre dos cosas, hay reuniones que podrían haber sido un correo, hay media hora larga de
 móvil repartida por el día. Y hay ese rato —ese lo conoces bien— en el que estás sentado en tu
 sitio pensando precisamente en la carpeta.

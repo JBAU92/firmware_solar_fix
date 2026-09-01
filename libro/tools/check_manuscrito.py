@@ -69,6 +69,15 @@ METAFORA = [(2, r'\bpuertas?\b',        'una ruta del capítulo 2 es una escaler
             (None, r'\bcinco puertas\b', 'las cinco del capítulo 2 son escaleras'),
             (None, r'\btres escaleras\b','las tres del capítulo 4 son puertas')]
 
+# Fórmulas de franqueza. En el capítulo 3 llegaron a apilarse tres en tres
+# párrafos seguidos —«no te voy a engañar», «no te voy a vender humo»,
+# «seamos sinceros»— y encima los dos primeros párrafos decían lo mismo.
+# Una es un recurso; dos juntas es un tic, y el lector deja de creérselas.
+FRANQUEZA = [r'no te voy a (?:engañar|mentir|vender humo)', r'no te engaño',
+             r'seamos (?:sinceros|honestos|claros)', r'para ser (?:sincero|honesto)',
+             r'te lo digo claro', r'sin engañarte', r'te seré sincero',
+             r'con toda (?:sinceridad|honestidad)', r'hablando claro', r'sinceramente']
+
 def bloques_escena(t):
     out=[]
     for m in re.finditer(r'^> .*$(\n^> .*$)*', t, re.M):
@@ -202,6 +211,14 @@ def check(path):
             if intrusos:
                 errs.append(f"TRÍADAS: «{etiqueta}» glosado con «{intrusos[0]}», "
                             f"que pertenece a la otra tríada")
+
+    # 4 quater · las fórmulas de franqueza no se apilan
+    marcas = sorted((len(cuerpo[:m.start()].split()), m.group(0))
+                    for pat in FRANQUEZA for m in re.finditer(pat, cuerpo, re.I))
+    for (p1, x), (p2, y) in zip(marcas, marcas[1:]):
+        if p2 - p1 < 300:
+            errs.append(f"FRANQUEZA: «{x}» y «{y}» a {p2 - p1} palabras — "
+                        f"una es un recurso, dos juntas es un tic")
 
     # 4 bis bis · escalera = ruta (cap. 2), puerta = condición (cap. 4)
     for cap, patron, motivo in METAFORA:
