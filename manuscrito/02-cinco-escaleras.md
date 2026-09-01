@@ -110,8 +110,9 @@ tipos de éxito **no los predicen los mismos factores**. Lo que te sube el sueld
 que ver sobre todo con el capital humano y con variables de la organización; lo satisfecho que
 acabas depende bastante más de otras cosas.
 
-Traducido: puedes optimizar tu vida entera para la columna de la izquierda y descubrir a los
-cincuenta que llevabas veinte años ganando en un marcador que no era el tuyo.
+Traducido: puedes optimizar tu vida entera para el marcador de fuera —el sueldo, el cargo, el
+número de ascensos— y descubrir a los cincuenta que llevabas veinte años ganando en un marcador
+que no era el tuyo.
 
 No te lo cuento para desanimarte. Te lo cuento porque **este es el único capítulo del libro en el
 que te pido que elijas antes de correr**, y porque la elección es barata ahora y cara dentro de
@@ -154,7 +155,7 @@ crees que deberías querer. Si pones un cinco en «ingreso» porque te da vergü
 tabla no te sirve para nada y encima te vas a quedar con la sensación de que el método no
 funciona. Esto no lo va a leer nadie.
 
-Y la columna de energía merece una regla propia: no la puntúes pensando en cómo estarás cuando
+Y la fila de energía merece una regla propia: no la puntúes pensando en cómo estarás cuando
 lleves un año en el puesto y ya lo domines. Puntúala pensando en los seis primeros meses, que es
 cuando la gente decide si aguanta.
 

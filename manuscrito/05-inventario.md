@@ -68,8 +68,8 @@ depósito, y la manguera puede estar apuntando fuera.
 
 La prueba es sencilla y un poco cruel: piensa en la última formación que hiciste. ¿Qué haces hoy
 distinto de lo que hacías antes? Si la respuesta es «bueno, tengo más contexto», la manguera
-estaba apuntando fuera. No pasa nada, a todos nos ha ocurrido. Pero no lo apuntes en la columna de
-la capacidad, porque entonces creerás que ese depósito está más lleno de lo que está y no
+estaba apuntando fuera. No pasa nada, a todos nos ha ocurrido. Pero no lo apuntes en el depósito de
+la capacidad, porque entonces creerás que está más lleno de lo que está y no
 entenderás por qué el mundo no reacciona.
 
 Lo mismo, exactamente igual, con los otros cuatro. Ir a una comida de empresa no te da una red de

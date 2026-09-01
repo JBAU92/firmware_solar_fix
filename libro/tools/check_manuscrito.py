@@ -160,6 +160,27 @@ def check(path):
         if len(re.findall(r'\by\b', frase, re.I)) >= 4 and len(frase.split()) > 12:
             warns.append(f'cadena de «y»: …{frase[:66]}…')
 
+    # 3 sexies · columnas y filas que no existen
+    # «puedes optimizar tu vida entera para la columna de la izquierda» remitía
+    # a una tabla que no está dibujada en ninguna parte. Y la energía, que en la
+    # cuadrícula del capítulo 2 es una fila, se citaba como columna.
+    cabeceras, primeras = set(), set()
+    for m in re.finditer(r'^\|(.+)\|\s*$', cuerpo, re.M):
+        celdas = [c.strip().strip('*').lower() for c in m.group(1).split('|')]
+        if not celdas: continue
+        if re.match(r'^[\s:\-|]+$', m.group(1)):
+            continue
+        primeras.add(celdas[0])
+        cabeceras |= set(celdas[1:])
+    for tipo, valido in (('columna', cabeceras), ('fila', primeras)):
+        for m in re.finditer(rf'\b{tipo} de (?:la |el |los |las )?([\wáéíóúñ]+)', plano, re.I):
+            ref = m.group(1).lower()
+            if ref in ('energía', 'ingreso', 'riesgo') and tipo == 'columna' and ref in primeras:
+                errs.append(f"COLUMNA/FILA: «{tipo} de {ref}» — en la tabla es una fila")
+            elif not any(ref in c for c in valido):
+                errs.append(f"COLUMNA/FILA: «{tipo} de {ref}» — no existe esa {tipo} "
+                            f"en ninguna tabla del capítulo")
+
     # 4 bis · no mezclar las dos tríadas
     # Solo se mira la glosa inmediata —hasta el final de la frase—, porque más
     # allá el capítulo puede hablar legítimamente de la otra tríada.
