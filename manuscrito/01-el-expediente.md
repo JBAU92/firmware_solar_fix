@@ -3,19 +3,19 @@
 Hay una sala de reuniones en tu empresa en la que se habla de ti y a la que no estás invitado.
 
 Ocurre una vez al año. Están alguien de recursos humanos, tu jefe, el jefe de tu jefe y, a veces,
-alguien de fuera como yo. Hay café malo y una pantalla. En la pantalla hay una cuadrícula de nueve
-casillas: en un eje va tu rendimiento, y en el otro va otra cosa, que ahora veremos, y que es la
+alguien de fuera como yo. Hay café malo y una pantalla. En la pantalla hay una cuadrícula de tres
+por tres: en un eje va tu rendimiento, y en el otro va otra cosa, que ahora veremos, y que es la
 que de verdad decide.
 
-Y en una de esas nueve casillas está tu nombre.
+Y en una de esas casillas está tu nombre.
 
 Aquel día estaban Marta y Javier. Marta cerraba el mes sin un solo error y era a quien llamaba
 todo el mundo cuando algo se rompía. Javier llevaba bastante menos tiempo en la casa.
 
 Sobre Marta había dos cosas: sus números, que eran impecables, y la opinión de su jefe, que era
-excelente.
+excelente. Nada más.
 
-Sobre Javier había cinco.
+Sobre Javier estaban esas dos, y cinco más.
 
 Ascendió Javier.
 

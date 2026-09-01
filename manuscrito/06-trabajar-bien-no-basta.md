@@ -172,8 +172,8 @@ Y fíjate en el precio, porque es lo que quiero que se te quede: noventa segundo
 un máster, no un cambio de personalidad, no quedarse hasta las nueve. Noventa segundos de un
 tiempo que ya estás pasando allí de todas formas.
 
-Esa es la primera de las siete, y es la más barata de todas. Aquella mesa del capítulo cuatro ya no
-tiene dos cosas encima: tiene tres. Quedan seis.
+Esa es la primera de las siete que se pueden poner encima de aquella mesa, y es la más barata de
+todas. Quedan seis.
 
 > GANCHO — Registrar lo que haces evita que se pierda. Pero hay algo que multiplica el efecto sin
 > costar más horas: elegir mejor **qué** haces. Y da la casualidad de que el trabajo que más te

@@ -44,6 +44,16 @@ CANTIDAD = (r'\b(dos|tres|cuatro|cinco|seis|siete|ocho|nueve|diez|once|doce|trec
             r'catorce|veinte|treinta|cuarenta|cincuenta|cien|mitad|\d+)\b')
 ARITMETICA = ['lo que sale a', 'lo que da un', 'es decir, un ', 'lo que supone']
 
+# El recuento de las siete cosas. Los capítulos 6 a 12 ponen una cada uno y
+# llevan la cuenta: hay que comprobar que el ordinal y las que quedan cuadran.
+# Se rompió una vez —el cap. 6 contaba la base más la primera («tiene tres»)
+# y el 12 contaba solo las siete— y nadie lo vio hasta que un lector sumó.
+CUENTA = {6: ('primera', 'seis'), 7: ('segunda', 'cinco'), 8: ('tercera', 'cuatro'),
+          9: ('cuarta', 'tres'), 10: ('quinta', 'dos'), 11: ('sexta', 'una')}
+# Javier puso cinco de las siete; Marta, ninguna. En todo el libro.
+REPARTO = [(r'Javier\s+(?:puso|hizo)\s+(\w+)', 'Javier', {'cinco'}),
+           (r'Marta\s+(?:puso|hizo)\s+(\w+)',  'Marta',  {'cero', 'ninguna'})]
+
 TRIADAS = [
     ('tres criterios', ['aspiración', 'compromiso'],
                        ['haya sitio', 'oportunidad organizativa', 'patrocinio', 'vacante']),
@@ -115,6 +125,29 @@ def check(path):
         for a in ARITMETICA:
             if a in plano.lower():
                 errs.append(f"ARITMÉTICA: «{a}» — el lector no debería tener que calcular")
+
+    # 3 quater · el recuento de las siete cosas
+    if n in CUENTA:
+        ordinal, quedan = CUENTA[n]
+        if not re.search(rf'\b{ordinal}\b.{{0,140}}encima de la mesa|'
+                         rf'\b{ordinal}\b de las siete', plano, re.I):
+            errs.append(f"RECUENTO: el capítulo debería poner la «{ordinal}» de las siete")
+        # solo «Quedan» seguido de un numeral, y el último del capítulo: es el
+        # del cierre. Si no se acota, casa con «se quedan en», «queda otro»…
+        # dos formas: «Quedan cuatro» y «las cuatro que quedan». Variar la
+        # redacción del recuento es deliberado; el verificador se adapta.
+        N = r'(uno|una|dos|tres|cuatro|cinco|seis|siete)'
+        ms = [a or b for a, b in re.findall(
+            rf'\bqueda[n]?\s+{N}\b|\b{N}\s+que\s+queda[n]?\b', plano, re.I)]
+        if not ms:
+            errs.append(f"RECUENTO: falta el «quedan {quedan}» del cierre")
+        elif ms[-1].lower() != quedan:
+            errs.append(f"RECUENTO: dice «quedan {ms[-1]}» y deberían quedar {quedan}")
+    for pat, quien, validos in REPARTO:
+        for m in re.finditer(pat, plano):
+            if m.group(1).lower() not in validos:
+                errs.append(f"RECUENTO: «{quien} puso {m.group(1)}» — debería ser "
+                            f"{' o '.join(sorted(validos))}")
 
     # 4 bis · no mezclar las dos tríadas
     # Solo se mira la glosa inmediata —hasta el final de la frase—, porque más
