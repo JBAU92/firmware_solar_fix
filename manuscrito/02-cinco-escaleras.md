@@ -20,13 +20,13 @@ que en su sede había «gente sénior que no lleva equipo». Andrés preguntó. 
 llevaba años escrita en la política interna de la compañía, con su banda salarial y sus criterios,
 en un documento que estaba colgado en la intranet y que no había abierto nunca nadie.
 
-## Lo que pasa cuando solo hay una puerta señalizada
+## Lo que pasa cuando solo hay una escalera señalizada
 
-Casi todo el mundo se imagina la carrera como un pasillo con una única puerta al fondo, encima de
-la cual pone MANDO en letras grandes. Y como es la única que se ve, la gente se pone en la cola de
-esa, incluida la que no la quiere.
+Casi todo el mundo se imagina la carrera como un edificio con una sola escalera, y al pie de esa
+escalera un cartel que pone MANDO en letras grandes. Y como es la única que se ve, la gente se
+pone en la cola de esa, incluida la que no la quiere.
 
-Hay cinco puertas. Lo que pasa es que solo una lleva cartel.
+Hay cinco escaleras. Lo que pasa es que solo una lleva cartel.
 
 **Mando.** Dirigir personas y responder de lo que hacen. Es la ruta que este libro explica con más
 detalle, y quiero ser claro sobre por qué: no porque sea la mejor, sino porque es la que peor
@@ -46,7 +46,7 @@ los decide, y con la autoridad que da haber estado en las dos orillas. Es el mov
 de la gente que acaba dirigiendo cosas grandes, y el que peor entienden los que están fuera,
 porque desde fuera parece que has estado un año parado.
 
-**Salida.** La misma escalera en otra empresa. A veces es la única manera de subir un peldaño, y
+**Salida.** La misma subida, en otro edificio. A veces es la única manera de subir un peldaño, y
 lo veremos sin dramatismo cuando toque.
 
 **Permanencia consciente.** Quedarte donde estás. Y aquí está la trampa que da nombre a esta
@@ -82,8 +82,8 @@ Sigue por lo que ha pasado. Piensa en las personas que se han movido en los últ
 años en tu empresa y coloca cada movimiento en una de las cinco rutas. No hace falta que sean de
 tu departamento ni que las conozcas bien; basta con saber de dónde salieron y dónde están. Si
 todos los movimientos que recuerdas son hacia arriba en la misma línea, ya sabes algo importante:
-tu empresa solo tiene una puerta señalizada de verdad, y las demás, si existen, las tienes que
-abrir tú. Si ves gente que cambió de área y le fue bien, la movilidad lateral es una ruta real allí, no
+tu empresa solo tiene una escalera señalizada de verdad, y las demás, si existen, las tienes que
+encontrar tú. Si ves gente que cambió de área y le fue bien, la movilidad lateral es una ruta real allí, no
 una idea de libro.
 
 Y termina preguntando, que es lo que hizo Andrés sin querer. Una comida, un café, alguien de otra
@@ -190,7 +190,7 @@ Y si has elegido la carrera experta o la permanencia, no cierres el libro. La ma
 viene —hacer visible tu trabajo, conseguir quien te defienda, saber pedir, saber defenderte— vale
 exactamente igual. Cambia el destino, no el camino.
 
-Andrés tardó seis meses y bastante dignidad en descubrir cuál era su puerta. Sale caro para lo que
+Andrés tardó seis meses y bastante dignidad en descubrir cuál era su escalera. Sale caro para lo que
 cuesta averiguarlo antes.
 
 > GANCHO — Hay una forma mucho más barata de saberlo, y no hace falta aceptar ningún ascenso para

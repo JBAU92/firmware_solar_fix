@@ -61,6 +61,14 @@ TRIADAS = [
                        ['aspiración', 'compromiso']),
 ]
 
+# Dos armazones distintos con el mismo nombre: las cinco rutas del capítulo 2
+# eran «puertas» en el cuerpo y «escaleras» en el título, y el capítulo 4 tiene
+# sus tres puertas. Una ruta es una escalera; una condición del ascenso, una
+# puerta. Nunca al revés.
+METAFORA = [(2, r'\bpuertas?\b',        'una ruta del capítulo 2 es una escalera, no una puerta'),
+            (None, r'\bcinco puertas\b', 'las cinco del capítulo 2 son escaleras'),
+            (None, r'\btres escaleras\b','las tres del capítulo 4 son puertas')]
+
 def bloques_escena(t):
     out=[]
     for m in re.finditer(r'^> .*$(\n^> .*$)*', t, re.M):
@@ -194,6 +202,12 @@ def check(path):
             if intrusos:
                 errs.append(f"TRÍADAS: «{etiqueta}» glosado con «{intrusos[0]}», "
                             f"que pertenece a la otra tríada")
+
+    # 4 bis bis · escalera = ruta (cap. 2), puerta = condición (cap. 4)
+    for cap, patron, motivo in METAFORA:
+        if cap is not None and cap != n: continue
+        for m in re.finditer(patron, cuerpo, re.I):
+            errs.append(f"METÁFORA: «{m.group(0)}» — {motivo}")
 
     # 4 ter · la raya de apertura va pegada al texto que introduce
     # «lo mismo —pero se nota», no «lo mismo — pero se nota». Las marcas de

@@ -77,7 +77,7 @@ Queda la pregunta práctica: si esa persona no te conoce, ¿cómo llegas hasta e
 una maniobra?
 
 No mandando un correo pidiendo un café, que es lo que hace todo el mundo y lo que menos funciona.
-Se llega **por el trabajo**, que es la única puerta que nunca resulta sospechosa. Hay cuatro
+Se llega **por el trabajo**, que es la única manera que nunca resulta sospechosa. Hay cuatro
 caminos y en cualquier empresa existe al menos uno.
 
 El primero es el proyecto que cruza áreas. Cualquier cosa que obligue a tu departamento a
