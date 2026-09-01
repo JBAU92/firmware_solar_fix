@@ -134,7 +134,7 @@ cuadrícula. Cópiala en un folio, pon las cinco rutas arriba y puntúa cada cas
 | Reversibilidad | | | | | |
 | **Total** | | | | | |
 
-Cada fila pregunta una cosa distinta, y conviene tenerlas claras antes de puntuar. **Autonomía:**
+Las filas preguntan cosas distintas y conviene tenerlas claras antes de puntuar. **Autonomía:**
 ¿cuánto decides tú sobre lo que haces cada día? **Ingreso:** no lo que soñarías, lo que de verdad
 paga esa ruta en tu sector. **Aprendizaje:** ¿qué sabrás hacer dentro de tres años que hoy no
 sepas? **Riesgo:** ¿qué pasa si sale mal? **Energía:** ¿con cuánta llegas a casa? Es la fila que

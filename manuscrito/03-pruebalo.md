@@ -107,7 +107,7 @@ Montar algo por tu cuenta cuesta las horas que te quedan después de todo lo dem
 ocho, duermes siete y tienes casa, niños o vida, hablamos de una o dos horas al día en el peor
 momento del día, cuando ya no te queda cabeza. Cuesta dinero tuyo. Durante meses no entra nada. Y
 la mayoría de los proyectos que empiezan así no se caen porque la idea fuera mala: se caen porque
-no había horas donde ponerlas.
+no había horas que ponerles.
 
 Ahora mira la otra.
 

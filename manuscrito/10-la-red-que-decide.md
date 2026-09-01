@@ -106,7 +106,7 @@ otros sitios**, y eso te convierte en la persona que aporta ideas que a nadie de
 habrían ocurrido, porque nadie de tu empresa ha visto otra cosa. Buena parte de lo que se
 considera criterio no es más que haber visto dos maneras distintas de resolver el mismo problema.
 
-Mantenerla cuesta poquísimo: dos conversaciones al año con gente de fuera, sin que haya ninguna
+Mantener esa red cuesta poquísimo: dos conversaciones al año con gente de fuera, sin que haya ninguna
 oferta de por medio ni ninguna intención de irte. Sin prisa. Las conversaciones que se tienen con
 prisa se notan que se tienen con prisa, y ese es exactamente el momento en el que ya no sirven.
 
