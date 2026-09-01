@@ -50,17 +50,28 @@ def convertir(md):
             while i < n and lineas[i].strip().startswith('|'):
                 filas.append(celdas(lineas[i])); i += 1
             fmt = lambda fs: '(' + ', '.join('[%s]' % texto(c) for c in fs) + ',)'
+            largos = [max([len(cab[j])] + [len(f[j]) for f in filas if j < len(f)])
+                      for j in range(len(cab))]
+            # para alinear cuenta lo que hay en las celdas, no el rótulo:
+            # «Puedo practicarla» es una cabecera larga sobre una columna de cifras
+            cuerpos = [max([0] + [len(f[j]) for f in filas if j < len(f)])
+                       for j in range(len(cab))]
             # una tabla con la mayoría de casillas vacías es un formulario:
             # se dibuja con cuadrícula para que se vea dónde escribir
-            anchos = []
-            for j in range(len(cab)):
-                largo = max([len(cab[j])] + [len(f[j]) for f in filas if j < len(f)])
-                anchos.append('auto' if largo <= 6 else '1fr')
             cel = [c for f in filas for c in f[1:]]
             form = 'true' if cel and sum(1 for c in cel if not c) * 2 > len(cel) else 'false'
-            out.append('#tabla(%s, (%s), cols: (%s), formulario: %s)\n'
+            if len(cab) >= 5:
+                # todo fraccional: la primera columna algo más ancha si lo pide
+                anchos = ['1.35fr' if largos[0] > 9 else '1fr'] + ['1fr'] * (len(cab) - 1)
+            elif form == 'true':
+                # en un formulario, el hueco para escribir va en la primera columna
+                anchos = ['1fr'] + ['auto'] * (len(cab) - 1)
+            else:
+                anchos = ['auto' if l <= 6 else '1fr' for l in largos]
+            out.append('#tabla(%s, (%s), cols: (%s), largos: (%s), formulario: %s)\n'
                        % (fmt(cab), ' '.join(fmt(f) + ',' for f in filas),
-                          ', '.join(anchos) + ',', form))
+                          ', '.join(anchos) + ',',
+                          ', '.join(str(l) for l in cuerpos) + ',', form))
             continue
         m = re.match(r'^(#{1,3})\s+(.*)$', ln)
         if m:
@@ -175,18 +186,19 @@ PLANTILLA = r'''
 #let cap(num, cuerpo) = { numcap.update(num); heading(level: 1, cuerpo) }
 // Tabla de libro: filetes horizontales y nada más. La primera columna a la
 // izquierda, el resto centradas, que es como se leen las casillas de puntuar.
-#let tabla(cab, filas, cols: none, formulario: false) = block(
-    above: 0.20in, below: 0.24in, breakable: false)[
+#let tabla(cab, filas, cols: none, largos: none, formulario: false) = block(
+    width: 100%%, above: 0.20in, below: 0.24in, breakable: false)[
   #set text(size: 9pt, hyphenate: false)
   #set par(justify: false, first-line-indent: 0pt, leading: 0.52em)
   #table(
     columns: if cols == none { (auto,) + (1fr,) * (cab.len() - 1) } else { cols },
     stroke: if formulario { 0.4pt + luma(150) } else { none },
-    inset: (x: 4pt, y: if formulario { 10pt } else { 5.5pt }),
-    align: (c, r) => {
-      let ancho = if cols == none { c != 0 } else { cols.at(c, default: auto) == 1fr }
-      if ancho { left + horizon } else { center + horizon }
-    },
+    inset: (x: if cab.len() >= 6 { 2pt } else if cab.len() == 5 { 2.5pt } else { 4pt },
+            y: if formulario { 9pt } else { 5.5pt }),
+    // una columna con texto largo va a la izquierda; una de cifras o casillas
+    // vacías, centrada. Se decide midiendo el contenido, no por posición.
+    align: (c, r) => if largos != none and largos.at(c, default: 0) > 9 {
+      left + horizon } else { center + horizon },
     table.hline(stroke: 1.1pt),
     ..cab.map(c => strong(c)),
     table.hline(stroke: if formulario { 0.9pt } else { 0.5pt }),

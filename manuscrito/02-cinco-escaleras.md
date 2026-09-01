@@ -147,8 +147,9 @@ Casi siempre es energía o identidad.
 
 Y luego, debajo, tres líneas más importantes que la tabla: **tus tres no negociables.** Las cosas
 que no vas a entregar a cambio de un puesto. Pueden ser las cenas en casa, no viajar entre semana,
-no volver a llevar equipos de más de diez personas, o vivir donde vives. No hay respuesta buena.
-Hay respuesta tuya, y escribirla ahora te va a ahorrar decir que sí a algo por inercia.
+no volver a llevar equipos de más de diez personas, o vivir donde vives. Aquí no hay
+respuestas buenas ni malas: solo está la tuya, y escribirla ahora te va a ahorrar decir que sí a
+algo por inercia.
 
 Un aviso sobre la tabla, porque he visto a mucha gente hacerla mal: no la rellenes con lo que
 crees que deberías querer. Si pones un cinco en «ingreso» porque te da vergüenza poner un tres, la
