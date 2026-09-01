@@ -94,6 +94,25 @@ estantería en su vida y sabe dónde está todo sin mirar el sistema, es exactam
 que su jefe de turno no quiere mover de la carretilla. Le está haciendo un favor a la operación y
 un roto a esa persona, y los dos lo saben, y ninguno de los dos lo dice.
 
+## Y ahora sí, el otro eje
+
+Ya puedo decirte qué había en el eje vertical de aquella cuadrícula, porque acabas de leerlo sin
+que se lo llamara por su nombre.
+
+Rendimiento y potencial. En el eje de abajo va lo que hiciste el año pasado: se puede medir, lo
+sabe todo el mundo y no hay discusión. En el de al lado va la apuesta de que lo harías bien un
+escalón más arriba: no lo sabe nadie, no se puede medir y hay que decidirlo con lo que haya encima
+de la mesa. Tres niveles en cada eje —bajo, medio, alto—, nueve casillas, y en una de ellas está
+tu nombre.
+
+Marta estaba en lo más alto del eje de abajo. En el otro no estaba en ninguna parte, porque nadie
+tenía con qué colocarla, y cuando no hay con qué se deja a la persona en el medio y se pasa al
+siguiente nombre.
+
+Ahí está dibujada la trampa entera de este libro: **puedes llegar al tope de tu eje y no moverte
+nunca de casilla, porque para cambiar de casilla hace falta el otro.** Y en el otro no has puesto
+nada desde que entraste, entre otras cosas porque nadie te ha dicho nunca que existiera.
+
 ## Llevas años mejorando el sistema equivocado
 
 Aquí está el reencuadre que ordena el libro entero, y si te llevas una sola idea de todo esto, que
