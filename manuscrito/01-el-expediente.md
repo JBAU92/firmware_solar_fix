@@ -2,15 +2,15 @@
 
 Hay una sala de reuniones en tu empresa en la que se habla de ti y a la que no estás invitado.
 
-Ocurre una o dos veces al año. Suelen ser cuatro o cinco personas: alguien de recursos humanos, tu
-jefe, el jefe de tu jefe y, a veces, alguien de fuera como yo. Hay café malo y una pantalla. En la
-pantalla hay una cuadrícula de nueve casillas. En un eje va tu rendimiento. En el otro va otra
-cosa, que ahora veremos, y que es la que de verdad decide.
+Ocurre una vez al año. Están alguien de recursos humanos, tu jefe, el jefe de tu jefe y, a veces,
+alguien de fuera como yo. Hay café malo y una pantalla. En la pantalla hay una cuadrícula de nueve
+casillas: en un eje va tu rendimiento, y en el otro va otra cosa, que ahora veremos, y que es la
+que de verdad decide.
 
 Y en una de esas nueve casillas está tu nombre.
 
-Aquel día había dos nombres en la pantalla. Marta llevaba cuatro años cerrando el mes sin un solo
-error, y era a quien llamaba todo el mundo cuando algo se rompía. Javier llevaba menos de la mitad.
+Aquel día estaban Marta y Javier. Marta cerraba el mes sin un solo error y era a quien llamaba
+todo el mundo cuando algo se rompía. Javier llevaba bastante menos tiempo en la casa.
 
 Sobre Marta había dos cosas: sus números, que eran impecables, y la opinión de su jefe, que era
 excelente.
@@ -22,10 +22,10 @@ Ascendió Javier.
 Voy a contarte cómo son de verdad esos cuarenta minutos, porque la imagen que tiene la gente
 —una especie de tribunal— no se parece en nada.
 
-No hay debate. Hay prisa. Hay ocho nombres y una hora, lo que sale a poco más de cinco minutos por
-persona contando los que se van en encontrar el archivo y en que alguien conteste un correo desde
-el móvil. Se avanza rápido y se decide con lo primero que alguien dice en voz alta, porque lo
-primero que se dice en voz alta se convierte en el marco de todo lo demás.
+No hay debate. Hay prisa. Hay más nombres que tiempo, y de los minutos que le tocan a cada persona
+se van unos cuantos en encontrar el archivo y en que alguien conteste un correo desde el móvil. Se
+avanza deprisa y se decide con lo primero que alguien dice en voz alta, porque lo primero que se
+dice en voz alta se convierte en el marco de todo lo demás.
 
 Sobre la mayoría de la gente lo primero que se dice es una frase corta. «Este va bien.» «Esta es
 muy sólida.» Y ahí se acaba, porque no hay nada más que añadir y el siguiente nombre ya está en la

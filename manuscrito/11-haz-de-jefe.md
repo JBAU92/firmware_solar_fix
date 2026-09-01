@@ -24,7 +24,7 @@ cuando se mira todo junto.*
 Cuando alguien preguntó por un dato de logística que no cuadraba, Javier no improvisó una respuesta.
 Dijo: «Nando, ¿lo explicas tú?». Y Nando, que estaba al fondo, lo explicó.
 
-Javier no hizo ese trabajo. Javier hizo **el trabajo de un jefe**. Y lo hizo cuatro meses antes de
+Javier no hizo ese trabajo. Javier hizo **el trabajo de un jefe**. Y lo hizo medio año antes de
 que le dieran el puesto.
 
 ## El malentendido más caro de este libro

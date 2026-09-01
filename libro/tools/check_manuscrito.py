@@ -36,6 +36,14 @@ ABSOLUTOS = [r'(?<!casi )nadie dice que no', r'nadie ha perdido nunca', r'nunca 
              r'siempre funciona', r'(?<!casi )todo el mundo lo hace',
              r'(?<!casi )nadie lo hace']
 
+# Densidad de cantidades en la apertura de un capítulo. La primera página del
+# libro llegó a tener trece: «ocho nombres y una hora, lo que sale a poco más de
+# cinco minutos por persona» le pedía al lector hacer una división en la página
+# que tiene que engancharlo. «un/una/uno» se excluyen: en español son artículos.
+CANTIDAD = (r'\b(dos|tres|cuatro|cinco|seis|siete|ocho|nueve|diez|once|doce|trece|'
+            r'catorce|veinte|treinta|cuarenta|cincuenta|cien|mitad|\d+)\b')
+ARITMETICA = ['lo que sale a', 'lo que da un', 'es decir, un ', 'lo que supone']
+
 TRIADAS = [
     ('tres criterios', ['aspiración', 'compromiso'],
                        ['haya sitio', 'oportunidad organizativa', 'patrocinio', 'vacante']),
@@ -96,6 +104,17 @@ def check(path):
         frag = ' '.join(m.group(0).split())
         if not re.search(r'\d', frag):
             warns.append(f"porcentaje con letra: «{frag}» — comprobar que tiene fuente")
+
+    # 3 ter · aritmética en la apertura
+    if n and n != 16:
+        apertura = ' '.join(re.sub(r'^#.*$', '', cuerpo, flags=re.M).split()[:350])
+        cants = re.findall(CANTIDAD, apertura, re.I)
+        if len(cants) >= 10:
+            warns.append(f"apertura cargada: {len(cants)} cantidades en las primeras "
+                         f"350 palabras ({', '.join(cants[:6])}…)")
+        for a in ARITMETICA:
+            if a in plano.lower():
+                errs.append(f"ARITMÉTICA: «{a}» — el lector no debería tener que calcular")
 
     # 4 bis · no mezclar las dos tríadas
     # Solo se mira la glosa inmediata —hasta el final de la frase—, porque más
