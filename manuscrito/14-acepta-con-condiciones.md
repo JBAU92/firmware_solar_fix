@@ -64,32 +64,19 @@ En el capítulo tres te dije que probarlo era mucho menos arriesgado de lo que p
 sostengo. Ahora toca cumplir la promesa con precisión, porque una promesa cumplida a medias es peor
 que no haberla hecho.
 
-Si aceptas y no funciona, muchas empresas van a intentar encontrarte un encaje parecido al que
-tenías, sobre todo si conservas la buena relación y un historial que les interese. Pasa
-continuamente y no es ninguna deshonra.
-
-Lo que no puedes es darlo por hecho ni tratarlo como un derecho.
-
-Lo que no existe es el botón. Una vez consolidado el ascenso —funciones nuevas, categoría nueva,
-sueldo nuevo—, deshacerlo es un acuerdo entre dos partes y no algo que puedas exigir tú. Quien te
+Allí quedó dicho lo esencial: que lo más probable, con diferencia, es que se arregle, y que aun
+así no existe el botón de volver atrás. Añado la parte incómoda, que es de quién depende. Quien te
 diga «tranquilo, que si no te gusta vuelves» te está diciendo la verdad sobre sus intenciones y no
-sobre tus derechos.
+sobre tus derechos: deshacer un ascenso consolidado es un acuerdo entre dos partes, y en un
+acuerdo hacen falta dos.
 
-Por eso el paracaídas se pide **antes**. Y fíjate en el motivo, que no es el miedo: el primer día
-te sale gratis, porque eres alguien a quien están intentando convencer. El día doscientos negocias
-desde abajo, siendo alguien a quien le va mal. Es la misma petición con dos precios completamente
-distintos.
-
-Hay tres formas de pedirlo y las tres funcionan. Un periodo de prueba explícito con una fecha de
-revisión conjunta. Una interinidad o una suplencia con fin fijado. O, si nada de eso encaja, una
+Por eso esto se pide **antes**, y aquí está la lista que te prometí. Hay tres formas de pedirlo y
+las tres funcionan. Un periodo de prueba explícito con una fecha de revisión conjunta. Una
+interinidad o una suplencia con fin fijado. O, si nada de eso encaja, una
 frase por escrito en un correo: *quedamos en que, si en el primer año esto no funciona para
 ninguna de las dos partes, buscamos un encaje dentro de la empresa*. No es un contrato blindado y
 no lo pretende: es un compromiso escrito con alguien que tendrá que mirarte a la cara, y eso pesa
 más de lo que la gente cree.
-
-Y no olvides lo que te llevas puesto aunque vuelvas, que casi nadie calcula. Has dirigido. Eso no
-se borra del currículum ni de la cabeza de la gente que te vio hacerlo, y abre puertas —dentro y
-fuera— a las que antes no podías ni asomarte.
 
 ## Sin que parezca que no te apetece
 

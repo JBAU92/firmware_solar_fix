@@ -151,8 +151,8 @@ lo que harías si montaras algo tuyo, con la diferencia de que aquí el riesgo l
 dinero lo pone otro, y a ti te sigue entrando la nómina a fin de mes mientras aprendes.
 
 Y el coste en horas fuera del trabajo tampoco llega a cero, que no te voy a vender esa moto, pero
-resulta muchísimo más bajo de lo que crees, porque el grueso lo pagas con tiempo que ya estás
-pasando allí de todas formas. Ocho horas al día, cinco días a la semana. Dentro de esas cuarenta horas hay reuniones que
+resulta muchísimo más bajo de lo que crees, porque el grueso sale de las horas por las que ya te
+pagan. Ocho horas al día, cinco días a la semana. Dentro de esas cuarenta horas hay reuniones que
 no aportan nada, hay ratos muertos, hay tareas que haces en piloto automático. No hace falta que
 las conviertas todas: con reasignar unas pocas ya tienes el encargo en marcha.
 

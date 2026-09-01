@@ -164,8 +164,7 @@ falta hablar con dos personas de fuera al año y saber, con un número aproximad
 lo que tú haces. Dos cafés. Eso es todo.
 
 Lo que no puedes hacer es empezar a llenarlo el día que lo necesites, porque ese día ya llegaste
-tarde: las opciones tardan meses en madurar y las conversaciones que se tienen con prisa se notan
-que se tienen con prisa.
+tarde: las opciones tardan meses en madurar.
 
 ## El techo del oficio
 

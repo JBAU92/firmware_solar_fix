@@ -157,10 +157,8 @@ delante de alguien que no está de acuerdo y a explicarle a un cliente por qué 
 
 Ahora vuelve a leer esa lista y dime qué de ahí **no** vas a necesitar el día que abras lo tuyo.
 
-Esa es la lista entera. Y la diferencia es que aquí te la enseñan cobrando y con los errores
-pagados por otro. Hay una versión de esta historia en casi todas las cadenas de restauración: el
-que entra a los diecinueve, aprende a llevar un local con el dinero de la marca, y años después
-abre uno suyo. La escalera de la empresa no fue la alternativa a su negocio. Fue el entrenamiento.
+Esa es la lista entera. Y la diferencia —la misma de la hamburguesa del capítulo anterior— es que
+aquí te la enseñan cobrando y con los errores pagados por otro.
 
 Así que la propuesta es esta: **un año en un solo sitio, con la cabeza entera.** El que ya te
 paga. Si al final del año quieres irte, te irás sabiendo cosas que hoy no sabes y con la carpeta

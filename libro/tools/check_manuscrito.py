@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Verificador del manuscrito. Comprueba las nueve trampas del archivo 00-reglas."""
-import re, sys, pathlib, collections
+import re, sys, pathlib, collections, unicodedata
+from itertools import combinations
 
 BASE = pathlib.Path(__file__).resolve().parents[2] / 'manuscrito'
 SECTOR = {0:'— prólogo —',1:'oficina',2:'tecnico',3:'oficina',4:'ventas',5:'libre',
@@ -73,10 +74,77 @@ METAFORA = [(2, r'\bpuertas?\b',        'una ruta del capítulo 2 es una escaler
 # párrafos seguidos —«no te voy a engañar», «no te voy a vender humo»,
 # «seamos sinceros»— y encima los dos primeros párrafos decían lo mismo.
 # Una es un recurso; dos juntas es un tic, y el lector deja de creérselas.
-FRANQUEZA = [r'no te voy a (?:engañar|mentir|vender humo)', r'no te engaño',
+FRANQUEZA = [r'no te voy a (?:engañar|mentir|vender (?:humo|esa moto|la moto))', r'no te engaño',
              r'seamos (?:sinceros|honestos|claros)', r'para ser (?:sincero|honesto)',
              r'te lo digo claro', r'sin engañarte', r'te seré sincero',
              r'con toda (?:sinceridad|honestidad)', r'hablando claro', r'sinceramente']
+
+# Historias y frases contadas dos veces. Se comparan todos los párrafos del
+# libro entre sí por 7-gramas. Así se destapó que la historia de la hamburguesa
+# estaba en el capítulo 2 y otra vez en el 3, que el 14 volvía a argumentar el
+# paracaídas en vez de entregar la lista que había prometido, y que el aforismo
+# de las prisas salía en el 5 y en el 10. El detector no sabe distinguir la
+# repetición deliberada de la accidental, así que los estribillos del libro van
+# exentos y lo demás sale como aviso para mirarlo a ojo.
+# Un estribillo se declara con el tramo entero que se repite a propósito, no
+# con una etiqueta corta: _gramas tapa ese tramo y con él todos los gramas
+# solapados. Y se comprueba que siga existiendo —una entrada obsoleta filtraría
+# en vacío sin decir nada, que es el fallo que una red no se puede permitir.
+ESTRIBILLOS = [
+    # la pregunta central del libro, en negrita al cierre del 1 y del 4
+    'si manana se sentaran a hablar de ti que tendrian encima de esa mesa aparte de tus numeros y',
+    'numeros y lo que opine',
+    'la respuesta honesta',
+    # la tríada del capítulo 1, recuperada en el 12
+    'tres criterios con los que se mira a una persona capacidad aspiracion y compromiso',
+    'intentando contestar a una pregunta',
+    # las siete cosas y el recuento con que cierra cada capítulo
+    'objetivo medida autoridad padrino',
+    'te han dado la responsabilidad',
+    'encima de la mesa y la',
+    'la apertura de sagunto',
+    'con diferencia es que se arregle',
+]
+
+def _pal(s):
+    s = unicodedata.normalize('NFD', s.lower())
+    return re.findall(r'[a-z]+', ''.join(c for c in s if unicodedata.category(c) != 'Mn'))
+
+def _gramas(par, n):
+    """n-gramas del párrafo, tapando los tramos ocupados por un estribillo:
+    una frase repetida a propósito genera decenas de gramas solapados y hay
+    que quitarlos todos, no solo el que contiene la etiqueta."""
+    ws = _pal(par)
+    fijo = [False] * len(ws)
+    for e in ESTRIBILLOS:
+        pe = e.split()
+        for i in range(len(ws) - len(pe) + 1):
+            if ws[i:i + len(pe)] == pe:
+                for k in range(i, i + len(pe)): fijo[k] = True
+    return {' '.join(ws[i:i + n]) for i in range(len(ws) - n + 1)
+            if not any(fijo[i:i + n])}
+
+def revisa_estribillos(files):
+    todo = ' || '.join(' '.join(_pal(f.read_text())) for f in files)
+    return [f"ESTRIBILLO obsoleto, ya no filtra nada: «{e[:46]}…»"
+            for e in ESTRIBILLOS if todo.count(e) < 2]
+
+def ecos(files, n=7, umbral=3):
+    """Pares de párrafos que comparten >= umbral n-gramas fuera de estribillos."""
+    idx = {}
+    for f in files:
+        cap = int(re.match(r'(\d+)', f.stem).group(1))
+        if cap == 16: continue          # la bibliografía repite títulos, es su oficio
+        for k, par in enumerate(f.read_text().split('\n\n')):
+            if not par.strip() or par.lstrip()[0] in '#|-': continue
+            for g in _gramas(par, n): idx.setdefault(g, set()).add((cap, k))
+    pares = {}
+    for g, locs in idx.items():
+        if len(locs) > 1:
+            for a, b in combinations(sorted(locs), 2):
+                pares.setdefault((a, b), []).append(g)
+    return sorted(((len(gs), a, b, max(gs, key=len)) for (a, b), gs in pares.items()
+                   if len(gs) >= umbral), reverse=True)
 
 def bloques_escena(t):
     out=[]
@@ -277,6 +345,10 @@ def main():
         print(f"{n:<5}{pal:>9}  {SECTOR.get(n,'—'):<16}{est}")
         for e in errs:  print(f"       ✗ {e}")
         for w in warns: print(f"       · {w}")
+    for aviso in revisa_estribillos(files): print(f"       ✗ {aviso}")
+    for cuantos, (c1, k1), (c2, k2), g in ecos(files):
+        print(f"       · ECO: cap. {c1} y cap. {c2} comparten {cuantos} giros "
+              f"de siete palabras — «{g[:52]}…»")
     print("-"*78)
     cuerpo = total - sum(check(f)[1] for f in files if int(re.match(r'(\d+)', f.stem).group(1)) in MARCO)
     print(f"total: {total:,} palabras · cuerpo (caps. 1–14): {cuerpo:,} · objetivo ~30.800 · "
