@@ -3,9 +3,9 @@
 Hay una sala de reuniones en tu empresa en la que se habla de ti y a la que no estás invitado.
 
 Ocurre una vez al año. Están alguien de recursos humanos, tu jefe, el jefe de tu jefe y, a veces,
-alguien de fuera como yo. Hay café malo y una pantalla. En la pantalla hay una cuadrícula de tres
-por tres: en un eje va tu rendimiento, y en el otro va otra cosa, que ahora veremos, y que es la
-que de verdad decide.
+alguien de fuera como yo. Hay café malo y una pantalla. En la pantalla hay una cuadrícula: en un eje
+va tu rendimiento, y en el otro va otra cosa, que ahora veremos, y que es la que de verdad
+decide.
 
 Y en una de esas casillas está tu nombre.
 
@@ -99,15 +99,21 @@ un roto a esa persona, y los dos lo saben, y ninguno de los dos lo dice.
 Ya puedo decirte qué había en el eje vertical de aquella cuadrícula, porque acabas de leerlo sin
 que se lo llamara por su nombre.
 
-Rendimiento y potencial. En el eje de abajo va lo que hiciste el año pasado: se puede medir, lo
-sabe todo el mundo y no hay discusión. En el de al lado va la apuesta de que lo harías bien un
-escalón más arriba: no lo sabe nadie, no se puede medir y hay que decidirlo con lo que haya encima
-de la mesa. Tres niveles en cada eje —bajo, medio, alto—, nueve casillas, y en una de ellas está
-tu nombre.
+Rendimiento y potencial. Es esto:
 
-Marta estaba en lo más alto del eje de abajo. En el otro no estaba en ninguna parte, porque nadie
-tenía con qué colocarla, y cuando no hay con qué se deja a la persona en el medio y se pasa al
-siguiente nombre.
+| | Rinde poco | Rinde bien | Rinde mucho |
+|---|---|---|---|
+| **Mucho potencial** | | | Javier |
+| **Potencial medio** | | | Marta |
+| **Poco potencial** | | | |
+
+Abajo va lo que hiciste el año pasado: se puede medir, lo sabe todo el mundo y no hay discusión. Al
+lado va la apuesta de que lo harías bien un escalón más arriba: no lo sabe nadie, no se puede medir
+y hay que decidirlo con lo que haya encima de la mesa.
+
+Mira dónde está cada uno. Los dos están en la misma columna de la derecha, porque los dos rinden.
+Lo que los separa es la fila, y fíjate en que a Marta no la pusieron abajo: la pusieron en medio,
+que es donde va la gente de la que no hay nada. Nadie la juzgó mal. Nadie la juzgó.
 
 Ahí está dibujada la trampa entera de este libro: **puedes llegar al tope de tu eje y no moverte
 nunca de casilla, porque para cambiar de casilla hace falta el otro.** Y en el otro no has puesto
