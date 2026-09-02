@@ -44,6 +44,10 @@ ya unos años sentándome en esas salas.
 Porque Marta tenía su versión de Javier, y merece la pena oírla, entre otras cosas porque es la que
 tienes tú de alguien de tu trabajo.
 
+Aquel día yo no la conocía de nada: sabía de ella lo que cabía en aquella cuadrícula. Pero seguí
+trabajando con esa empresa unos cuantos años más y acabé tratando a los dos, así que casi todo lo
+que voy a contarte de ellos me lo contaron ellos.
+
 Para Marta, Javier era el que se pasaba media mañana de pie en el pasillo. El que en las reuniones
 hablaba mucho y decía poco. El que se apuntaba a todo lo que sonara a proyecto nuevo y luego
 repartía el trabajo entre los demás. El que se iba a su hora mientras ella se quedaba cerrando el mes.
