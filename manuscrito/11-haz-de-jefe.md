@@ -166,74 +166,13 @@ la gente lo haga a su manera mientras el resultado esté bien.
 La lista con la que te van a evaluar el día que te propongan es una lista de cosas que puedes estar
 haciendo desde el lunes que viene.
 
-## Hay dos maneras, y una pasa factura
-
-Falta una pieza en este capítulo, y es la que más gente se juega sin saber que se la está jugando:
-**el sitio que ocupas entre los tuyos mientras haces todo lo anterior.**
-
-Porque en la sala donde se decide no está solo tu jefe. Está también, en forma de comentario suelto
-de treinta segundos, lo que diría de ti la gente que trabaja contigo. Hay una frase que hunde una
-candidatura entera, «con él no va a querer trabajar nadie», y otra que la sostiene sin que tú
-llegues a enterarte jamás de que se dijo: «con ella la gente trabaja a gusto».
-
-Esto está estudiado, y el resultado es menos moralista de lo que te esperas.
-
-Un equipo dirigido por Joey Cheng describió dos caminos distintos hacia el rango dentro de un
-grupo, y los dos llegan arriba. Uno es la **dominancia**: ocupar el espacio, hablar por encima,
-conseguir que llevarte la contraria salga caro. El otro es el **prestigio**: que los demás te cedan
-el sitio porque les conviene que lo ocupes tú. Son cosas distintas, y las dos suben.
-
-Es más, el atajo funciona mejor de lo que a ninguno nos gustaría. Cameron Anderson y Gavin Kilduff
-se preguntaron por qué acaban mandando las personas dominantes en grupos que se acaban de conocer,
-y la respuesta tiene poco que ver con caer bien: **parecen más competentes**. Se lo parecieron a
-sus compañeros de grupo, a observadores de fuera y al propio equipo que hacía el experimento.
-
-Y hay un dato que explica el mecanismo mejor que cualquier teoría. Un trabajo sobre lo que los
-investigadores llaman, medio en broma, la hipótesis del parloteo midió qué predice quién emerge
-como líder en un grupo pequeño. Lo que más pesaba era **el rato que hablaba cada uno**. Por encima
-de la inteligencia. Por encima del carácter. Por encima de lo bien que se le daba la tarea.
-
-Léelo otra vez pensando en tu última reunión.
-
-Ahora la factura, que es la parte que no sale en los libros que te animan a tener más presencia.
-
-La dominancia compra el rango con quien te ve una hora. El problema es quien te ve todos los días.
-Jon Maner y sus colegas encontraron que quien manda de esa manera, en cuanto siente que su posición
-no es firme, empieza a tratar a los buenos de su equipo como una amenaza en vez de como su mejor
-activo: en un experimento apartaron al miembro más capaz y se quedaron con uno peor, y en otro
-mantuvieron separados a los suyos para que no hicieran piña.
-
-Traducido a tu planta: funciona hasta el día en que alguien de tu nivel decide que no piensa quedar
-por debajo de ti. Ese día dejas de ser el que lleva la voz cantante y pasas a ser el conflicto que
-hay que resolver. Y a quien le toca resolverlo es exactamente la persona que iba a proponerte.
-
-**Tres preguntas para saber cuál de los dos estás haciendo.** Ninguna se contesta con lo que tú
-opines de ti mismo.
-
-¿Lo que propones avanza cuando no estás delante? Si solo se mueve mientras tú empujas en la sala,
-eso no es prestigio. Es presencia, y se termina en cuanto sales por la puerta.
-
-¿Te traen los problemas o te los cuentan tarde? Al que llegó por prestigio se le consulta antes. Al
-otro se le informa cuando ya no queda más remedio, y eso significa que te vas a enterar de lo que
-va mal el día en que ya no tiene arreglo.
-
-¿Cuándo fue la última vez que alguien te dijo, a la cara, que estabas equivocado? Si no te
-acuerdas, la explicación probable no es que lleves razón siempre, sino que han dejado de decírtelo.
-
-Y ahora vuelve al jueves del principio del capítulo y mira la escena otra vez. Javier dijo cuatro
-nombres que no eran el suyo y le devolvió una pregunta a Nando delante del comité de dirección. Las
-dos cosas le quitaron protagonismo en el momento. Las dos son la razón de que los cuatro
-repitieran al trimestre siguiente, y de que ninguno tuviera nada malo que decir el día que hablaron
-de él en una sala donde no estaba.
-
 ## El contrapeso
 
-Y ahora el aviso, porque este capítulo tiene una versión que sale mal y la he visto varias veces.
+Y ahora el aviso, porque este capítulo tiene dos versiones que salen mal y he visto las dos.
 
-Consolidar el trabajo de todos puede convertirte en el secretario del equipo: la persona a la que
-todos mandan sus cosas y que se pasa las tardes montando documentos que otros presentan. Eso no es
-hacer de jefe. Eso es trabajo invisible con más horas, que es exactamente contra lo que te avisé en
-el capítulo seis.
+La primera es convertirte en el secretario del equipo: la persona a la que todos mandan sus cosas
+y que se pasa las tardes montando documentos que otros presentan. Eso no es hacer de jefe. Eso es
+trabajo invisible con más horas, que es exactamente contra lo que te avisé en el capítulo seis.
 
 Dos condiciones y no se convierte en eso. Que **añadas la capa** —si no interpretas, eres un
 buzón—. Y que **lo presentes tú**. Si el que consolida y el que presenta son personas distintas,
@@ -241,6 +180,44 @@ el que consolida está haciendo el trabajo y el que presenta está haciendo la c
 
 Si te encuentras en esa posición, la conversación es corta y se tiene una sola vez: «lo monto yo, y
 lo cuento yo».
+
+La segunda versión que sale mal es la contraria, y hay que contarla con cuidado porque **también
+funciona**, al menos durante un tiempo.
+
+Hay dos maneras de acabar mandando en un grupo y las dos llegan arriba. Un equipo dirigido por Joey
+Cheng las separó: la **dominancia** —ocupar el espacio, hablar por encima, conseguir que llevarte
+la contraria salga caro— y el **prestigio** —que los demás te cedan el sitio porque les conviene
+que lo ocupes tú—. Y el atajo rinde más de lo que a ninguno nos gustaría: Cameron Anderson y Gavin
+Kilduff encontraron que a las personas dominantes se las percibe como **más competentes**, y no
+solo sus compañeros, también observadores de fuera. Hay incluso un trabajo, la llamada hipótesis
+del parloteo, que midió qué predice quién emerge como líder en un grupo pequeño: lo que más pesaba
+era el rato que hablaba cada uno, por encima de la inteligencia y de lo bien que se le daba la
+tarea.
+
+De ahí sale la conclusión útil, que no es la que parece. **El problema nunca fue ocupar espacio.**
+Lo vas a necesitar, y los cinco movimientos de antes te piden bastante. Lo que decide en qué se
+convierte es con qué lo llenas.
+
+La misma media hora delante de un comité se gasta de dos maneras. Puedes contestar tú la pregunta
+de logística o decir «Nando, ¿lo explicas tú?». Puedes decir «hemos montado esto» o decir cuatro
+nombres. Puedes explicar de quién era el número que fallaba o decir que el fallo es tuyo. Ocupas el
+mismo rato exacto en los dos casos, y sales de esa sala siendo dos personas distintas.
+
+La diferencia es la factura, que llega tarde y llega entera. La dominancia compra el rango con
+quien te ve una hora; el problema es quien te ve todos los días. Jon Maner y sus colegas
+encontraron que quien manda así, en cuanto siente que su posición no es firme, empieza a tratar a
+los mejores de su equipo como una amenaza: en un experimento apartaron al más capaz y se quedaron
+trabajando con uno peor. Traducido a tu planta, funciona hasta el día en que alguien de tu nivel
+decide que no piensa quedar por debajo de ti. Ese día dejas de ser el que lleva la voz cantante y
+pasas a ser el conflicto que hay que resolver, y a quien le toca resolverlo es exactamente la
+persona que iba a proponerte.
+
+Si quieres una sola señal de por dónde vas, es esta: cuándo fue la última vez que alguien te dijo,
+a la cara, que estabas equivocado. Si no te acuerdas, la explicación probable no es que lleves
+razón siempre.
+
+Por eso los cinco movimientos están escritos como están. Ninguno te pide hablar menos. Todos
+cambian qué haces con el rato que ya tenías.
 
 ## Lo que hizo Marta ese mismo jueves
 
