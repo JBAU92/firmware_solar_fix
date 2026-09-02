@@ -156,6 +156,31 @@ sectores menos digitalizados.
 observaciones entre evaluaciones de desempeño, encuestas y entrevistas. Los diez comportamientos
 que distinguen a los mandos eficaces —ocho en la primera versión, ampliados a diez en 2018.
 
+**Cheng, J. T., Tracy, J. L., Foulsham, T., Kingstone, A. y Henrich, J. (2013).** «Two Ways to the
+Top: Evidence That Dominance and Prestige Are Distinct Yet Viable Avenues to Social Rank and
+Influence». *Journal of Personality and Social Psychology*, 104(1), 103–125. Los dos caminos hacia
+el rango dentro de un grupo. *Reserva:* grupos pequeños formados para el estudio, no plantillas
+observadas durante años.
+
+**Anderson, C. y Kilduff, G. J. (2009).** «Why Do Dominant Personalities Attain Influence in
+Face-to-Face Groups? The Competence-Signaling Effects of Trait Dominance». *Journal of Personality
+and Social Psychology*, 96(2), 491–503. Las personas dominantes son percibidas como más competentes
+por sus compañeros, por observadores externos y por el equipo investigador. *Reserva:* grupos que
+acababan de conocerse. No dice qué pasa después de meses trabajando juntos, que es justo de lo que
+va el apartado.
+
+**MacLaren, N. G., Yammarino, F. J., Dionne, S. D. y otros (2020).** «Testing the Babble
+Hypothesis: Speaking Time Predicts Leader Emergence in Small Groups». *The Leadership Quarterly*,
+31(5), 101409. El tiempo que habla cada uno predice quién emerge como líder mejor que la
+inteligencia, el carácter o la destreza en la tarea. *Reserva:* mide quién emerge como líder en un
+grupo pequeño, no quién asciende en una empresa. Son dos cosas parecidas y no son la misma.
+
+**Maner, J. K. y Mead, N. L. (2010).** «The Essential Tension Between Leadership and Power».
+*Journal of Personality and Social Psychology*. Y **Case, C. R. y Maner, J. K. (2014).** «Divide
+and Conquer: When and Why Leaders Undermine the Cohesive Fabric of Their Group». *JPSP*. Quien
+manda por dominancia aparta al miembro más capaz y mantiene separados a los suyos cuando percibe su
+posición inestable. *Reserva:* experimentos de laboratorio con jerarquías inducidas.
+
 ## Capítulo 12 · Pide
 
 **Flynn, F. J. y Bohns, V. K. (2008).** «If You Need Help, Just Ask: Underestimating Compliance
