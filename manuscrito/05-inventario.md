@@ -152,20 +152,30 @@ Cuando entra a hablar con su jefa no amenaza con nada. Ni lo insinúa. Dice esto
 
 *Quiero seguir aquí y quiero decírtelo antes que nada. Lo que pasa es que me he informado de lo que
 se está pagando fuera por lo que yo hago, y hay una diferencia que en mi situación no me puedo
-permitir ignorar. Prefiero arreglarlo aquí. ¿Qué margen tenemos?*
+permitir ignorar. Prefiero arreglarlo aquí. ¿Qué margen tenemos? Y si no hay margen, dime qué
+tendría que estar llevando yo para que lo haya, porque eso también me sirve.*
 
-Fíjate en lo que ha hecho, porque son tres movimientos y se pueden copiar. Ha puesto por delante
-que quiere quedarse, con lo cual desaparece el chantaje. Ha traído un dato en lugar de un deseo. Y
-ha terminado con una pregunta abierta en vez de con una exigencia, que deja a la otra persona
-buscando la solución en lugar de defendiéndose de ella.
+Fíjate en lo que ha hecho, porque son cuatro movimientos y se pueden copiar. Ha puesto por delante
+que quiere quedarse, con lo cual desaparece el chantaje. Ha traído un dato en lugar de un deseo. Ha
+terminado con una pregunta abierta en vez de con una exigencia, que deja a la otra persona buscando
+la solución en lugar de defendiéndose de ella. Y ha dejado preparada una segunda pregunta para
+cuando la primera se quede sin sitio.
+
+Ese cuarto movimiento es el que le importa a este libro. Si su jefa tiene margen, Nuria cobra más
+y sigue exactamente donde estaba. Si no lo tiene, que es lo más frecuente, la pregunta ya está
+hecha sin que haya tenido que forzarla: qué tendría que estar llevando ella para valer esa cifra.
+Eso ya no es una conversación de nómina, es una conversación de nivel. Y es la mitad que su jefa sí
+puede concederle sin pedirle permiso a nadie.
 
 Su jefa no le va a decir que sí en esa reunión; casi nadie lo hace. Pero sale de ahí sabiendo que
-tiene un problema real, con fecha y con cifra, y eso es una conversación completamente distinta de
-la de Rubén.
+tiene un problema real, con fecha y con cifra, y con una segunda conversación abierta que no
+existía por la mañana. Eso es completamente distinto de lo que le pasó a Rubén.
 
 La diferencia entre los dos no está en el carácter. Rubén no es más lanzado ni Nuria más lista. Lo
 que cambia es que una tenía el depósito lleno y el otro iba de farol, y **eso se nota siempre**,
-aunque nadie lo diga en voz alta.
+aunque nadie lo diga en voz alta. El depósito no le da a Nuria mejores argumentos: le da el derecho
+a hacer la segunda pregunta sin que suene a queja. En el capítulo doce está la escala entera de lo
+que se puede pedir y en qué orden. Aquí solo quiero que veas de dónde sale el aplomo para pedirlo.
 
 Mantener este depósito cuesta menos de lo que parece. No hace falta estar buscando trabajo: hace
 falta hablar con dos personas de fuera al año y saber, con un número aproximado, qué se paga por
