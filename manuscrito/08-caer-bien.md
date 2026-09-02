@@ -217,24 +217,28 @@ la propia imagen y se compensa denigrando en privado. La factura la paga el que 
 
 ## La segunda cosa que hizo Javier
 
-Javier no adulaba. Te lo dije en el primer capítulo y aquí toca demostrarlo, porque es la
-explicación que se le ocurre a todo el mundo cuando alguien sube deprisa. No hacía la pelota, ni
-siquiera en la versión elegante.
+En el primer capítulo te dije que Javier no había hecho la pelota, y aquí toca demostrarlo, porque
+es la explicación que se le ocurre a todo el mundo cuando alguien sube deprisa. Lo que hacía está
+en la lista de arriba, en la parte que nadie llama adulación.
 
-Hacía otra cosa, más pequeña y con mucho mejor rendimiento. Cuando su jefe soltaba un problema en
-una reunión —de esos que se dicen en voz alta y nadie recoge—, Javier lo apuntaba. Y a los pocos
-días volvía. No con una solución completa, casi nunca: con una pregunta buena, o con media
-respuesta, o con el teléfono de alguien de otra área que sabía del tema.
+Cuando su jefe soltaba un problema en una reunión —de esos que se dicen en voz alta y nadie
+recoge—, Javier lo apuntaba. Y a los pocos días volvía. No con una solución completa, casi nunca:
+con una pregunta buena, o con media respuesta, o con el teléfono de alguien de otra área que sabía
+del tema.
 
 En seis meses, sin proponérselo, se había convertido en la persona con la que ese jefe pensaba en
 voz alta.
 
-Marta veía exactamente eso mismo, y lo llamaba de otra manera: pelotear.
+Y nada de eso se ve desde fuera. Marta no le vio apuntar un problema en su libreta ni supo nunca de
+aquellas vueltas tres días después, porque no había una escena que ver: pasar un teléfono dura
+quince segundos. Ella veía lo de siempre, lo que te conté en el primer capítulo. El pasillo. Las
+reuniones. Los jefes a los que caía bien.
 
-Y no iba del todo desencaminada, porque desde fuera no se distingue. Uno que se queda hablando con
-el jefe cuando acaba la reunión y otro que se queda hablando con el jefe cuando acaba la reunión se
-parecen muchísimo. La diferencia no está en la escena. Está en si vuelve con algo o vuelve con la
-cara.
+El ascenso fue lo que ató las dos cosas, y ahí le puso el nombre que tenía a mano: pelotear.
+
+Y no iba del todo desencaminada, porque por fuera se parecen muchísimo. Entrar al despacho del jefe
+sin que te haya llamado tiene el mismo aspecto lleves lo que lleves dentro. La diferencia no está
+en la escena. Está en si vuelves con algo o vuelves con la cara.
 
 Esa es la parte incómoda de este capítulo y no la voy a esconder: lo que funciona y lo que da
 vergüenza ajena se parecen tanto por fuera que mucha gente decente decide no hacer ninguno de los
