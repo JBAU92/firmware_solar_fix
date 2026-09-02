@@ -166,10 +166,11 @@ cruzaba tres áreas, conoció a gente que no sabía que existía y, sobre todo, 
 acabó siendo jefa: acabó en un movimiento lateral, en una especialidad de la que ni siquiera sabía
 que había puesto, donde hoy gana más que Javier y decide sobre cosas que antes ni tocaba.
 
-Hay una cosa que me dijo cuando ya llevaba un tiempo en el puesto nuevo, y es el motivo por el que
-existe este libro. Me dijo que lo que más rabia le daba, mirándolo desde donde estaba, no era haber
-perdido aquel puesto. Era haberse pasado dos años pensando mal de un compañero que no le había
-hecho nada.
+Y lo que más rabia le daba, ya con un tiempo en el puesto nuevo y pudiendo mirarlo desde fuera, no
+era haber perdido aquel puesto. Era haberse pasado dos años pensando mal de un compañero que no le
+había hecho nada.
+
+Ese es el motivo por el que existe este libro.
 
 Porque Javier no tenía ningún método, y conviene decirlo justo aquí, no vaya a ser que cierres el
 libro creyendo que hay gente que nace sabiendo. Hizo esas cosas una a una, cada una por su motivo,
