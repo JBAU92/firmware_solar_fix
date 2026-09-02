@@ -189,10 +189,12 @@ Cheng las separó: la **dominancia** —ocupar el espacio, hablar por encima, co
 la contraria salga caro— y el **prestigio** —que los demás te cedan el sitio porque les conviene
 que lo ocupes tú—. Y el atajo rinde más de lo que a ninguno nos gustaría: Cameron Anderson y Gavin
 Kilduff encontraron que a las personas dominantes se las percibe como **más competentes**, y no
-solo sus compañeros, también observadores de fuera. Hay incluso un trabajo, la llamada hipótesis
-del parloteo, que midió qué predice quién emerge como líder en un grupo pequeño: lo que más pesaba
-era el rato que hablaba cada uno, por encima de la inteligencia y de lo bien que se le daba la
-tarea.
+solo sus compañeros, también observadores de fuera.
+
+Y hay un trabajo que puso a prueba lo que sus autores llamaron, medio en broma, **la hipótesis del
+parloteo**. Cogieron grupos pequeños en los que nadie era el jefe y midieron qué hacía que el grupo
+acabara tratando a uno de ellos como si lo fuera. Lo que más pesaba era el rato que hablaba cada
+uno. Por encima de la inteligencia, y por encima de lo bien que se le daba la tarea.
 
 De ahí sale la conclusión útil, que no es la que parece. **El problema nunca fue ocupar espacio.**
 Lo vas a necesitar, y los cinco movimientos de antes te piden bastante. Lo que decide en qué se
