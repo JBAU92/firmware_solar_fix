@@ -167,6 +167,34 @@ def _gramas(par, n):
     return {' '.join(ws[i:i + n]) for i in range(len(ws) - n + 1)
             if not any(fijo[i:i + n])}
 
+# La sala del primer capítulo tiene aforo, y el resto del libro sienta gente
+# dentro. El reparto llegó a nombrar tres sillas —recursos humanos, tu jefe y
+# el jefe de tu jefe— mientras el capítulo 1 hablaba de «esas cinco personas» y
+# el capítulo 10 sentaba allí a tres «además de su jefe», ninguna de las cuales
+# podía ser ninguno de los tres nombrados. Aquí solo se comprueba la cuenta;
+# que quepan por oficio hay que mirarlo a ojo.
+AFORO  = re.compile(r'[Ee]sas (\w+) personas')
+CENSO  = re.compile(r'en (?:aquella|esa|la) sala había (\w+) personas'
+                    r'(\s*—además de (?:su|tu) jefe—)?')
+
+def censo_sala(files):
+    textos = {int(re.match(r'(\d+)', f.stem).group(1)): ' '.join(f.read_text().split())
+              for f in files}
+    m = AFORO.search(textos.get(1, ''))
+    if not m: return []
+    aforo = ORDINALES.get(m.group(1).lower())
+    if not aforo: return []
+    out = []
+    for cap, txt in sorted(textos.items()):
+        for c in CENSO.finditer(txt):
+            n = ORDINALES.get(c.group(1).lower())
+            if n is None: continue
+            dentro = n + (1 if c.group(2) else 0)
+            if dentro > aforo:
+                out.append(f"SALA: el cap. {cap} sienta a {dentro} en una sala "
+                           f"de {aforo} («{c.group(0)[:52]}…»)")
+    return out
+
 def revisa_estribillos(files):
     todo = ' || '.join(' '.join(_pal(f.read_text())) for f in files)
     return [f"ESTRIBILLO obsoleto, ya no filtra nada: «{e[:46]}…»"
@@ -418,6 +446,7 @@ def main():
         for e in errs:  print(f"       ✗ {e}")
         for w in warns: print(f"       · {w}")
     for aviso in revisa_estribillos(files): print(f"       ✗ {aviso}")
+    for aviso in censo_sala(files):        print(f"       ✗ {aviso}")
     for cuantos, (c1, k1), (c2, k2), g in ecos(files):
         print(f"       · ECO: cap. {c1} y cap. {c2} comparten {cuantos} giros "
               f"de siete palabras — «{g[:52]}…»")

@@ -2,9 +2,11 @@
 
 Hay una sala de reuniones en tu empresa en la que se habla de ti y a la que no estás invitado.
 
-Ocurre una vez al año. Están alguien de recursos humanos, tu jefe, el jefe de tu jefe y, a veces,
-alguien de fuera como yo. Hay café malo y una pantalla. En la pantalla hay una cuadrícula. Un eje
-es tu rendimiento. El otro es otra cosa, que ahora veremos, y que es la que de verdad decide.
+Ocurre una vez al año. Están alguien de recursos humanos, tu jefe, el jefe de tu jefe y un par de
+responsables más, de otras áreas o de otras oficinas, que van a defender a los suyos igual que tu
+jefe va a defenderte a ti. A veces hay también alguien de fuera, como yo. Hay café malo y una
+pantalla. En la pantalla hay una cuadrícula. Un eje es tu rendimiento. El otro es otra cosa, que
+ahora veremos, y que es la que de verdad decide.
 
 Y en una de esas casillas está tu nombre.
 

@@ -169,8 +169,8 @@ habían hablado bastante, porque Javier llamaba en vez de escribir cuando el asu
 
 Ninguno de los tres era amigo suyo. Los tres pusieron cara al nombre.
 
-Marta era buenísima y la conocían cinco personas, todas de su departamento, y todas dependían del
-mismo jefe. Cuando su nombre se dijo en voz alta, en la sala no hubo nadie que añadiera nada,
+Marta era buenísima, y toda la gente que lo sabía estaba en su departamento y dependía del mismo
+jefe. Cuando su nombre se dijo en voz alta, en la sala no hubo nadie que añadiera nada,
 porque nadie más la había visto trabajar. Y en una conversación de cuarenta minutos con ocho
 nombres, un silencio y una opinión desfavorable pesan casi lo mismo.
 

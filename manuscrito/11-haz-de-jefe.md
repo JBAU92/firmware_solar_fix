@@ -14,7 +14,7 @@ jueves. Cada uno queda con su nombre en su parte.*
 
 Los cuatro dijeron que sí en menos de una hora. Nadie quería hacerlo.
 
-El jueves, Javier estuvo cuarenta minutos delante del comité de dirección. No empezó hablando de
+El jueves, Javier estuvo media hora larga delante del comité de dirección. No empezó hablando de
 los números. Empezó así:
 
 *Esto son cuatro trabajos. El análisis de márgenes es de Lucía, la parte de logística de Nando, lo
