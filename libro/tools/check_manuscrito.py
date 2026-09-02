@@ -110,6 +110,17 @@ def _pal(s):
     s = unicodedata.normalize('NFD', s.lower())
     return re.findall(r'[a-z]+', ''.join(c for c in s if unicodedata.category(c) != 'Mn'))
 
+# Las referencias cruzadas se escriben a mano y el libro ha cambiado de
+# estructura por el camino. Una que apunte a un capítulo que no existe, o que
+# se cite a sí misma, es de las cosas que el lector ve al instante y el autor
+# no ve nunca. El número de capítulos se cuenta, no se escribe aquí.
+ORDINALES = {'uno': 1, 'dos': 2, 'tres': 3, 'cuatro': 4, 'cinco': 5, 'seis': 6,
+             'siete': 7, 'ocho': 8, 'nueve': 9, 'diez': 10, 'once': 11, 'doce': 12,
+             'trece': 13, 'catorce': 14, 'quince': 15, 'dieciséis': 16, 'dieciseis': 16,
+             'primero': 1, 'segundo': 2, 'tercero': 3}
+CRUCE = re.compile(r'cap[íi]tulos?\s+((?:' + '|'.join(ORDINALES) +
+                   r'|\d+)(?:\s+y\s+(?:en\s+)?(?:el\s+)?(?:' + '|'.join(ORDINALES) + r'|\d+))?)', re.I)
+
 # El capítulo 5 llegó a afirmar que las opciones son el único depósito que se
 # vacía sin que hagas nada, cuando sus propias definiciones dicen que la
 # capacidad «se vacía sola con los años», la evidencia «cuando pasa el tiempo»
@@ -296,6 +307,18 @@ def check(path):
             if intrusos:
                 errs.append(f"TRÍADAS: «{etiqueta}» glosado con «{intrusos[0]}», "
                             f"que pertenece a la otra tríada")
+
+    # 4 sexies · las referencias cruzadas apuntan a capítulos que existen
+    ncaps = sum(1 for g in BASE.glob('[0-9]*.md')
+                if int(re.match(r'(\d+)', g.stem).group(1)) not in MARCO)
+    for m in CRUCE.finditer(cuerpo):
+        for w in re.split(r'\s+y\s+(?:en\s+)?(?:el\s+)?', m.group(1)):
+            k = ORDINALES.get(w.lower()) or (int(w) if w.isdigit() else None)
+            if k is None: continue
+            if not 1 <= k <= ncaps:
+                errs.append(f"CRUCE: «{m.group(0)}», pero el libro tiene {ncaps} capítulos")
+            elif k == n:
+                errs.append(f"CRUCE: «{m.group(0)}» se cita a sí mismo")
 
     # 4 quinquies · nadie tiene la exclusiva de vaciarse solo
     if n == 5:
