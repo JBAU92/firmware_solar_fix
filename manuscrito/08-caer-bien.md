@@ -74,9 +74,12 @@ longitudinales de unas catorce mil seiscientas personas e hicieron algo que casi
 separar **la belleza** del **arreglo**. Es decir, distinguir lo que traes de fábrica de lo que
 haces cada mañana con lo que traes.
 
-El resultado es el mejor dato de este libro. Las personas consideradas atractivas ganaban en torno
-a un veinte por ciento más que las de atractivo medio, pero **al controlar por el arreglo personal
-esa ventaja se reducía drásticamente**. En mujeres, el arreglo explicaba prácticamente toda la
+El resultado es el mejor dato de este libro. De partida, las personas consideradas atractivas
+ganaban en torno a un veinte por ciento más que las de atractivo medio. Ese veinte no contradice el
+cinco de hace un momento, aunque lo parezca: son dos medidas distintas. Aquella era por hora y ya
+con la educación y la experiencia descontadas; esta es la brecha bruta de la que arranca este
+estudio, y es justo la que van a desmontar. Porque **al controlar por el arreglo personal esa
+ventaja se reducía drásticamente**. En mujeres, el arreglo explicaba prácticamente toda la
 prima. En hombres, alrededor de la mitad.
 
 Léelo con cuidado, porque es un estudio observacional y no permite decir qué paga exactamente una

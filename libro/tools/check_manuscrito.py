@@ -110,6 +110,21 @@ def _pal(s):
     s = unicodedata.normalize('NFD', s.lower())
     return re.findall(r'[a-z]+', ''.join(c for c in s if unicodedata.category(c) != 'Mn'))
 
+# Dos cifras de dos estudios distintos en la misma sección se leen como si
+# midieran lo mismo. En el capítulo 8 convivían un cinco por ciento por hora
+# —Hamermesh y Biddle, ya con educación y experiencia descontadas— y un veinte
+# por ciento bruto —Wong y Penner, la brecha que ese estudio se dispone a
+# desmontar—, y un lector las leyó como una contradicción, con razón. Solo hay
+# una sección así en todo el libro, de modo que la comprobación no puede dar
+# falsos positivos: si una sección junta dos porcentajes distintos, tiene que
+# decir cómo se relacionan.
+DECENA = (r'cero|uno|dos|tres|cuatro|cinco|seis|siete|ocho|nueve|diez|once|doce|trece|'
+          r'catorce|quince|veinte|veinticinco|treinta|cuarenta|cincuenta|sesenta|'
+          r'setenta|ochenta|noventa')
+PCT = re.compile(r'\b(' + DECENA + r')(?:\s+y\s+\w+)?\s+por\s+ciento', re.I)
+COTEJO = (r'no contradice|no (?:es|son) comparables?|dos medidas distintas|'
+          r'no mide[n]? lo mismo|brecha bruta')
+
 # Las referencias cruzadas se escriben a mano y el libro ha cambiado de
 # estructura por el camino. Una que apunte a un capítulo que no existe, o que
 # se cite a sí misma, es de las cosas que el lector ve al instante y el autor
@@ -307,6 +322,15 @@ def check(path):
             if intrusos:
                 errs.append(f"TRÍADAS: «{etiqueta}» glosado con «{intrusos[0]}», "
                             f"que pertenece a la otra tríada")
+
+    # 4 septies · dos porcentajes juntos tienen que decir si son comparables
+    # (las piezas de marco no: la bibliografía lista cifras de estudios
+    # distintos por oficio, y su sección de mitos las cita para rechazarlas)
+    for sec in [] if n in MARCO else re.split(r'\n## ', cuerpo):
+        cifras = {m.group(1).lower() for m in PCT.finditer(' '.join(sec.split()))}
+        if len(cifras) > 1 and not re.search(COTEJO, sec, re.I):
+            errs.append(f"COTEJO: «{sec.splitlines()[0][:38]}» junta los porcentajes "
+                        f"{sorted(cifras)} sin decir si miden lo mismo")
 
     # 4 sexies · las referencias cruzadas apuntan a capítulos que existen
     ncaps = sum(1 for g in BASE.glob('[0-9]*.md')

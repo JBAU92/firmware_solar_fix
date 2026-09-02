@@ -101,7 +101,10 @@ se cita el sentido y el orden de magnitud, no como una ley universal de hoy.
 **Wong, J. S. y Penner, A. M. (2016).** «Gender and the Returns to Attractiveness». *Research in
 Social Stratification and Mobility*, 44, 113–123. La pieza clave del capítulo: al controlar por el
 arreglo personal, la asociación entre atractivo e ingresos se reduce drásticamente, sobre todo en
-mujeres. *Reserva:* es un estudio observacional. Permite decir que buena parte de esa ventaja no
+mujeres. El veinte por ciento de partida que se cita en el texto no es comparable con la prima de
+Hamermesh y Biddle: aquella es un efecto por hora ya descontadas educación y experiencia, y esta es
+la brecha bruta que el propio estudio se dispone a desmontar. *Reserva:* es un estudio
+observacional. Permite decir que buena parte de esa ventaja no
 procede de rasgos físicos inalterables; no permite afirmar en términos causales qué es lo que una
 empresa paga.
 
