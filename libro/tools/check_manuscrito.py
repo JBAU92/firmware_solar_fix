@@ -167,6 +167,36 @@ def _gramas(par, n):
     return {' '.join(ws[i:i + n]) for i in range(len(ws) - n + 1)
             if not any(fijo[i:i + n])}
 
+# Las líneas de tiempo de un personaje se repiten en varios capítulos y se
+# descuadran solas. La sección final de Pilar llegó a abrir con «le costó dos
+# años más de los necesarios» y cerrar con «los cuatro años que estuvo
+# esperando», señalando además como perdidos justo los dos años en los que
+# aplica el método del libro. Aquí se clavan las cifras que se afirman más de
+# una vez: cada patrón tiene que capturar el número esperado.
+CRONOLOGIA = [
+    ('la espera de Pilar', 'cuatro', [
+        r'[Qq]uería ser supervisora\s+desde hacía (\w+) años',
+        r'llevaba (\w+) años queriéndolo',
+        r'los (\w+) años que estuvo esperando']),
+    ('la conversación de Javier', 'catorce', [
+        r'(\w+) meses antes de que la vacante existiera',
+        r'llevaba (\w+) meses sabiendo qué quería']),
+]
+
+def revisa_cronologia(files):
+    todo = ' '.join(' '.join(f.read_text().split()) for f in files)
+    out = []
+    for etiqueta, esperado, patrones in CRONOLOGIA:
+        for pat in patrones:
+            m = re.search(pat, todo)
+            if not m:
+                out.append(f"CRONOLOGÍA: {etiqueta} — el patrón ya no encuentra nada, "
+                           f"¿se ha reescrito la frase? ({pat[:34]}…)")
+            elif m.group(1).lower() != esperado:
+                out.append(f"CRONOLOGÍA: {etiqueta} son {esperado}, pero aquí pone "
+                           f"«{m.group(0)[:46]}»")
+    return out
+
 # La sala del primer capítulo tiene aforo, y el resto del libro sienta gente
 # dentro. El reparto llegó a nombrar tres sillas —recursos humanos, tu jefe y
 # el jefe de tu jefe— mientras el capítulo 1 hablaba de «esas cinco personas» y
@@ -447,6 +477,7 @@ def main():
         for w in warns: print(f"       · {w}")
     for aviso in revisa_estribillos(files): print(f"       ✗ {aviso}")
     for aviso in censo_sala(files):        print(f"       ✗ {aviso}")
+    for aviso in revisa_cronologia(files): print(f"       ✗ {aviso}")
     for cuantos, (c1, k1), (c2, k2), g in ecos(files):
         print(f"       · ECO: cap. {c1} y cap. {c2} comparten {cuantos} giros "
               f"de siete palabras — «{g[:52]}…»")

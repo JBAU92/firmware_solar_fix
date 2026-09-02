@@ -227,7 +227,7 @@ interesaría el puesto, su jefe contestó con toda la honestidad del mundo:
 
 ## Pilar, en marzo
 
-A Pilar la historia le acabó bien, aunque le costó dos años más de los necesarios.
+A Pilar la historia le acabó bien, aunque tardó bastante más de lo que hacía falta.
 
 Cuando se le pasó el disgusto de la plaza que no fue suya, hizo algo que a ella misma le pareció
 ridículo por lo pequeño: pidió veinte minutos a la supervisora de área y le dijo, con estas
