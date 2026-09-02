@@ -82,8 +82,9 @@ próximos dos años.» Así no estás pidiendo un puesto que a lo mejor no exist
 tiene que decirte que no a nada.
 
 **Di la ruta con nombre y apellido.** Aquí es donde sirve el capítulo dos. «Me gustaría llevar
-equipo» o «me interesa la parte de planificación» o «quiero llegar a supervisora». Concreto. Si tú
-no eres capaz de decir qué quieres, no esperes que otro lo adivine.
+equipo» o «me interesa la parte de planificación» o «quiero acabar en supervisión». Concreto, pero
+una dirección y no una plaza: las plazas salen cuando salen, y la dirección la puedes decir hoy. Si
+tú no eres capaz de decir qué quieres, no esperes que otro lo adivine.
 
 **Enseña lo que ya has hecho en esa dirección.** Dos o tres cosas, de las que llevas apuntando
 desde el capítulo seis. No es presumir: es demostrar que esto no es un capricho de esta mañana.
