@@ -114,14 +114,22 @@ lo libera.
 
 A veces no te falta empuje. Te sobra una fuga.
 
-## El depósito que se vacía solo
+## El depósito que nadie te rellena
 
 De los cinco, hay uno que se comporta distinto y merece un apartado propio: las opciones.
 
-Los otros cuatro se vacían por algo. Este se vacía por nada. Si no haces absolutamente nada, tus
-opciones bajan todos los meses, porque la gente que te conocía cambia de empresa, tu red envejece,
-y lo que se paga ahí fuera se mueve sin que tú te enteres. Es el único depósito con una fuga
-estructural.
+Los otros cuatro se rellenan solos, al menos en parte, mientras haces tu trabajo. Sacas adelante
+algo difícil y sube la capacidad. Lo dejas escrito y sube la evidencia. Cumples lo que dijiste y
+sube la confianza. Un mes que sale bien te devuelve energía. No hace falta que te acuerdes de
+ellos: van subiendo por debajo.
+
+Las opciones no. Nada de lo que hagas en tu puesto, por bien que lo hagas, añade una gota a ese
+depósito, porque ese se llena fuera y hablando con gente que no trabaja contigo. Y mientras tanto
+baja todos los meses sin que hagas nada, porque quien te conocía cambia de empresa, tu red
+envejece, y lo que se paga ahí fuera se mueve sin que tú te enteres.
+
+Baja solo, como la capacidad. La diferencia está en la otra mitad: la capacidad vuelve a subir
+mientras trabajas y las opciones no.
 
 Y es también el que más cambia la conversación de dentro, que es lo que a este libro le interesa.
 Deja que te enseñe las dos versiones, porque la diferencia no está donde la gente cree.

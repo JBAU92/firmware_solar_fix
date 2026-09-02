@@ -110,6 +110,23 @@ def _pal(s):
     s = unicodedata.normalize('NFD', s.lower())
     return re.findall(r'[a-z]+', ''.join(c for c in s if unicodedata.category(c) != 'Mn'))
 
+# El capítulo 5 llegó a afirmar que las opciones son el único depósito que se
+# vacía sin que hagas nada, cuando sus propias definiciones dicen que la
+# capacidad «se vacía sola con los años», la evidencia «cuando pasa el tiempo»
+# y la confianza «con el silencio». Se cuenta cuántos se vacían en pasivo y se
+# comprueba que el capítulo no le reclame la exclusiva a ninguno.
+PASIVO = r'\bsol[oa]\b|por defecto|sin que hagas nada|pasa el tiempo|el silencio|con los años'
+EXCLUSIVA = r'(?:el único depósito|los otros cuatro se vacían|se vacía por nada|'\
+            r'única con una fuga|el único con una fuga)'
+
+def depositos_pasivos(cuerpo):
+    """Depósitos cuya propia definición dice que se vacían sin que hagas nada."""
+    out = []
+    for m in re.finditer(r'\*\*(\w+)\.\*\*(.+?)(?=\n\n|\Z)', cuerpo, re.S):
+        v = m.group(2).split('se vacía', 1)
+        if len(v) == 2 and re.search(PASIVO, v[1]): out.append(m.group(1))
+    return out
+
 def _gramas(par, n):
     """n-gramas del párrafo, tapando los tramos ocupados por un estribillo:
     una frase repetida a propósito genera decenas de gramas solapados y hay
@@ -279,6 +296,14 @@ def check(path):
             if intrusos:
                 errs.append(f"TRÍADAS: «{etiqueta}» glosado con «{intrusos[0]}», "
                             f"que pertenece a la otra tríada")
+
+    # 4 quinquies · nadie tiene la exclusiva de vaciarse solo
+    if n == 5:
+        pas = depositos_pasivos(cuerpo)
+        m = re.search(EXCLUSIVA, cuerpo, re.I)
+        if m and len(pas) > 1:
+            errs.append(f"DEPÓSITOS: «{m.group(0)}» reclama una exclusiva, pero se "
+                        f"vacían en pasivo {len(pas)}: {', '.join(pas)}")
 
     # 4 quater · las fórmulas de franqueza no se apilan
     marcas = sorted((len(cuerpo[:m.start()].split()), m.group(0))
