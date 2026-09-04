@@ -14,7 +14,7 @@ OUT  = pathlib.Path(sys.argv[1] if len(sys.argv) > 1 else '/tmp')
 
 TITULO    = 'Nadie va a venir a elegirte'
 SUBTITULO = 'Cómo se decide quién asciende, y las siete cosas que ponen tu nombre encima de esa mesa'
-AUTOR     = 'NOMBRE DEL AUTOR'
+AUTOR     = 'Adrian K. Wells'
 ANIO      = '2026'
 
 # --------------------------------------------------------------- md → typst
@@ -242,8 +242,7 @@ PLANTILLA = r'''
   #set par(justify: false, first-line-indent: 0pt, leading: 0.62em, spacing: 0.62em)
   #TITULO \
   © #ANIO, #AUTOR \
-  Primera edición, #ANIO. \
-  ISBN:
+  Primera edición, #ANIO.
   #v(0.14in)
   Reservados todos los derechos. Queda prohibida la reproducción total o parcial de esta
   obra, por cualquier medio o procedimiento, sin la autorización escrita del titular de los
