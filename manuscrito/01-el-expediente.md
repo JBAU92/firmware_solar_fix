@@ -172,7 +172,7 @@ Con eso deciden. No porque sean vagos ni porque el sistema esté podrido, sino p
 que les han puesto delante.
 
 Y ahora la pregunta incómoda, que es el diagnóstico que te llevas de este capítulo. Si mañana se
-sentaran a hablar de ti, **¿qué tendrían encima de esa mesa aparte de tus números y la opinión de
+sentaran a hablar de ti, **¿qué tendrían encima de esa mesa aparte de tus números y lo que opine
 tu jefe?**
 
 Para la mayoría de la gente la respuesta honesta es «nada».

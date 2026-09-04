@@ -92,7 +92,7 @@ FRANQUEZA = [r'no te voy a (?:engañar|mentir|vender (?:humo|esa moto|la moto))'
 # en vacío sin decir nada, que es el fallo que una red no se puede permitir.
 ESTRIBILLOS = [
     # la pregunta central del libro, en negrita al cierre del 1 y del 4
-    'si manana se sentaran a hablar de ti que tendrian encima de esa mesa aparte de tus numeros y',
+    'si manana se sentaran a hablar de ti que tendrian encima de esa mesa aparte de tus numeros y lo que opine tu jefe',
     'numeros y lo que opine',
     'la respuesta honesta',
     # la tríada del capítulo 1, recuperada en el 12
