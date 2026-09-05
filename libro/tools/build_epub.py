@@ -323,6 +323,17 @@ def construir(salida, portada=None):
         tipo = 'image/png' if portada.suffix.lower() == '.png' else 'image/jpeg'
         manif.append(f'<item id="cover-image" href="{portada.name}" '
                      f'media-type="{tipo}" properties="cover-image"/>')
+    # El <guide> está deprecado en EPUB 3 —lo sustituyen los landmarks del
+    # nav— pero el convertidor de Amazon lo sigue leyendo, y es de donde saca
+    # la «posición de inicio de lectura»: el punto en el que se abre el libro
+    # la primera vez y en el que arranca la muestra gratuita. Sin él, KDP avisa
+    # de que no está fijada y el lector puede estrenar el libro en los créditos.
+    ref = ['<reference type="text" title="Comienzo" href="%s"/>' % caps[0][0],
+           '<reference type="toc" title="Índice" href="indice.xhtml"/>']
+    if portada:
+        ref.insert(0, '<reference type="cover" title="Portada" '
+                      'href="portada.xhtml"/>')
+    guia = chr(10).join(ref)
     ahora = datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
     apellido = AUTOR.rsplit(' ', 1)[-1] + ', ' + AUTOR.rsplit(' ', 1)[0]
     opf = f'''<?xml version="1.0" encoding="utf-8"?>
@@ -348,6 +359,9 @@ def construir(salida, portada=None):
 <spine toc="ncx">
 {chr(10).join(f'<itemref idref="{ident(d)}"/>' for d in orden)}
 </spine>
+<guide>
+{guia}
+</guide>
 </package>
 '''
 

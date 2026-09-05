@@ -97,6 +97,27 @@ def revisar(ruta):
     if ncx_id and ncx_id not in items:
         mal('el spine declara un toc.ncx que no está en el manifiesto')
 
+    # De aquí saca Kindle la «posición de inicio de lectura»: dónde se abre el
+    # libro la primera vez y dónde arranca la muestra gratuita. Si falta, KDP lo
+    # avisa y el lector puede estrenar el libro en la página de créditos.
+    arranque = None
+    guia = opf.find('opf:guide', NS)
+    if guia is None:
+        mal('falta el <guide>: Kindle no sabrá dónde abrir el libro')
+    else:
+        refs = {r.get('type'): r.get('href') for r in guia.findall('opf:reference', NS)}
+        arranque = refs.get('text')
+        if not arranque:
+            mal('el <guide> no trae reference type="text", que es la posición '
+                'de inicio de lectura')
+        for t, h in refs.items():
+            if h and ruta_de(h.split('#')[0]) not in nombres:
+                mal(f'el <guide> apunta a «{h}» ({t}), que no está en el zip')
+        if arranque and ('creditos' in arranque or 'portadilla' in arranque
+                         or 'indice' in arranque):
+            ojo(f'el libro se abriría en «{arranque}»; debería abrirse en el '
+                f'primer texto que se lee')
+
     # --- 3. cada documento, bien formado, y sus enlaces
     docs = [ruta_de(items[r]) for r in lomo if r in items]
     for i, h in items.items():
@@ -161,7 +182,7 @@ def revisar(ruta):
 
     if total_md and abs(total_ep - total_md) > total_md * 0.01:
         ojo(f'{total_md} palabras en el manuscrito y {total_ep} en el EPUB')
-    return dict(secciones=len(docs), palabras=total_ep, origen=total_md, tablas=tablas_ep,
+    return dict(arranque=arranque, secciones=len(docs), palabras=total_ep, origen=total_md, tablas=tablas_ep,
                 capitulos=h1_md, peso=pathlib.Path(ruta).stat().st_size)
 
 def main():
@@ -171,7 +192,7 @@ def main():
     if r:
         print(f"{r['secciones']} secciones · {r['capitulos']} capítulos · "
               f"{r['palabras']:,} palabras (manuscrito: {r['origen']:,}) · "
-              f"{r['tablas']} tablas · "
+              f"{r['tablas']} tablas · abre en {r['arranque']} · "
               f"{r['peso']/1024:.0f} KB".replace(',', '.'))
     for a in avisos: print('aviso  ' + a)
     for f in fallos: print('FALLO  ' + f)

@@ -86,6 +86,14 @@ Aviso sobre cómo comprobarlo: Chromium en modo *headless* **maqueta a 500 px au
 perfectamente encajada. Para verlo de verdad hay que meter el contenido en un contenedor de
 ancho fijo y hacer que la propia página escriba su anchura dentro de la captura.
 
+### La posición de inicio de lectura
+
+Es dónde se abre el libro la primera vez y dónde arranca la muestra gratuita que la gente se
+envía antes de comprar. Kindle la saca del `<guide>` del OPF, que EPUB 3 tiene deprecado
+—lo sustituyen los *landmarks* del `nav`— pero que el convertidor de Amazon sigue leyendo.
+Sin él, KDP avisa en la página de promoción de que no está fijada y el lector puede estrenar
+el libro en la página de créditos. Va al prólogo.
+
 ## `check_epub.py` — la red del EPUB
 
 ```bash
