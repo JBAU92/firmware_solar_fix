@@ -98,6 +98,14 @@ libro también enseña a elegir cuál subir, o a no subir ninguna.
 
 ---
 
+## Después de escribirlo
+
+[conocimiento/](conocimiento/) — **lo que aprendimos escribiendo, componiendo y publicando el
+libro 1.** Las redes de verificación, el catálogo de fallos con su causa y su arreglo, las trampas
+de la composición para KDP y todo lo del lanzamiento. Este dossier es lo que sabíamos antes; eso es
+lo que costó averiguar después. Para empezar el libro 2, leer primero
+[conocimiento/03-fallos.md](conocimiento/03-fallos.md).
+
 ---
 
 *Historial completo de decisiones: [HISTORIAL.md](HISTORIAL.md) · Material apartado:
